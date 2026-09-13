@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-13T12:59:37.701076+00:00",
+  "updated_utc": "2026-09-13T13:15:33.542555+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Fed rate hike is about Wall Street, not inflation, says economist",
+      "link": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
+      "published": "Sun, 13 Sep 2026 13:00:00 +0000",
+      "ts": 1789304400
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
+      "link": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
+      "published": "Sun, 13 Sep 2026 13:00:00 +0000",
+      "ts": 1789304400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The price of almost everything on your dinner table is climbing at once — and Wall Street is taking notice",
+      "link": "https://www.marketwatch.com/story/the-price-of-almost-everything-on-your-dinner-table-is-climbing-at-once-and-wall-street-is-taking-notice-9623d1fc?mod=mw_rss_topstories",
+      "published": "Sun, 13 Sep 2026 13:00:00 GMT",
+      "ts": 1789304400
+    },
     {
       "source": "MarketWatch",
       "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
@@ -123,13 +144,6 @@
       "ts": 1789228800
     },
     {
-      "source": "CoinDesk",
-      "title": "Ditching bonds for bitcoin: How crypto can tackle the AI-heavy portfolio dilemma",
-      "link": "https://www.coindesk.com/business/2026/09/12/ditching-bonds-for-bitcoin-how-crypto-can-tackle-the-ai-heavy-portfolio-dilemma",
-      "published": "Sat, 12 Sep 2026 16:00:00 +0000",
-      "ts": 1789228800
-    },
-    {
       "source": "Cointelegraph",
       "title": "Farage’s Reform UK gets $97M from two crypto billionaires",
       "link": "https://cointelegraph.com/news/farages-reform-uk-gets-biggest-donation-ever-from-crypto-billionaire-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -158,25 +172,11 @@
       "ts": 1789221660
     },
     {
-      "source": "CoinDesk",
-      "title": "Staked ether should be seen as the benchmark of the decentralized economy",
-      "link": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
-      "published": "Sat, 12 Sep 2026 14:00:00 +0000",
-      "ts": 1789221600
-    },
-    {
       "source": "MarketWatch",
       "title": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Could this backfire?",
       "link": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
       "published": "Sat, 12 Sep 2026 13:00:00 GMT",
       "ts": 1789218000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Zscaler (ZS)’s Depressed Stock Opportunity Or Warning? Answer May Lie in Emerging AI Security Business",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zscaler-zs-depressed-stock-opportunity-114031388.html",
-      "published": "2026-09-12T11:40:31Z",
-      "ts": 1789213231
     },
     {
       "source": "Yahoo Finance",
@@ -194,24 +194,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dlocal's 2026 Outlook: Soaring Total Payment Volume Meets a Reasonable Valuation",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dlocals-2026-outlook-soaring-total-113508200.html",
-      "published": "2026-09-12T11:35:08Z",
-      "ts": 1789212908
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why Grab Stock Sank This Week",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-grab-stock-sank-week-113500686.html",
-      "published": "2026-09-12T11:35:00Z",
-      "ts": 1789212900
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Jim Cramer Calls Applied Materials (AMAT) a Long-Term Buy",
       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-applied-materials-113036796.html",
       "published": "2026-09-12T11:30:36Z",
       "ts": 1789212636
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Boards were built for a vertical world. Risk has gone horizontal",
+      "link": "https://finance.yahoo.com/small-business/articles/boards-were-built-vertical-world-113000791.html",
+      "published": "2026-09-12T11:30:00Z",
+      "ts": 1789212600
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "AI Data Centers Are on Track to Fuel ‘Explosive’ Growth in Captive Insurance",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-data-centers-track-fuel-113000003.html",
+      "published": "2026-09-12T11:30:00Z",
+      "ts": 1789212600
     },
     {
       "source": "Yahoo Finance",
@@ -228,6 +228,13 @@
       "ts": 1789212202
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Said Robinhood Markets (NASDAQ:HOOD) Just Keeps On Growing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-robinhood-markets-112158281.html",
+      "published": "2026-09-12T11:21:58Z",
+      "ts": 1789212118
+    },
+    {
       "source": "Investing Crypto",
       "title": "Bitcoin struggles above $77,000 as rising exchange reserves weigh on sentiment",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-77000-as-rising-exchange-reserves-weigh-on-sentiment-4898643",
@@ -240,13 +247,6 @@
       "link": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
       "published": "Fri, 11 Sep 2026 23:54:00 GMT",
       "ts": 1789170840
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
-      "link": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
-      "published": "Fri, 11 Sep 2026 22:06:00 GMT",
-      "ts": 1789164360
     },
     {
       "source": "Investing Crypto",
