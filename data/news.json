@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-13T22:53:23.577872+00:00",
+  "updated_utc": "2026-09-13T23:03:52.211096+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -7,8 +7,15 @@
       "source": "Yahoo Finance",
       "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-      "published": "2026-09-13T22:35:12Z",
-      "ts": 1789338912
+      "published": "2026-09-13T22:48:01Z",
+      "ts": 1789339681
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin little changed at $77k as rate pressure clashes with diversification case",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-77200-as-rate-pressure-clashes-with-diversification-case-4898694",
+      "published": "2026-09-13 21:59:53",
+      "ts": 1789336793
     },
     {
       "source": "MarketWatch",
@@ -163,13 +170,6 @@
       "link": "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 13 Sep 2026 09:27:21 +0000",
       "ts": 1789291641
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin slips below $77,000 as rate pressure clashes with diversification case",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-77200-as-rate-pressure-clashes-with-diversification-case-4898694",
-      "published": "2026-09-13 09:26:43",
-      "ts": 1789291603
     },
     {
       "source": "Investing Forex",
