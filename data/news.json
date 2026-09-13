@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-13T18:57:17.426675+00:00",
+  "updated_utc": "2026-09-13T19:10:13.942990+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
+      "link": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
+      "published": "Sun, 13 Sep 2026 19:00:00 GMT",
+      "ts": 1789326000
+    },
     {
       "source": "CoinDesk",
       "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
@@ -177,13 +184,6 @@
       "link": "https://www.investing.com/news/forex-news/eurusd-could-retest-117-after-fed-decision--citi-says-4898692",
       "published": "2026-09-12 22:52:48",
       "ts": 1789253568
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year",
-      "link": "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories",
-      "published": "Sat, 12 Sep 2026 21:50:00 GMT",
-      "ts": 1789249800
     },
     {
       "source": "CoinDesk",
