@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-13T12:37:12.024294+00:00",
+  "updated_utc": "2026-09-13T12:50:40.631443+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+      "published": "Sun, 13 Sep 2026 12:40:00 GMT",
+      "ts": 1789303200
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
@@ -109,13 +116,6 @@
       "ts": 1789229309
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
-      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-      "published": "Sat, 12 Sep 2026 16:01:00 GMT",
-      "ts": 1789228860
-    },
-    {
       "source": "CoinDesk",
       "title": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
       "link": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
@@ -173,6 +173,48 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Perma-Pipe’s (PPIH) Middle East Bet Just Got A Lot More Real",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/perma-pipe-ppih-middle-east-113634120.html",
+      "published": "2026-09-12T11:36:34Z",
+      "ts": 1789212994
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Eli Lilly’s (LLY) GLP-1 Growth Made It a Core “Running Back” Stock for Jim Cramer",
+      "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-glp-1-113520085.html",
+      "published": "2026-09-12T11:35:20Z",
+      "ts": 1789212920
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Calls Applied Materials (AMAT) a Long-Term Buy",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-applied-materials-113036796.html",
+      "published": "2026-09-12T11:30:36Z",
+      "ts": 1789212636
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Boards were built for a vertical world. Risk has gone horizontal",
+      "link": "https://finance.yahoo.com/small-business/articles/boards-were-built-vertical-world-113000791.html",
+      "published": "2026-09-12T11:30:00Z",
+      "ts": 1789212600
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "AI Data Centers Are on Track to Fuel ‘Explosive’ Growth in Captive Insurance",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-data-centers-track-fuel-113000003.html",
+      "published": "2026-09-12T11:30:00Z",
+      "ts": 1789212600
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Flags Casey’s (CASY) as a Warning Sign for Consumer Spending",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-flags-casey-casy-112905987.html",
+      "published": "2026-09-12T11:29:05Z",
+      "ts": 1789212545
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Jim Cramer Dismisses Grab Holdings (GRAB) as a $3 Spec",
       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-dismisses-grab-holdings-112322124.html",
       "published": "2026-09-12T11:23:22Z",
@@ -184,48 +226,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-robinhood-markets-112158281.html",
       "published": "2026-09-12T11:21:58Z",
       "ts": 1789212118
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why Braze Stock Plummeted This Week",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-braze-stock-plummeted-week-112000830.html",
-      "published": "2026-09-12T11:20:00Z",
-      "ts": 1789212000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Oracle Just Added $30 Billion in AI Contracts. Nvidia Investors Should Read the Fine Print",
-      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-just-added-30-billion-111550996.html",
-      "published": "2026-09-12T11:15:50Z",
-      "ts": 1789211750
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "My mortgage payment is eating most of my paycheck – here’s what Dave Ramsey told me to do",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mortgage-payment-eating-most-paycheck-131641120.html",
-      "published": "2026-09-12T11:15:09Z",
-      "ts": 1789211709
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Tim Cook warns of US crisis: ‘I’ve never seen anything like it’ and Musk agrees. Shockproof your hard cash today",
-      "link": "https://finance.yahoo.com/economy/articles/tim-cook-warns-us-crisis-111500350.html",
-      "published": "2026-09-12T11:15:00Z",
-      "ts": 1789211700
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Discusses Adobe Inc. (NASDAQ:ADBE) & “False” Cuts",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-adobe-inc-111253006.html",
-      "published": "2026-09-12T11:12:53Z",
-      "ts": 1789211573
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Prefers Nucor (NUE) Over Reliance (RS)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-prefers-nucor-nue-111230650.html",
-      "published": "2026-09-12T11:12:30Z",
-      "ts": 1789211550
     },
     {
       "source": "Investing Crypto",
