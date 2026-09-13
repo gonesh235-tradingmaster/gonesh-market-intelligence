@@ -634,3 +634,17 @@ a:hover {
     gap: var(--space-lg);
   }
 }
+/* ============================================
+   TRADINGVIEW TICKER
+   ============================================ */
+
+.ticker-wrap {
+  background: var(--bg-card);
+  border-bottom: 1px solid var(--border-subtle);
+  padding: 4px 0;
+  overflow: hidden;
+}
+
+.ticker-wrap .tradingview-widget-container {
+  height: 46px;
+}
