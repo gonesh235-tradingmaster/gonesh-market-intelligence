@@ -20,11 +20,17 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Install dependencies
+        run: pip install feedparser
+
       - name: Fetch NIFTY data
         run: python scripts/fetch_nifty.py
 
       - name: Fetch BTC data
         run: python scripts/fetch_btc.py
+
+      - name: Fetch News
+        run: python scripts/fetch_news.py
 
       - name: Compute Global Mood
         run: python scripts/compute_mood.py
