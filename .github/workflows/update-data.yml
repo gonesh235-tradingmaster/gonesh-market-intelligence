@@ -26,6 +26,9 @@ jobs:
       - name: Fetch BTC data
         run: python scripts/fetch_btc.py
 
+      - name: Compute Global Mood
+        run: python scripts/compute_mood.py
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
