@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-13T20:42:53.144982+00:00",
+  "updated_utc": "2026-09-13T20:52:09.635123+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -9,6 +9,13 @@
       "link": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories",
       "published": "Sun, 13 Sep 2026 20:40:00 GMT",
       "ts": 1789332000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures: Will Anthropic-Led Call For Slowdown Hit AI Stocks? Fed Meeting Aheadan, SpaceX's Musk Call For AI Slowdown",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+      "published": "2026-09-13T20:33:39Z",
+      "ts": 1789331619
     },
     {
       "source": "MarketWatch",
@@ -23,13 +30,6 @@
       "link": "https://www.marketwatch.com/story/how-to-trade-a-well-paying-job-for-more-work-life-balance-without-going-broke-794de555?mod=mw_rss_topstories",
       "published": "Sun, 13 Sep 2026 20:17:00 GMT",
       "ts": 1789330620
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: AI Stocks In Focus As Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-      "published": "2026-09-13T20:06:05Z",
-      "ts": 1789329965
     },
     {
       "source": "Yahoo Finance",
