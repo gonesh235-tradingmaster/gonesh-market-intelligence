@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-13T14:38:48.881899+00:00",
+  "updated_utc": "2026-09-13T14:48:20.440837+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -187,6 +187,27 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Dan Loeb’s Third Point Increased Its Reported Hut 8 Stake and Disclosed Riot Debt Exposure",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dan-loeb-third-point-increased-132101919.html",
+      "published": "2026-09-12T13:21:01Z",
+      "ts": 1789219261
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Netskope’s (NTSK) AI Security Push Is Already Paying Off",
+      "link": "https://finance.yahoo.com/technology/ai/articles/netskope-ntsk-ai-security-push-131420161.html",
+      "published": "2026-09-12T13:14:20Z",
+      "ts": 1789218860
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "5 REITs That Turn Long-Term Leases Into Reliable Dividend Income",
+      "link": "https://finance.yahoo.com/real-estate/articles/5-reits-turn-long-term-131213401.html",
+      "published": "2026-09-12T13:12:13Z",
+      "ts": 1789218733
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "NVIDIA and Digital Realty’s Flexible AI Factory Faces a Test That More Funding Alone Can’t Solve",
       "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-digital-realty-flexible-ai-131211843.html",
       "published": "2026-09-12T13:12:11Z",
@@ -194,10 +215,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Prediction: This Tech Giant Could Be Worth Twice as Much by 2030",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-tech-giant-could-worth-130027388.html",
-      "published": "2026-09-12T13:00:27Z",
-      "ts": 1789218027
+      "title": "Some Dividend Growth ETFs Are Beating the Broad Market -- Is It Sustainable?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-growth-etfs-beating-broad-130500806.html",
+      "published": "2026-09-12T13:05:00Z",
+      "ts": 1789218300
     },
     {
       "source": "Yahoo Finance",
@@ -219,27 +240,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/ray-dalio-bloomberg-analysts-reveal-130000521.html",
       "published": "2026-09-12T13:00:00Z",
       "ts": 1789218000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "5 easy ways US boomers fry their nest egg and retire poor (even with big savings) — are you making the same mistakes?",
-      "link": "https://finance.yahoo.com/small-business/articles/5-easy-ways-us-boomers-124500767.html",
-      "published": "2026-09-12T12:45:00Z",
-      "ts": 1789217100
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Destination XL’s (DXLG) Profit Surge Can’t Outrun Its Traffic Problem",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/destination-xl-dxlg-profit-surge-124327339.html",
-      "published": "2026-09-12T12:43:27Z",
-      "ts": 1789217007
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why Cathie Wood Is Selling Google and Buying More Meta Platforms Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-cathie-wood-selling-google-124304062.html",
-      "published": "2026-09-12T12:43:04Z",
-      "ts": 1789216984
     },
     {
       "source": "Investing Crypto",
