@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-13T12:00:33.864602+00:00",
+  "updated_utc": "2026-09-13T12:21:33.490738+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
+      "published": "Sun, 13 Sep 2026 12:00:00 +0000",
+      "ts": 1789300800
+    },
     {
       "source": "Cointelegraph",
       "title": "Anthropic chief urges slowdown in AI development to safer pace",
@@ -166,24 +173,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer on Why Marvell (MRVL) Plunged",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-why-marvell-mrvl-110613884.html",
-      "published": "2026-09-12T11:06:13Z",
-      "ts": 1789211173
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "$5K Trump check? Peanuts. White House has even bigger, more realistic idea: $9K/year for US families. See who qualifies",
       "link": "https://finance.yahoo.com/economy/policy/articles/5k-trump-check-peanuts-white-110500118.html",
       "published": "2026-09-12T11:05:00Z",
       "ts": 1789211100
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "MoneyGram Launched a Visa Card That Spends USDC. Ripple’s Former Partner Chose Circle",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/moneygram-launched-visa-card-spends-110414409.html",
-      "published": "2026-09-12T11:04:14Z",
-      "ts": 1789211054
     },
     {
       "source": "Yahoo Finance",
@@ -194,6 +187,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Ford Vs General Motors – Here’s What Jim Cramer Said",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ford-vs-general-motors-jim-110011104.html",
+      "published": "2026-09-12T11:00:11Z",
+      "ts": 1789210811
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Energy Markets Signal Winter Crisis and Rising Interest Rates",
+      "link": "https://finance.yahoo.com/energy/articles/energy-markets-signal-winter-crisis-110002366.html",
+      "published": "2026-09-12T11:00:02Z",
+      "ts": 1789210802
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Billionaire Ray Dalio says money has no value — unless you consider 1 key thing",
       "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-ray-dalio-says-money-110000179.html",
       "published": "2026-09-12T11:00:00Z",
@@ -201,31 +208,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer Wondered Whether Microsoft Corporation (NASDAQ:MSFT) Isn’t “That” Dependent On AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-wondered-whether-microsoft-105632101.html",
-      "published": "2026-09-12T10:56:32Z",
-      "ts": 1789210592
+      "title": "MarketBeat Week in Review – 09/07 - 09/11",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-09-07-110000028.html",
+      "published": "2026-09-12T11:00:00Z",
+      "ts": 1789210800
     },
     {
       "source": "Yahoo Finance",
-      "title": "Wall Street’s Tokenized Stock Rush Is Getting Messy",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/wall-street-tokenized-stock-rush-105631993.html",
-      "published": "2026-09-12T10:56:31Z",
-      "ts": 1789210591
+      "title": "Jim Cramer Couldn’t Blame Anyone Who Held These Two Elon Musk Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-couldn-t-blame-105852649.html",
+      "published": "2026-09-12T10:58:52Z",
+      "ts": 1789210732
     },
     {
       "source": "Yahoo Finance",
-      "title": "Jim Cramer Believes This Stock’s AI Products Have “Really Taken Off”",
-      "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-believes-stock-ai-105622520.html",
-      "published": "2026-09-12T10:56:22Z",
-      "ts": 1789210582
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
-      "link": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
-      "published": "Sat, 12 Sep 2026 10:11:01 +0000",
-      "ts": 1789207861
+      "title": "Jim Cramer Compares Dell (DELL) to Dallas Cowboys Star CeeDee Lamb",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-compares-dell-dell-105814659.html",
+      "published": "2026-09-12T10:58:14Z",
+      "ts": 1789210694
     },
     {
       "source": "Investing Crypto",
