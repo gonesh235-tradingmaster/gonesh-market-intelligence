@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-13T13:15:33.542555+00:00",
+  "updated_utc": "2026-09-13T13:27:51.980040+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Could this backfire?",
+      "link": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
+      "published": "Sun, 13 Sep 2026 13:15:00 GMT",
+      "ts": 1789305300
+    },
     {
       "source": "CoinDesk",
       "title": "Fed rate hike is about Wall Street, not inflation, says economist",
@@ -172,11 +179,18 @@
       "ts": 1789221660
     },
     {
-      "source": "MarketWatch",
-      "title": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Could this backfire?",
-      "link": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
-      "published": "Sat, 12 Sep 2026 13:00:00 GMT",
-      "ts": 1789218000
+      "source": "Yahoo Finance",
+      "title": "Caleres (CAL) Stock Lags Behind Its Brand Portfolio’s Surge",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/caleres-cal-stock-lags-behind-115147339.html",
+      "published": "2026-09-12T11:51:47Z",
+      "ts": 1789213907
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is Zscaler (ZS)’s Depressed Stock Opportunity Or Warning? Answer May Lie in Emerging AI Security Business",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zscaler-zs-depressed-stock-opportunity-114031388.html",
+      "published": "2026-09-12T11:40:31Z",
+      "ts": 1789213231
     },
     {
       "source": "Yahoo Finance",
@@ -194,6 +208,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Why Grab Stock Sank This Week",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-grab-stock-sank-week-113500686.html",
+      "published": "2026-09-12T11:35:00Z",
+      "ts": 1789212900
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Where Will Micron Be in 10 Years?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/where-micron-10-years-113500590.html",
+      "published": "2026-09-12T11:35:00Z",
+      "ts": 1789212900
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Jim Cramer Calls Applied Materials (AMAT) a Long-Term Buy",
       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-applied-materials-113036796.html",
       "published": "2026-09-12T11:30:36Z",
@@ -201,38 +229,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Boards were built for a vertical world. Risk has gone horizontal",
-      "link": "https://finance.yahoo.com/small-business/articles/boards-were-built-vertical-world-113000791.html",
-      "published": "2026-09-12T11:30:00Z",
-      "ts": 1789212600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AI Data Centers Are on Track to Fuel ‘Explosive’ Growth in Captive Insurance",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-data-centers-track-fuel-113000003.html",
-      "published": "2026-09-12T11:30:00Z",
-      "ts": 1789212600
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Jim Cramer Flags Casey’s (CASY) as a Warning Sign for Consumer Spending",
       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-flags-casey-casy-112905987.html",
       "published": "2026-09-12T11:29:05Z",
       "ts": 1789212545
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Dismisses Grab Holdings (GRAB) as a $3 Spec",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-dismisses-grab-holdings-112322124.html",
-      "published": "2026-09-12T11:23:22Z",
-      "ts": 1789212202
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Said Robinhood Markets (NASDAQ:HOOD) Just Keeps On Growing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-robinhood-markets-112158281.html",
-      "published": "2026-09-12T11:21:58Z",
-      "ts": 1789212118
     },
     {
       "source": "Investing Crypto",
