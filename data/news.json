@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-13T18:33:24.109168+00:00",
+  "updated_utc": "2026-09-13T18:46:41.445438+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
+      "published": "Sun, 13 Sep 2026 18:45:08 +0000",
+      "ts": 1789325108
+    },
     {
       "source": "Yahoo Finance",
       "title": "Dow Jones Futures: Fed Meeting Ahead; Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown",
@@ -198,13 +205,6 @@
       "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
       "published": "Sat, 12 Sep 2026 18:51:04 +0000",
       "ts": 1789239064
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Anthropic CEO calls for AI race to slow down citing safety. Musk and OpenAI's Altman agrees",
-      "link": "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees",
-      "published": "Sat, 12 Sep 2026 18:43:33 +0000",
-      "ts": 1789238613
     },
     {
       "source": "Yahoo Finance",
