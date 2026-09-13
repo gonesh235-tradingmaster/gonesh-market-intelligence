@@ -1,14 +1,21 @@
 {
-  "updated_utc": "2026-09-13T20:17:16.358209+00:00",
+  "updated_utc": "2026-09-13T20:30:50.682169+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
+      "source": "MarketWatch",
+      "title": "How to trade a well-paying job for more work-life balance — without going broke",
+      "link": "https://www.marketwatch.com/story/how-to-trade-a-well-paying-job-for-more-work-life-balance-without-going-broke-794de555?mod=mw_rss_topstories",
+      "published": "Sun, 13 Sep 2026 20:17:00 GMT",
+      "ts": 1789330620
+    },
+    {
       "source": "Yahoo Finance",
       "title": "Dow Jones Futures: AI Stocks In Focus As Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-      "published": "2026-09-13T19:59:33Z",
-      "ts": 1789329573
+      "published": "2026-09-13T20:06:05Z",
+      "ts": 1789329965
     },
     {
       "source": "Yahoo Finance",
@@ -123,13 +130,6 @@
       "ts": 1789308000
     },
     {
-      "source": "MarketWatch",
-      "title": "Corporate profit forecasts are topping expectations to an unusual degree. AI is a big reason why.",
-      "link": "https://www.marketwatch.com/story/corporate-profit-forecasts-are-topping-expectations-to-an-unusual-degree-ai-is-a-big-reason-why-50245409?mod=mw_rss_topstories",
-      "published": "Sun, 13 Sep 2026 14:00:00 GMT",
-      "ts": 1789308000
-    },
-    {
       "source": "CoinDesk",
       "title": "Fed rate hike is about Wall Street, not inflation, says economist",
       "link": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
@@ -186,6 +186,13 @@
       "ts": 1789253568
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Jewelry chain closes 53 stores after shutting down 2 brands",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jewelry-chain-closes-53-stores-213700154.html",
+      "published": "2026-09-12T21:37:00Z",
+      "ts": 1789249020
+    },
+    {
       "source": "CoinDesk",
       "title": "OpenAI IPO won't happen this year, says Sam Altman",
       "link": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
@@ -233,13 +240,6 @@
       "link": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 12 Sep 2026 15:12:40 +0000",
       "ts": 1789225960
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Morgan Stanley delivers blunt message to America’s pet owners",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-delivers-blunt-message-143700482.html",
-      "published": "2026-09-12T14:37:00Z",
-      "ts": 1789223820
     },
     {
       "source": "Investing Crypto",
