@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-13T15:12:15.948107+00:00",
+  "updated_utc": "2026-09-13T15:26:01.698549+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "IPO Delayed: Sam Altman Says an OpenAI Going Public in 2026 Would Be ‘Ill-Advised’",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ipo-delayed-sam-altman-says-150828134.html",
+      "published": "2026-09-13T15:08:28Z",
+      "ts": 1789312108
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "HSBC raises its oil forecast as the Hormuz backup plan burns",
+      "link": "https://finance.yahoo.com/energy/articles/hsbc-raises-oil-forecast-hormuz-150700300.html",
+      "published": "2026-09-13T15:07:00Z",
+      "ts": 1789312020
+    },
     {
       "source": "MarketWatch",
       "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
@@ -16,20 +30,6 @@
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
       "published": "2026-09-13T14:52:36Z",
       "ts": 1789311156
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Where Will XRP Be in 3 Years?",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/where-xrp-3-years-145100536.html",
-      "published": "2026-09-13T14:51:00Z",
-      "ts": 1789311060
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "She Inherited Her Father’s $400,000 401(k). One Direct Rollover Turned It Into a Roth She’ll Never Owe Tax On Again, a Door That’s Locked Shut If He’d Left the Money in an IRA",
-      "link": "https://finance.yahoo.com/markets/options/articles/she-inherited-her-father-400-144750128.html",
-      "published": "2026-09-13T14:47:50Z",
-      "ts": 1789310870
     },
     {
       "source": "MarketWatch",
