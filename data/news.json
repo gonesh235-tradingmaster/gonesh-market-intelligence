@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-13T23:50:07.578945+00:00",
+  "updated_utc": "2026-09-13T23:59:16.037852+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+      "published": "2026-09-13T23:48:04Z",
+      "ts": 1789343284
+    },
     {
       "source": "Yahoo Finance",
       "title": "Trump Urges Federal Reserve To Cut Rates As Market Bets On Warsh Hike",
@@ -12,10 +19,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-      "published": "2026-09-13T23:33:51Z",
-      "ts": 1789342431
+      "title": "StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes",
+      "link": "https://finance.yahoo.com/energy/articles/stanchart-warns-oil-now-built-230000074.html",
+      "published": "2026-09-13T23:00:00Z",
+      "ts": 1789340400
     },
     {
       "source": "Investing Crypto",
@@ -86,13 +93,6 @@
       "link": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
       "published": "Sun, 13 Sep 2026 19:55:00 GMT",
       "ts": 1789329300
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "DraftKings and Flutter Jump After Court Rules Prediction Markets Are Gambling, Not Federally Regulated Trading",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/draftkings-flutter-jump-court-rules-194622553.html",
-      "published": "2026-09-13T19:46:22Z",
-      "ts": 1789328782
     },
     {
       "source": "Investing Crypto",
