@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-13T13:49:08.460139+00:00",
+  "updated_utc": "2026-09-13T13:57:57.714496+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -180,6 +180,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "5 easy ways US boomers fry their nest egg and retire poor (even with big savings) — are you making the same mistakes?",
+      "link": "https://finance.yahoo.com/small-business/articles/5-easy-ways-us-boomers-124500767.html",
+      "published": "2026-09-12T12:45:00Z",
+      "ts": 1789217100
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Destination XL’s (DXLG) Profit Surge Can’t Outrun Its Traffic Problem",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/destination-xl-dxlg-profit-surge-124327339.html",
+      "published": "2026-09-12T12:43:27Z",
+      "ts": 1789217007
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Why Cathie Wood Is Selling Google and Buying More Meta Platforms Stock",
       "link": "https://finance.yahoo.com/markets/stocks/articles/why-cathie-wood-selling-google-124304062.html",
       "published": "2026-09-12T12:43:04Z",
@@ -208,31 +222,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "4 Vanguard Funds With Rock-Bottom Fees That Do Most of the Work for You",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/4-vanguard-funds-rock-bottom-120016434.html",
-      "published": "2026-09-12T12:00:16Z",
-      "ts": 1789214416
+      "title": "American Eagle Goes on Sale: Is It Time to Buy?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/american-eagle-goes-sale-time-120500748.html",
+      "published": "2026-09-12T12:05:00Z",
+      "ts": 1789214700
     },
     {
       "source": "Yahoo Finance",
-      "title": "The ghost cartel — your pricing algorithm may have stopped competing without your knowledge",
-      "link": "https://finance.yahoo.com/economy/policy/articles/ghost-cartel-pricing-algorithm-may-120000017.html",
-      "published": "2026-09-12T12:00:00Z",
-      "ts": 1789214400
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Caleres (CAL) Stock Lags Behind Its Brand Portfolio’s Surge",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/caleres-cal-stock-lags-behind-115147339.html",
-      "published": "2026-09-12T11:51:47Z",
-      "ts": 1789213907
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Zscaler (ZS)’s Depressed Stock Opportunity Or Warning? Answer May Lie in Emerging AI Security Business",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zscaler-zs-depressed-stock-opportunity-114031388.html",
-      "published": "2026-09-12T11:40:31Z",
-      "ts": 1789213231
+      "title": "HPE's $7.6 Billion AI Backlog Is Waiting on Memory Supply to Catch Up",
+      "link": "https://finance.yahoo.com/technology/ai/articles/hpes-7-6-billion-ai-120500959.html",
+      "published": "2026-09-12T12:05:00Z",
+      "ts": 1789214700
     },
     {
       "source": "Investing Crypto",
