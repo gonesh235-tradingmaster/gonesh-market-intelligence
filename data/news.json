@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-13T19:22:35.550414+00:00",
+  "updated_utc": "2026-09-13T19:32:21.880966+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Nvidia (NVDA) Looks Cheap on Piper’s Forecasts, but the Earnings Assumptions Are the Real Test",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-looks-cheap-piper-191328167.html",
+      "published": "2026-09-13T19:13:28Z",
+      "ts": 1789326808
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Intel (INTC) Is Winning From the CPU Shortage, but Its Foundry Valuation Needs More Proof",
+      "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-winning-cpu-shortage-191052125.html",
+      "published": "2026-09-13T19:10:52Z",
+      "ts": 1789326652
+    },
     {
       "source": "Yahoo Finance",
       "title": "Dow Jones Futures: Fed Meeting Ahead; Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown",
@@ -51,20 +65,6 @@
       "link": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
       "published": "Sun, 13 Sep 2026 17:00:00 +0000",
       "ts": 1789318800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AMD and Intel’s Shared AI Instructions Reach GCC. Can Software Cooperation Strengthen Both Stocks?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/amd-intel-shared-ai-instructions-165917161.html",
-      "published": "2026-09-13T16:59:17Z",
-      "ts": 1789318757
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Suggests Waiting for a Lower Entry on Howmet Aerospace (HWM)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-waiting-lower-165503524.html",
-      "published": "2026-09-13T16:55:03Z",
-      "ts": 1789318503
     },
     {
       "source": "Cointelegraph",
