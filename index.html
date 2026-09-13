@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#0e1117">
+  <title>GONESH Market Intelligence</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Desktop Top Nav -->
+  <nav class="top-nav">
+    <span class="top-nav-brand">GONESH MI</span>
+    <a href="index.html" class="active">HOME</a>
+    <a href="nifty.html">NIFTY</a>
+    <a href="btc.html">BTC</a>
+  </nav>
+
+  <!-- Header -->
+  <header class="app-header">
+    <div class="app-title">GONESH MARKET INTELLIGENCE</div>
+    <div class="app-subtitle">Global Market Intelligence</div>
+    <div class="app-meta">
+      <span>Last Updated: <span id="last-updated">—</span></span>
+      <span id="global-freshness-header">—</span>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <!-- Global Market Mood -->
+    <section class="section">
+      <div class="section-title">Global Market Mood</div>
+
+      <div class="card">
+        <div id="global-mood-content">
+          <div class="loading">Loading global mood...</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Asset Cards -->
+    <section class="section">
+      <div class="section-title">Markets</div>
+
+      <div class="cards-grid">
+
+        <!-- NIFTY Card -->
+        <a href="nifty.html" class="card card-tap">
+          <div class="card-header">
+            <div class="card-title">NIFTY 50</div>
+            <span id="nifty-freshness" class="freshness unavailable">—</span>
+          </div>
+
+          <div id="nifty-card-content">
+            <div class="loading">Loading NIFTY...</div>
+          </div>
+
+          <div class="source-line">
+            <span class="source-badge">Source: Yahoo Finance</span>
+            <span id="nifty-timestamp">—</span>
+          </div>
+        </a>
+
+        <!-- BTC Card -->
+        <a href="btc.html" class="card card-tap">
+          <div class="card-header">
+            <div class="card-title">BITCOIN / BTC</div>
+            <span id="btc-freshness" class="freshness unavailable">—</span>
+          </div>
+
+          <div id="btc-card-content">
+            <div class="loading">Loading BTC...</div>
+          </div>
+
+          <div class="source-line">
+            <span class="source-badge">Source: Binance</span>
+            <span id="btc-timestamp">—</span>
+          </div>
+        </a>
+
+      </div>
+    </section>
+
+    <!-- Latest News -->
+    <section class="section">
+      <div class="section-title">Latest Market News</div>
+
+      <div class="card">
+        <div id="home-news-content">
+          <div class="loading">Loading news...</div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Mobile Bottom Nav -->
+  <nav class="bottom-nav">
+    <a href="index.html" class="active">
+      <span class="nav-icon">🏠</span>
+      HOME
+    </a>
+    <a href="nifty.html">
+      <span class="nav-icon">📈</span>
+      NIFTY
+    </a>
+    <a href="btc.html">
+      <span class="nav-icon">₿</span>
+      BTC
+    </a>
+  </nav>
+
+  <!-- Scripts (will be added in Step 4) -->
+  <script src="js/common.js"></script>
+  <script src="js/home.js"></script>
+
+</body>
+</html>
