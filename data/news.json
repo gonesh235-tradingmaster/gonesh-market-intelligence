@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-13T15:57:37.846089+00:00",
+  "updated_utc": "2026-09-13T16:13:03.650007+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Cummins Returned 512% in a Decade. Its Dividend Did Something Even More Impressive",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cummins-returned-512-decade-dividend-155525530.html",
+      "published": "2026-09-13T15:55:25Z",
+      "ts": 1789314925
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures: Fed Meeting Ahead; Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+      "published": "2026-09-13T15:52:13Z",
+      "ts": 1789314733
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Central Bank of AI: Analyst Says NVIDIA Could Sit on $1.4 Trillion — Dwarfing Hyperscalers and Wall Street",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/central-bank-ai-analyst-says-155003043.html",
+      "published": "2026-09-13T15:50:03Z",
+      "ts": 1789314603
+    },
     {
       "source": "Yahoo Finance",
       "title": "Pay is back on the rise for job switchers, even in low-hire job market",
@@ -12,17 +33,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Rivian vs. Lucid: This Stock Is Clearly the Better Buy",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-vs-lucid-stock-clearly-153500179.html",
-      "published": "2026-09-13T15:35:00Z",
-      "ts": 1789313700
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "49-year-old clothing chain closing stores as its shoppers shrink",
-      "link": "https://finance.yahoo.com/small-business/articles/49-old-clothing-chain-closing-153300913.html",
-      "published": "2026-09-13T15:33:00Z",
-      "ts": 1789313580
+      "title": "Bank exits squeeze truck financing for mid-size fleets",
+      "link": "https://finance.yahoo.com/small-business/articles/bank-exits-squeeze-truck-financing-154006871.html",
+      "published": "2026-09-13T15:40:06Z",
+      "ts": 1789314006
     },
     {
       "source": "Yahoo Finance",
@@ -37,13 +51,6 @@
       "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
       "published": "Sun, 13 Sep 2026 15:00:00 GMT",
       "ts": 1789311600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Fed Meeting Ahead; Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-      "published": "2026-09-13T14:52:36Z",
-      "ts": 1789311156
     },
     {
       "source": "MarketWatch",
@@ -65,13 +72,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-amazon-face-same-ai-140837189.html",
       "published": "2026-09-13T14:08:37Z",
       "ts": 1789308517
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "NVIDIA’s Older GPUs Still Earn Rent. What That Does and Doesn’t Prove for CoreWeave",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-older-gpus-still-earn-140210350.html",
-      "published": "2026-09-13T14:02:10Z",
-      "ts": 1789308130
     },
     {
       "source": "MarketWatch",
