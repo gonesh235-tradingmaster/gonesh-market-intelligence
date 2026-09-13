@@ -18,6 +18,29 @@
   </nav>
 
   <!-- Header -->
+  <!-- TradingView Ticker -->
+<div class="ticker-wrap">
+  <div class="tradingview-widget-container">
+    <div class="tradingview-widget-container__widget"></div>
+    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+    {
+      "symbols": [
+        {"proName": "FOREXCOM:SPXUSD", "title": "S&P 500"},
+        {"proName": "FOREXCOM:NSXUSD", "title": "Nasdaq 100"},
+        {"proName": "FX_IDC:EURUSD", "title": "EUR/USD"},
+        {"proName": "BITSTAMP:BTCUSD", "title": "Bitcoin"},
+        {"proName": "OANDA:XAUUSD", "title": "Gold"},
+        {"proName": "TVC:USOIL", "title": "WTI Crude"}
+      ],
+      "showSymbolLogo": true,
+      "colorTheme": "dark",
+      "isTransparent": true,
+      "displayMode": "adaptive",
+      "locale": "en"
+    }
+    </script>
+  </div>
+</div>
   <header class="app-header">
     <div class="app-title">GONESH MARKET INTELLIGENCE</div>
     <div class="app-subtitle">Global Market Intelligence</div>
