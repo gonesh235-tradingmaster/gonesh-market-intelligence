@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-13T23:30:17.281382+00:00",
+  "updated_utc": "2026-09-13T23:41:22.448560+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -93,13 +93,6 @@
       "link": "https://finance.yahoo.com/healthcare/articles/boston-scientific-bsx-didn-t-193111827.html",
       "published": "2026-09-13T19:31:11Z",
       "ts": 1789327871
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nvidia (NVDA) Looks Cheap on Piper’s Forecasts, but the Earnings Assumptions Are the Real Test",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-looks-cheap-piper-191328167.html",
-      "published": "2026-09-13T19:13:28Z",
-      "ts": 1789326808
     },
     {
       "source": "Investing Crypto",
@@ -282,6 +275,13 @@
       "link": "https://www.investing.com/news/forex-news/european-debt-extended-in-5week-decline-on-rate-hikes-and-surging-oil-prices-4897325",
       "published": "2026-09-11 13:03:28",
       "ts": 1789131808
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound steady as UK GDP beats, dollar firms on CPI bets",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steady-as-uk-gdp-beats-dollar-firms-on-cpi-bets-4897403",
+      "published": "2026-09-11 09:09:22",
+      "ts": 1789117762
     }
   ]
 }
