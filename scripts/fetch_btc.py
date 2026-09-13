@@ -1,7 +1,7 @@
 """
 GONESH Market Intelligence
-Fetch BTC spot + derivatives data from Binance
-No API key required.
+Fetch BTC spot data from CoinGecko
+No API key required. No geo-blocking.
 """
 
 import json
@@ -12,8 +12,7 @@ import urllib.error
 from datetime import datetime, timezone
 
 
-BINANCE_SPOT = "https://api.binance.com/api/v3"
-BINANCE_FUTURES = "https://fapi.binance.com/fapi/v1"
+COINGECKO = "https://api.coingecko.com/api/v3"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Market Intelligence Fetcher)",
@@ -32,100 +31,117 @@ def http_get_json(url):
 
 
 def fetch_btc_spot():
-    """24hr ticker stats from Binance spot."""
-    data = http_get_json(f"{BINANCE_SPOT}/ticker/24hr?symbol=BTCUSDT")
+    """Fetch BTC spot data from CoinGecko."""
+    url = (
+        f"{COINGECKO}/coins/bitcoin"
+        "?localization=false"
+        "&tickers=false"
+        "&market_data=true"
+        "&community_data=false"
+        "&developer_data=false"
+        "&sparkline=false"
+    )
+    data = http_get_json(url)
     if not data:
         return None
 
     try:
-        price = float(data["lastPrice"])
-        prev_close = float(data["prevClosePrice"])
-        change = price - prev_close
-        change_pct = (change / prev_close) * 100 if prev_close else 0
+        md = data.get("market_data", {})
+        price = md.get("current_price", {}).get("usd")
+        change_24h = md.get("price_change_24h")
+        change_24h_pct = md.get("price_change_percentage_24h")
+        high_24h = md.get("high_24h", {}).get("usd")
+        low_24h = md.get("low_24h", {}).get("usd")
+        volume_24h = md.get("total_volume", {}).get("usd")
+        prev_close = None
+        if price is not None and change_24h is not None:
+            prev_close = price - change_24h
 
         return {
-            "price": round(price, 2),
-            "previous_close": round(prev_close, 2),
-            "change_24h": round(change, 2),
-            "change_24h_percent": round(change_pct, 2),
-            "high_24h": round(float(data["highPrice"]), 2),
-            "low_24h": round(float(data["lowPrice"]), 2),
-            "volume_24h": round(float(data["volume"]), 2),
-            "quote_volume_24h": round(float(data["quoteVolume"]), 2),
+            "price": round(price, 2) if price is not None else None,
+            "previous_close": round(prev_close, 2) if prev_close is not None else None,
+            "change_24h": round(change_24h, 2) if change_24h is not None else None,
+            "change_24h_percent": round(change_24h_pct, 2) if change_24h_pct is not None else None,
+            "high_24h": round(high_24h, 2) if high_24h is not None else None,
+            "low_24h": round(low_24h, 2) if low_24h is not None else None,
+            "volume_24h": round(volume_24h, 0) if volume_24h is not None else None,
         }
     except Exception as e:
         print(f"[WARN] BTC spot parse failed: {e}", file=sys.stderr)
         return None
 
 
-def fetch_btc_open_interest():
-    """Open interest from Binance Futures."""
-    data = http_get_json(f"{BINANCE_FUTURES}/openInterest?symbol=BTCUSDT")
-    if not data:
+def fetch_btc_derivatives():
+    """Fetch OI and funding rate from CoinGecko derivatives endpoint."""
+    url = f"{COINGECKO}/derivatives?include_tickers=unexpired"
+    data = http_get_json(url)
+    if not data or not isinstance(data, list):
         return None
+
+    # Find BTC perpetual on Binance or first BTC perp
+    btc_perps = [
+        d for d in data
+        if d.get("index_id") == "BTC" and d.get("contract_type") == "perpetual"
+    ]
+    if not btc_perps:
+        return None
+
+    # Prefer Binance if available
+    chosen = None
+    for p in btc_perps:
+        if "binance" in (p.get("market", "") or "").lower():
+            chosen = p
+            break
+    if not chosen:
+        chosen = btc_perps[0]
+
     try:
+        oi = chosen.get("open_interest")
+        funding = chosen.get("funding_rate")
         return {
-            "open_interest": round(float(data["openInterest"]), 2),
-            "timestamp_ms": int(data["time"]),
+            "market": chosen.get("market"),
+            "open_interest": round(float(oi), 2) if oi is not None else None,
+            "funding_rate": round(float(funding) * 100, 4) if funding is not None else None,
+            "mark_price": round(float(chosen.get("price")), 2) if chosen.get("price") else None,
         }
     except Exception as e:
-        print(f"[WARN] OI parse failed: {e}", file=sys.stderr)
+        print(f"[WARN] Derivatives parse failed: {e}", file=sys.stderr)
         return None
 
 
-def fetch_btc_funding():
-    """Funding rate + mark price from Binance Futures."""
-    data = http_get_json(f"{BINANCE_FUTURES}/premiumIndex?symbol=BTCUSDT")
-    if not data:
-        return None
-    try:
-        funding_rate = float(data["lastFundingRate"])
-        return {
-            "funding_rate": round(funding_rate * 100, 4),  # as percent
-            "mark_price": round(float(data["markPrice"]), 2),
-            "index_price": round(float(data["indexPrice"]), 2),
-        }
-    except Exception as e:
-        print(f"[WARN] Funding parse failed: {e}", file=sys.stderr)
-        return None
-
-
-def compute_btc_mood(spot, oi, funding):
-    """
-    Simple mood score -100 to +100 based on available BTC data.
-    """
+def compute_btc_mood(spot, derivs):
     scores = []
     weights = []
     reasons = []
 
-    # Price change (weight 50)
+    # Price change (weight 60)
     if spot and spot.get("change_24h_percent") is not None:
         cp = spot["change_24h_percent"]
-        s = max(-50, min(50, cp * 2))
+        s = max(-60, min(60, cp * 2.5))
         scores.append(s)
-        weights.append(50)
+        weights.append(60)
         if cp > 1:
             reasons.append(f"BTC up {cp:.2f}% in 24h")
         elif cp < -1:
             reasons.append(f"BTC down {abs(cp):.2f}% in 24h")
 
-    # Funding rate (weight 25) - high positive = over-leveraged longs
-    if funding and funding.get("funding_rate") is not None:
-        fr = funding["funding_rate"]
+    # Funding rate (weight 20)
+    if derivs and derivs.get("funding_rate") is not None:
+        fr = derivs["funding_rate"]
         if fr > 0.03:
-            scores.append(-10)
-            reasons.append(f"Funding rate elevated ({fr:.3f}%)")
+            scores.append(-15)
+            reasons.append(f"Funding elevated ({fr:.3f}%) — longs overheated")
         elif fr < -0.03:
-            scores.append(10)
-            reasons.append(f"Funding rate negative ({fr:.3f}%)")
+            scores.append(15)
+            reasons.append(f"Funding negative ({fr:.3f}%) — shorts crowded")
         else:
             scores.append(0)
-        weights.append(25)
+        weights.append(20)
 
-    # Open interest (weight 25) - use as neutral since we can't measure change in one snapshot
-    if oi:
+    # OI presence (weight 20) - neutral placeholder
+    if derivs and derivs.get("open_interest"):
         scores.append(0)
-        weights.append(25)
+        weights.append(20)
 
     if not scores:
         return None, "Insufficient data"
@@ -144,46 +160,45 @@ def compute_btc_mood(spot, oi, funding):
 def main():
     os.makedirs("data", exist_ok=True)
 
-    print("Fetching BTC spot...")
+    print("Fetching BTC spot from CoinGecko...")
     spot = fetch_btc_spot()
 
-    print("Fetching BTC open interest...")
-    oi = fetch_btc_open_interest()
+    print("Fetching BTC derivatives from CoinGecko...")
+    derivs = fetch_btc_derivatives()
 
-    print("Fetching BTC funding rate...")
-    funding = fetch_btc_funding()
-
-    if not spot:
+    if not spot or not spot.get("price"):
         payload = {
             "status": "DATA UNAVAILABLE",
-            "reason": "Binance did not return BTC data",
+            "reason": "CoinGecko did not return BTC data",
             "updated_utc": datetime.now(timezone.utc).isoformat(),
         }
     else:
-        mood_score, mood_reason = compute_btc_mood(spot, oi, funding)
+        mood_score, mood_reason = compute_btc_mood(spot, derivs)
         data = dict(spot)
         data["mood_score"] = mood_score
         data["mood_reason"] = mood_reason
 
         payload = {
             "updated_utc": datetime.now(timezone.utc).isoformat(),
-            "source": "Binance",
-            "source_url": "https://www.binance.com/en/trade/BTC_USDT",
+            "source": "CoinGecko",
+            "source_url": "https://www.coingecko.com/en/coins/bitcoin",
             "data": data,
         }
 
     with open("data/btc.json", "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
-    # Derivatives file (for btc.html)
-    derivatives = {
+    derivatives_file = {
         "updated_utc": datetime.now(timezone.utc).isoformat(),
-        "source": "Binance Futures",
-        "open_interest": oi,
-        "funding": funding,
+        "source": "CoinGecko Derivatives",
+        "open_interest": derivs.get("open_interest") if derivs else None,
+        "funding": {
+            "funding_rate": derivs.get("funding_rate"),
+            "mark_price": derivs.get("mark_price"),
+        } if derivs else None,
     }
     with open("data/btc_factors.json", "w", encoding="utf-8") as f:
-        json.dump(derivatives, f, ensure_ascii=False, indent=2)
+        json.dump(derivatives_file, f, ensure_ascii=False, indent=2)
 
     print("Saved data/btc.json and data/btc_factors.json")
 
