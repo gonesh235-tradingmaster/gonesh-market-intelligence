@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-13T21:50:51.086651+00:00",
+  "updated_utc": "2026-09-13T22:00:06.898908+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -16,6 +16,13 @@
       "link": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
       "published": "Sun, 13 Sep 2026 21:10:00 GMT",
       "ts": 1789333800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Further Oil Price Spikes Could Rekindle Recession Fears",
+      "link": "https://finance.yahoo.com/economy/policy/articles/further-oil-price-spikes-could-210000970.html",
+      "published": "2026-09-13T21:00:00Z",
+      "ts": 1789333200
     },
     {
       "source": "MarketWatch",
@@ -86,13 +93,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-looks-cheap-piper-191328167.html",
       "published": "2026-09-13T19:13:28Z",
       "ts": 1789326808
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Intel (INTC) Is Winning From the CPU Shortage, but Its Foundry Valuation Needs More Proof",
-      "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-winning-cpu-shortage-191052125.html",
-      "published": "2026-09-13T19:10:52Z",
-      "ts": 1789326652
     },
     {
       "source": "Investing Crypto",
