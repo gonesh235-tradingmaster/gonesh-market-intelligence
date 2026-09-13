@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-13T21:01:18.228708+00:00",
+  "updated_utc": "2026-09-13T21:16:42.585484+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "These are the 10 biggest retirement fears — and what you can do about them",
+      "link": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
+      "published": "Sun, 13 Sep 2026 21:10:00 GMT",
+      "ts": 1789333800
+    },
     {
       "source": "MarketWatch",
       "title": "I’m locked into a 10-year annuity and now I’m strapped for cash. What are my options?",
@@ -11,18 +18,18 @@
       "ts": 1789333140
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures: Will Anthropic-Led Call For Slowdown Hit AI Stocks? Fed Meeting Ahead",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+      "published": "2026-09-13T20:44:54Z",
+      "ts": 1789332294
+    },
+    {
       "source": "MarketWatch",
       "title": "Your Social Security COLA could go up another $71 per month in 2027. That’s not necessarily good news.",
       "link": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories",
       "published": "Sun, 13 Sep 2026 20:40:00 GMT",
       "ts": 1789332000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Will Anthropic-Led Call For Slowdown Hit AI Stocks? Fed Meeting Aheadan, SpaceX's Musk Call For AI Slowdown",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-      "published": "2026-09-13T20:33:39Z",
-      "ts": 1789331619
     },
     {
       "source": "MarketWatch",
@@ -121,13 +128,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 13 Sep 2026 16:47:53 +0000",
       "ts": 1789318073
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
-      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-      "published": "Sun, 13 Sep 2026 16:30:00 GMT",
-      "ts": 1789317000
     },
     {
       "source": "CoinDesk",
