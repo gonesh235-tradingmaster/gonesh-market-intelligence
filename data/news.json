@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-13T19:42:19.576109+00:00",
+  "updated_utc": "2026-09-13T19:51:39.248066+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures: AI Stocks In Focus As Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+      "published": "2026-09-13T19:39:26Z",
+      "ts": 1789328366
+    },
     {
       "source": "Yahoo Finance",
       "title": "Boston Scientific (BSX) Didn’t Miss on Demand or Devices. A Cyberattack Just Broke Its Guidance.",
@@ -25,11 +32,11 @@
       "ts": 1789326652
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Fed Meeting Ahead; Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-      "published": "2026-09-13T19:02:04Z",
-      "ts": 1789326124
+      "source": "Investing Crypto",
+      "title": "Bitcoin stalls at $77,338 between key support and resistance: Live",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
+      "published": "2026-09-13 19:02:21",
+      "ts": 1789326141
     },
     {
       "source": "Yahoo Finance",
@@ -163,13 +170,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-77200-as-rate-pressure-clashes-with-diversification-case-4898694",
       "published": "2026-09-13 09:26:43",
       "ts": 1789291603
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin squeezed between $76,400 and $79,000: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
-      "published": "2026-09-13 07:02:15",
-      "ts": 1789282935
     },
     {
       "source": "Investing Forex",
