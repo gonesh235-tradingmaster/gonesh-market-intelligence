@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-13T19:32:21.880966+00:00",
+  "updated_utc": "2026-09-13T19:42:19.576109+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Boston Scientific (BSX) Didn’t Miss on Demand or Devices. A Cyberattack Just Broke Its Guidance.",
+      "link": "https://finance.yahoo.com/healthcare/articles/boston-scientific-bsx-didn-t-193111827.html",
+      "published": "2026-09-13T19:31:11Z",
+      "ts": 1789327871
+    },
     {
       "source": "Yahoo Finance",
       "title": "Nvidia (NVDA) Looks Cheap on Piper’s Forecasts, but the Earnings Assumptions Are the Real Test",
@@ -51,13 +58,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/navan-navn-rides-enterprise-momentum-171047781.html",
       "published": "2026-09-13T17:10:47Z",
       "ts": 1789319447
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Korn Ferry (KFY) Expands Global Standing With AMS Acquisition",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/korn-ferry-kfy-expands-global-170618310.html",
-      "published": "2026-09-13T17:06:18Z",
-      "ts": 1789319178
     },
     {
       "source": "CoinDesk",
