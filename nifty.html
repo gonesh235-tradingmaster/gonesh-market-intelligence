@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#0e1117">
+  <title>NIFTY 50 Intelligence — GONESH MI</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <nav class="top-nav">
+    <span class="top-nav-brand">GONESH MI</span>
+    <a href="index.html">HOME</a>
+    <a href="nifty.html" class="active">NIFTY</a>
+    <a href="btc.html">BTC</a>
+  </nav>
+
+  <header class="app-header">
+    <div class="app-title">NIFTY 50 INTELLIGENCE</div>
+    <div class="app-subtitle">Indian Market Analysis</div>
+    <div class="app-meta">
+      <span>Last Updated: <span id="last-updated">—</span></span>
+      <span id="nifty-freshness-header">—</span>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <!-- NIFTY Snapshot -->
+    <section class="section">
+      <div class="card">
+        <div class="card-header">
+          <div class="card-title">NIFTY 50</div>
+          <span id="nifty-freshness" class="freshness unavailable">—</span>
+        </div>
+        <div id="nifty-top">
+          <div class="loading">Loading NIFTY...</div>
+        </div>
+        <div class="source-line">
+          <span class="source-badge">Source: Yahoo Finance</span>
+          <span id="nifty-source-time">—</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Indian Market Mood -->
+    <section class="section">
+      <div class="section-title">Indian Market Mood</div>
+      <div class="card">
+        <div id="nifty-mood">
+          <div class="loading">Loading mood...</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Factor: US Markets -->
+    <section class="section">
+      <div class="section-title">F1 — US Market Impact</div>
+      <div class="card">
+        <div id="factor-us">
+          <div class="loading">Loading...</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Factor: Bonds -->
+    <section class="section">
+      <div class="section-title">F2 — Bond Market</div>
+      <div class="card">
+        <div id="factor-bonds">
+          <div class="loading">Loading...</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Factor: Commodities -->
+    <section class="section">
+      <div class="section-title">F3 — Commodities</div>
+      <div class="card">
+        <div id="factor-commodities">
+          <div class="loading">Loading...</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Factor: GIFT NIFTY -->
+    <section class="section">
+      <div class="section-title">F6 — GIFT NIFTY</div>
+      <div class="card">
+        <div class="unavailable">
+          <div class="unavailable-title">DATA UNAVAILABLE</div>
+          <div>Free reliable source not available</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Factor: Options OI -->
+    <section class="section">
+      <div class="section-title">F8 — Options Open Interest</div>
+      <div class="card">
+        <div class="unavailable">
+          <div class="unavailable-title">DATA UNAVAILABLE</div>
+          <div>Free reliable source not available</div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <nav class="bottom-nav">
+    <a href="index.html">
+      <span class="nav-icon">🏠</span>
+      HOME
+    </a>
+    <a href="nifty.html" class="active">
+      <span class="nav-icon">📈</span>
+      NIFTY
+    </a>
+    <a href="btc.html">
+      <span class="nav-icon">₿</span>
+      BTC
+    </a>
+  </nav>
+
+  <script src="js/common.js"></script>
+  <script src="js/nifty.js"></script>
+
+</body>
+</html>
