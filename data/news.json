@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-14T01:13:14.021949+00:00",
+  "updated_utc": "2026-09-14T01:27:40.172878+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -109,13 +109,6 @@
       "ts": 1789318073
     },
     {
-      "source": "Yahoo Finance",
-      "title": "49-year-old clothing chain closing stores as its shoppers shrink",
-      "link": "https://finance.yahoo.com/small-business/articles/49-old-clothing-chain-closing-153300913.html",
-      "published": "2026-09-13T15:33:00Z",
-      "ts": 1789313580
-    },
-    {
       "source": "CoinDesk",
       "title": "Fed rate hike is about Wall Street, not inflation, says economist",
       "link": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
@@ -222,10 +215,31 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Victoria’s Secret’s (VSXY) Bra Boom Just Rewrote Its Growth Story",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/victoria-secret-vsxy-bra-boom-144101942.html",
+      "published": "2026-09-12T14:41:01Z",
+      "ts": 1789224061
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "(Sm)all banks should compete on technology, not fear it",
+      "link": "https://finance.yahoo.com/technology/articles/sm-banks-compete-technology-not-143831523.html",
+      "published": "2026-09-12T14:38:31Z",
+      "ts": 1789223911
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Morgan Stanley delivers blunt message to America’s pet owners",
       "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-delivers-blunt-message-143700482.html",
       "published": "2026-09-12T14:37:00Z",
       "ts": 1789223820
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "XRP Eyes Recovery to $1.55 as RLUSD Market Cap Grows by 50%",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-eyes-recovery-1-55-143258369.html",
+      "published": "2026-09-12T14:32:58Z",
+      "ts": 1789223578
     },
     {
       "source": "Yahoo Finance",
@@ -240,20 +254,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/wiley-wly-ai-bet-starting-141033390.html",
       "published": "2026-09-12T14:10:33Z",
       "ts": 1789222233
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why AMD Stock Forecast Has Room to Run",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-forecast-room-140002995.html",
-      "published": "2026-09-12T14:00:02Z",
-      "ts": 1789221602
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Descartes (DSGX) Posts Record Q2 Results, Analysts See 30% Upside",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/descartes-dsgx-posts-record-q2-135154400.html",
-      "published": "2026-09-12T13:51:54Z",
-      "ts": 1789221114
     },
     {
       "source": "Investing Crypto",
