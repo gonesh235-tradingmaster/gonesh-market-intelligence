@@ -1,11 +1,11 @@
 {
-  "updated_utc": "2026-09-14T16:03:03.593257+00:00",
+  "updated_utc": "2026-09-14T16:20:59.714739+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
       "source": "CoinDesk",
-      "title": "Bipartisan group of state attorneys general oppose Clarity Act over federal preemption worry",
+      "title": "A bipartisan coalition of 17 state attorneys generals urge Senate to reject Clarity Act",
       "link": "https://www.coindesk.com/policy/2026/09/14/bipartisan-group-of-state-attorneys-general-oppose-clarity-act-over-federal-preemption-worry",
       "published": "Mon, 14 Sep 2026 15:57:01 +0000",
       "ts": 1789401421
@@ -19,6 +19,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Producer Of Strategic Metal Soars 43% On Pentagon Deals",
+      "link": "https://www.investors.com/news/pentagon-department-of-war-elmet-group-elmt-stock-tungsten/?src=A00220&yptr=yahoo",
+      "published": "2026-09-14T15:53:28Z",
+      "ts": 1789401208
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Stocks could have a tough road ahead if the Fed hikes rates: Chart of the Day",
       "link": "https://finance.yahoo.com/markets/article/stocks-could-have-a-tough-road-ahead-if-the-fed-hikes-rates-chart-of-the-day-155218683.html",
       "published": "2026-09-14T15:52:18Z",
@@ -26,10 +33,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "YPF Lines Up Buyers for $24 Billion Vaca Muerta LNG Project",
-      "link": "https://finance.yahoo.com/energy/articles/ypf-lines-buyers-24-billion-154703112.html",
-      "published": "2026-09-14T15:47:03Z",
-      "ts": 1789400823
+      "title": "Nvidia Triggers Key Signals As AI Warnings Mount; Is Nvidia A Sell Now?",
+      "link": "https://www.investors.com/research/nvidia-nvda-stock-ai-chips-tech-september-2026-buy-now-markets/?src=A00220&yptr=yahoo",
+      "published": "2026-09-14T15:51:06Z",
+      "ts": 1789401066
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Falls, Oil Jumps On Houthi Moves; Trump Hits Out At These AI Fears (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-nvda-stock-ai-warning/?src=A00220&yptr=yahoo",
+      "published": "2026-09-14T15:51:03Z",
+      "ts": 1789401063
     },
     {
       "source": "MarketWatch",
@@ -44,13 +58,6 @@
       "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 15:30:00 GMT",
       "ts": 1789399800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nvidia, Broadcom Tumble In AI Rotation; These U.K.-Based Names Gain",
-      "link": "https://www.investors.com/news/ai-nvidia-broadcom-software-stocks-servicenow-workday-salesforce-micron/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T15:23:47Z",
-      "ts": 1789399427
     },
     {
       "source": "Cointelegraph",
@@ -275,13 +282,6 @@
       "link": "https://finance.yahoo.com/small-business/articles/another-coffeehouse-files-chapter-11-033545256.html",
       "published": "2026-09-14T03:35:45Z",
       "ts": 1789356945
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin little changed at $77k as rate pressure clashes with diversification case",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-77200-as-rate-pressure-clashes-with-diversification-case-4898694",
-      "published": "2026-09-13 21:59:53",
-      "ts": 1789336793
     }
   ]
 }
