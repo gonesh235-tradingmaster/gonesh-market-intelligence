@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-14T21:31:44.260936+00:00",
+  "updated_utc": "2026-09-14T21:45:01.087649+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The oil market is sending an increasingly loud warning about gas prices at the pump",
+      "link": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:31:00 GMT",
+      "ts": 1789421460
+    },
+    {
+      "source": "MarketWatch",
+      "title": "CrowdStrike and Palo Alto Networks lead software stocks to a never-before-seen feat",
+      "link": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:11:00 GMT",
+      "ts": 1789420260
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Chip stocks were a safe AI play. Now they’ve turned into the market’s pain trade.",
+      "link": "https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:11:00 GMT",
+      "ts": 1789420260
+    },
     {
       "source": "CoinDesk",
       "title": "Robinhood plans share redemptions, voting rights for stock tokens, after criticism",
@@ -18,6 +39,20 @@
       "ts": 1789419822
     },
     {
+      "source": "MarketWatch",
+      "title": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Am I crazy to do this?",
+      "link": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:00:00 GMT",
+      "ts": 1789419600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here’s what to know.",
+      "link": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 20:56:00 GMT",
+      "ts": 1789419360
+    },
+    {
       "source": "Cointelegraph",
       "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
       "link": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -25,11 +60,32 @@
       "ts": 1789419250
     },
     {
+      "source": "MarketWatch",
+      "title": "10-year Treasury yield hits 5% as oil prices jump and Fed meeting looms",
+      "link": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 20:47:00 GMT",
+      "ts": 1789418820
+    },
+    {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 20:41:38 +0000",
       "ts": 1789418498
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The 10 most overvalued housing markets in America",
+      "link": "https://www.marketwatch.com/story/the-10-most-overvalued-housing-markets-in-america-6d28efdf?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 20:35:00 GMT",
+      "ts": 1789418100
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 20:30:00 GMT",
+      "ts": 1789417800
     },
     {
       "source": "CoinDesk",
@@ -208,6 +264,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "GF Securities Says NAND Prices May Stabilize Later This Year. What This Means for Sandisk Stock.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gf-securities-says-nand-prices-130002701.html",
+      "published": "2026-09-13T13:00:02Z",
+      "ts": 1789304402
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Lovesac’s (LOVE) Premium Sofas Shine While Entry-Level Buyers Stay Away",
       "link": "https://finance.yahoo.com/markets/stocks/articles/lovesac-love-premium-sofas-shine-125527184.html",
       "published": "2026-09-13T12:55:27Z",
@@ -219,69 +282,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-just-declared-war-doordash-123023266.html",
       "published": "2026-09-13T12:30:23Z",
       "ts": 1789302623
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "IBEX (IBEX) Turns The AI Threat Into Its Biggest Growth Engine",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ibex-ibex-turns-ai-threat-121949823.html",
-      "published": "2026-09-13T12:19:49Z",
-      "ts": 1789301989
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Wall Street Is Betting Against Designer Brands (DBI) Even as Profits Double",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-betting-against-designer-121631989.html",
-      "published": "2026-09-13T12:16:31Z",
-      "ts": 1789301791
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "1-800-Flowers (FLWS) Bets On Discipline While Revenue Keeps Fading",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-800-flowers-flws-bets-120329224.html",
-      "published": "2026-09-13T12:03:29Z",
-      "ts": 1789301009
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Speculators turn bullish on yen for first time since February",
-      "link": "https://www.investing.com/news/forex-news/speculators-turn-bullish-on-yen-for-first-time-since-february-4898711",
-      "published": "2026-09-13 06:44:32",
-      "ts": 1789281872
-    },
-    {
-      "source": "Investing Forex",
-      "title": "EUR/USD could retest 1.17 after Fed decision - Citi says",
-      "link": "https://www.investing.com/news/forex-news/eurusd-could-retest-117-after-fed-decision--citi-says-4898692",
-      "published": "2026-09-12 22:52:48",
-      "ts": 1789253568
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin struggles above $77,000 as rising exchange reserves weigh on sentiment",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-77000-as-rising-exchange-reserves-weigh-on-sentiment-4898643",
-      "published": "2026-09-12 09:52:28",
-      "ts": 1789206748
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin set to snap three-week win streak on surging oil, tick up in Fed hike bets",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-771k-amid-usiran-jitters-cpi-caution-4897247",
-      "published": "2026-09-11 21:20:45",
-      "ts": 1789161645
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin dips to $77.1k as PPI data boosts Fed rate hike bets, oil prices jump",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-down-to-783k-on-iran-jitters-higher-yields-4894954",
-      "published": "2026-09-10 21:43:48",
-      "ts": 1789076628
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Uniswap Labs Launches StablePair Hook, a Dynamic-Fee Hook for Stable Pairs",
-      "link": "https://www.investing.com/news/cryptocurrency-news/uniswap-labs-launches-stablepair-hook-a-dynamicfee-hook-for-stable-pairs-4896728",
-      "published": "2026-09-10 19:00:36",
-      "ts": 1789066836
     }
   ]
 }
