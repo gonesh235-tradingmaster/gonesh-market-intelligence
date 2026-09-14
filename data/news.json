@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-14T18:49:25.937124+00:00",
+  "updated_utc": "2026-09-14T19:01:16.775213+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -257,6 +257,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Matrix Service (MTRX) Returns To Profit, But Can It Last",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/matrix-mtrx-returns-profit-last-100415091.html",
+      "published": "2026-09-13T10:04:15Z",
+      "ts": 1789293855
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Argan’s (AGX) Power Boom Comes With A Margin Catch",
+      "link": "https://finance.yahoo.com/energy/articles/argan-agx-power-boom-comes-100043772.html",
+      "published": "2026-09-13T10:00:43Z",
+      "ts": 1789293643
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Mortgage and refinance interest rates today, Sunday, September 13, 2026: Mortgage rates surged higher in the last week",
       "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-september-13-2026-mortgage-rates-surged-higher-in-the-last-week-100000138.html",
       "published": "2026-09-13T10:00:00Z",
@@ -268,20 +282,6 @@
       "link": "https://finance.yahoo.com/markets/article/a-highly-anticipated-fed-meeting-war-worries-and-an-unblinking-stock-market-what-to-watch-this-week-100000843.html",
       "published": "2026-09-13T10:00:00Z",
       "ts": 1789293600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Phreesia’s (PHR) Profit Turnaround Meets A Cash-Strapped Client Base",
-      "link": "https://finance.yahoo.com/healthcare/articles/phreesia-phr-profit-turnaround-meets-095338755.html",
-      "published": "2026-09-13T09:53:38Z",
-      "ts": 1789293218
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Robinhood (HOOD) Expands Prediction Markets With Crypto.com Partnership",
-      "link": "https://finance.yahoo.com/markets/options/articles/robinhood-hood-expands-prediction-markets-094928525.html",
-      "published": "2026-09-13T09:49:28Z",
-      "ts": 1789292968
     }
   ]
 }
