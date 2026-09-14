@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-14T15:38:23.999545+00:00",
+  "updated_utc": "2026-09-14T15:52:52.257279+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "10-year Treasury yield briefly tops 5%, hitting its highest level since 2007 as bond-market selloff deepens",
+      "link": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 15:40:00 GMT",
+      "ts": 1789400400
+    },
     {
       "source": "MarketWatch",
       "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
@@ -11,11 +18,11 @@
       "ts": 1789399800
     },
     {
-      "source": "MarketWatch",
-      "title": "10-year Treasury yield tops 5% for the first time since 2007 as bond-market selloff deepens",
-      "link": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 15:21:00 GMT",
-      "ts": 1789399260
+      "source": "Yahoo Finance",
+      "title": "Nvidia, Broadcom Tumble In AI Rotation; These U.K.-Based Names Gain",
+      "link": "https://www.investors.com/news/ai-nvidia-broadcom-software-stocks-servicenow-workday-salesforce-micron/?src=A00220&yptr=yahoo",
+      "published": "2026-09-14T15:23:47Z",
+      "ts": 1789399427
     },
     {
       "source": "Cointelegraph",
@@ -23,6 +30,13 @@
       "link": "https://cointelegraph.com/magazine/why-are-biggest-ai-companies-suddenly-asking-to-slow-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 15:18:46 +0000",
       "ts": 1789399126
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Europe’s AI Trade Hits Reverse",
+      "link": "https://finance.yahoo.com/technology/ai/articles/europe-ai-trade-hits-reverse-151219286.html",
+      "published": "2026-09-14T15:12:19Z",
+      "ts": 1789398739
     },
     {
       "source": "CoinDesk",
@@ -39,39 +53,11 @@
       "ts": 1789398309
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Vale S.A. (VALE) Deepens China Ties with Potential Yuan Bond Debut",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/vale-vale-deepens-china-ties-150347789.html",
-      "published": "2026-09-14T15:03:47Z",
-      "ts": 1789398227
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Energy Transfer’s Texas Listing Could Boost Visibility, but Risks Remain",
-      "link": "https://finance.yahoo.com/energy/articles/energy-transfer-texas-listing-could-150231871.html",
-      "published": "2026-09-14T15:02:31Z",
-      "ts": 1789398151
-    },
-    {
       "source": "MarketWatch",
       "title": "‘My total balance should be worth $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
       "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 15:01:00 GMT",
       "ts": 1789398060
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Half of Gen X expects to outlive their savings — 5 toxic habits that could quietly wreck your retirement",
-      "link": "https://finance.yahoo.com/markets/articles/half-gen-x-expects-outlive-150000293.html",
-      "published": "2026-09-14T15:00:00Z",
-      "ts": 1789398000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The Cooper Companies (COO) Faces Near-Term Pressure from Slowing Contact Lens Demand",
-      "link": "https://finance.yahoo.com/healthcare/articles/cooper-companies-coo-faces-near-145526217.html",
-      "published": "2026-09-14T14:55:26Z",
-      "ts": 1789397726
     },
     {
       "source": "Cointelegraph",
@@ -123,6 +109,13 @@
       "ts": 1789394700
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Tech stocks today: AI warnings send shock through chip stocks",
+      "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-ai-warnings-send-shock-through-chip-stocks-140134624.html",
+      "published": "2026-09-14T14:01:34Z",
+      "ts": 1789394494
+    },
+    {
       "source": "MarketWatch",
       "title": "Here’s how to prepare your portfolio for the Fed’s next interest-rate moves",
       "link": "https://www.marketwatch.com/story/heres-how-to-prepare-your-portfolio-for-the-feds-next-interest-rate-moves-ac306c90?mod=mw_rss_topstories",
@@ -138,7 +131,7 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stock Market Today (Sept. 14, 2026): S&P 500 falls on rising oil prices, sagging AI stocks",
+      "title": "Stock Market Today (Sept. 14, 2026): Nasdaq, S&P 500 falls on rising oil, AI tensions",
       "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-14-133832281.html",
       "published": "2026-09-14T13:38:32Z",
       "ts": 1789393112
@@ -282,6 +275,13 @@
       "link": "https://finance.yahoo.com/small-business/articles/another-coffeehouse-files-chapter-11-033545256.html",
       "published": "2026-09-14T03:35:45Z",
       "ts": 1789356945
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin little changed at $77k as rate pressure clashes with diversification case",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-77200-as-rate-pressure-clashes-with-diversification-case-4898694",
+      "published": "2026-09-13 21:59:53",
+      "ts": 1789336793
     }
   ]
 }
