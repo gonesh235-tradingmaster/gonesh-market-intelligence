@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-14T05:41:46.326554+00:00",
+  "updated_utc": "2026-09-14T05:53:14.843138+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -208,6 +208,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Dear Nike Stock Fans, Mark Your Calendars for September 21",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dear-nike-stock-fans-mark-193002692.html",
+      "published": "2026-09-12T19:30:02Z",
+      "ts": 1789241402
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Google Just Dropped a Bombshell on AI Spending — Alphabet’s $200 Billion AI Bet Is Starting to Pay Off Big",
       "link": "https://finance.yahoo.com/technology/ai/articles/google-just-dropped-bombshell-ai-185617741.html",
       "published": "2026-09-12T18:56:17Z",
@@ -222,17 +229,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Hershey’s Dividend Is Finally Growing Again After a Nearly 2-Year Freeze",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hershey-dividend-finally-growing-again-183024635.html",
+      "published": "2026-09-12T18:30:24Z",
+      "ts": 1789237824
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Dear UnitedHealth Stock Fans, Mark Your Calendars for October 1",
       "link": "https://finance.yahoo.com/healthcare/articles/dear-unitedhealth-stock-fans-mark-183002378.html",
       "published": "2026-09-12T18:30:02Z",
       "ts": 1789237802
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Worried About RMDs in Retirement? 3 Key Moves to Lower the Hassle Factors.",
-      "link": "https://finance.yahoo.com/markets/articles/worried-rmds-retirement-3-key-182600115.html",
-      "published": "2026-09-12T18:26:00Z",
-      "ts": 1789237560
     },
     {
       "source": "Yahoo Finance",
@@ -254,13 +261,6 @@
       "link": "https://finance.yahoo.com/economy/articles/musk-sent-governments-message-robot-174700228.html",
       "published": "2026-09-12T17:47:00Z",
       "ts": 1789235220
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How Is Exelon’s Stock Performance Compared to Other Regulated Utilities Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exelon-stock-performance-compared-other-174300551.html",
-      "published": "2026-09-12T17:43:00Z",
-      "ts": 1789234980
     },
     {
       "source": "Investing Crypto",
