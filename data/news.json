@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-14T12:39:16.605150+00:00",
+  "updated_utc": "2026-09-14T12:56:29.485295+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Royal Road Minerals begins drilling at Güíntar gold-copper-silver target",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/royal-road-minerals-begins-drilling-124200750.html",
+      "published": "2026-09-14T12:42:00Z",
+      "ts": 1789389720
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "10-year treasury yield rises as oil prices jump",
+      "link": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-rises-as-oil-prices-jump-123457398.html",
+      "published": "2026-09-14T12:34:57Z",
+      "ts": 1789389297
+    },
     {
       "source": "Yahoo Finance",
       "title": "Etihad Airways sees strong demand, higher passenger capacity despite Iran war, CEO says",
@@ -79,13 +93,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/14/live-updates-bitcoin-manages-small-gains-as-stocks-drop-on-ai-concern-oil-surges",
       "published": "Mon, 14 Sep 2026 11:44:21 +0000",
       "ts": 1789386261
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Bitcoin and ethereum prices today, Monday, September 14, 2026: Crypto prices trying to hold as rate-hike expectations grow",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-september-14-2026-crypto-prices-trying-to-hold-as-rate-hike-expectations-grow-114245430.html",
-      "published": "2026-09-14T11:42:45Z",
-      "ts": 1789386165
     },
     {
       "source": "Cointelegraph",
@@ -170,13 +177,6 @@
       "link": "https://www.coindesk.com/business/2026/09/14/tiktok-developer-bytedance-arranges-usd29-6-billion-loan-as-it-builds-ai-ambitions",
       "published": "Mon, 14 Sep 2026 09:43:45 +0000",
       "ts": 1789379025
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning",
-      "link": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
-      "published": "2026-09-14T09:36:37Z",
-      "ts": 1789378597
     },
     {
       "source": "CoinDesk",
