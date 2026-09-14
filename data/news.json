@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-09-14T09:21:09.797937+00:00",
+  "updated_utc": "2026-09-14T09:35:54.039581+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/09/14/fed-boe-boj-interest-rate-decisions-crypto-week-ahead",
+      "published": "Mon, 14 Sep 2026 09:29:57 +0000",
+      "ts": 1789378197
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How investors are reacting to the AI pause calls from Anthropic and other frontier labs",
+      "link": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 09:29:00 GMT",
+      "ts": 1789378140
+    },
+    {
+      "source": "Investing Forex",
+      "title": "BofA says Danish krone weakness driven by flows, not peg fears",
+      "link": "https://www.investing.com/news/forex-news/bofa-says-danish-krone-weakness-driven-by-flows-not-peg-fears-93CH-4898992",
+      "published": "2026-09-14 09:23:41",
+      "ts": 1789377821
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Buying Tokenized Gold in the UK Might Get Easier. Here's What the FCA Is Weighing",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/buying-tokenized-gold-uk-might-092020480.html",
+      "published": "2026-09-14T09:20:20Z",
+      "ts": 1789377620
+    },
     {
       "source": "Yahoo Finance",
       "title": "Here’s the minimum net worth you need to be considered ‘upper class’ in your 60s — and the magic step to get you there",
@@ -23,13 +51,6 @@
       "link": "https://www.marketwatch.com/story/massive-sinkhole-still-threatens-nicolas-cages-10-5-million-malibu-mansion-ec0c7497?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 09:03:00 GMT",
       "ts": 1789376580
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Fastly Highlights Accelerating Growth, Record Margins and AI-Driven Compute Demand",
-      "link": "https://finance.yahoo.com/technology/ai/articles/fastly-highlights-accelerating-growth-record-090202561.html",
-      "published": "2026-09-14T09:02:02Z",
-      "ts": 1789376522
     },
     {
       "source": "Yahoo Finance",
@@ -207,13 +228,6 @@
       "ts": 1789332000
     },
     {
-      "source": "MarketWatch",
-      "title": "This simple mistake can give your money to the wrong person when you die. Here’s how to protect your estate.",
-      "link": "https://www.marketwatch.com/story/this-simple-mistake-can-cost-your-loved-ones-their-share-of-your-estate-heres-how-to-protect-your-money-99374a95?mod=mw_rss_topstories",
-      "published": "Sun, 13 Sep 2026 20:30:00 GMT",
-      "ts": 1789331400
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin stalls at $77,338 between key support and resistance: Live",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
@@ -268,20 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/eurusd-could-retest-117-after-fed-decision--citi-says-4898692",
       "published": "2026-09-12 22:52:48",
       "ts": 1789253568
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jewelry chain closes 53 stores after shutting down 2 brands",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jewelry-chain-closes-53-stores-213700154.html",
-      "published": "2026-09-12T21:37:00Z",
-      "ts": 1789249020
-    },
-    {
-      "source": "CoinDesk",
-      "title": "OpenAI IPO won't happen this year, says Sam Altman",
-      "link": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
-      "published": "Sat, 12 Sep 2026 21:09:31 +0000",
-      "ts": 1789247371
     }
   ]
 }
