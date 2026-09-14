@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-09-14T12:17:21.410160+00:00",
+  "updated_utc": "2026-09-14T12:39:16.605150+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Etihad Airways sees strong demand, higher passenger capacity despite Iran war, CEO says",
+      "link": "https://finance.yahoo.com/news/etihad-airways-sees-strong-demand-121621387.html",
+      "published": "2026-09-14T12:16:21Z",
+      "ts": 1789388181
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. Treasury yields hold near multi-year highs as Fed hike bets anchor curve",
+      "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
+      "published": "2026-09-14 12:13:47",
+      "ts": 1789388027
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures Fall, Techs Tumble As Oil Prices Rise, Anthropic Leads AI Slowdown Call",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+      "published": "2026-09-14T12:11:35Z",
+      "ts": 1789387895
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Falls On Rising Oil; Nvidia Sells Off On AI Warning (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-nvda-stock-ai-warning/?src=A00220&yptr=yahoo",
+      "published": "2026-09-14T12:11:34Z",
+      "ts": 1789387894
+    },
     {
       "source": "MarketWatch",
       "title": "AI has been carrying the stock market. An industry pause could pull the rug out, warns this Wall Street giant.",
@@ -12,21 +40,28 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
+      "link": "https://www.coindesk.com/markets/2026/09/14/dogecoin-etfs-struggled-for-buyers-while-rival-xrp-and-solana-funds-pulled-in-usd3-billion",
+      "published": "Mon, 14 Sep 2026 12:08:35 +0000",
+      "ts": 1789387715
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Citi says NOK/SEK can continue to work despite recent gains",
+      "link": "https://www.investing.com/news/forex-news/citi-says-noksek-can-continue-to-work-despite-recent-gains-93CH-4899467",
+      "published": "2026-09-14 12:07:47",
+      "ts": 1789387667
+    },
+    {
+      "source": "CoinDesk",
       "title": "Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP",
       "link": "https://www.coindesk.com/policy/2026/09/14/trump-agrees-to-stricter-ethics-rules-to-save-clarity-act-crypto-bill-ap",
       "published": "Mon, 14 Sep 2026 12:07:19 +0000",
       "ts": 1789387639
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Dutch Bros vs. Uber Technologies: Which Consumer Stock Is a Better Buy in 2026?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dutch-bros-vs-uber-technologies-120157817.html",
-      "published": "2026-09-14T12:01:57Z",
-      "ts": 1789387317
-    },
-    {
       "source": "MarketWatch",
-      "title": "Oil over $100 has JPMorgan stock-market strategists fearing a missing out on a swift decline",
+      "title": "Oil over $100 has JPMorgan strategists warning stock-market investors against missing out on a sudden turnaround",
       "link": "https://www.marketwatch.com/story/oil-over-100-has-jpmorgan-stock-market-strategists-fearing-a-missing-out-on-a-swift-decline-ba32bfd4?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 11:59:00 GMT",
       "ts": 1789387140
@@ -37,13 +72,6 @@
       "link": "https://www.coindesk.com/business/2026/09/14/fca-considers-exempting-tokenized-gold-from-fund-rules-to-defend-london-market",
       "published": "Mon, 14 Sep 2026 11:58:28 +0000",
       "ts": 1789387108
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Techs Tumble As Anthropic Leads AI Slowdown Call; Fed Meeting Ahead",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T11:57:49Z",
-      "ts": 1789387069
     },
     {
       "source": "CoinDesk",
@@ -67,27 +95,6 @@
       "ts": 1789385924
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Carney, locked in US trade war, pitches Canada to global investment titans",
-      "link": "https://finance.yahoo.com/news/carney-locked-us-trade-war-100319218.html",
-      "published": "2026-09-14T11:31:54Z",
-      "ts": 1789385514
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Silver prices today, Monday, September 14, 2026: Silver slides as rate-hike expectations grow",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-september-14-2026-silver-slides-as-rate-hike-expectations-grow-112941547.html",
-      "published": "2026-09-14T11:29:41Z",
-      "ts": 1789385381
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Gold prices today, Monday, September 14, 2026: Gold sinks following new attacks on Saudi pipeline and more",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-september-14-2026-gold-sinks-following-new-attacks-on-saudi-pipeline-and-more-111825907.html",
-      "published": "2026-09-14T11:18:25Z",
-      "ts": 1789384705
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto market outperforms as call for slower AI development weighs on tech stocks",
       "link": "https://www.coindesk.com/daybook-us/2026/09/14/crypto-market-outperforms-as-call-for-slower-ai-development-weighs-on-tech-stocks",
@@ -107,6 +114,13 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
       "published": "2026-09-14 10:17:45",
       "ts": 1789381065
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "AI warnings by Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman could hammer this momentum stock",
+      "link": "https://finance.yahoo.com/markets/stocks/article/ai-warnings-by-anthropic-ceo-dario-amodei-and-openai-ceo-sam-altman-could-hammer-this-momentum-stock-101518585.html",
+      "published": "2026-09-14T10:15:18Z",
+      "ts": 1789380918
     },
     {
       "source": "MarketWatch",
@@ -158,6 +172,13 @@
       "ts": 1789379025
     },
     {
+      "source": "Yahoo Finance",
+      "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning",
+      "link": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
+      "published": "2026-09-14T09:36:37Z",
+      "ts": 1789378597
+    },
+    {
       "source": "CoinDesk",
       "title": "Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead",
       "link": "https://www.coindesk.com/markets/2026/09/14/fed-boe-boj-interest-rate-decisions-crypto-week-ahead",
@@ -207,25 +228,11 @@
       "ts": 1789373798
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin bucks tech selloff as AI safety concerns weigh on stocks",
-      "link": "https://www.coindesk.com/markets/2026/09/14/bitcoin-bucks-tech-selloff-as-ai-safety-concerns-weigh-on-stocks",
-      "published": "Mon, 14 Sep 2026 08:07:16 +0000",
-      "ts": 1789373236
-    },
-    {
       "source": "Yahoo Finance",
       "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Anthropic's AI warning spooks tech traders, oil prices jump",
       "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html",
       "published": "2026-09-14T08:05:59Z",
       "ts": 1789373159
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Euro yields hold at multi-year peaks as crude surge precedes c.bank decisions",
-      "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
-      "published": "2026-09-14 07:38:08",
-      "ts": 1789371488
     },
     {
       "source": "Investing Crypto",
@@ -275,13 +282,6 @@
       "link": "https://finance.yahoo.com/small-business/articles/another-coffeehouse-files-chapter-11-033545256.html",
       "published": "2026-09-14T03:35:45Z",
       "ts": 1789356945
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin little changed at $77k as rate pressure clashes with diversification case",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-77200-as-rate-pressure-clashes-with-diversification-case-4898694",
-      "published": "2026-09-13 21:59:53",
-      "ts": 1789336793
     }
   ]
 }
