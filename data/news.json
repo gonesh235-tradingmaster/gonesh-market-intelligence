@@ -1,21 +1,42 @@
 {
-  "updated_utc": "2026-09-14T11:29:44.053985+00:00",
+  "updated_utc": "2026-09-14T11:45:47.816025+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin manages small gains as stocks drop on AI concern, oil surges",
+      "link": "https://www.coindesk.com/tech/2026/09/14/live-updates-bitcoin-manages-small-gains-as-stocks-drop-on-ai-concern-oil-surges",
+      "published": "Mon, 14 Sep 2026 11:44:21 +0000",
+      "ts": 1789386261
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "HPE Stock Is Downgraded After Rising 159% This Year. Why?",
+      "link": "https://www.barrons.com/articles/hpe-hewlett-packard-enterprise-stock-downgrade-4033b0b3?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-09-14T11:32:00Z",
+      "ts": 1789385520
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Silver prices today, Monday, September 14, 2026: Silver slides as rate-hike expectations grow",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-september-14-2026-silver-slides-as-rate-hike-expectations-grow-112941547.html",
+      "published": "2026-09-14T11:29:41Z",
+      "ts": 1789385381
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures: Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
+      "published": "2026-09-14T11:24:53Z",
+      "ts": 1789385093
+    },
     {
       "source": "Yahoo Finance",
       "title": "Gold prices today, Monday, September 14, 2026: Gold sinks following new attacks on Saudi pipeline and more",
       "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-september-14-2026-gold-sinks-following-new-attacks-on-saudi-pipeline-and-more-111825907.html",
       "published": "2026-09-14T11:18:25Z",
       "ts": 1789384705
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Southern Glazer’s settles US bribery probe",
-      "link": "https://finance.yahoo.com/economy/policy/articles/southern-glazer-settles-us-bribery-111507252.html",
-      "published": "2026-09-14T11:15:07Z",
-      "ts": 1789384507
     },
     {
       "source": "CoinDesk",
@@ -26,17 +47,10 @@
     },
     {
       "source": "MarketWatch",
-      "title": "AI has carried the stock market. An industry pause could pull the rug out, warns this Wall Street giant.",
+      "title": "AI has been carrying the stock market. An industry pause could pull the rug out, warns this Wall Street giant.",
       "link": "https://www.marketwatch.com/story/ai-has-carried-the-stock-market-an-industry-pause-could-pull-the-rug-out-warns-this-wall-street-giant-3272c960?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 11:15:00 GMT",
       "ts": 1789384500
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T11:13:37Z",
-      "ts": 1789384417
     },
     {
       "source": "Yahoo Finance",
@@ -51,13 +65,6 @@
       "link": "https://finance.yahoo.com/markets/articles/owe-13-000-car-suddenly-104500487.html",
       "published": "2026-09-14T10:45:00Z",
       "ts": 1789382700
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Morning Bid: Go slow AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/morning-bid-slow-ai-103901753.html",
-      "published": "2026-09-14T10:39:01Z",
-      "ts": 1789382341
     },
     {
       "source": "MarketWatch",
@@ -275,13 +282,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
       "published": "Sun, 13 Sep 2026 18:45:08 +0000",
       "ts": 1789325108
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Quantum-proof blockchain: why math, not machines, holds the key",
-      "link": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
-      "published": "Sun, 13 Sep 2026 17:00:00 +0000",
-      "ts": 1789318800
     }
   ]
 }
