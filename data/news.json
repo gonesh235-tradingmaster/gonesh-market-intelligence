@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-14T04:58:17.012695+00:00",
+  "updated_utc": "2026-09-14T05:13:48.481315+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Robinhood CEO says issuers should not have veto over tokenized stocks",
+      "link": "https://cointelegraph.com/news/robinhood-ceo-issuer-veto-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 04:55:28 +0000",
+      "ts": 1789361728
+    },
     {
       "source": "Cointelegraph",
       "title": "US Republicans send ‘final’ CLARITY Act offer to Democrats",
@@ -194,6 +201,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Dear UnitedHealth Stock Fans, Mark Your Calendars for October 1",
+      "link": "https://finance.yahoo.com/healthcare/articles/dear-unitedhealth-stock-fans-mark-183002378.html",
+      "published": "2026-09-12T18:30:02Z",
+      "ts": 1789237802
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Is Kenvue Underperforming the Nasdaq?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/kenvue-underperforming-nasdaq-175724434.html",
       "published": "2026-09-12T17:57:24Z",
@@ -201,10 +215,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Kimberly-Clark’s 54-Year Dividend Streak Faces Its Biggest Test Yet With $48.7 Billion Kenvue Deal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kimberly-clark-54-dividend-streak-174911450.html",
-      "published": "2026-09-12T17:49:11Z",
-      "ts": 1789235351
+      "title": "Jim Cramer Doubles Down on This $252B AI Stock: “You Have to Buy” Every Dip",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-doubles-down-252b-175653335.html",
+      "published": "2026-09-12T17:56:53Z",
+      "ts": 1789235813
     },
     {
       "source": "Yahoo Finance",
@@ -235,25 +249,11 @@
       "ts": 1789234422
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Novo Nordisk (NVO)’s Pediatric Obesity Opportunity Faces a Bigger Test",
-      "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-pediatric-obesity-171917899.html",
-      "published": "2026-09-12T17:19:17Z",
-      "ts": 1789233557
-    },
-    {
       "source": "Cointelegraph",
       "title": "North Korea using foreign talent to help infiltrate US companies: Report",
       "link": "https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 12 Sep 2026 16:08:29 +0000",
       "ts": 1789229309
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Farage’s Reform UK gets $97M from two crypto billionaires",
-      "link": "https://cointelegraph.com/news/farages-reform-uk-gets-biggest-donation-ever-from-crypto-billionaire-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 12 Sep 2026 15:50:14 +0000",
-      "ts": 1789228214
     },
     {
       "source": "Investing Crypto",
