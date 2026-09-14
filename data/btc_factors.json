@@ -1,9 +1,9 @@
 {
-  "updated_utc": "2026-09-14T02:04:43.187839+00:00",
+  "updated_utc": "2026-09-14T02:22:08.484114+00:00",
   "source": "CoinGecko Derivatives",
-  "open_interest": 8096142885.47,
+  "open_interest": 8123108501.91,
   "funding": {
-    "funding_rate": 0.963,
-    "mark_price": 76955.9
+    "funding_rate": 1.0,
+    "mark_price": 77322.4
   }
 }

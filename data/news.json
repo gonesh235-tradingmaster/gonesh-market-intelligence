@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-14T02:04:44.603858+00:00",
+  "updated_utc": "2026-09-14T02:22:09.698389+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -208,6 +208,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Foxconn Just Delivered a Major Bullish Signal for Nvidia Stock",
+      "link": "https://finance.yahoo.com/technology/ai/articles/foxconn-just-delivered-major-bullish-153002905.html",
+      "published": "2026-09-12T15:30:02Z",
+      "ts": 1789227002
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Rivian Sacrificed Its 2027 Profit Target. Here's Why Investors Should Applaud.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-sacrificed-2027-profit-target-152500464.html",
+      "published": "2026-09-12T15:25:00Z",
+      "ts": 1789226700
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Here's who stands to make money from the Anthropic IPO",
       "link": "https://finance.yahoo.com/markets/article/heres-who-stands-to-make-money-from-the-anthropic-ipo-151619986.html",
       "published": "2026-09-12T15:16:19Z",
@@ -219,13 +233,6 @@
       "link": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 12 Sep 2026 15:12:40 +0000",
       "ts": 1789225960
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Pepsi has a convenience-store problem that's not Coca-Cola",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pepsi-convenience-store-problem-thats-150700897.html",
-      "published": "2026-09-12T15:07:00Z",
-      "ts": 1789225620
     },
     {
       "source": "Yahoo Finance",
@@ -247,13 +254,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-delivers-blunt-message-143700482.html",
       "published": "2026-09-12T14:37:00Z",
       "ts": 1789223820
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "XRP Eyes Recovery to $1.55 as RLUSD Market Cap Grows by 50%",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-eyes-recovery-1-55-143258369.html",
-      "published": "2026-09-12T14:32:58Z",
-      "ts": 1789223578
     },
     {
       "source": "Investing Crypto",
