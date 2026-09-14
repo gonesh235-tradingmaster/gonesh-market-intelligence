@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-14T05:13:48.481315+00:00",
+  "updated_utc": "2026-09-14T05:28:11.905665+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies weaken as dollar rises, yen holds near seven-month high",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
+      "published": "2026-09-14 05:22:47",
+      "ts": 1789363367
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "King Charles to host AI chiefs amid industry call to slow development",
+      "link": "https://cointelegraph.com/news/king-charles-host-ai-chiefs-amid-industry-call-slow-development?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 05:16:59 +0000",
+      "ts": 1789363019
+    },
     {
       "source": "Cointelegraph",
       "title": "Robinhood CEO says issuers should not have veto over tokenized stocks",
@@ -193,6 +207,13 @@
       "ts": 1789247346
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Google Just Dropped a Bombshell on AI Spending — Alphabet’s $200 Billion AI Bet Is Starting to Pay Off Big",
+      "link": "https://finance.yahoo.com/technology/ai/articles/google-just-dropped-bombshell-ai-185617741.html",
+      "published": "2026-09-12T18:56:17Z",
+      "ts": 1789239377
+    },
+    {
       "source": "CoinDesk",
       "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
       "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
@@ -208,17 +229,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Firefly Aerospace vs. Joby Aviation: Which Industrials Stock Is a Better Buy in 2026?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-vs-joby-aviation-180401509.html",
+      "published": "2026-09-12T18:04:01Z",
+      "ts": 1789236241
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Is Kenvue Underperforming the Nasdaq?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/kenvue-underperforming-nasdaq-175724434.html",
       "published": "2026-09-12T17:57:24Z",
       "ts": 1789235844
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Doubles Down on This $252B AI Stock: “You Have to Buy” Every Dip",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-doubles-down-252b-175653335.html",
-      "published": "2026-09-12T17:56:53Z",
-      "ts": 1789235813
     },
     {
       "source": "Yahoo Finance",
@@ -242,20 +263,6 @@
       "ts": 1789234980
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Is Ingersoll Rand Stock Underperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ingersoll-rand-stock-underperforming-p-173342076.html",
-      "published": "2026-09-12T17:33:42Z",
-      "ts": 1789234422
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "North Korea using foreign talent to help infiltrate US companies: Report",
-      "link": "https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 12 Sep 2026 16:08:29 +0000",
-      "ts": 1789229309
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin struggles above $77,000 as rising exchange reserves weigh on sentiment",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-77000-as-rising-exchange-reserves-weigh-on-sentiment-4898643",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-yen-slips-dollar-holds-near-weekly-high-4897219",
       "published": "2026-09-11 19:17:21",
       "ts": 1789154241
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. 10-year yield briefly breaks 5% for first time since 2024 after Aug CPI",
-      "link": "https://www.investing.com/news/forex-news/european-debt-extended-in-5week-decline-on-rate-hikes-and-surging-oil-prices-4897325",
-      "published": "2026-09-11 13:03:28",
-      "ts": 1789131808
     }
   ]
 }
