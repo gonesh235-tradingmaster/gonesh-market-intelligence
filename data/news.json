@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-14T17:16:46.552158+00:00",
+  "updated_utc": "2026-09-14T17:30:19.034805+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "There’s every reason to slow AI development. But here’s why it probably won’t happen.",
+      "link": "https://www.marketwatch.com/story/theres-every-reason-to-slow-ai-development-but-heres-why-it-probably-wont-happen-80be6ad6?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 17:22:00 GMT",
+      "ts": 1789406520
+    },
     {
       "source": "Yahoo Finance",
       "title": "Spot Bitcoin ETFs Lose $463M Amid ‘Difficult’ Time for Markets",
@@ -26,17 +33,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Tries For A Gain, Trump Hits Out At AI Fears; This Fuel Play Clears Entry (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-nvda-stock-ai-warning/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T16:59:27Z",
-      "ts": 1789405167
+      "title": "This Bull Call Spread In Oil Provides A Hedge Against Stocks And Bonds",
+      "link": "https://www.investors.com/research/options/oil-etf-uso-options-spread-hedge-stocks-bonds-inflation-trade-strategy-markets/?src=A00220&yptr=yahoo",
+      "published": "2026-09-14T17:01:11Z",
+      "ts": 1789405271
     },
     {
       "source": "Yahoo Finance",
-      "title": "Nvidia, Broadcom Tumble In AI Rotation; These U.K.-Based Names Gain",
-      "link": "https://www.investors.com/news/ai-nvidia-broadcom-software-stocks-servicenow-workday-salesforce-micron/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T16:38:47Z",
-      "ts": 1789403927
+      "title": "Oracle Stock Falls After Ellison Scraps Plan To Sell Up To $7.5 Billion In Stock",
+      "link": "https://www.investors.com/news/technology/oracle-stock-falls-ellison-sell-plan-canceled/?src=A00220&yptr=yahoo",
+      "published": "2026-09-14T17:00:17Z",
+      "ts": 1789405217
     },
     {
       "source": "MarketWatch",
@@ -170,13 +177,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-14-133832281.html",
       "published": "2026-09-14T13:38:32Z",
       "ts": 1789393112
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here’s what to know.",
-      "link": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 13:37:00 GMT",
-      "ts": 1789393020
     },
     {
       "source": "Cointelegraph",
