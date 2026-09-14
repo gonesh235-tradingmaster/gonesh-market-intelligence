@@ -1,8 +1,43 @@
 {
-  "updated_utc": "2026-09-14T21:00:44.233192+00:00",
+  "updated_utc": "2026-09-14T21:17:26.930243+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "CrowdStrike and Palo Alto Networks lead software stocks to a never-before-seen feat",
+      "link": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:11:00 GMT",
+      "ts": 1789420260
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Chip stocks were a safe AI play. Now they’ve turned into the market’s pain trade.",
+      "link": "https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:11:00 GMT",
+      "ts": 1789420260
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood plans share redemptions, voting rights for stock tokens, after criticism",
+      "link": "https://www.coindesk.com/business/2026/09/14/robinhood-plans-share-redemptions-voting-rights-for-stock-tokens-after-criticism",
+      "published": "Mon, 14 Sep 2026 21:05:13 +0000",
+      "ts": 1789419913
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar hits highest level in almost two weeks as Fed rate hike bets hit nearly 95%",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
+      "published": "2026-09-14 21:03:42",
+      "ts": 1789419822
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Am I crazy to do this?",
+      "link": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:00:00 GMT",
+      "ts": 1789419600
+    },
     {
       "source": "MarketWatch",
       "title": "Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here’s what to know.",
@@ -51,27 +86,6 @@
       "link": "https://www.marketwatch.com/story/saudi-arabia-may-be-just-days-away-from-not-being-able-to-export-much-oil-acfefd0c?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 20:05:00 GMT",
       "ts": 1789416300
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The future of retirement? Work until you die.",
-      "link": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 19:59:00 GMT",
-      "ts": 1789415940
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Couples with a big age gap need more money — they have to plan for two retirements",
-      "link": "https://www.marketwatch.com/story/couples-with-a-big-age-gap-need-more-money-they-have-to-plan-for-two-retirements-1454b8c2?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 19:49:00 GMT",
-      "ts": 1789415340
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 19:30:00 GMT",
-      "ts": 1789414200
     },
     {
       "source": "CoinDesk",
@@ -172,13 +186,6 @@
       "ts": 1789396496
     },
     {
-      "source": "CoinDesk",
-      "title": "Here is the revised Clarity Act ethics provision Donald Trump has agreed to",
-      "link": "https://www.coindesk.com/policy/2026/09/14/here-is-the-revised-clarity-act-ethics-provision-donald-trump-has-agreed-to",
-      "published": "Mon, 14 Sep 2026 14:27:48 +0000",
-      "ts": 1789396068
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin steady at $78k amid M.East tensions, rate hike jitters",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
@@ -198,13 +205,6 @@
       "link": "https://www.investing.com/news/forex-news/citi-says-noksek-can-continue-to-work-despite-recent-gains-93CH-4899467",
       "published": "2026-09-14 12:07:47",
       "ts": 1789387667
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar charges to near two-week peak as Fed hike bets hit near-certainty",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
-      "published": "2026-09-14 10:17:45",
-      "ts": 1789381065
     },
     {
       "source": "Investing Forex",
@@ -257,31 +257,31 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Walmart Just Declared War on DoorDash and Uber Eats, But Winning Won't Be Easy for 1 Simple Reason",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-just-declared-war-doordash-123023266.html",
+      "published": "2026-09-13T12:30:23Z",
+      "ts": 1789302623
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "IBEX (IBEX) Turns The AI Threat Into Its Biggest Growth Engine",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ibex-ibex-turns-ai-threat-121949823.html",
+      "published": "2026-09-13T12:19:49Z",
+      "ts": 1789301989
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Wall Street Is Betting Against Designer Brands (DBI) Even as Profits Double",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-betting-against-designer-121631989.html",
+      "published": "2026-09-13T12:16:31Z",
+      "ts": 1789301791
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "1-800-Flowers (FLWS) Bets On Discipline While Revenue Keeps Fading",
       "link": "https://finance.yahoo.com/markets/stocks/articles/1-800-flowers-flws-bets-120329224.html",
       "published": "2026-09-13T12:03:29Z",
       "ts": 1789301009
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dimensional’s David Booth Discusses the State of ETFs, Investing and More",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dimensional-david-booth-discusses-state-120000449.html",
-      "published": "2026-09-13T12:00:00Z",
-      "ts": 1789300800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Ron Paul says 'people ought to own the gold, not the government', doubts the accounting at Fort Knox is 'trustworthy'",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/ron-paul-says-people-ought-120000495.html",
-      "published": "2026-09-13T12:00:00Z",
-      "ts": 1789300800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-100-oil-surging-yields-pressure-stocks-with-fed-rate-hike-seen-apple-leads-new-buys/?src=A00220&yptr=yahoo",
-      "published": "2026-09-13T11:57:14Z",
-      "ts": 1789300634
     }
   ]
 }
