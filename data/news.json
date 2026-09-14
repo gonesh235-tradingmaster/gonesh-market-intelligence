@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-14T05:28:11.905665+00:00",
+  "updated_utc": "2026-09-14T05:41:46.326554+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 05:31:55 +0000",
+      "ts": 1789363915
+    },
     {
       "source": "Investing Forex",
       "title": "Asian currencies weaken as dollar rises, yen holds near seven-month high",
@@ -130,13 +137,6 @@
       "ts": 1789318800
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 13 Sep 2026 16:47:53 +0000",
-      "ts": 1789318073
-    },
-    {
       "source": "CoinDesk",
       "title": "Fed rate hike is about Wall Street, not inflation, says economist",
       "link": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
@@ -229,10 +229,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Firefly Aerospace vs. Joby Aviation: Which Industrials Stock Is a Better Buy in 2026?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-vs-joby-aviation-180401509.html",
-      "published": "2026-09-12T18:04:01Z",
-      "ts": 1789236241
+      "title": "Worried About RMDs in Retirement? 3 Key Moves to Lower the Hassle Factors.",
+      "link": "https://finance.yahoo.com/markets/articles/worried-rmds-retirement-3-key-182600115.html",
+      "published": "2026-09-12T18:26:00Z",
+      "ts": 1789237560
     },
     {
       "source": "Yahoo Finance",
