@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-14T01:41:22.861707+00:00",
+  "updated_utc": "2026-09-14T01:53:25.369501+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -207,6 +207,13 @@
       "ts": 1789228214
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Here's who stands to make money from the Anthropic IPO",
+      "link": "https://finance.yahoo.com/markets/article/heres-who-stands-to-make-money-from-the-anthropic-ipo-151619986.html",
+      "published": "2026-09-12T15:16:19Z",
+      "ts": 1789226179
+    },
+    {
       "source": "Cointelegraph",
       "title": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters",
       "link": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -215,17 +222,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Pepsi has a convenience-store problem that's not Coca-Cola",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pepsi-convenience-store-problem-thats-150700897.html",
+      "published": "2026-09-12T15:07:00Z",
+      "ts": 1789225620
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Genesco (GCO) Proves Smaller Sales Can Still Mean Bigger Profits",
       "link": "https://finance.yahoo.com/markets/stocks/articles/genesco-gco-proves-smaller-sales-150521690.html",
       "published": "2026-09-12T15:05:21Z",
       "ts": 1789225521
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The Closest Thing to Set-It-and-Forget-It Income: 5 Dividend Kings for Retirees Who Want Peace of Mind",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/closest-thing-set-forget-income-145025989.html",
-      "published": "2026-09-12T14:50:25Z",
-      "ts": 1789224625
     },
     {
       "source": "Yahoo Finance",
@@ -247,13 +254,6 @@
       "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-eyes-recovery-1-55-143258369.html",
       "published": "2026-09-12T14:32:58Z",
       "ts": 1789223578
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Smith & Wesson’s (SWBI) Profit Turnaround Comes With a Catch",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/smith-wesson-swbi-profit-turnaround-142440248.html",
-      "published": "2026-09-12T14:24:40Z",
-      "ts": 1789223080
     },
     {
       "source": "Investing Crypto",
