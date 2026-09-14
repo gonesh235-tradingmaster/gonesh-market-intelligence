@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-14T00:43:25.986821+00:00",
+  "updated_utc": "2026-09-14T00:57:47.337665+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -222,6 +222,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Wiley’s (WLY) AI Bet Is Starting To Pay Off",
+      "link": "https://finance.yahoo.com/technology/ai/articles/wiley-wly-ai-bet-starting-141033390.html",
+      "published": "2026-09-12T14:10:33Z",
+      "ts": 1789222233
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Why AMD Stock Forecast Has Room to Run",
       "link": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-forecast-room-140002995.html",
       "published": "2026-09-12T14:00:02Z",
@@ -240,13 +247,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/frequency-electronics-feim-soars-record-133402974.html",
       "published": "2026-09-12T13:34:02Z",
       "ts": 1789220042
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Scott Bessent dismisses 'Bloomberg Terminal bros' as 10-year Treasury yield hits 4.94% despite $5.2B buyback",
-      "link": "https://finance.yahoo.com/economy/policy/articles/scott-bessent-dismisses-bloomberg-terminal-133000792.html",
-      "published": "2026-09-12T13:30:00Z",
-      "ts": 1789219800
     },
     {
       "source": "Investing Crypto",
