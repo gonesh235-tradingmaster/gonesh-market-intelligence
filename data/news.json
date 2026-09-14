@@ -1,8 +1,78 @@
 {
-  "updated_utc": "2026-09-14T10:01:54.798510+00:00",
+  "updated_utc": "2026-09-14T10:19:08.616367+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "AI warnings by Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman could hammer this momentum stock",
+      "link": "https://finance.yahoo.com/markets/stocks/article/ai-warnings-by-anthropic-ceo-dario-amodei-and-openai-ceo-sam-altman-could-hammer-this-momentum-stock-101518585.html",
+      "published": "2026-09-14T10:15:18Z",
+      "ts": 1789380918
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 10:15:00 GMT",
+      "ts": 1789380900
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How luxury brands are redesigning packaging for sustainability",
+      "link": "https://finance.yahoo.com/media-advertising/articles/luxury-brands-redesigning-packaging-sustainability-101346329.html",
+      "published": "2026-09-14T10:13:46Z",
+      "ts": 1789380826
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
+      "link": "https://www.coindesk.com/markets/2026/09/14/bitcoin-climbs-to-usd78-000-as-crypto-sits-out-the-ai-selloff",
+      "published": "Mon, 14 Sep 2026 10:09:41 +0000",
+      "ts": 1789380581
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Analysis-Bitcoin's late summer rally set to face off against the Fed, Congress",
+      "link": "https://finance.yahoo.com/news/analysis-bitcoins-summer-rally-set-100329922.html",
+      "published": "2026-09-14T10:05:05Z",
+      "ts": 1789380305
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar charges to near two-week peak as Fed hike bets hit near-certainty",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
+      "published": "2026-09-14 10:00:21",
+      "ts": 1789380021
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/markets/clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 10:00:17 +0000",
+      "ts": 1789380017
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "HELOC and home equity loan rates today, Monday, September 14, 2026: A 33-basis-point differential",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-14-2026-a-33-basis-point-differential-100000523.html",
+      "published": "2026-09-14T10:00:00Z",
+      "ts": 1789380000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Best CD rates today, Monday, September 14, 2026: Lock in up to 4.35% APY",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-14-2026-lock-in-up-to-435-apy-100000686.html",
+      "published": "2026-09-14T10:00:00Z",
+      "ts": 1789380000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Mortgage and refinance interest rates today, Monday, September 14, 2026: Purchase and refinance rates are mixed",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-14-2026-purchase-and-refinance-rates-are-mixed-100000816.html",
+      "published": "2026-09-14T10:00:00Z",
+      "ts": 1789380000
+    },
     {
       "source": "Cointelegraph",
       "title": "Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty",
@@ -11,18 +81,11 @@
       "ts": 1789379735
     },
     {
-      "source": "Yahoo Finance",
-      "title": "A couple earning $310,000 a year faces a $100,000 debt divide that's putting their marriage plans on hold",
-      "link": "https://finance.yahoo.com/small-business/articles/couple-earning-310-000-faces-094500308.html",
-      "published": "2026-09-14T09:45:00Z",
-      "ts": 1789379100
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Billionaire David Einhorn Says SpaceX Is Making History, but Not in a Good Way",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-einhorn-says-spacex-094500185.html",
-      "published": "2026-09-14T09:45:00Z",
-      "ts": 1789379100
+      "source": "Investing Forex",
+      "title": "BofA sees dollar sideways into year-end despite Fed hike bets",
+      "link": "https://www.investing.com/news/forex-news/bofa-sees-dollar-sideways-into-yearend-despite-fed-hike-bets-93CH-4899034",
+      "published": "2026-09-14 09:55:05",
+      "ts": 1789379705
     },
     {
       "source": "MarketWatch",
@@ -37,34 +100,6 @@
       "link": "https://www.coindesk.com/business/2026/09/14/tiktok-developer-bytedance-arranges-usd29-6-billion-loan-as-it-builds-ai-ambitions",
       "published": "Mon, 14 Sep 2026 09:43:45 +0000",
       "ts": 1789379025
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "China urges more FX hedging as strong yuan hits exporters, sources say",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/china-urges-more-fx-hedging-094330539.html",
-      "published": "2026-09-14T09:43:30Z",
-      "ts": 1789379010
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stocks to Watch Monday: Nvidia, Oracle, SoftBank",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/stocks-to-watch-monday-nvidia-oracle-softbank-z8oHxWLCC1rwQAwr0oUs?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-09-14T09:37:54Z",
-      "ts": 1789378674
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning",
-      "link": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
-      "published": "2026-09-14T09:36:37Z",
-      "ts": 1789378597
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "50% of Americans wildly overestimate how much income $100,000 in retirement savings can produce, NIRS finds",
-      "link": "https://finance.yahoo.com/markets/articles/50-americans-wildly-overestimate-much-093000280.html",
-      "published": "2026-09-14T09:30:00Z",
-      "ts": 1789378200
     },
     {
       "source": "CoinDesk",
@@ -86,13 +121,6 @@
       "link": "https://www.investing.com/news/forex-news/bofa-says-danish-krone-weakness-driven-by-flows-not-peg-fears-93CH-4898992",
       "published": "2026-09-14 09:23:41",
       "ts": 1789377821
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Here’s the minimum net worth you need to be considered ‘upper class’ in your 60s — and the magic step to get you there",
-      "link": "https://finance.yahoo.com/markets/articles/minimum-net-worth-considered-upper-120500252.html",
-      "published": "2026-09-14T09:05:00Z",
-      "ts": 1789376700
     },
     {
       "source": "MarketWatch",
@@ -144,13 +172,6 @@
       "ts": 1789371488
     },
     {
-      "source": "Investing Forex",
-      "title": "Asian currencies under pressure as dollar gains, yen stays elevated",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
-      "published": "2026-09-14 07:33:24",
-      "ts": 1789371204
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin trapped in $76K-$81K rectangle: Live breakout levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
@@ -193,6 +214,13 @@
       "ts": 1789361728
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Another coffeehouse files for Chapter 11 as costs, prices rise",
+      "link": "https://finance.yahoo.com/small-business/articles/another-coffeehouse-files-chapter-11-033545256.html",
+      "published": "2026-09-14T03:35:45Z",
+      "ts": 1789356945
+    },
+    {
       "source": "Cointelegraph",
       "title": "US Republicans send ‘final’ CLARITY Act offer to Democrats",
       "link": "https://cointelegraph.com/news/us-republicans-send-final-clarity-act-offer-to-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -205,20 +233,6 @@
       "link": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 01:30:00 GMT",
       "ts": 1789349400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
-      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 01:00:00 GMT",
-      "ts": 1789347600
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Revolut attackers threaten daily customer data leaks",
-      "link": "https://cointelegraph.com/news/revolut-attackers-threaten-daily-customer-data-leaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 14 Sep 2026 00:54:08 +0000",
-      "ts": 1789347248
     },
     {
       "source": "Investing Crypto",
@@ -268,20 +282,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
       "published": "Sun, 13 Sep 2026 13:00:00 +0000",
       "ts": 1789304400
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
-      "link": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
-      "published": "Sun, 13 Sep 2026 13:00:00 +0000",
-      "ts": 1789304400
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
-      "published": "Sun, 13 Sep 2026 12:00:00 +0000",
-      "ts": 1789300800
     }
   ]
 }
