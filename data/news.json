@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-14T07:02:11.254857+00:00",
+  "updated_utc": "2026-09-14T07:21:19.220134+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-shed-463m-ether-etfs-gain-197m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 07:07:54 +0000",
+      "ts": 1789369674
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin steady at $77.7k amid M.East tensions, rate hike jitters",
@@ -172,13 +179,6 @@
       "ts": 1789297794
     },
     {
-      "source": "Cointelegraph",
-      "title": "Revolut says customer data exposed through fake government email",
-      "link": "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 13 Sep 2026 09:27:21 +0000",
-      "ts": 1789291641
-    },
-    {
       "source": "Investing Forex",
       "title": "Speculators turn bullish on yen for first time since February",
       "link": "https://www.investing.com/news/forex-news/speculators-turn-bullish-on-yen-for-first-time-since-february-4898711",
@@ -250,10 +250,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "1 Magnificent Growth Stock Down 55% to Buy Right Now, According to Wall Street",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-magnificent-growth-stock-down-193500413.html",
-      "published": "2026-09-12T19:35:00Z",
-      "ts": 1789241700
+      "title": "Is Toast Stock a Buy After a Record 9,500-Restaurant Quarter?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/toast-stock-buy-record-9-195000742.html",
+      "published": "2026-09-12T19:50:00Z",
+      "ts": 1789242600
     },
     {
       "source": "Yahoo Finance",
