@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-14T04:16:18.409599+00:00",
+  "updated_utc": "2026-09-14T04:32:45.251872+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -201,10 +201,31 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "How Is Exelon’s Stock Performance Compared to Other Regulated Utilities Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exelon-stock-performance-compared-other-174300551.html",
+      "published": "2026-09-12T17:43:00Z",
+      "ts": 1789234980
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is Ingersoll Rand Stock Underperforming the S&P 500?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ingersoll-rand-stock-underperforming-p-173342076.html",
+      "published": "2026-09-12T17:33:42Z",
+      "ts": 1789234422
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Novo Nordisk (NVO)’s Pediatric Obesity Opportunity Faces a Bigger Test",
       "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-pediatric-obesity-171917899.html",
       "published": "2026-09-12T17:19:17Z",
       "ts": 1789233557
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Larry Ellison Ends Plan to Sell Up to $7.5 Billion in Oracle Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/larry-ellison-ends-plan-sell-171853217.html",
+      "published": "2026-09-12T17:18:53Z",
+      "ts": 1789233533
     },
     {
       "source": "Yahoo Finance",
@@ -215,31 +236,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Plexus Director Karen Rapp Sells 500 Shares for $120,400",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/plexus-director-karen-rapp-sells-170501843.html",
-      "published": "2026-09-12T17:05:01Z",
-      "ts": 1789232701
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "BioMarin Shares Jump 5% After Global Patent Settlement With Ascendis",
       "link": "https://finance.yahoo.com/healthcare/articles/biomarin-shares-jump-5-global-170253036.html",
       "published": "2026-09-12T17:02:53Z",
       "ts": 1789232573
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Teva’s (TEVA) $125 Million BioXcel Bid Offers Upside, but FDA and Auction Risks Remain",
-      "link": "https://finance.yahoo.com/healthcare/articles/teva-teva-125-million-bioxcel-165735518.html",
-      "published": "2026-09-12T16:57:35Z",
-      "ts": 1789232255
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Explains Why Merck (MRK) Is His Fantasy Defense Stock",
-      "link": "https://finance.yahoo.com/healthcare/articles/jim-cramer-explains-why-merck-164911925.html",
-      "published": "2026-09-12T16:49:11Z",
-      "ts": 1789231751
     },
     {
       "source": "Cointelegraph",
