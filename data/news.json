@@ -1,21 +1,49 @@
 {
-  "updated_utc": "2026-09-14T11:13:33.330164+00:00",
+  "updated_utc": "2026-09-14T11:29:44.053985+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
       "source": "Yahoo Finance",
-      "title": "Retired Surgeon Wanted to Leave His Kids as Much as Possible. Picking the Wrong Account Cost His Heirs Hundreds of Thousands of Dollars.",
-      "link": "https://finance.yahoo.com/markets/articles/retired-surgeon-wanted-leave-kids-105127937.html",
-      "published": "2026-09-14T10:51:27Z",
-      "ts": 1789383087
+      "title": "Gold prices today, Monday, September 14, 2026: Gold sinks following new attacks on Saudi pipeline and more",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-september-14-2026-gold-sinks-following-new-attacks-on-saudi-pipeline-and-more-111825907.html",
+      "published": "2026-09-14T11:18:25Z",
+      "ts": 1789384705
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Southern Glazer’s settles US bribery probe",
+      "link": "https://finance.yahoo.com/economy/policy/articles/southern-glazer-settles-us-bribery-111507252.html",
+      "published": "2026-09-14T11:15:07Z",
+      "ts": 1789384507
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto market outperforms as call for slower AI development weighs on tech stocks",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/14/crypto-market-outperforms-as-call-for-slower-ai-development-weighs-on-tech-stocks",
+      "published": "Mon, 14 Sep 2026 11:15:00 +0000",
+      "ts": 1789384500
+    },
+    {
+      "source": "MarketWatch",
+      "title": "AI has carried the stock market. An industry pause could pull the rug out, warns this Wall Street giant.",
+      "link": "https://www.marketwatch.com/story/ai-has-carried-the-stock-market-an-industry-pause-could-pull-the-rug-out-warns-this-wall-street-giant-3272c960?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 11:15:00 GMT",
+      "ts": 1789384500
     },
     {
       "source": "Yahoo Finance",
       "title": "Dow Jones Futures: Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T10:49:45Z",
-      "ts": 1789382985
+      "published": "2026-09-14T11:13:37Z",
+      "ts": 1789384417
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Electra Therapeutics targets $977.6 million valuation in US IPO",
+      "link": "https://finance.yahoo.com/healthcare/articles/electra-therapeutics-targets-977-6-110028846.html",
+      "published": "2026-09-14T11:00:28Z",
+      "ts": 1789383628
     },
     {
       "source": "Yahoo Finance",
@@ -37,20 +65,6 @@
       "link": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 10:35:00 GMT",
       "ts": 1789382100
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "My husband insisted we split our bills 50/50, even though he made more money. Now I do, and he's refusing the same deal",
-      "link": "https://finance.yahoo.com/small-business/articles/husband-insisted-split-bills-50-103000362.html",
-      "published": "2026-09-14T10:30:00Z",
-      "ts": 1789381800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Hewlett Packard Enterprise (HPE) Surges 19% in a Week — What to Watch For Next?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-hpe-surges-102301377.html",
-      "published": "2026-09-14T10:23:01Z",
-      "ts": 1789381381
     },
     {
       "source": "Investing Forex",
@@ -249,13 +263,6 @@
       "ts": 1789336793
     },
     {
-      "source": "MarketWatch",
-      "title": "These are the 10 biggest retirement fears — and what you can do about them",
-      "link": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
-      "published": "Sun, 13 Sep 2026 21:10:00 GMT",
-      "ts": 1789333800
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin stalls at $77,338 between key support and resistance: Live",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
@@ -275,13 +282,6 @@
       "link": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
       "published": "Sun, 13 Sep 2026 17:00:00 +0000",
       "ts": 1789318800
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Fed rate hike is about Wall Street, not inflation, says economist",
-      "link": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
-      "published": "Sun, 13 Sep 2026 13:00:00 +0000",
-      "ts": 1789304400
     }
   ]
 }
