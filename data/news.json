@@ -1,14 +1,28 @@
 {
-  "updated_utc": "2026-09-14T10:19:08.616367+00:00",
+  "updated_utc": "2026-09-14T10:33:37.047280+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Hewlett Packard Enterprise (HPE) Surges 19% in a Week — What to Watch For Next?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-hpe-surges-102301377.html",
+      "published": "2026-09-14T10:23:01Z",
+      "ts": 1789381381
+    },
     {
       "source": "Yahoo Finance",
       "title": "AI warnings by Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman could hammer this momentum stock",
       "link": "https://finance.yahoo.com/markets/stocks/article/ai-warnings-by-anthropic-ceo-dario-amodei-and-openai-ceo-sam-altman-could-hammer-this-momentum-stock-101518585.html",
       "published": "2026-09-14T10:15:18Z",
       "ts": 1789380918
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "‘Black Swan’ investor backs Michael Burry’s AI warning: ‘Euphoric rally’ comes before historic crash. Protect your money",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/black-swan-investor-backs-michael-101500434.html",
+      "published": "2026-09-14T10:15:00Z",
+      "ts": 1789380900
     },
     {
       "source": "MarketWatch",
@@ -33,10 +47,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Analysis-Bitcoin's late summer rally set to face off against the Fed, Congress",
-      "link": "https://finance.yahoo.com/news/analysis-bitcoins-summer-rally-set-100329922.html",
-      "published": "2026-09-14T10:05:05Z",
-      "ts": 1789380305
+      "title": "Analysis-Defense, space firms turn to SPACs as investor appetite soars",
+      "link": "https://finance.yahoo.com/news/analysis-defense-space-firms-turn-100910914.html",
+      "published": "2026-09-14T10:09:10Z",
+      "ts": 1789380550
     },
     {
       "source": "Investing Forex",
@@ -51,27 +65,6 @@
       "link": "https://cointelegraph.com/markets/clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 10:00:17 +0000",
       "ts": 1789380017
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "HELOC and home equity loan rates today, Monday, September 14, 2026: A 33-basis-point differential",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-14-2026-a-33-basis-point-differential-100000523.html",
-      "published": "2026-09-14T10:00:00Z",
-      "ts": 1789380000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Best CD rates today, Monday, September 14, 2026: Lock in up to 4.35% APY",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-14-2026-lock-in-up-to-435-apy-100000686.html",
-      "published": "2026-09-14T10:00:00Z",
-      "ts": 1789380000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mortgage and refinance interest rates today, Monday, September 14, 2026: Purchase and refinance rates are mixed",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-14-2026-purchase-and-refinance-rates-are-mixed-100000816.html",
-      "published": "2026-09-14T10:00:00Z",
-      "ts": 1789380000
     },
     {
       "source": "Cointelegraph",
@@ -100,6 +93,13 @@
       "link": "https://www.coindesk.com/business/2026/09/14/tiktok-developer-bytedance-arranges-usd29-6-billion-loan-as-it-builds-ai-ambitions",
       "published": "Mon, 14 Sep 2026 09:43:45 +0000",
       "ts": 1789379025
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning",
+      "link": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
+      "published": "2026-09-14T09:36:37Z",
+      "ts": 1789378597
     },
     {
       "source": "CoinDesk",
@@ -138,7 +138,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "UK FCA considers bespoke rules and fund exemptions for tokenized gold: FT",
+      "title": "UK FCA seeks views on fund rule exemptions for tokenized gold",
       "link": "https://cointelegraph.com/news/uk-fca-weighs-fund-rules-exemption-for-tokenized-gold-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 08:57:00 +0000",
       "ts": 1789376220
