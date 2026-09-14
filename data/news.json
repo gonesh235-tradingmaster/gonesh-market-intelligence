@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-14T03:16:24.261751+00:00",
+  "updated_utc": "2026-09-14T03:32:56.909354+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "US Republicans send ‘final’ CLARITY Act offer to Democrats",
+      "link": "https://cointelegraph.com/news/us-republicans-send-final-clarity-act-offer-to-democrats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 03:22:49 +0000",
+      "ts": 1789356169
+    },
     {
       "source": "MarketWatch",
       "title": "My 87-year-old mother wants to pay for my brother’s kids’ education. I don’t have children. How is that fair?",
@@ -194,6 +201,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "eGain’s (EGAN) Bold AI Pivot Just Won A Big Believer",
+      "link": "https://finance.yahoo.com/technology/ai/articles/egain-egan-bold-ai-pivot-163723656.html",
+      "published": "2026-09-12T16:37:23Z",
+      "ts": 1789231043
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "BRP (DOO) Posts A Quarterly Loss And Raises Its Outlook Anyway",
       "link": "https://finance.yahoo.com/markets/stocks/articles/brp-doo-posts-quarterly-loss-163212953.html",
       "published": "2026-09-12T16:32:12Z",
@@ -205,6 +219,13 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/mama-creations-mama-just-proved-162554673.html",
       "published": "2026-09-12T16:25:54Z",
       "ts": 1789230354
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Do You Really Need Bond ETFs Before Age 50? Here's What I'd Do.",
+      "link": "https://finance.yahoo.com/markets/options/articles/really-bond-etfs-age-50-162500746.html",
+      "published": "2026-09-12T16:25:00Z",
+      "ts": 1789230300
     },
     {
       "source": "Yahoo Finance",
@@ -228,32 +249,11 @@
       "ts": 1789229309
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer: Lululemon Is a “Thoroughly Broken Stock. I Can’t Give You a Good Reason to Buy It”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-lululemon-thoroughly-broken-160751991.html",
-      "published": "2026-09-12T16:07:51Z",
-      "ts": 1789229271
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Samsara (IOT) Crosses $2B, But Growth Comes With A Hardware Tax",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/samsara-iot-crosses-2b-growth-160016151.html",
-      "published": "2026-09-12T16:00:16Z",
-      "ts": 1789228816
-    },
-    {
       "source": "Cointelegraph",
       "title": "Farage’s Reform UK gets $97M from two crypto billionaires",
       "link": "https://cointelegraph.com/news/farages-reform-uk-gets-biggest-donation-ever-from-crypto-billionaire-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 12 Sep 2026 15:50:14 +0000",
       "ts": 1789228214
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters",
-      "link": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 12 Sep 2026 15:12:40 +0000",
-      "ts": 1789225960
     },
     {
       "source": "Investing Crypto",
