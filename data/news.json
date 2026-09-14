@@ -1,14 +1,28 @@
 {
-  "updated_utc": "2026-09-14T15:23:00.392900+00:00",
+  "updated_utc": "2026-09-14T15:38:23.999545+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 15:30:00 GMT",
+      "ts": 1789399800
+    },
     {
       "source": "MarketWatch",
       "title": "10-year Treasury yield tops 5% for the first time since 2007 as bond-market selloff deepens",
       "link": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 15:21:00 GMT",
       "ts": 1789399260
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Why are AI’s biggest companies suddenly asking to slow down?",
+      "link": "https://cointelegraph.com/magazine/why-are-biggest-ai-companies-suddenly-asking-to-slow-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 15:18:46 +0000",
+      "ts": 1789399126
     },
     {
       "source": "CoinDesk",
@@ -172,13 +186,6 @@
       "ts": 1789388027
     },
     {
-      "source": "MarketWatch",
-      "title": "AI has been carrying the stock market. An industry pause could pull the rug out, warns this Wall Street giant.",
-      "link": "https://www.marketwatch.com/story/ai-has-carried-the-stock-market-an-industry-pause-could-pull-the-rug-out-warns-this-wall-street-giant-3272c960?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 12:11:00 GMT",
-      "ts": 1789387860
-    },
-    {
       "source": "CoinDesk",
       "title": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
       "link": "https://www.coindesk.com/markets/2026/09/14/dogecoin-etfs-struggled-for-buyers-while-rival-xrp-and-solana-funds-pulled-in-usd3-billion",
@@ -268,13 +275,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
       "published": "2026-09-14 07:11:31",
       "ts": 1789369891
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-shed-463m-ether-etfs-gain-197m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 14 Sep 2026 07:07:54 +0000",
-      "ts": 1789369674
     },
     {
       "source": "Yahoo Finance",
