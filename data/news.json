@@ -1,29 +1,8 @@
 {
-  "updated_utc": "2026-09-13T23:59:16.037852+00:00",
+  "updated_utc": "2026-09-14T00:24:34.085653+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures Fall, Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-      "published": "2026-09-13T23:48:04Z",
-      "ts": 1789343284
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Trump Urges Federal Reserve To Cut Rates As Market Bets On Warsh Hike",
-      "link": "https://www.investors.com/news/trump-urges-federal-reserve-to-cut-rates-market-bets-warsh-hike/?src=A00220&yptr=yahoo",
-      "published": "2026-09-13T23:34:11Z",
-      "ts": 1789342451
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes",
-      "link": "https://finance.yahoo.com/energy/articles/stanchart-warns-oil-now-built-230000074.html",
-      "published": "2026-09-13T23:00:00Z",
-      "ts": 1789340400
-    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin little changed at $77k as rate pressure clashes with diversification case",
@@ -37,13 +16,6 @@
       "link": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
       "published": "Sun, 13 Sep 2026 21:10:00 GMT",
       "ts": 1789333800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Further Oil Price Spikes Could Rekindle Recession Fears",
-      "link": "https://finance.yahoo.com/economy/policy/articles/further-oil-price-spikes-could-210000970.html",
-      "published": "2026-09-13T21:00:00Z",
-      "ts": 1789333200
     },
     {
       "source": "MarketWatch",
@@ -72,13 +44,6 @@
       "link": "https://www.marketwatch.com/story/how-to-trade-a-well-paying-job-for-more-work-life-balance-without-going-broke-794de555?mod=mw_rss_topstories",
       "published": "Sun, 13 Sep 2026 20:17:00 GMT",
       "ts": 1789330620
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Chewy’s (CHWY) Margin Story Losing Steam, or Is a 48% Drop the Opportunity?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/chewy-chwy-margin-story-losing-195717174.html",
-      "published": "2026-09-13T19:57:17Z",
-      "ts": 1789329437
     },
     {
       "source": "MarketWatch",
@@ -128,6 +93,13 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 13 Sep 2026 16:47:53 +0000",
       "ts": 1789318073
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "49-year-old clothing chain closing stores as its shoppers shrink",
+      "link": "https://finance.yahoo.com/small-business/articles/49-old-clothing-chain-closing-153300913.html",
+      "published": "2026-09-13T15:33:00Z",
+      "ts": 1789313580
     },
     {
       "source": "CoinDesk",
@@ -235,6 +207,41 @@
       "ts": 1789225960
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Morgan Stanley delivers blunt message to America’s pet owners",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-delivers-blunt-message-143700482.html",
+      "published": "2026-09-12T14:37:00Z",
+      "ts": 1789223820
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Frequency Electronics (FEIM) Soars After Record Revenue",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/frequency-electronics-feim-soars-record-133402974.html",
+      "published": "2026-09-12T13:34:02Z",
+      "ts": 1789220042
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Alibaba (BABA)’s AI Bet Faces a $10.2 Billion Test",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-baba-ai-bet-faces-133035025.html",
+      "published": "2026-09-12T13:30:35Z",
+      "ts": 1789219835
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Scott Bessent dismisses 'Bloomberg Terminal bros' as 10-year Treasury yield hits 4.94% despite $5.2B buyback",
+      "link": "https://finance.yahoo.com/economy/policy/articles/scott-bessent-dismisses-bloomberg-terminal-133000792.html",
+      "published": "2026-09-12T13:30:00Z",
+      "ts": 1789219800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Ken Fisher Added to Cisco and Palo Alto Networks. Their AI Security Bets Face Different Tests",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ken-fisher-added-cisco-palo-132214941.html",
+      "published": "2026-09-12T13:22:14Z",
+      "ts": 1789219334
+    },
+    {
       "source": "Investing Crypto",
       "title": "Bitcoin struggles above $77,000 as rising exchange reserves weigh on sentiment",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-77000-as-rising-exchange-reserves-weigh-on-sentiment-4898643",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/european-debt-extended-in-5week-decline-on-rate-hikes-and-surging-oil-prices-4897325",
       "published": "2026-09-11 13:03:28",
       "ts": 1789131808
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound steady as UK GDP beats, dollar firms on CPI bets",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steady-as-uk-gdp-beats-dollar-firms-on-cpi-bets-4897403",
-      "published": "2026-09-11 09:09:22",
-      "ts": 1789117762
     }
   ]
 }
