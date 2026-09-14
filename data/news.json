@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-14T23:02:26.667137+00:00",
+  "updated_utc": "2026-09-14T23:17:46.515479+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -200,6 +200,13 @@
       "ts": 1789396676
     },
     {
+      "source": "Yahoo Finance",
+      "title": "National specialty clothing chain closing all its stores",
+      "link": "https://finance.yahoo.com/small-business/articles/national-specialty-clothing-chain-closing-140700669.html",
+      "published": "2026-09-14T14:07:00Z",
+      "ts": 1789394820
+    },
+    {
       "source": "Investing Forex",
       "title": "U.S. Treasury yields hold near multi-year highs as Fed hike bets anchor curve",
       "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
@@ -271,17 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Amgen (AMGN) Fell 5% on a Drug That Isn’t Even Its Own. Here’s the Lp(a) Bet Now in Question.",
-      "link": "https://finance.yahoo.com/healthcare/articles/amgen-amgn-fell-5-drug-142916899.html",
-      "published": "2026-09-13T14:29:16Z",
-      "ts": 1789309756
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Alibaba and Amazon Face the Same AI Spending Question: How Quickly Does Capacity Become Cash?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-amazon-face-same-ai-140837189.html",
-      "published": "2026-09-13T14:08:37Z",
-      "ts": 1789308517
+      "title": "Nvidia Is Focused on Redefining AI Infrastructure as an Income-Generating Asset",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-focused-redefining-ai-infrastructure-153002085.html",
+      "published": "2026-09-13T15:30:02Z",
+      "ts": 1789313402
     }
   ]
 }
