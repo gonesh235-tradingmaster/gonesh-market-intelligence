@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-14T07:21:19.220134+00:00",
+  "updated_utc": "2026-09-14T07:36:11.229379+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies under pressure as dollar gains, yen stays elevated",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
+      "published": "2026-09-14 07:33:24",
+      "ts": 1789371204
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin trapped in $76K-$81K rectangle: Live breakout levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+      "published": "2026-09-14 07:11:31",
+      "ts": 1789369891
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M",
@@ -23,13 +37,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 05:31:55 +0000",
       "ts": 1789363915
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies weaken as dollar rises, yen holds near seven-month high",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
-      "published": "2026-09-14 05:22:47",
-      "ts": 1789363367
     },
     {
       "source": "Cointelegraph",
@@ -194,6 +201,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Here is Why Piper Sandler Named Q2 Holdings (QTWO) Its Top Pick",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-piper-sandler-named-q2-221304680.html",
+      "published": "2026-09-12T22:13:04Z",
+      "ts": 1789251184
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Block, Inc (XYZ)’s Bank Charter Push Signals Bigger Ambitions in Digital Assets",
       "link": "https://finance.yahoo.com/markets/crypto/articles/block-inc-xyz-bank-charter-220930244.html",
       "published": "2026-09-12T22:09:30Z",
@@ -250,17 +264,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Toast Stock a Buy After a Record 9,500-Restaurant Quarter?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/toast-stock-buy-record-9-195000742.html",
-      "published": "2026-09-12T19:50:00Z",
-      "ts": 1789242600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dear Nike Stock Fans, Mark Your Calendars for September 21",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dear-nike-stock-fans-mark-193002692.html",
-      "published": "2026-09-12T19:30:02Z",
-      "ts": 1789241402
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "link": "https://finance.yahoo.com/technology/ai/articles/openai-sam-altman-says-ill-201916714.html",
+      "published": "2026-09-12T20:19:16Z",
+      "ts": 1789244356
     },
     {
       "source": "CoinDesk",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-77000-as-rising-exchange-reserves-weigh-on-sentiment-4898643",
       "published": "2026-09-12 09:52:28",
       "ts": 1789206748
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin set to snap three-week win streak on surging oil, tick up in Fed hike bets",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-771k-amid-usiran-jitters-cpi-caution-4897247",
-      "published": "2026-09-11 21:20:45",
-      "ts": 1789161645
     }
   ]
 }
