@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-14T09:50:14.400934+00:00",
+  "updated_utc": "2026-09-14T10:01:54.798510+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty",
+      "link": "https://cointelegraph.com/news/symbiosis-recovered-15-btc-bridge-hack-20-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 09:55:35 +0000",
+      "ts": 1789379735
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "A couple earning $310,000 a year faces a $100,000 debt divide that's putting their marriage plans on hold",
+      "link": "https://finance.yahoo.com/small-business/articles/couple-earning-310-000-faces-094500308.html",
+      "published": "2026-09-14T09:45:00Z",
+      "ts": 1789379100
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Billionaire David Einhorn Says SpaceX Is Making History, but Not in a Good Way",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-einhorn-says-spacex-094500185.html",
+      "published": "2026-09-14T09:45:00Z",
+      "ts": 1789379100
+    },
     {
       "source": "MarketWatch",
       "title": "‘He does not have a spouse or children’: My son has a serious genetic disease. What should I do with my $1.3 million estate?",
@@ -19,8 +40,29 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Prediction: The Next Nvidia-Backed Stock to Go Parabolic Could Be Hiding in Plain Sight",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-next-nvidia-backed-stock-093000386.html",
+      "title": "China urges more FX hedging as strong yuan hits exporters, sources say",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/china-urges-more-fx-hedging-094330539.html",
+      "published": "2026-09-14T09:43:30Z",
+      "ts": 1789379010
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stocks to Watch Monday: Nvidia, Oracle, SoftBank",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/stocks-to-watch-monday-nvidia-oracle-softbank-z8oHxWLCC1rwQAwr0oUs?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-09-14T09:37:54Z",
+      "ts": 1789378674
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning",
+      "link": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
+      "published": "2026-09-14T09:36:37Z",
+      "ts": 1789378597
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "50% of Americans wildly overestimate how much income $100,000 in retirement savings can produce, NIRS finds",
+      "link": "https://finance.yahoo.com/markets/articles/50-americans-wildly-overestimate-much-093000280.html",
       "published": "2026-09-14T09:30:00Z",
       "ts": 1789378200
     },
@@ -67,39 +109,11 @@
       "ts": 1789376580
     },
     {
-      "source": "Yahoo Finance",
-      "title": "7 ‘bad assets’ that could cause you to retire poor in America — how many do you own?",
-      "link": "https://finance.yahoo.com/markets/articles/7-bad-assets-could-cause-090000457.html",
-      "published": "2026-09-14T09:00:00Z",
-      "ts": 1789376400
-    },
-    {
       "source": "Cointelegraph",
       "title": "UK FCA considers bespoke rules and fund exemptions for tokenized gold: FT",
       "link": "https://cointelegraph.com/news/uk-fca-weighs-fund-rules-exemption-for-tokenized-gold-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 08:57:00 +0000",
       "ts": 1789376220
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Africa's biggest oil refinery opens to public ownership, sparking excitement among retail investors",
-      "link": "https://finance.yahoo.com/energy/articles/africas-biggest-oil-refinery-opens-085534787.html",
-      "published": "2026-09-14T08:55:34Z",
-      "ts": 1789376134
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The math behind Databricks' $190B price doesn't add up—yet",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/math-behind-databricks-190b-price-084100123.html",
-      "published": "2026-09-14T08:41:00Z",
-      "ts": 1789375260
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Companies left China to dodge tariffs. Now some are heading back",
-      "link": "https://finance.yahoo.com/economy/policy/articles/companies-left-china-dodge-tariffs-075131494.html",
-      "published": "2026-09-14T08:17:43Z",
-      "ts": 1789373863
     },
     {
       "source": "Investing Forex",
@@ -207,13 +221,6 @@
       "ts": 1789347248
     },
     {
-      "source": "Cointelegraph",
-      "title": "Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest",
-      "link": "https://cointelegraph.com/magazine/cryptos-biggest-week-ever-swarm-fears-prompt-ai-slowdown-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 14 Sep 2026 00:15:37 +0000",
-      "ts": 1789344937
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin little changed at $77k as rate pressure clashes with diversification case",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-77200-as-rate-pressure-clashes-with-diversification-case-4898694",
@@ -275,13 +282,6 @@
       "link": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
       "published": "Sun, 13 Sep 2026 12:00:00 +0000",
       "ts": 1789300800
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Speculators turn bullish on yen for first time since February",
-      "link": "https://www.investing.com/news/forex-news/speculators-turn-bullish-on-yen-for-first-time-since-february-4898711",
-      "published": "2026-09-13 06:44:32",
-      "ts": 1789281872
     }
   ]
 }
