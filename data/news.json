@@ -1,21 +1,49 @@
 {
-  "updated_utc": "2026-09-14T13:58:42.610299+00:00",
+  "updated_utc": "2026-09-14T14:17:32.092706+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
-      "source": "Yahoo Finance",
-      "title": "S&P 500, Nasdaq fall on AI slowdown fears, oil price surge",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-fall-ai-134819710.html",
-      "published": "2026-09-14T13:48:19Z",
-      "ts": 1789393699
+      "source": "CoinDesk",
+      "title": "Kaiko extends Series B funding round to $110 million with S&P Global, BNP Paribas",
+      "link": "https://www.coindesk.com/business/2026/09/14/kaiko-extends-series-b-funding-round-to-usd110-million-with-s-and-p-global-bnp-paribas",
+      "published": "Mon, 14 Sep 2026 14:06:28 +0000",
+      "ts": 1789394788
     },
     {
       "source": "Yahoo Finance",
-      "title": "Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck",
-      "link": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-oil-prices-gain-treasury-yields-stay-elevated-alphacheck-134519544.html",
-      "published": "2026-09-14T13:45:19Z",
-      "ts": 1789393519
+      "title": "Bitmine Purchases Another $68 Million Of Ethereum",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/bitmine-purchases-another-68-million-140500872.html",
+      "published": "2026-09-14T14:05:00Z",
+      "ts": 1789394700
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Novo Nordisk is changing its name and its culture to try to compete in the GLP-1 diet-drug wars",
+      "link": "https://www.marketwatch.com/story/novo-drops-nordisk-in-corporate-refresh-to-take-on-lilly-in-the-weight-loss-wars-a406161a?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 14:05:00 GMT",
+      "ts": 1789394700
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Kalshi To Offer U.S. Stock And Commodities Trading",
+      "link": "https://finance.yahoo.com/markets/options/articles/kalshi-offer-u-stock-commodities-140300562.html",
+      "published": "2026-09-14T14:03:00Z",
+      "ts": 1789394580
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Tech stocks today: AI warnings send shock through chip stocks",
+      "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-ai-warnings-send-shock-through-chip-stocks-140134624.html",
+      "published": "2026-09-14T14:01:34Z",
+      "ts": 1789394494
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Strategy Again Leaves Bitcoin Holdings Unchanged",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-again-leaves-bitcoin-holdings-140100959.html",
+      "published": "2026-09-14T14:01:00Z",
+      "ts": 1789394460
     },
     {
       "source": "MarketWatch",
@@ -26,17 +54,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Falls On Surging Oil; Nvidia, Micron, Sandisk Dive On AI Warning (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-nvda-stock-ai-warning/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T13:44:21Z",
-      "ts": 1789393461
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dominion, NextEra propose $1 billion-a-year Virginia supplier program",
-      "link": "https://finance.yahoo.com/news/dominion-nextera-propose-1-billion-133808617.html",
-      "published": "2026-09-14T13:38:08Z",
-      "ts": 1789393088
+      "title": "Stock Market Today (Sept. 14, 2026): S&P 500 falls on rising oil prices, sagging AI stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-14-133832281.html",
+      "published": "2026-09-14T13:38:32Z",
+      "ts": 1789393112
     },
     {
       "source": "MarketWatch",
@@ -46,11 +67,11 @@
       "ts": 1789393020
     },
     {
-      "source": "Yahoo Finance",
-      "title": "US Pentagon triggers alarm for 150M+ American drivers after massive ID breach — is your identity exposed? Do this now",
-      "link": "https://finance.yahoo.com/technology/articles/us-pentagon-triggers-alarm-150m-133500969.html",
-      "published": "2026-09-14T13:35:00Z",
-      "ts": 1789392900
+      "source": "Cointelegraph",
+      "title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
+      "link": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 13:30:00 +0000",
+      "ts": 1789392600
     },
     {
       "source": "Cointelegraph",
@@ -58,20 +79,6 @@
       "link": "https://cointelegraph.com/magazine/hype-price-could-suffer-as-binance-takes-its-revenue-alice-liu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 13:30:00 +0000",
       "ts": 1789392600
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
-      "link": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 14 Sep 2026 13:24:13 +0000",
-      "ts": 1789392253
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Novo drops ‘Nordisk’ in corporate refresh to take on Lilly in the weight-loss wars",
-      "link": "https://www.marketwatch.com/story/novo-drops-nordisk-in-corporate-refresh-to-take-on-lilly-in-the-weight-loss-wars-a406161a?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 13:20:00 GMT",
-      "ts": 1789392000
     },
     {
       "source": "MarketWatch",
@@ -205,13 +212,6 @@
       "link": "https://www.investing.com/news/forex-news/bofa-sees-dollar-sideways-into-yearend-despite-fed-hike-bets-93CH-4899034",
       "published": "2026-09-14 09:55:05",
       "ts": 1789379705
-    },
-    {
-      "source": "CoinDesk",
-      "title": "TikTok developer ByteDance arranges $29.6 billion loan as it builds AI ambitions",
-      "link": "https://www.coindesk.com/business/2026/09/14/tiktok-developer-bytedance-arranges-usd29-6-billion-loan-as-it-builds-ai-ambitions",
-      "published": "Mon, 14 Sep 2026 09:43:45 +0000",
-      "ts": 1789379025
     },
     {
       "source": "Yahoo Finance",
