@@ -1,14 +1,28 @@
 {
-  "updated_utc": "2026-09-14T12:56:29.485295+00:00",
+  "updated_utc": "2026-09-14T13:13:51.890348+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
       "source": "Yahoo Finance",
-      "title": "Royal Road Minerals begins drilling at Güíntar gold-copper-silver target",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/royal-road-minerals-begins-drilling-124200750.html",
-      "published": "2026-09-14T12:42:00Z",
-      "ts": 1789389720
+      "title": "Chase Home Loans' mortgage rate sale returns for a 3-week run",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/chase-home-loans-mortgage-rate-sale-returns-for-a-3-week-run-130100448.html",
+      "published": "2026-09-14T13:01:00Z",
+      "ts": 1789390860
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead",
+      "link": "https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead",
+      "published": "Mon, 14 Sep 2026 12:58:42 +0000",
+      "ts": 1789390722
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Home Depot vs. Lowe’s: One Payout Will Weather the Storm — Here’s Which",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-vs-lowe-one-125026745.html",
+      "published": "2026-09-14T12:50:26Z",
+      "ts": 1789390226
     },
     {
       "source": "Yahoo Finance",
@@ -37,13 +51,6 @@
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
       "published": "2026-09-14T12:11:35Z",
       "ts": 1789387895
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Falls On Rising Oil; Nvidia Sells Off On AI Warning (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-nvda-stock-ai-warning/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T12:11:34Z",
-      "ts": 1789387894
     },
     {
       "source": "MarketWatch",
@@ -177,13 +184,6 @@
       "link": "https://www.coindesk.com/business/2026/09/14/tiktok-developer-bytedance-arranges-usd29-6-billion-loan-as-it-builds-ai-ambitions",
       "published": "Mon, 14 Sep 2026 09:43:45 +0000",
       "ts": 1789379025
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead",
-      "link": "https://www.coindesk.com/markets/2026/09/14/fed-boe-boj-interest-rate-decisions-crypto-week-ahead",
-      "published": "Mon, 14 Sep 2026 09:29:57 +0000",
-      "ts": 1789378197
     },
     {
       "source": "MarketWatch",
