@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-14T13:47:49.162991+00:00",
+  "updated_utc": "2026-09-14T13:58:42.610299+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "S&P 500, Nasdaq fall on AI slowdown fears, oil price surge",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-fall-ai-134819710.html",
+      "published": "2026-09-14T13:48:19Z",
+      "ts": 1789393699
+    },
     {
       "source": "Yahoo Finance",
       "title": "Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck",
@@ -16,6 +23,13 @@
       "link": "https://www.marketwatch.com/story/heres-how-to-prepare-your-portfolio-for-the-feds-next-interest-rate-moves-ac306c90?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 13:45:00 GMT",
       "ts": 1789393500
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Falls On Surging Oil; Nvidia, Micron, Sandisk Dive On AI Warning (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-nvda-stock-ai-warning/?src=A00220&yptr=yahoo",
+      "published": "2026-09-14T13:44:21Z",
+      "ts": 1789393461
     },
     {
       "source": "Yahoo Finance",
@@ -39,13 +53,6 @@
       "ts": 1789392900
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Costco rations Kirkland motor oil, raises price to $57.99",
-      "link": "https://finance.yahoo.com/energy/articles/costco-rations-kirkland-motor-oil-133308837.html",
-      "published": "2026-09-14T13:33:08Z",
-      "ts": 1789392788
-    },
-    {
       "source": "Cointelegraph",
       "title": "HYPE price could suffer as Binance takes its revenue: Alice Liu",
       "link": "https://cointelegraph.com/magazine/hype-price-could-suffer-as-binance-takes-its-revenue-alice-liu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -60,13 +67,6 @@
       "ts": 1789392253
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Definium, Up 190% This Year, Succeeds Again With Synthetic LSD; Shares Fly",
-      "link": "https://www.investors.com/news/technology/definium-therapeutics-synthetic-lsd-generalized-anxiety-disorder/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T13:23:17Z",
-      "ts": 1789392197
-    },
-    {
       "source": "MarketWatch",
       "title": "Novo drops ‘Nordisk’ in corporate refresh to take on Lilly in the weight-loss wars",
       "link": "https://www.marketwatch.com/story/novo-drops-nordisk-in-corporate-refresh-to-take-on-lilly-in-the-weight-loss-wars-a406161a?mod=mw_rss_topstories",
@@ -79,13 +79,6 @@
       "link": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 13:15:00 GMT",
       "ts": 1789391700
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Chase Home Loans' mortgage rate sale returns for a 3-week run",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/chase-home-loans-mortgage-rate-sale-returns-for-a-3-week-run-130100448.html",
-      "published": "2026-09-14T13:01:00Z",
-      "ts": 1789390860
     },
     {
       "source": "CoinDesk",
@@ -219,6 +212,13 @@
       "link": "https://www.coindesk.com/business/2026/09/14/tiktok-developer-bytedance-arranges-usd29-6-billion-loan-as-it-builds-ai-ambitions",
       "published": "Mon, 14 Sep 2026 09:43:45 +0000",
       "ts": 1789379025
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800-word warning",
+      "link": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
+      "published": "2026-09-14T09:36:37Z",
+      "ts": 1789378597
     },
     {
       "source": "Investing Forex",
