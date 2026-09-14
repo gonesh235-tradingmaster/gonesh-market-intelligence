@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-09-14T19:18:48.732102+00:00",
+  "updated_utc": "2026-09-14T19:33:24.665324+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 19:30:00 GMT",
+      "ts": 1789414200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "CrowdStrike and Palo Alto Networks are leading software stocks toward a never-before-seen feat",
+      "link": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 19:29:00 GMT",
+      "ts": 1789414140
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable",
+      "link": "https://www.coindesk.com/business/2026/09/14/trump-s-usd800-million-stake-into-world-liberty-financial-s-token-now-has-a-timeline-to-becoming-sellable",
+      "published": "Mon, 14 Sep 2026 19:21:58 +0000",
+      "ts": 1789413718
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin nears $80K bull trap zone with weak ADX: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+      "published": "2026-09-14 19:18:14",
+      "ts": 1789413494
+    },
     {
       "source": "MarketWatch",
       "title": "‘He does not have a spouse or children’: My son has a serious genetic disease. What should I do with my $1.3 million estate?",
@@ -58,20 +86,6 @@
       "link": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 18:20:00 GMT",
       "ts": 1789410000
-    },
-    {
-      "source": "MarketWatch",
-      "title": "10-year Treasury yield eases back from crucial 5% level despite concerns about AI and the surge in oil prices",
-      "link": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 18:14:00 GMT",
-      "ts": 1789409640
-    },
-    {
-      "source": "MarketWatch",
-      "title": "As AI companies call for a slowdown, here’s how Washington could pump the brakes",
-      "link": "https://www.marketwatch.com/story/ai-companies-say-they-want-to-slow-down-heres-how-washington-might-help-apply-the-brakes-7db9dabb?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 18:08:00 GMT",
-      "ts": 1789409280
     },
     {
       "source": "CoinDesk",
@@ -158,13 +172,6 @@
       "ts": 1789396068
     },
     {
-      "source": "CoinDesk",
-      "title": "Kaiko extends Series B funding round to $110 million with S&P Global, BNP Paribas",
-      "link": "https://www.coindesk.com/business/2026/09/14/kaiko-extends-series-b-funding-round-to-usd110-million-with-s-and-p-global-bnp-paribas",
-      "published": "Mon, 14 Sep 2026 14:06:28 +0000",
-      "ts": 1789394788
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin steady at $78k amid M.East tensions, rate hike jitters",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
@@ -228,13 +235,6 @@
       "ts": 1789373798
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin trapped in $76K-$81K rectangle: Live breakout levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
-      "published": "2026-09-14 07:11:31",
-      "ts": 1789369891
-    },
-    {
       "source": "Yahoo Finance",
       "title": "Another coffeehouse files for Chapter 11 as costs, prices rise",
       "link": "https://finance.yahoo.com/small-business/articles/another-coffeehouse-files-chapter-11-033545256.html",
@@ -257,6 +257,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "REX American Resources (REX) Notches A Record Quarter, Then Doubts Creep In",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rex-american-resources-rex-notches-103748951.html",
+      "published": "2026-09-13T10:37:48Z",
+      "ts": 1789295868
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nvidia May Put $10 Billion Into Anthropic’s $2 Trillion IPO. Amazon Already Has Much More Riding on It",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-may-put-10-billion-103618397.html",
+      "published": "2026-09-13T10:36:18Z",
+      "ts": 1789295778
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Snowflake (SNOW) Is Growing Faster Now Than It Was A Year Ago",
       "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-snow-growing-faster-now-102813308.html",
       "published": "2026-09-13T10:28:13Z",
@@ -268,20 +282,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/c3-ai-ai-just-posted-102417897.html",
       "published": "2026-09-13T10:24:17Z",
       "ts": 1789295057
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Retiree, 70, lost over $2,000 in an Amazon impersonation scam. How fraudsters got him ‘hook, line and sinker’",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/retiree-70-lost-over-2-101500668.html",
-      "published": "2026-09-13T10:15:00Z",
-      "ts": 1789294500
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Gold.com (GOLD): On A Gold Rush With Cracks Underneath",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/gold-com-gold-gold-rush-101442314.html",
-      "published": "2026-09-13T10:14:42Z",
-      "ts": 1789294482
     }
   ]
 }
