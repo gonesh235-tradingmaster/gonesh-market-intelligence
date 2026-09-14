@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-14T23:28:51.502459+00:00",
+  "updated_utc": "2026-09-14T23:40:42.910191+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it",
+      "link": "https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it",
+      "published": "Mon, 14 Sep 2026 23:30:40 +0000",
+      "ts": 1789428640
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
@@ -135,13 +142,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/14/clarity-act-odds-surge-on-prediction-markets-but-crypto-bill-still-faces-long-road",
       "published": "Mon, 14 Sep 2026 15:10:29 +0000",
       "ts": 1789398629
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Consensus heads to Hong Kong for third year with expanded focus on AI",
-      "link": "https://www.coindesk.com/business/2026/09/14/consensus-heads-to-hong-kong-for-third-straight-year-with-expanded-focus-on-ai",
-      "published": "Mon, 14 Sep 2026 14:37:56 +0000",
-      "ts": 1789396676
     },
     {
       "source": "Yahoo Finance",
