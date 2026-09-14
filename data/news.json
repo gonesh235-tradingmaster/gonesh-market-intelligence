@@ -1,28 +1,42 @@
 {
-  "updated_utc": "2026-09-14T17:00:48.935650+00:00",
+  "updated_utc": "2026-09-14T17:16:46.552158+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Spot Bitcoin ETFs Lose $463M Amid ‘Difficult’ Time for Markets",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/spot-bitcoin-etfs-lose-463m-170500167.html",
+      "published": "2026-09-14T17:05:00Z",
+      "ts": 1789405500
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "RF Industries, Ltd. Q3 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rf-industries-ltd-q3-2026-170334050.html",
+      "published": "2026-09-14T17:03:34Z",
+      "ts": 1789405414
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "DeFi Development Expands Solana Treasury to 2.39M SOL",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/defi-development-expands-solana-treasury-170300303.html",
+      "published": "2026-09-14T17:03:00Z",
+      "ts": 1789405380
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Tries For A Gain, Trump Hits Out At AI Fears; This Fuel Play Clears Entry (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-nvda-stock-ai-warning/?src=A00220&yptr=yahoo",
+      "published": "2026-09-14T16:59:27Z",
+      "ts": 1789405167
+    },
     {
       "source": "Yahoo Finance",
       "title": "Nvidia, Broadcom Tumble In AI Rotation; These U.K.-Based Names Gain",
       "link": "https://www.investors.com/news/ai-nvidia-broadcom-software-stocks-servicenow-workday-salesforce-micron/?src=A00220&yptr=yahoo",
       "published": "2026-09-14T16:38:47Z",
       "ts": 1789403927
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "China's DeepSeek hires dealmaker as CFO ahead of possible IPO",
-      "link": "https://finance.yahoo.com/technology/ai/articles/chinas-deepseek-hires-dealmaker-cfo-163408342.html",
-      "published": "2026-09-14T16:36:46Z",
-      "ts": 1789403806
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mexico-Based Energy Leader Vista Eyes Buy Point As Oil Prices Surge On Middle East Conflict",
-      "link": "https://www.investors.com/research/vista-stock-vist-energy-oil-prices/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T16:30:10Z",
-      "ts": 1789403410
     },
     {
       "source": "MarketWatch",
@@ -37,13 +51,6 @@
       "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 16:30:00 GMT",
       "ts": 1789403400
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How gold IRAs fit into a diversified retirement portfolio",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/how-gold-iras-fit-into-a-diversified-retirement-portfolio-162815731.html",
-      "published": "2026-09-14T16:28:15Z",
-      "ts": 1789403295
     },
     {
       "source": "Cointelegraph",
@@ -142,13 +149,6 @@
       "link": "https://www.marketwatch.com/story/novo-drops-nordisk-in-corporate-refresh-to-take-on-lilly-in-the-weight-loss-wars-a406161a?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 14:05:00 GMT",
       "ts": 1789394700
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Tech stocks today: AI warnings send shock through chip stocks",
-      "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-ai-warnings-send-shock-through-chip-stocks-140134624.html",
-      "published": "2026-09-14T14:01:34Z",
-      "ts": 1789394494
     },
     {
       "source": "MarketWatch",
