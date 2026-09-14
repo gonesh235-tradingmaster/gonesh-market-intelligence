@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-14T08:00:07.107595+00:00",
+  "updated_utc": "2026-09-14T08:19:59.927947+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin bucks tech selloff as AI safety concerns weigh on stocks",
+      "link": "https://www.coindesk.com/markets/2026/09/14/bitcoin-bucks-tech-selloff-as-ai-safety-concerns-weigh-on-stocks",
+      "published": "Mon, 14 Sep 2026 08:07:16 +0000",
+      "ts": 1789373236
+    },
     {
       "source": "Investing Forex",
       "title": "Euro yields hold at multi-year peaks as crude surge precedes c.bank decisions",
@@ -256,6 +263,13 @@
       "ts": 1789249020
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Can XRP Flip Bitcoin?",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-flip-bitcoin-212432380.html",
+      "published": "2026-09-12T21:24:32Z",
+      "ts": 1789248272
+    },
+    {
       "source": "CoinDesk",
       "title": "OpenAI IPO won't happen this year, says Sam Altman",
       "link": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
@@ -268,20 +282,6 @@
       "link": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
       "published": "Sat, 12 Sep 2026 21:09:06 +0000",
       "ts": 1789247346
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "3 Reasons I Think Cathie Wood Is Buying Robinhood Stock Again",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-think-cathie-wood-203201033.html",
-      "published": "2026-09-12T20:32:01Z",
-      "ts": 1789245121
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
-      "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
-      "published": "Sat, 12 Sep 2026 18:51:04 +0000",
-      "ts": 1789239064
     }
   ]
 }
