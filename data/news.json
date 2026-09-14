@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-14T06:29:32.690611+00:00",
+  "updated_utc": "2026-09-14T06:50:06.984558+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin steady at $77.7k amid M.East tensions, rate hike jitters",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
+      "published": "2026-09-14 06:30:37",
+      "ts": 1789367437
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -187,6 +194,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "ACV Auctions (ACVA) Was This Week’s Top Stock — Here’s What Drove Gains",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/acv-auctions-acva-week-top-220605819.html",
+      "published": "2026-09-12T22:06:05Z",
+      "ts": 1789250765
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Salesforce Inc. (CRM)’s Potential Listen Labs Acquisition Could Boost Its Agentic AI Strategy",
       "link": "https://finance.yahoo.com/technology/ai/articles/salesforce-inc-crm-potential-listen-220558304.html",
       "published": "2026-09-12T22:05:58Z",
@@ -236,17 +250,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "How Much Do You Really Need Invested in Bristol Myers Squibb to Collect $10,000 a Year?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/much-really-invested-bristol-myers-191537674.html",
+      "published": "2026-09-12T19:15:37Z",
+      "ts": 1789240537
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Google Just Dropped a Bombshell on AI Spending — Alphabet’s $200 Billion AI Bet Is Starting to Pay Off Big",
       "link": "https://finance.yahoo.com/technology/ai/articles/google-just-dropped-bombshell-ai-185617741.html",
       "published": "2026-09-12T18:56:17Z",
       "ts": 1789239377
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "WisdomTree COO Lilien Jarrett Sells 30,000 Shares for $737,000",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wisdomtree-coo-lilien-jarrett-sells-185501162.html",
-      "published": "2026-09-12T18:55:01Z",
-      "ts": 1789239301
     },
     {
       "source": "CoinDesk",
@@ -254,13 +268,6 @@
       "link": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
       "published": "Sat, 12 Sep 2026 18:51:04 +0000",
       "ts": 1789239064
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dear UnitedHealth Stock Fans, Mark Your Calendars for October 1",
-      "link": "https://finance.yahoo.com/healthcare/articles/dear-unitedhealth-stock-fans-mark-183002378.html",
-      "published": "2026-09-12T18:30:02Z",
-      "ts": 1789237802
     },
     {
       "source": "Investing Crypto",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-771k-amid-usiran-jitters-cpi-caution-4897247",
       "published": "2026-09-11 21:20:45",
       "ts": 1789161645
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar up on Fed rate hike bets, yen set for first two-week win streak since May",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-yen-slips-dollar-holds-near-weekly-high-4897219",
-      "published": "2026-09-11 19:17:21",
-      "ts": 1789154241
     }
   ]
 }
