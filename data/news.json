@@ -1,21 +1,28 @@
 {
-  "updated_utc": "2026-09-14T19:55:43.463352+00:00",
+  "updated_utc": "2026-09-14T20:09:41.977455+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Saudi Arabia may be just days away from not being able to export much oil",
+      "link": "https://www.marketwatch.com/story/saudi-arabia-may-be-just-days-away-from-not-being-able-to-export-much-oil-acfefd0c?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 20:05:00 GMT",
+      "ts": 1789416300
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The future of retirement? Work until you die.",
+      "link": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 19:59:00 GMT",
+      "ts": 1789415940
+    },
     {
       "source": "MarketWatch",
       "title": "Couples with a big age gap need more money — they have to plan for two retirements",
       "link": "https://www.marketwatch.com/story/couples-with-a-big-age-gap-need-more-money-they-have-to-plan-for-two-retirements-1454b8c2?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 19:49:00 GMT",
       "ts": 1789415340
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "UK regulators to develop tokenization roadmap after industry feedback",
-      "link": "https://cointelegraph.com/news/uk-regulators-to-develop-tokenization-roadmap-after-industry-feedback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 14 Sep 2026 19:38:28 +0000",
-      "ts": 1789414708
     },
     {
       "source": "MarketWatch",
@@ -79,20 +86,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/14/white-house-crypto-adviser-says-trump-gave-up-historic-ethics-powers-in-compromise",
       "published": "Mon, 14 Sep 2026 18:34:09 +0000",
       "ts": 1789410849
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Calls for an AI slowdown meet vigorous pushback: Trump calls it a ‘sick conspiracy’",
-      "link": "https://www.marketwatch.com/story/calls-for-an-ai-slowdown-meet-vigorous-pushback-trump-calls-it-a-sick-conspiracy-21b3c1ab?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 18:32:00 GMT",
-      "ts": 1789410720
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The next Social Security ‘COLA’ could be the biggest in five years. It’s no cause for celebration.",
-      "link": "https://www.marketwatch.com/story/why-the-social-security-cola-is-much-ado-about-nothing-cf9b90d4?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 18:27:00 GMT",
-      "ts": 1789410420
     },
     {
       "source": "CoinDesk",
@@ -193,6 +186,13 @@
       "ts": 1789393112
     },
     {
+      "source": "Cointelegraph",
+      "title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
+      "link": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 13:30:00 +0000",
+      "ts": 1789392600
+    },
+    {
       "source": "Investing Forex",
       "title": "U.S. Treasury yields hold near multi-year highs as Fed hike bets anchor curve",
       "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
@@ -257,6 +257,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Lakeland’s (LAKE) Fire Business Is Carrying A Bumpy Turnaround",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lakeland-lake-fire-business-carrying-110817440.html",
+      "published": "2026-09-13T11:08:17Z",
+      "ts": 1789297697
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Borderlands Mexico: Exports of Mexican-made heavy-duty trucks to US roar back",
+      "link": "https://finance.yahoo.com/economy/policy/articles/borderlands-mexico-exports-mexican-made-110000609.html",
+      "published": "2026-09-13T11:00:00Z",
+      "ts": 1789297200
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Academy Sports (ASO) Turns A Tariff Refund Into A Profit Surge",
       "link": "https://finance.yahoo.com/markets/stocks/articles/academy-sports-aso-turns-tariff-105619595.html",
       "published": "2026-09-13T10:56:19Z",
@@ -268,20 +282,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/firmus-adds-openai-nvidia-blackstone-105141455.html",
       "published": "2026-09-13T10:51:41Z",
       "ts": 1789296701
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How Bold Was Cotton's Move?",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/bold-cottons-move-104604438.html",
-      "published": "2026-09-13T10:46:04Z",
-      "ts": 1789296364
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "This 1 Costco item has skyrocketed 125% in price over just 2 years. And the retail behemoth is limiting member purchases",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/1-costco-item-skyrocketed-125-104500067.html",
-      "published": "2026-09-13T10:45:00Z",
-      "ts": 1789296300
     }
   ]
 }
