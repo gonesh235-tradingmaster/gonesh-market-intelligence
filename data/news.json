@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-14T05:53:14.843138+00:00",
+  "updated_utc": "2026-09-14T06:05:47.030321+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -187,6 +187,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Nvidia (NVDA)’s 2 GW Australia AI Push Could Deepen Its Infrastructure Advantage",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-2-gw-australia-220311518.html",
+      "published": "2026-09-12T22:03:11Z",
+      "ts": 1789250591
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Palo Alto Networks (PANW)’s AI Growth Faces a Higher Valuation Bar",
+      "link": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-panw-ai-215116717.html",
+      "published": "2026-09-12T21:51:16Z",
+      "ts": 1789249876
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Jewelry chain closes 53 stores after shutting down 2 brands",
       "link": "https://finance.yahoo.com/markets/stocks/articles/jewelry-chain-closes-53-stores-213700154.html",
       "published": "2026-09-12T21:37:00Z",
@@ -229,10 +243,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Hershey’s Dividend Is Finally Growing Again After a Nearly 2-Year Freeze",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hershey-dividend-finally-growing-again-183024635.html",
-      "published": "2026-09-12T18:30:24Z",
-      "ts": 1789237824
+      "title": "How Concerned Should Income Investors Be About Pfizer's Dividend?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/concerned-income-investors-pfizers-dividend-183500090.html",
+      "published": "2026-09-12T18:35:00Z",
+      "ts": 1789238100
     },
     {
       "source": "Yahoo Finance",
@@ -247,20 +261,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/kenvue-underperforming-nasdaq-175724434.html",
       "published": "2026-09-12T17:57:24Z",
       "ts": 1789235844
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Sysco Stock Underperforming the Dow?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sysco-stock-underperforming-dow-174851000.html",
-      "published": "2026-09-12T17:48:51Z",
-      "ts": 1789235331
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Musk sent governments a message about the robot economy",
-      "link": "https://finance.yahoo.com/economy/articles/musk-sent-governments-message-robot-174700228.html",
-      "published": "2026-09-12T17:47:00Z",
-      "ts": 1789235220
     },
     {
       "source": "Investing Crypto",
