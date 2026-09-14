@@ -1,14 +1,42 @@
 {
-  "updated_utc": "2026-09-14T17:30:19.034805+00:00",
+  "updated_utc": "2026-09-14T17:45:00.417547+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Why the Social Security COLA is much ado about nothing",
+      "link": "https://www.marketwatch.com/story/why-the-social-security-cola-is-much-ado-about-nothing-cf9b90d4?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 17:36:00 GMT",
+      "ts": 1789407360
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Carney, locked in US trade war, pitches Canada to global investment titans",
+      "link": "https://finance.yahoo.com/news/carney-locked-us-trade-war-100319218.html",
+      "published": "2026-09-14T17:23:59Z",
+      "ts": 1789406639
+    },
     {
       "source": "MarketWatch",
       "title": "There’s every reason to slow AI development. But here’s why it probably won’t happen.",
       "link": "https://www.marketwatch.com/story/theres-every-reason-to-slow-ai-development-but-heres-why-it-probably-wont-happen-80be6ad6?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 17:22:00 GMT",
       "ts": 1789406520
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Cass: TL rates jump 11% in August, freight shipments turn positive",
+      "link": "https://finance.yahoo.com/economy/articles/cass-tl-rates-jump-11-171712955.html",
+      "published": "2026-09-14T17:17:12Z",
+      "ts": 1789406232
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Northern Air Cargo names permanent CEO",
+      "link": "https://finance.yahoo.com/small-business/articles/northern-air-cargo-names-permanent-171653326.html",
+      "published": "2026-09-14T17:16:53Z",
+      "ts": 1789406213
     },
     {
       "source": "Yahoo Finance",
@@ -23,27 +51,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/rf-industries-ltd-q3-2026-170334050.html",
       "published": "2026-09-14T17:03:34Z",
       "ts": 1789405414
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "DeFi Development Expands Solana Treasury to 2.39M SOL",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/defi-development-expands-solana-treasury-170300303.html",
-      "published": "2026-09-14T17:03:00Z",
-      "ts": 1789405380
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "This Bull Call Spread In Oil Provides A Hedge Against Stocks And Bonds",
-      "link": "https://www.investors.com/research/options/oil-etf-uso-options-spread-hedge-stocks-bonds-inflation-trade-strategy-markets/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T17:01:11Z",
-      "ts": 1789405271
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Oracle Stock Falls After Ellison Scraps Plan To Sell Up To $7.5 Billion In Stock",
-      "link": "https://www.investors.com/news/technology/oracle-stock-falls-ellison-sell-plan-canceled/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T17:00:17Z",
-      "ts": 1789405217
     },
     {
       "source": "MarketWatch",
@@ -156,13 +163,6 @@
       "link": "https://www.marketwatch.com/story/novo-drops-nordisk-in-corporate-refresh-to-take-on-lilly-in-the-weight-loss-wars-a406161a?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 14:05:00 GMT",
       "ts": 1789394700
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Here’s how to prepare your portfolio for the Fed’s next interest-rate moves",
-      "link": "https://www.marketwatch.com/story/heres-how-to-prepare-your-portfolio-for-the-feds-next-interest-rate-moves-ac306c90?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 13:45:00 GMT",
-      "ts": 1789393500
     },
     {
       "source": "Investing Crypto",
