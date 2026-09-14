@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-14T20:51:07.054660+00:00",
+  "updated_utc": "2026-09-14T21:00:44.233192+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here’s what to know.",
+      "link": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 20:56:00 GMT",
+      "ts": 1789419360
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
+      "link": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 20:54:10 +0000",
+      "ts": 1789419250
+    },
     {
       "source": "MarketWatch",
       "title": "10-year Treasury yield hits 5% as oil prices jump and Fed meeting looms",
@@ -58,13 +72,6 @@
       "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 19:30:00 GMT",
       "ts": 1789414200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "CrowdStrike and Palo Alto Networks are leading software stocks toward a never-before-seen feat",
-      "link": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 19:29:00 GMT",
-      "ts": 1789414140
     },
     {
       "source": "CoinDesk",
@@ -179,13 +186,6 @@
       "ts": 1789393476
     },
     {
-      "source": "Cointelegraph",
-      "title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
-      "link": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 14 Sep 2026 13:30:00 +0000",
-      "ts": 1789392600
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. Treasury yields hold near multi-year highs as Fed hike bets anchor curve",
       "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
@@ -257,31 +257,31 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Shoe Station Group (SHOE) Bets On Localized Stores To Reverse A Slide",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/shoe-station-group-shoe-bets-114759320.html",
-      "published": "2026-09-13T11:47:59Z",
-      "ts": 1789300079
+      "title": "1-800-Flowers (FLWS) Bets On Discipline While Revenue Keeps Fading",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-800-flowers-flws-bets-120329224.html",
+      "published": "2026-09-13T12:03:29Z",
+      "ts": 1789301009
     },
     {
       "source": "Yahoo Finance",
-      "title": "How to Play IBM Stock as It Teams Up with NASA to Launch a New Open-Source Model",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/play-ibm-stock-teams-nasa-114716945.html",
-      "published": "2026-09-13T11:47:16Z",
-      "ts": 1789300036
+      "title": "Dimensional’s David Booth Discusses the State of ETFs, Investing and More",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dimensional-david-booth-discusses-state-120000449.html",
+      "published": "2026-09-13T12:00:00Z",
+      "ts": 1789300800
     },
     {
       "source": "Yahoo Finance",
-      "title": "‘Homeless or living in RVs’: Kiyosaki warns ‘millions’ of American boomers are about to go broke. Protect yourself now",
-      "link": "https://finance.yahoo.com/economy/policy/articles/homeless-living-rvs-kiyosaki-warns-114500107.html",
-      "published": "2026-09-13T11:45:00Z",
-      "ts": 1789299900
+      "title": "Ron Paul says 'people ought to own the gold, not the government', doubts the accounting at Fort Knox is 'trustworthy'",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/ron-paul-says-people-ought-120000495.html",
+      "published": "2026-09-13T12:00:00Z",
+      "ts": 1789300800
     },
     {
       "source": "Yahoo Finance",
-      "title": "Tsakos Energy Navigation (TEN) Just Posted Its Best Half Ever",
-      "link": "https://finance.yahoo.com/energy/articles/tsakos-energy-navigation-ten-just-114411263.html",
-      "published": "2026-09-13T11:44:11Z",
-      "ts": 1789299851
+      "title": "Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-100-oil-surging-yields-pressure-stocks-with-fed-rate-hike-seen-apple-leads-new-buys/?src=A00220&yptr=yahoo",
+      "published": "2026-09-13T11:57:14Z",
+      "ts": 1789300634
     }
   ]
 }
