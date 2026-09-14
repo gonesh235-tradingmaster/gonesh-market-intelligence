@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-14T19:45:23.584735+00:00",
+  "updated_utc": "2026-09-14T19:55:43.463352+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Couples with a big age gap need more money — they have to plan for two retirements",
+      "link": "https://www.marketwatch.com/story/couples-with-a-big-age-gap-need-more-money-they-have-to-plan-for-two-retirements-1454b8c2?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 19:49:00 GMT",
+      "ts": 1789415340
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "UK regulators to develop tokenization roadmap after industry feedback",
+      "link": "https://cointelegraph.com/news/uk-regulators-to-develop-tokenization-roadmap-after-industry-feedback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 19:38:28 +0000",
+      "ts": 1789414708
+    },
     {
       "source": "MarketWatch",
       "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
@@ -79,13 +93,6 @@
       "link": "https://www.marketwatch.com/story/why-the-social-security-cola-is-much-ado-about-nothing-cf9b90d4?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 18:27:00 GMT",
       "ts": 1789410420
-    },
-    {
-      "source": "MarketWatch",
-      "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
-      "link": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 18:20:00 GMT",
-      "ts": 1789410000
     },
     {
       "source": "CoinDesk",
@@ -180,17 +187,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stock Market Today (Sept. 14, 2026): Nasdaq, S&P 500 falls on rising oil, AI tensions",
+      "title": "Stock Market Today (Sept. 14, 2026): Nasdaq, S&P 500 falls on rising AI and war tensions",
       "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-14-133832281.html",
       "published": "2026-09-14T13:38:32Z",
       "ts": 1789393112
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
-      "link": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 14 Sep 2026 13:30:00 +0000",
-      "ts": 1789392600
     },
     {
       "source": "Investing Forex",
@@ -257,6 +257,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Academy Sports (ASO) Turns A Tariff Refund Into A Profit Surge",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/academy-sports-aso-turns-tariff-105619595.html",
+      "published": "2026-09-13T10:56:19Z",
+      "ts": 1789296979
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Firmus Adds OpenAI. NVIDIA and Blackstone Face Different Sides of the AI Buildout",
       "link": "https://finance.yahoo.com/technology/ai/articles/firmus-adds-openai-nvidia-blackstone-105141455.html",
       "published": "2026-09-13T10:51:41Z",
@@ -275,13 +282,6 @@
       "link": "https://finance.yahoo.com/markets/commodities/articles/1-costco-item-skyrocketed-125-104500067.html",
       "published": "2026-09-13T10:45:00Z",
       "ts": 1789296300
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "SpaceX Says a Mystery AI Customer Adds $1.11 Billion a Month. Google Shows How Fast Compute Is Growing",
-      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-says-mystery-ai-customer-104230984.html",
-      "published": "2026-09-13T10:42:30Z",
-      "ts": 1789296150
     }
   ]
 }
