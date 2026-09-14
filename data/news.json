@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-14T03:47:39.787476+00:00",
+  "updated_utc": "2026-09-14T03:58:41.916336+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -201,6 +201,34 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "A Tale of Two Dollars: Why Dollar General Outpaced Dollar Tree This Quarter",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tale-two-dollars-why-dollar-170915358.html",
+      "published": "2026-09-12T17:09:15Z",
+      "ts": 1789232955
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "BioMarin Shares Jump 5% After Global Patent Settlement With Ascendis",
+      "link": "https://finance.yahoo.com/healthcare/articles/biomarin-shares-jump-5-global-170253036.html",
+      "published": "2026-09-12T17:02:53Z",
+      "ts": 1789232573
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "6 Money Missteps Amid Inflation That Erode Boomers' Retirement Income",
+      "link": "https://finance.yahoo.com/healthcare/articles/6-money-missteps-amid-inflation-170027674.html",
+      "published": "2026-09-12T17:00:27Z",
+      "ts": 1789232427
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Teva’s (TEVA) $125 Million BioXcel Bid Offers Upside, but FDA and Auction Risks Remain",
+      "link": "https://finance.yahoo.com/healthcare/articles/teva-teva-125-million-bioxcel-165735518.html",
+      "published": "2026-09-12T16:57:35Z",
+      "ts": 1789232255
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Jim Cramer Explains Why Merck (MRK) Is His Fantasy Defense Stock",
       "link": "https://finance.yahoo.com/healthcare/articles/jim-cramer-explains-why-merck-164911925.html",
       "published": "2026-09-12T16:49:11Z",
@@ -212,34 +240,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/ciena-cien-backlog-just-hit-164644198.html",
       "published": "2026-09-12T16:46:44Z",
       "ts": 1789231604
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Flips the Script: Why Older Investors Should Ditch Growth Stocks for 30-Year Treasuries",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-flips-script-why-163943096.html",
-      "published": "2026-09-12T16:39:43Z",
-      "ts": 1789231183
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "eGain’s (EGAN) Bold AI Pivot Just Won A Big Believer",
-      "link": "https://finance.yahoo.com/technology/ai/articles/egain-egan-bold-ai-pivot-163723656.html",
-      "published": "2026-09-12T16:37:23Z",
-      "ts": 1789231043
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "BRP (DOO) Posts A Quarterly Loss And Raises Its Outlook Anyway",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/brp-doo-posts-quarterly-loss-163212953.html",
-      "published": "2026-09-12T16:32:12Z",
-      "ts": 1789230732
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mama’s Creations (MAMA) Just Proved Its Growth Spurt Wasn’t A Fluke",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mama-creations-mama-just-proved-162554673.html",
-      "published": "2026-09-12T16:25:54Z",
-      "ts": 1789230354
     },
     {
       "source": "Cointelegraph",
