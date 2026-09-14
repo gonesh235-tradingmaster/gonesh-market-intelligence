@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-14T20:25:06.781943+00:00",
+  "updated_utc": "2026-09-14T20:38:47.281983+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -123,13 +123,6 @@
       "ts": 1789393476
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today (Sept. 14, 2026): Nasdaq, S&P 500 falls on rising AI and war tensions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-14-133832281.html",
-      "published": "2026-09-14T13:38:32Z",
-      "ts": 1789393112
-    },
-    {
       "source": "Cointelegraph",
       "title": "Fragmented regulations limit stablecoin adoption in international finance: WTO head",
       "link": "https://cointelegraph.com/news/fragmented-regulations-limit-stablecoin-adoption-in-international-finance-wto-director?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -186,6 +179,13 @@
       "ts": 1789356945
     },
     {
+      "source": "Yahoo Finance",
+      "title": "AI agents to start spending your money with Visa, Mastercard",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-agents-start-spending-money-010300686.html",
+      "published": "2026-09-14T01:03:00Z",
+      "ts": 1789347780
+    },
+    {
       "source": "Investing Crypto",
       "title": "Bitcoin little changed at $77k as rate pressure clashes with diversification case",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-77200-as-rate-pressure-clashes-with-diversification-case-4898694",
@@ -198,6 +198,27 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
       "published": "2026-09-13 19:02:21",
       "ts": 1789326141
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "‘Homeless or living in RVs’: Kiyosaki warns ‘millions’ of American boomers are about to go broke. Protect yourself now",
+      "link": "https://finance.yahoo.com/economy/policy/articles/homeless-living-rvs-kiyosaki-warns-114500107.html",
+      "published": "2026-09-13T11:45:00Z",
+      "ts": 1789299900
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Tsakos Energy Navigation (TEN) Just Posted Its Best Half Ever",
+      "link": "https://finance.yahoo.com/energy/articles/tsakos-energy-navigation-ten-just-114411263.html",
+      "published": "2026-09-13T11:44:11Z",
+      "ts": 1789299851
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nscale’s Funding Talks Put Dell and Nokia’s AI Supply Relationships to the Test",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nscale-funding-talks-put-dell-114055829.html",
+      "published": "2026-09-13T11:40:55Z",
+      "ts": 1789299655
     },
     {
       "source": "Yahoo Finance",
@@ -219,27 +240,6 @@
       "link": "https://finance.yahoo.com/technology/articles/amazon-zoox-enters-san-francisco-112558972.html",
       "published": "2026-09-13T11:25:58Z",
       "ts": 1789298758
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "3 Stocks to Bet Against If You Want to Invest Like Michael Burry",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-bet-against-want-112059669.html",
-      "published": "2026-09-13T11:20:59Z",
-      "ts": 1789298459
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Lakeland’s (LAKE) Fire Business Is Carrying A Bumpy Turnaround",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lakeland-lake-fire-business-carrying-110817440.html",
-      "published": "2026-09-13T11:08:17Z",
-      "ts": 1789297697
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Borderlands Mexico: Exports of Mexican-made heavy-duty trucks to US roar back",
-      "link": "https://finance.yahoo.com/economy/policy/articles/borderlands-mexico-exports-mexican-made-110000609.html",
-      "published": "2026-09-13T11:00:00Z",
-      "ts": 1789297200
     },
     {
       "source": "Investing Forex",
