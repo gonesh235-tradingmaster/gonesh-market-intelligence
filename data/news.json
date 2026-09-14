@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-14T08:35:43.727206+00:00",
+  "updated_utc": "2026-09-14T08:50:17.446795+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound slips as oil-driven dollar rally weighs",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-oildriven-dollar-rally-weighs-4898927",
+      "published": "2026-09-14 08:16:38",
+      "ts": 1789373798
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin bucks tech selloff as AI safety concerns weigh on stocks",
@@ -250,17 +257,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Office Expenses Outgrew Revenue Each Year Since 2021",
+      "link": "https://finance.yahoo.com/real-estate/articles/office-expenses-outgrew-revenue-since-215731804.html",
+      "published": "2026-09-12T21:57:31Z",
+      "ts": 1789250251
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Palo Alto Networks (PANW)’s AI Growth Faces a Higher Valuation Bar",
       "link": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-panw-ai-215116717.html",
       "published": "2026-09-12T21:51:16Z",
       "ts": 1789249876
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "10-Year Treasury Nears 5%, Raising CRE Financing Risk",
-      "link": "https://finance.yahoo.com/real-estate/articles/10-treasury-nears-5-raising-213714187.html",
-      "published": "2026-09-12T21:37:14Z",
-      "ts": 1789249034
     },
     {
       "source": "Yahoo Finance",
@@ -275,13 +282,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
       "published": "Sat, 12 Sep 2026 21:09:31 +0000",
       "ts": 1789247371
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
-      "link": "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
-      "published": "Sat, 12 Sep 2026 21:09:06 +0000",
-      "ts": 1789247346
     }
   ]
 }
