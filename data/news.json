@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-14T22:25:41.954618+00:00",
+  "updated_utc": "2026-09-14T22:40:38.079265+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
+      "link": "https://www.coindesk.com/policy/2026/09/14/u-s-senator-lummis-says-democrats-won-t-quit-asking-for-more-on-crypto-clarity-act",
+      "published": "Mon, 14 Sep 2026 22:34:18 +0000",
+      "ts": 1789425258
+    },
     {
       "source": "MarketWatch",
       "title": "The murky AI milestone that has some of the industry’s leading voices increasingly on edge",
@@ -193,13 +200,6 @@
       "ts": 1789396676
     },
     {
-      "source": "CoinDesk",
-      "title": "Don’t let perfect be the enemy of Clarity",
-      "link": "https://www.coindesk.com/opinion/2026/09/14/don-t-let-perfect-be-the-enemy-of-clarity",
-      "published": "Mon, 14 Sep 2026 14:34:56 +0000",
-      "ts": 1789396496
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. Treasury yields hold near multi-year highs as Fed hike bets anchor curve",
       "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
@@ -271,17 +271,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is ConocoPhillips Stock Worth Buying Here? - Shorting COP Puts and Credit Spreads are Better Plays",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/conocophillips-stock-worth-buying-shorting-140002756.html",
-      "published": "2026-09-13T14:00:02Z",
-      "ts": 1789308002
+      "title": "Alibaba and Amazon Face the Same AI Spending Question: How Quickly Does Capacity Become Cash?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-amazon-face-same-ai-140837189.html",
+      "published": "2026-09-13T14:08:37Z",
+      "ts": 1789308517
     },
     {
       "source": "Yahoo Finance",
-      "title": "Willis Lease Finance (WLFC) Grows Fast While Its Bottom Line Shrinks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/willis-lease-finance-wlfc-grows-134921293.html",
-      "published": "2026-09-13T13:49:21Z",
-      "ts": 1789307361
+      "title": "NVIDIA’s Older GPUs Still Earn Rent. What That Does and Doesn’t Prove for CoreWeave",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-older-gpus-still-earn-140210350.html",
+      "published": "2026-09-13T14:02:10Z",
+      "ts": 1789308130
     }
   ]
 }
