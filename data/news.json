@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-14T00:24:34.085653+00:00",
+  "updated_utc": "2026-09-14T00:43:25.986821+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/cryptos-biggest-week-ever-swarm-fears-prompt-ai-slowdown-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 14 Sep 2026 00:15:37 +0000",
+      "ts": 1789344937
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin little changed at $77k as rate pressure clashes with diversification case",
@@ -215,6 +222,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Why AMD Stock Forecast Has Room to Run",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-forecast-room-140002995.html",
+      "published": "2026-09-12T14:00:02Z",
+      "ts": 1789221602
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Descartes (DSGX) Posts Record Q2 Results, Analysts See 30% Upside",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/descartes-dsgx-posts-record-q2-135154400.html",
+      "published": "2026-09-12T13:51:54Z",
+      "ts": 1789221114
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Frequency Electronics (FEIM) Soars After Record Revenue",
       "link": "https://finance.yahoo.com/markets/stocks/articles/frequency-electronics-feim-soars-record-133402974.html",
       "published": "2026-09-12T13:34:02Z",
@@ -222,24 +243,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Alibaba (BABA)’s AI Bet Faces a $10.2 Billion Test",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-baba-ai-bet-faces-133035025.html",
-      "published": "2026-09-12T13:30:35Z",
-      "ts": 1789219835
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Scott Bessent dismisses 'Bloomberg Terminal bros' as 10-year Treasury yield hits 4.94% despite $5.2B buyback",
       "link": "https://finance.yahoo.com/economy/policy/articles/scott-bessent-dismisses-bloomberg-terminal-133000792.html",
       "published": "2026-09-12T13:30:00Z",
       "ts": 1789219800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Ken Fisher Added to Cisco and Palo Alto Networks. Their AI Security Bets Face Different Tests",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ken-fisher-added-cisco-palo-132214941.html",
-      "published": "2026-09-12T13:22:14Z",
-      "ts": 1789219334
     },
     {
       "source": "Investing Crypto",
@@ -268,13 +275,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-yen-slips-dollar-holds-near-weekly-high-4897219",
       "published": "2026-09-11 19:17:21",
       "ts": 1789154241
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Hyperliquid’s biggest risk is regulation, says Ran Neuner",
-      "link": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 11 Sep 2026 18:45:15 +0000",
-      "ts": 1789152315
     },
     {
       "source": "Investing Forex",
