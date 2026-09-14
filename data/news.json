@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-14T08:19:59.927947+00:00",
+  "updated_utc": "2026-09-14T08:35:43.727206+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -257,17 +257,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "10-Year Treasury Nears 5%, Raising CRE Financing Risk",
+      "link": "https://finance.yahoo.com/real-estate/articles/10-treasury-nears-5-raising-213714187.html",
+      "published": "2026-09-12T21:37:14Z",
+      "ts": 1789249034
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Jewelry chain closes 53 stores after shutting down 2 brands",
       "link": "https://finance.yahoo.com/markets/stocks/articles/jewelry-chain-closes-53-stores-213700154.html",
       "published": "2026-09-12T21:37:00Z",
       "ts": 1789249020
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Can XRP Flip Bitcoin?",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-flip-bitcoin-212432380.html",
-      "published": "2026-09-12T21:24:32Z",
-      "ts": 1789248272
     },
     {
       "source": "CoinDesk",
