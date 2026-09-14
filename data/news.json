@@ -1,14 +1,49 @@
 {
-  "updated_utc": "2026-09-14T10:33:37.047280+00:00",
+  "updated_utc": "2026-09-14T10:47:54.538414+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Morning Bid: Go slow AI",
+      "link": "https://finance.yahoo.com/technology/ai/articles/morning-bid-slow-ai-103901753.html",
+      "published": "2026-09-14T10:39:01Z",
+      "ts": 1789382341
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "If You'd Invested $5,000 in the S&P 500 at the Great Recession Bottom, Here's What You'd Have Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-5-000-p-103800385.html",
+      "published": "2026-09-14T10:38:00Z",
+      "ts": 1789382280
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
+      "link": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 10:35:00 GMT",
+      "ts": 1789382100
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "My husband insisted we split our bills 50/50, even though he made more money. Now I do, and he's refusing the same deal",
+      "link": "https://finance.yahoo.com/small-business/articles/husband-insisted-split-bills-50-103000362.html",
+      "published": "2026-09-14T10:30:00Z",
+      "ts": 1789381800
+    },
     {
       "source": "Yahoo Finance",
       "title": "Hewlett Packard Enterprise (HPE) Surges 19% in a Week — What to Watch For Next?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-hpe-surges-102301377.html",
       "published": "2026-09-14T10:23:01Z",
       "ts": 1789381381
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar charges to near two-week peak as Fed hike bets hit near-certainty",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
+      "published": "2026-09-14 10:17:45",
+      "ts": 1789381065
     },
     {
       "source": "Yahoo Finance",
@@ -32,32 +67,11 @@
       "ts": 1789380900
     },
     {
-      "source": "Yahoo Finance",
-      "title": "How luxury brands are redesigning packaging for sustainability",
-      "link": "https://finance.yahoo.com/media-advertising/articles/luxury-brands-redesigning-packaging-sustainability-101346329.html",
-      "published": "2026-09-14T10:13:46Z",
-      "ts": 1789380826
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin climbs to $78,000 as crypto sits out the AI selloff",
       "link": "https://www.coindesk.com/markets/2026/09/14/bitcoin-climbs-to-usd78-000-as-crypto-sits-out-the-ai-selloff",
       "published": "Mon, 14 Sep 2026 10:09:41 +0000",
       "ts": 1789380581
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Analysis-Defense, space firms turn to SPACs as investor appetite soars",
-      "link": "https://finance.yahoo.com/news/analysis-defense-space-firms-turn-100910914.html",
-      "published": "2026-09-14T10:09:10Z",
-      "ts": 1789380550
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar charges to near two-week peak as Fed hike bets hit near-certainty",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
-      "published": "2026-09-14 10:00:21",
-      "ts": 1789380021
     },
     {
       "source": "Cointelegraph",
@@ -158,13 +172,6 @@
       "ts": 1789373236
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Anthropic's AI warning spooks tech traders, oil prices jump",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html",
-      "published": "2026-09-14T08:05:59Z",
-      "ts": 1789373159
-    },
-    {
       "source": "Investing Forex",
       "title": "Euro yields hold at multi-year peaks as crude surge precedes c.bank decisions",
       "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
@@ -247,13 +254,6 @@
       "link": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
       "published": "Sun, 13 Sep 2026 21:10:00 GMT",
       "ts": 1789333800
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m locked into a 10-year annuity and now I’m strapped for cash. What are my options?",
-      "link": "https://www.marketwatch.com/story/im-locked-into-a-10-year-annuity-and-now-im-strapped-for-cash-what-are-my-options-e6463c91?mod=mw_rss_topstories",
-      "published": "Sun, 13 Sep 2026 20:59:00 GMT",
-      "ts": 1789333140
     },
     {
       "source": "Investing Crypto",
