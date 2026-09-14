@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-14T21:55:48.924619+00:00",
+  "updated_utc": "2026-09-14T22:09:28.407861+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The murky AI milestone that has some of the industry’s leading voices increasingly on edge",
+      "link": "https://www.marketwatch.com/story/the-murky-ai-milestone-that-has-some-of-the-industrys-leading-voices-increasingly-on-edge-6ffeacc7?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:57:00 GMT",
+      "ts": 1789423020
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin up 2% after Trump agrees to ethics requirements in latest Clarity Act text",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
+      "published": "2026-09-14 21:56:58",
+      "ts": 1789423018
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Loonie holds near 12-day low as oil support fails to offset dollar strength",
+      "link": "https://www.investing.com/news/forex-news/loonie-holds-near-12day-low-as-oil-support-fails-to-offset-dollar-strength-4900629",
+      "published": "2026-09-14 21:54:08",
+      "ts": 1789422848
+    },
     {
       "source": "MarketWatch",
       "title": "The oil market is sending an increasingly loud warning about gas prices at the pump",
@@ -79,13 +100,6 @@
       "link": "https://www.marketwatch.com/story/the-10-most-overvalued-housing-markets-in-america-6d28efdf?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 20:35:00 GMT",
       "ts": 1789418100
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
-      "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 20:30:00 GMT",
-      "ts": 1789417800
     },
     {
       "source": "CoinDesk",
@@ -186,13 +200,6 @@
       "ts": 1789396496
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin steady at $78k amid M.East tensions, rate hike jitters",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
-      "published": "2026-09-14 13:44:36",
-      "ts": 1789393476
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. Treasury yields hold near multi-year highs as Fed hike bets anchor curve",
       "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
@@ -236,6 +243,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "38-year-old beloved steakhouse chain closing over 40 locations",
+      "link": "https://finance.yahoo.com/small-business/articles/38-old-beloved-steakhouse-chain-020300119.html",
+      "published": "2026-09-14T02:03:00Z",
+      "ts": 1789351380
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "AI agents to start spending your money with Visa, Mastercard",
       "link": "https://finance.yahoo.com/technology/ai/articles/ai-agents-start-spending-money-010300686.html",
       "published": "2026-09-14T01:03:00Z",
@@ -257,31 +271,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Adobe’s (ADBE) AI Bet Is Finally Showing Up In Revenue",
-      "link": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-ai-bet-finally-132237575.html",
-      "published": "2026-09-13T13:22:37Z",
-      "ts": 1789305757
+      "title": "Snowflake’s Blowout Quarter Adds to a Software Sector Already Rallying on AI",
+      "link": "https://finance.yahoo.com/technology/ai/articles/snowflake-blowout-quarter-adds-software-133832576.html",
+      "published": "2026-09-13T13:38:32Z",
+      "ts": 1789306712
     },
     {
       "source": "Yahoo Finance",
-      "title": "LightPath’s (LPTH) Defense Pivot Just Showed Up In The Numbers",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lightpath-lpth-defense-pivot-just-131404572.html",
-      "published": "2026-09-13T13:14:04Z",
-      "ts": 1789305244
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Copart (CPRT) Bets On Digital Dealers As Core Volumes Shrink",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/copart-cprt-bets-digital-dealers-130853110.html",
-      "published": "2026-09-13T13:08:53Z",
-      "ts": 1789304933
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "CrowdStrike Expands AI Capabilities With Autonomous Product Launch. What This Means for CRWD Stock.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-expands-ai-capabilities-autonomous-130002831.html",
-      "published": "2026-09-13T13:00:02Z",
-      "ts": 1789304402
+      "title": "Red Violet (RDVT) Turns Record Growth Into Real Profit Gains",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/red-violet-rdvt-turns-record-133658483.html",
+      "published": "2026-09-13T13:36:58Z",
+      "ts": 1789306618
     }
   ]
 }
