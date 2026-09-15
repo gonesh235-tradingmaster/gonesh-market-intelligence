@@ -1,14 +1,42 @@
 {
-  "updated_utc": "2026-09-15T16:41:23.628890+00:00",
+  "updated_utc": "2026-09-15T16:53:47.603978+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Institutional investors are dangerously overinvested in stocks",
+      "link": "https://www.marketwatch.com/story/institutional-investors-are-dangerously-overinvested-in-stocks-ea889386?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 16:45:00 GMT",
+      "ts": 1789490700
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Alibaba’s (BABA) Short-Term Capex Drag Creates a 30% Valuation Discount",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-baba-short-term-capex-163729017.html",
+      "published": "2026-09-15T16:37:29Z",
+      "ts": 1789490249
+    },
     {
       "source": "MarketWatch",
       "title": "What investors need to do — and mistakes not to make — in today’s uncertain world",
       "link": "https://www.marketwatch.com/story/what-investors-need-to-do-and-mistakes-not-to-make-in-todays-uncertain-world-8eb74333?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 16:37:00 GMT",
       "ts": 1789490220
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Zumiez (ZUMZ) Falls on Weak Results and Lower Outlook, But Is the Selloff Overdone?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zumiez-zumz-falls-weak-results-163241796.html",
+      "published": "2026-09-15T16:32:41Z",
+      "ts": 1789489961
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Forward Industries Sweetens SkyAI Takeover Offer to 50% Premium",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/forward-industries-sweetens-skyai-takeover-163100379.html",
+      "published": "2026-09-15T16:31:00Z",
+      "ts": 1789489860
     },
     {
       "source": "MarketWatch",
@@ -18,39 +46,11 @@
       "ts": 1789489800
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Yahoo Stock: How To Find & Own America's Greatest Opportunities",
-      "link": "https://www.investors.com/how-to-invest/yahoo-stock-americas-greatest-opportunities/?src=A00220&yptr=yahoo",
-      "published": "2026-09-15T16:28:16Z",
-      "ts": 1789489696
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Generate Capital Closes $117-Million in Financing for Community Solar",
-      "link": "https://finance.yahoo.com/energy/articles/generate-capital-closes-117-million-162655532.html",
-      "published": "2026-09-15T16:26:55Z",
-      "ts": 1789489615
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why Alluvium Bought Copart (CPRT) Despite the Long-Term Autonomous Driving Risk",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-alluvium-bought-copart-cprt-162642815.html",
-      "published": "2026-09-15T16:26:42Z",
-      "ts": 1789489602
-    },
-    {
       "source": "MarketWatch",
       "title": "Tech stocks haven’t been this cheap since the launch of ChatGPT. Should you buy in?",
       "link": "https://www.marketwatch.com/story/tech-stocks-havent-been-this-cheap-since-the-launch-of-chatgpt-should-you-buy-in-ec1044dc?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 16:26:00 GMT",
       "ts": 1789489560
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Pfizer (PFE), Valneva (VALN) Lyme Vaccine Moves to EMA Review Despite Phase 3 Caveat",
-      "link": "https://finance.yahoo.com/healthcare/articles/pfizer-pfe-valneva-valn-lyme-162100405.html",
-      "published": "2026-09-15T16:21:00Z",
-      "ts": 1789489260
     },
     {
       "source": "MarketWatch",
@@ -65,13 +65,6 @@
       "link": "https://www.marketwatch.com/story/wall-street-may-have-gotten-the-slower-ai-story-all-wrong-a08613c4?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 16:16:00 GMT",
       "ts": 1789488960
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How UnitedHealth (UNH) Leads the AI Revolution in the Insurance Industry",
-      "link": "https://finance.yahoo.com/healthcare/articles/unitedhealth-unh-leads-ai-revolution-161312650.html",
-      "published": "2026-09-15T16:13:12Z",
-      "ts": 1789488792
     },
     {
       "source": "MarketWatch",
@@ -95,13 +88,6 @@
       "ts": 1789488121
     },
     {
-      "source": "MarketWatch",
-      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 16:00:00 GMT",
-      "ts": 1789488000
-    },
-    {
       "source": "Cointelegraph",
       "title": "Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030",
       "link": "https://cointelegraph.com/news/standard-chartered-arbitrum-arb-price-10-2030?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -121,6 +107,13 @@
       "link": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 15:21:26 +0000",
       "ts": 1789485686
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Fed meeting live updates: Anticipation builds with Fed expected to hike interest rates for first time in 3 years",
+      "link": "https://finance.yahoo.com/economy/policy/live/federal-reserve-meeting-live-updates-chairman-kevin-warsh-143452661.html",
+      "published": "2026-09-15T14:34:52Z",
+      "ts": 1789482892
     },
     {
       "source": "CoinDesk",
@@ -282,6 +275,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
       "published": "2026-09-15 07:11:34",
       "ts": 1789456294
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin up 2% after Trump agrees to ethics requirements in latest Clarity Act text",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
+      "published": "2026-09-14 21:56:58",
+      "ts": 1789423018
     }
   ]
 }
