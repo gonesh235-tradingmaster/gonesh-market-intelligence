@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-15T05:00:39.910941+00:00",
+  "updated_utc": "2026-09-15T05:18:42.090636+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
+      "link": "https://www.coindesk.com/markets/2026/09/15/u-s-doj-seeks-usd61-million-in-what-it-calls-crypto-laundered-iranian-oil-proceeds",
+      "published": "Tue, 15 Sep 2026 05:12:06 +0000",
+      "ts": 1789449126
+    },
     {
       "source": "CoinDesk",
       "title": "Solana transactions just got more than 3 times bigger, giving an edge over Ethereum",
@@ -135,13 +142,6 @@
       "link": "https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 21:11:00 GMT",
       "ts": 1789420260
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Robinhood plans share redemptions, voting rights for stock tokens, after criticism",
-      "link": "https://www.coindesk.com/business/2026/09/14/robinhood-plans-share-redemptions-voting-rights-for-stock-tokens-after-criticism",
-      "published": "Mon, 14 Sep 2026 21:05:13 +0000",
-      "ts": 1789419913
     },
     {
       "source": "Investing Forex",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Navan (NAVN) Rides Enterprise Momentum Into Events and Meetings Through BoomPop Deal",
-      "link": "https://finance.yahoo.com/technology/ai/articles/navan-navn-rides-enterprise-momentum-171047781.html",
-      "published": "2026-09-13T17:10:47Z",
-      "ts": 1789319447
+      "title": "Wonder Deal, $240M Cash, and 31% Short Interest. A Short Squeeze Could Be Brewing in Serve Robotics Stock.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wonder-deal-240m-cash-31-183225342.html",
+      "published": "2026-09-13T18:32:25Z",
+      "ts": 1789324345
     }
   ]
 }
