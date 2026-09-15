@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-15T15:17:15.450209+00:00",
+  "updated_utc": "2026-09-15T15:30:50.233017+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address",
+      "link": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 15 Sep 2026 15:21:26 +0000",
+      "ts": 1789485686
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How many rate hikes are on tap? Wall Street hopes to connect the Fed’s dots.",
+      "link": "https://www.marketwatch.com/story/how-many-rate-hikes-are-on-tap-wall-street-hopes-to-connect-the-feds-dots-6b1ac5dc?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 15:16:00 GMT",
+      "ts": 1789485360
+    },
     {
       "source": "Yahoo Finance",
       "title": "Meta launches Meta One subscriptions as it seeks to better monetize AI spending",
@@ -100,13 +114,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
       "published": "2026-09-15 13:50:33",
       "ts": 1789480233
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Traditional bond investors have lost money for years. These five-star portfolio managers show a better way.",
-      "link": "https://www.marketwatch.com/story/heres-the-best-way-to-invest-in-bonds-for-the-long-term-according-to-these-five-star-portfolio-managers-bbf0d5e3?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 13:44:00 GMT",
-      "ts": 1789479840
     },
     {
       "source": "CoinDesk",
@@ -261,13 +268,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 05:50:00 +0000",
       "ts": 1789451400
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "CLARITY Act odds fall to 16% as key Democrats resist GOP’s ‘final’ offer",
-      "link": "https://cointelegraph.com/news/clarity-act-odds-fall-democrats-gop-final-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 15 Sep 2026 05:32:12 +0000",
-      "ts": 1789450332
     },
     {
       "source": "Investing Crypto",
