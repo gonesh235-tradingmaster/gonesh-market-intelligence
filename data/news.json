@@ -1,35 +1,63 @@
 {
-  "updated_utc": "2026-09-15T14:34:44.565784+00:00",
+  "updated_utc": "2026-09-15T14:48:33.120768+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
-      "source": "Yahoo Finance",
-      "title": "Apollo and J&J Face a High-Stakes Orthopedics Deal",
-      "link": "https://finance.yahoo.com/healthcare/articles/apollo-j-j-face-high-142856052.html",
-      "published": "2026-09-15T14:28:56Z",
-      "ts": 1789482536
+      "source": "MarketWatch",
+      "title": "The 10 most overvalued housing markets in America",
+      "link": "https://www.marketwatch.com/story/the-10-most-overvalued-housing-markets-in-america-6d28efdf?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 14:43:00 GMT",
+      "ts": 1789483380
     },
     {
       "source": "Yahoo Finance",
-      "title": "Nvidia’s Anthropic Investment: Securing AI Demand Amid Rising Competition",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-anthropic-investment-securing-ai-142836122.html",
-      "published": "2026-09-15T14:28:36Z",
-      "ts": 1789482516
+      "title": "Bank of America Warns of 10%+ Drop in Q3 Investment Banking Fees",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-warns-10-drop-143911257.html",
+      "published": "2026-09-15T14:39:11Z",
+      "ts": 1789483151
     },
     {
       "source": "Yahoo Finance",
-      "title": "GSK Cuts 641 Jobs in Vaccine Manufacturing Restructuring",
-      "link": "https://finance.yahoo.com/healthcare/articles/gsk-cuts-641-jobs-vaccine-142359501.html",
-      "published": "2026-09-15T14:23:59Z",
-      "ts": 1789482239
+      "title": "BioNTech’s Lung Cancer Drug Shows Signs of a Major Breakthrough",
+      "link": "https://finance.yahoo.com/healthcare/articles/biontech-lung-cancer-drug-shows-143753280.html",
+      "published": "2026-09-15T14:37:53Z",
+      "ts": 1789483073
     },
     {
       "source": "Yahoo Finance",
-      "title": "Kroger Under Pressure as Shoppers Become More Price-Sensitive",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kroger-under-pressure-shoppers-become-142231708.html",
-      "published": "2026-09-15T14:22:31Z",
-      "ts": 1789482151
+      "title": "From Novo Nordisk to ‘Novo’: A Strategic Reset Amid Rising Lilly Pressure",
+      "link": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-novo-strategic-reset-143625079.html",
+      "published": "2026-09-15T14:36:25Z",
+      "ts": 1789482985
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Planted Raises $31.8 Million to Accelerate Autonomous Solar Deployment",
+      "link": "https://finance.yahoo.com/energy/articles/planted-raises-31-8-million-143619127.html",
+      "published": "2026-09-15T14:36:19Z",
+      "ts": 1789482979
+    },
+    {
+      "source": "MarketWatch",
+      "title": "30-year mortgage rate jumps to 7.17% — a nearly 2-year high — in the latest blow to the housing market",
+      "link": "https://www.marketwatch.com/story/30-year-mortgage-rate-jumps-to-7-17-a-nearly-2-year-high-in-the-latest-blow-to-the-housing-market-aadbd63e?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 14:35:00 GMT",
+      "ts": 1789482900
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Fed meeting live updates: Anticipation builds with Fed expected to hike interest rates for first time in 3 years",
+      "link": "https://finance.yahoo.com/economy/policy/live/federal-reserve-meeting-live-updates-chairman-kevin-warsh-143452661.html",
+      "published": "2026-09-15T14:34:52Z",
+      "ts": 1789482892
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Inflation is sinking your high-yield savings account’s returns. Here’s one way to fight it.",
+      "link": "https://www.marketwatch.com/story/inflation-is-sinking-your-high-yield-savings-accounts-returns-heres-one-way-to-fight-it-6aa798e9?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 14:32:00 GMT",
+      "ts": 1789482720
     },
     {
       "source": "CoinDesk",
@@ -107,27 +135,6 @@
       "link": "https://www.marketwatch.com/story/when-people-with-student-debt-try-to-save-for-retirement-they-fall-behind-early-and-never-catch-up-074b4b28?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 13:18:00 GMT",
       "ts": 1789478280
-    },
-    {
-      "source": "MarketWatch",
-      "title": "An AI bubble is no longer Wall Street’s biggest fear. This stock-market risk just took its place.",
-      "link": "https://www.marketwatch.com/story/an-ai-bubble-is-no-longer-wall-streets-biggest-fear-this-market-risk-just-took-its-place-ec939034?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 13:18:00 GMT",
-      "ts": 1789478280
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Saudi Arabia may be just days away from not being able to export much oil",
-      "link": "https://www.marketwatch.com/story/saudi-arabia-may-be-just-days-away-from-not-being-able-to-export-much-oil-acfefd0c?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 13:03:00 GMT",
-      "ts": 1789477380
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 13:00:00 GMT",
-      "ts": 1789477200
     },
     {
       "source": "Investing Forex",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
       "published": "2026-09-14 21:56:58",
       "ts": 1789423018
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Loonie holds near 12-day low as oil support fails to offset dollar strength",
-      "link": "https://www.investing.com/news/forex-news/loonie-holds-near-12day-low-as-oil-support-fails-to-offset-dollar-strength-4900629",
-      "published": "2026-09-14 21:54:08",
-      "ts": 1789422848
     }
   ]
 }
