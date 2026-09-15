@@ -1,14 +1,49 @@
 {
-  "updated_utc": "2026-09-15T10:30:48.094173+00:00",
+  "updated_utc": "2026-09-15T10:45:23.261964+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin gives back Monday's gain as Clarity Act odds fade on Polymarket",
+      "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-gives-back-monday-s-gain-as-clarity-act-odds-fade-on-polymarket",
+      "published": "Tue, 15 Sep 2026 10:41:35 +0000",
+      "ts": 1789468895
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Here’s the best way to invest in bonds for the long term, according to these five-star portfolio managers",
+      "link": "https://www.marketwatch.com/story/heres-the-best-way-to-invest-in-bonds-for-the-long-term-according-to-these-five-star-portfolio-managers-bbf0d5e3?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 10:37:00 GMT",
+      "ts": 1789468620
+    },
     {
       "source": "CoinDesk",
       "title": "How a simple coding mistake let a hacker drain $7.8 million from a crypto wallet",
       "link": "https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet",
       "published": "Tue, 15 Sep 2026 10:27:55 +0000",
       "ts": 1789468075
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Standard Chartered sees Arbitrum’s ARB token soaring 70x by 2030",
+      "link": "https://www.investing.com/news/cryptocurrency-news/standard-chartered-sees-arbitrums-arb-token-soaring-70x-by-2030-4901206",
+      "published": "2026-09-15 10:27:16",
+      "ts": 1789468036
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Google’s Traffic Numbers Look Fine, Its Search Economics Tell Another Story",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/google-traffic-numbers-look-fine-102257813.html",
+      "published": "2026-09-15T10:22:57Z",
+      "ts": 1789467777
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Brent rises above $107 as attacks, pipeline outage deepen Saudi supply concerns",
+      "link": "https://finance.yahoo.com/news/oil-prices-rise-saudi-pipeline-003617502.html",
+      "published": "2026-09-15T10:19:18Z",
+      "ts": 1789467558
     },
     {
       "source": "Yahoo Finance",
@@ -32,25 +67,11 @@
       "ts": 1789466800
     },
     {
-      "source": "Yahoo Finance",
-      "title": "The Fed May Hike Again. Here’s Why CoreWeave and IREN Face Different Rate Risks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fed-may-hike-again-why-100523628.html",
-      "published": "2026-09-15T10:05:23Z",
-      "ts": 1789466723
-    },
-    {
       "source": "Cointelegraph",
       "title": "US House crypto tax package omits mining, staking reward deferral",
       "link": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 10:04:21 +0000",
       "ts": 1789466661
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Edgewell’s (EPC) Margins Slip Even As North America Rebounds",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/edgewell-epc-margins-slip-even-100001418.html",
-      "published": "2026-09-15T10:00:01Z",
-      "ts": 1789466401
     },
     {
       "source": "MarketWatch",
@@ -200,13 +221,6 @@
       "ts": 1789445956
     },
     {
-      "source": "CoinDesk",
-      "title": "Democrats send counteroffer to Republicans over Clarity Act provisions",
-      "link": "https://www.coindesk.com/policy/2026/09/15/democrats-send-counteroffer-to-republicans-over-clarity-act-provisions",
-      "published": "Tue, 15 Sep 2026 04:09:01 +0000",
-      "ts": 1789445341
-    },
-    {
       "source": "MarketWatch",
       "title": "‘He does not have a spouse or children’: My son has a serious genetic disease. What should I do with my $1.3 million estate?",
       "link": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
@@ -226,13 +240,6 @@
       "link": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 23:19:00 GMT",
       "ts": 1789427940
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The murky AI milestone that has some of the industry’s leading voices increasingly on edge",
-      "link": "https://www.marketwatch.com/story/the-murky-ai-milestone-that-has-some-of-the-industrys-leading-voices-increasingly-on-edge-6ffeacc7?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 21:57:00 GMT",
-      "ts": 1789423020
     },
     {
       "source": "Investing Crypto",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/citi-says-noksek-can-continue-to-work-despite-recent-gains-93CH-4899467",
       "published": "2026-09-14 12:07:47",
       "ts": 1789387667
-    },
-    {
-      "source": "Investing Forex",
-      "title": "BofA sees dollar sideways into year-end despite Fed hike bets",
-      "link": "https://www.investing.com/news/forex-news/bofa-sees-dollar-sideways-into-yearend-despite-fed-hike-bets-93CH-4899034",
-      "published": "2026-09-14 09:55:05",
-      "ts": 1789379705
     }
   ]
 }
