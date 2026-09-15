@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-15T07:50:01.180865+00:00",
+  "updated_utc": "2026-09-15T08:00:30.659322+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -277,11 +277,11 @@
       "ts": 1789347780
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin little changed at $77k as rate pressure clashes with diversification case",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-77200-as-rate-pressure-clashes-with-diversification-case-4898694",
-      "published": "2026-09-13 21:59:53",
-      "ts": 1789336793
+      "source": "Yahoo Finance",
+      "title": "StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes",
+      "link": "https://finance.yahoo.com/energy/articles/stanchart-warns-oil-now-built-230000074.html",
+      "published": "2026-09-13T23:00:00Z",
+      "ts": 1789340400
     }
   ]
 }
