@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-15T11:50:20.995861+00:00",
+  "updated_utc": "2026-09-15T11:59:13.663026+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -12,24 +12,38 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Ramit Sethi's first scholarship was $2K and he put it in the stock market. Here's the simple lesson he learned",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ramit-sethis-first-scholarship-2k-114500607.html",
+      "published": "2026-09-15T11:45:00Z",
+      "ts": 1789472700
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Qualcomm’s Datacenter Pivot Is Real, but The Market Already Knows This",
+      "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-datacenter-pivot-real-market-114340853.html",
+      "published": "2026-09-15T11:43:40Z",
+      "ts": 1789472620
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Bitcoin and ethereum prices today, Tuesday, September 15, 2026: Crypto prices sliding this morning ahead of Fed meeting",
       "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-15-2026-crypto-prices-sliding-this-morning-ahead-of-fed-meeting-113732149.html",
       "published": "2026-09-15T11:37:32Z",
       "ts": 1789472252
     },
     {
-      "source": "Yahoo Finance",
-      "title": "The man who created the 4% rule for retirement savings now wants you to spend more — says 5.5% is 'more realistic'",
-      "link": "https://finance.yahoo.com/markets/options/articles/man-created-4-rule-retirement-113000867.html",
-      "published": "2026-09-15T11:30:00Z",
-      "ts": 1789471800
+      "source": "Investing Crypto",
+      "title": "Exclusive: Bitget Wallet adds tokenized U.S. stocks through Reality integration",
+      "link": "https://www.investing.com/news/cryptocurrency-news/exclusive-bitget-wallet-adds-tokenized-us-stocks-through-reality-integration-4901412",
+      "published": "2026-09-15 11:31:22",
+      "ts": 1789471882
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Meta’s (META) Muse Math: 10 Million Paying Users Could Mean $2.4 Billion a Year",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-muse-math-10-112958828.html",
-      "published": "2026-09-15T11:29:58Z",
-      "ts": 1789471798
+      "source": "Investing Crypto",
+      "title": "BingX Evolves into a Multi-Asset Trading Platform, Connecting Users to Global Opportunities",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bingx-evolves-into-a-multiasset-trading-platform-connecting-users-to-global-opportunities-4901404",
+      "published": "2026-09-15 11:30:33",
+      "ts": 1789471833
     },
     {
       "source": "MarketWatch",
@@ -268,20 +282,6 @@
       "link": "https://finance.yahoo.com/energy/articles/costco-rations-kirkland-motor-oil-133308837.html",
       "published": "2026-09-14T13:33:08Z",
       "ts": 1789392788
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. Treasury yields hold near multi-year highs as Fed hike bets anchor curve",
-      "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
-      "published": "2026-09-14 12:13:47",
-      "ts": 1789388027
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Citi says NOK/SEK can continue to work despite recent gains",
-      "link": "https://www.investing.com/news/forex-news/citi-says-noksek-can-continue-to-work-despite-recent-gains-93CH-4899467",
-      "published": "2026-09-14 12:07:47",
-      "ts": 1789387667
     }
   ]
 }
