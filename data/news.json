@@ -1,14 +1,28 @@
 {
-  "updated_utc": "2026-09-15T05:48:37.856813+00:00",
+  "updated_utc": "2026-09-15T05:59:11.865964+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "XRP Ledger is one vote away from starting its next big payments upgrade",
+      "link": "https://www.coindesk.com/tech/2026/09/15/xrp-ledger-is-one-vote-away-from-starting-its-next-big-payments-upgrade",
+      "published": "Tue, 15 Sep 2026 05:58:41 +0000",
+      "ts": 1789451921
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 05:39:15 +0000",
       "ts": 1789450755
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies slip as yen pulls back, Fed and BOJ decisions loom",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-slip-as-yen-pulls-back-fed-and-boj-decisions-loom-4900791",
+      "published": "2026-09-15 05:34:06",
+      "ts": 1789450446
     },
     {
       "source": "Cointelegraph",
@@ -107,13 +121,6 @@
       "link": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 23:19:00 GMT",
       "ts": 1789427940
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
-      "link": "https://www.coindesk.com/policy/2026/09/14/u-s-senator-lummis-says-democrats-won-t-quit-asking-for-more-on-crypto-clarity-act",
-      "published": "Mon, 14 Sep 2026 22:34:18 +0000",
-      "ts": 1789425258
     },
     {
       "source": "MarketWatch",
@@ -275,13 +282,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-winning-cpu-shortage-191052125.html",
       "published": "2026-09-13T19:10:52Z",
       "ts": 1789326652
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin stalls at $77,338 between key support and resistance: Live",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
-      "published": "2026-09-13 19:02:21",
-      "ts": 1789326141
     }
   ]
 }
