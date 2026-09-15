@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-15T10:45:23.261964+00:00",
+  "updated_utc": "2026-09-15T10:56:25.545844+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "AI scammers are scouring obituaries to target widows — one lost $7,000 after being told her late husband evaded taxes",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-scammers-scouring-obituaries-target-104500023.html",
+      "published": "2026-09-15T10:45:00Z",
+      "ts": 1789469100
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin gives back Monday's gain as Clarity Act odds fade on Polymarket",
@@ -16,6 +23,13 @@
       "link": "https://www.marketwatch.com/story/heres-the-best-way-to-invest-in-bonds-for-the-long-term-according-to-these-five-star-portfolio-managers-bbf0d5e3?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 10:37:00 GMT",
       "ts": 1789468620
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Moody's Mark Zandi warns of a 'serious' mistake if the Fed hikes rates as Wall Street expects a quarter-point increase",
+      "link": "https://finance.yahoo.com/economy/policy/articles/moodys-mark-zandi-warns-serious-103000972.html",
+      "published": "2026-09-15T10:30:00Z",
+      "ts": 1789468200
     },
     {
       "source": "CoinDesk",
@@ -44,20 +58,6 @@
       "link": "https://finance.yahoo.com/news/oil-prices-rise-saudi-pipeline-003617502.html",
       "published": "2026-09-15T10:19:18Z",
       "ts": 1789467558
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Legendary investor made an estimated $100 million on 1987 crash, now says investors could see 'negative 10-year returns'",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/legendary-investor-made-estimated-100-101500873.html",
-      "published": "2026-09-15T10:15:00Z",
-      "ts": 1789467300
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Morgan Stanley Direct Lending (MSDL) Holds Its Dividend As Profits Slip",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-direct-lending-msdl-100821111.html",
-      "published": "2026-09-15T10:08:21Z",
-      "ts": 1789466901
     },
     {
       "source": "CoinDesk",
@@ -124,7 +124,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Morgan Stanley joins Goldman Sachs in 11th-hour switch to forecasting a Fed hike",
+      "title": "Morgan Stanley joins Goldman Sachs in 11th-hour switch to predict a Fed hike",
       "link": "https://www.marketwatch.com/story/morgan-stanley-joins-goldman-sachs-in-11th-hour-switch-to-forecasting-a-fed-hike-c7597bda?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 09:05:00 GMT",
       "ts": 1789463100
