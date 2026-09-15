@@ -1,14 +1,35 @@
 {
-  "updated_utc": "2026-09-15T11:39:44.948668+00:00",
+  "updated_utc": "2026-09-15T11:50:20.995861+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
       "source": "MarketWatch",
-      "title": "Here’s the best way to invest in bonds for the long term, according to these five-star portfolio managers",
+      "title": "Traditional bond investors have lost money for years. These five-star portfolio managers show a better way.",
       "link": "https://www.marketwatch.com/story/heres-the-best-way-to-invest-in-bonds-for-the-long-term-according-to-these-five-star-portfolio-managers-bbf0d5e3?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 11:34:00 GMT",
-      "ts": 1789472040
+      "published": "Tue, 15 Sep 2026 11:46:00 GMT",
+      "ts": 1789472760
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bitcoin and ethereum prices today, Tuesday, September 15, 2026: Crypto prices sliding this morning ahead of Fed meeting",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-15-2026-crypto-prices-sliding-this-morning-ahead-of-fed-meeting-113732149.html",
+      "published": "2026-09-15T11:37:32Z",
+      "ts": 1789472252
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The man who created the 4% rule for retirement savings now wants you to spend more — says 5.5% is 'more realistic'",
+      "link": "https://finance.yahoo.com/markets/options/articles/man-created-4-rule-retirement-113000867.html",
+      "published": "2026-09-15T11:30:00Z",
+      "ts": 1789471800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Meta’s (META) Muse Math: 10 Million Paying Users Could Mean $2.4 Billion a Year",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-muse-math-10-112958828.html",
+      "published": "2026-09-15T11:29:58Z",
+      "ts": 1789471798
     },
     {
       "source": "MarketWatch",
@@ -18,32 +39,11 @@
       "ts": 1789471440
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Silver prices today, Tuesday, September 15, 2026: Silver prices drop below $64 as Fed-decision day approaches",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-september-15-2026-silver-prices-drop-below-64-as-fed-decision-day-approaches-112326237.html",
-      "published": "2026-09-15T11:23:26Z",
-      "ts": 1789471406
-    },
-    {
       "source": "CoinDesk",
       "title": "Ether, solana, XRP likely to gain if Clarity Act progresses",
       "link": "https://www.coindesk.com/daybook-us/2026/09/15/ether-solana-xrp-likely-to-gain-if-clarity-act-progresses",
       "published": "Tue, 15 Sep 2026 11:15:44 +0000",
       "ts": 1789470944
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Charlie Munger once revealed ‘the iron rule of life’ to survive anything — and it could make you rich. Do you use it?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/charlie-munger-once-revealed-iron-111500705.html",
-      "published": "2026-09-15T11:15:00Z",
-      "ts": 1789470900
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Gold prices today, Tuesday, September 15, 2026: Gold sees lowest open in weeks as Treasury yields keep rising",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-september-15-2026-gold-sees-lowest-open-in-weeks-as-treasury-yields-keep-rising-111454530.html",
-      "published": "2026-09-15T11:14:54Z",
-      "ts": 1789470894
     },
     {
       "source": "MarketWatch",
@@ -186,13 +186,6 @@
       "ts": 1789460333
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures retreat ahead of Fed meeting amid AI safety fears",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html",
-      "published": "2026-09-15T08:13:07Z",
-      "ts": 1789459987
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound fall as UK jobs data disappoints, dollar firm",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-fall-as-uk-jobs-data-disappoints-dollar-firm-4900933",
@@ -282,6 +275,13 @@
       "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
       "published": "2026-09-14 12:13:47",
       "ts": 1789388027
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Citi says NOK/SEK can continue to work despite recent gains",
+      "link": "https://www.investing.com/news/forex-news/citi-says-noksek-can-continue-to-work-despite-recent-gains-93CH-4899467",
+      "published": "2026-09-14 12:07:47",
+      "ts": 1789387667
     }
   ]
 }
