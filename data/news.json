@@ -1,22 +1,8 @@
 {
-  "updated_utc": "2026-09-15T22:43:46.086040+00:00",
+  "updated_utc": "2026-09-15T22:52:52.871992+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
-    {
-      "source": "MarketWatch",
-      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 22:15:00 GMT",
-      "ts": 1789510500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 22:00:00 GMT",
-      "ts": 1789509600
-    },
     {
       "source": "CoinDesk",
       "title": "There were many conductors in the derailment of the crypto industry's Clarity Act",
@@ -32,46 +18,11 @@
       "ts": 1789508959
     },
     {
-      "source": "MarketWatch",
-      "title": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity",
-      "link": "https://www.marketwatch.com/story/these-four-stocks-could-benefit-most-from-a-3-2-trillion-semiconductor-opportunity-e6bf58b4?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 21:40:00 GMT",
-      "ts": 1789508400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
-      "link": "https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 21:34:00 GMT",
-      "ts": 1789508040
-    },
-    {
       "source": "Cointelegraph",
       "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
       "link": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 21:23:00 +0000",
       "ts": 1789507380
-    },
-    {
-      "source": "MarketWatch",
-      "title": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
-      "link": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 21:15:00 GMT",
-      "ts": 1789506900
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Inflation killed the penny. Now it’s coming for your dollar.",
-      "link": "https://www.marketwatch.com/story/inflation-killed-the-penny-now-its-coming-for-your-dollar-78336cd8?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 21:00:00 GMT",
-      "ts": 1789506000
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why a Federal Reserve rate hike could be a ‘rare win’ for your retirement money",
-      "link": "https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 20:47:00 GMT",
-      "ts": 1789505220
     },
     {
       "source": "Investing Forex",
@@ -86,13 +37,6 @@
       "link": "https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 20:37:34 +0000",
       "ts": 1789504654
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Top Senate Republican floats a diesel export ban as prices soar. It might not work.",
-      "link": "https://www.marketwatch.com/story/top-senate-republican-floats-a-diesel-export-ban-as-prices-soar-it-might-not-work-45966943?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 20:36:00 GMT",
-      "ts": 1789504560
     },
     {
       "source": "CoinDesk",
@@ -282,6 +226,62 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/ev-bubble-burst-play-rivian-143418979.html",
       "published": "2026-09-14T14:34:18Z",
       "ts": 1789396458
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dollar Climbs as Stocks Sink and Crude Oil Surges",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-climbs-stocks-sink-crude-143325158.html",
+      "published": "2026-09-14T14:33:25Z",
+      "ts": 1789396405
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "5 habits rich retirees lean on to protect their wealth in retirement",
+      "link": "https://finance.yahoo.com/markets/articles/5-habits-rich-retirees-lean-143000557.html",
+      "published": "2026-09-14T14:30:00Z",
+      "ts": 1789396200
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is Devon Energy Stock Outperforming the S&P 500?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-stock-outperforming-p-142950910.html",
+      "published": "2026-09-14T14:29:50Z",
+      "ts": 1789396190
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Hub Group warns of Nasdaq delisting notice; flags H1 operating loss",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hub-group-warns-nasdaq-delisting-142643603.html",
+      "published": "2026-09-14T14:26:43Z",
+      "ts": 1789396003
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "National specialty clothing chain closing all its stores",
+      "link": "https://finance.yahoo.com/small-business/articles/national-specialty-clothing-chain-closing-140700669.html",
+      "published": "2026-09-14T14:07:00Z",
+      "ts": 1789394820
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Costco rations Kirkland motor oil, raises price to $57.99",
+      "link": "https://finance.yahoo.com/energy/articles/costco-rations-kirkland-motor-oil-133308837.html",
+      "published": "2026-09-14T13:33:08Z",
+      "ts": 1789392788
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. Treasury yields hold near multi-year highs as Fed hike bets anchor curve",
+      "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
+      "published": "2026-09-14 12:13:47",
+      "ts": 1789388027
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Citi says NOK/SEK can continue to work despite recent gains",
+      "link": "https://www.investing.com/news/forex-news/citi-says-noksek-can-continue-to-work-despite-recent-gains-93CH-4899467",
+      "published": "2026-09-14 12:07:47",
+      "ts": 1789387667
     }
   ]
 }
