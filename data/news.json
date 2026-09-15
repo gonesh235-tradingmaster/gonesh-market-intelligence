@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-15T22:05:07.649402+00:00",
+  "updated_utc": "2026-09-15T22:20:38.201006+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 22:15:00 GMT",
+      "ts": 1789510500
+    },
     {
       "source": "MarketWatch",
       "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
@@ -86,13 +93,6 @@
       "link": "https://www.marketwatch.com/story/top-senate-republican-floats-a-diesel-export-ban-as-prices-soar-it-might-not-work-45966943?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 20:36:00 GMT",
       "ts": 1789504560
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Oracle’s stock falls for the fifth day in a row — missing out on the AI bounce",
-      "link": "https://www.marketwatch.com/story/oracles-stock-falls-for-the-fifth-day-in-a-row-missing-out-on-the-ai-bounce-9150c9ed?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 20:31:00 GMT",
-      "ts": 1789504260
     },
     {
       "source": "CoinDesk",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "National specialty clothing chain closing all its stores",
-      "link": "https://finance.yahoo.com/small-business/articles/national-specialty-clothing-chain-closing-140700669.html",
-      "published": "2026-09-14T14:07:00Z",
-      "ts": 1789394820
+      "title": "Stocks Fall on AI Slowdown Fears and Rising Crude Oil Prices",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-fall-ai-slowdown-fears-141007739.html",
+      "published": "2026-09-14T14:10:07Z",
+      "ts": 1789395007
     }
   ]
 }
