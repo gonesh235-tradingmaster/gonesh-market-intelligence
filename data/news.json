@@ -1,21 +1,28 @@
 {
-  "updated_utc": "2026-09-15T20:32:56.436683+00:00",
+  "updated_utc": "2026-09-15T20:46:00.049060+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Top Senate Republican floats a diesel export ban as prices soar. It might not work.",
+      "link": "https://www.marketwatch.com/story/top-senate-republican-floats-a-diesel-export-ban-as-prices-soar-it-might-not-work-45966943?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 20:36:00 GMT",
+      "ts": 1789504560
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Oracle’s stock falls for the fifth day in a row — missing out on the AI bounce",
+      "link": "https://www.marketwatch.com/story/oracles-stock-falls-for-the-fifth-day-in-a-row-missing-out-on-the-ai-bounce-9150c9ed?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 20:31:00 GMT",
+      "ts": 1789504260
+    },
     {
       "source": "MarketWatch",
       "title": "Dow clinches its worst September start since 2008 as history repeats itself",
       "link": "https://www.marketwatch.com/story/dow-clinches-its-worst-september-start-since-2008-as-history-repeats-itself-57d11f3f?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 20:20:00 GMT",
       "ts": 1789503600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Top Senate Republican floats a diesel export ban as prices soar. It might not work.",
-      "link": "https://www.marketwatch.com/story/top-senate-republican-floats-a-diesel-export-ban-as-prices-soar-it-might-not-work-45966943?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 20:15:00 GMT",
-      "ts": 1789503300
     },
     {
       "source": "CoinDesk",
@@ -107,13 +114,6 @@
       "link": "https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion",
       "published": "Tue, 15 Sep 2026 18:02:05 +0000",
       "ts": 1789495325
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Stocks have so far survived rising Treasury yields. But that may be about to change.",
-      "link": "https://www.marketwatch.com/story/stocks-have-so-far-survived-rising-treasury-yields-but-that-may-be-about-to-change-b087dbe1?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 17:59:00 GMT",
-      "ts": 1789495140
     },
     {
       "source": "Cointelegraph",
