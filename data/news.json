@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-15T04:19:38.210883+00:00",
+  "updated_utc": "2026-09-15T04:35:27.294429+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Solana transactions just got more than 3 times bigger, giving an edge over Ethereum",
+      "link": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum",
+      "published": "Tue, 15 Sep 2026 04:34:10 +0000",
+      "ts": 1789446850
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CoinEx to cease operation after 9 years, citing ‘significant’ crypto contraction",
+      "link": "https://cointelegraph.com/news/coinex-cease-operation-citing-significant-crypto-contraction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 15 Sep 2026 04:19:16 +0000",
+      "ts": 1789445956
+    },
     {
       "source": "CoinDesk",
       "title": "Democrats send counteroffer to Republicans over Clarity Act provisions",
@@ -158,13 +172,6 @@
       "ts": 1789418498
     },
     {
-      "source": "CoinDesk",
-      "title": "Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable",
-      "link": "https://www.coindesk.com/business/2026/09/14/trump-s-usd800-million-stake-into-world-liberty-financial-s-token-now-has-a-timeline-to-becoming-sellable",
-      "published": "Mon, 14 Sep 2026 19:21:58 +0000",
-      "ts": 1789413718
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin nears $80K bull trap zone with weak ADX: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
@@ -191,13 +198,6 @@
       "link": "https://cointelegraph.com/news/clarity-act-faces-new-opposition-ahead-of-key-senate-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 17:42:04 +0000",
       "ts": 1789407724
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "S&P Global backs Kaiko as Series B reaches $110M",
-      "link": "https://cointelegraph.com/news/sp-global-leads-110m-kaiko-funding-round-as-wall-street-eyes-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 14 Sep 2026 16:17:52 +0000",
-      "ts": 1789402672
     },
     {
       "source": "Yahoo Finance",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Fed Decision, Retail Sales and Other Can't Miss Items This Week",
-      "link": "https://finance.yahoo.com/economy/policy/articles/fed-decision-retail-sales-other-170002358.html",
-      "published": "2026-09-13T17:00:02Z",
-      "ts": 1789318802
+      "title": "Navan (NAVN) Rides Enterprise Momentum Into Events and Meetings Through BoomPop Deal",
+      "link": "https://finance.yahoo.com/technology/ai/articles/navan-navn-rides-enterprise-momentum-171047781.html",
+      "published": "2026-09-13T17:10:47Z",
+      "ts": 1789319447
     }
   ]
 }
