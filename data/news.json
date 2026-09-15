@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-15T07:16:45.202312+00:00",
+  "updated_utc": "2026-09-15T07:34:10.105490+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The Fed may be on the verge of a serious mistake, prominent economists warn",
+      "link": "https://www.marketwatch.com/story/the-fed-may-be-on-the-verge-of-a-serious-mistake-prominent-economists-warn-3ccb6581?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 07:29:00 GMT",
+      "ts": 1789457340
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin trapped between $76,400 and $78,300: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+      "published": "2026-09-15 07:11:34",
+      "ts": 1789456294
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin steadies at $77.4k with focus on Clarity vote, Fed meeting",
@@ -179,25 +193,11 @@
       "ts": 1789419822
     },
     {
-      "source": "MarketWatch",
-      "title": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Am I crazy to do this?",
-      "link": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 21:00:00 GMT",
-      "ts": 1789419600
-    },
-    {
       "source": "Cointelegraph",
       "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
       "link": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 20:54:10 +0000",
       "ts": 1789419250
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin nears $80K bull trap zone with weak ADX: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
-      "published": "2026-09-14 19:18:14",
-      "ts": 1789413494
     },
     {
       "source": "Cointelegraph",
