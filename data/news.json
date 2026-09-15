@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-15T08:21:11.607220+00:00",
+  "updated_utc": "2026-09-15T08:37:26.992178+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Solana more than triples transaction size limit with mainnet upgrade",
+      "link": "https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 15 Sep 2026 08:18:53 +0000",
+      "ts": 1789460333
+    },
     {
       "source": "Investing Forex",
       "title": "Sterling today: Pound fall as UK jobs data disappoints, dollar firm",
@@ -23,13 +30,6 @@
       "link": "https://www.investing.com/news/forex-news/european-sovereign-debt-pressured-as-traders-price-ecb-hikes-through-early-2027-4900845",
       "published": "2026-09-15 07:47:02",
       "ts": 1789458422
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The Fed may be on the verge of a serious mistake, prominent economists warn",
-      "link": "https://www.marketwatch.com/story/the-fed-may-be-on-the-verge-of-a-serious-mistake-prominent-economists-warn-3ccb6581?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 07:29:00 GMT",
-      "ts": 1789457340
     },
     {
       "source": "Investing Crypto",
@@ -130,39 +130,11 @@
       "ts": 1789433175
     },
     {
-      "source": "MarketWatch",
-      "title": "‘He does not have a spouse or children’: My son has a serious genetic disease. What should I do with my $1.3 million estate?",
-      "link": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 00:15:00 GMT",
-      "ts": 1789431300
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 00:01:00 GMT",
-      "ts": 1789430460
-    },
-    {
       "source": "CoinDesk",
       "title": "Even if Clarity fails, Wall Street’s crypto push is unlikely to stop",
       "link": "https://www.coindesk.com/policy/2026/09/14/even-if-clarity-fails-wall-street-s-crypto-push-is-unlikely-to-stop",
       "published": "Mon, 14 Sep 2026 23:43:28 +0000",
       "ts": 1789429408
-    },
-    {
-      "source": "MarketWatch",
-      "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
-      "link": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 23:19:00 GMT",
-      "ts": 1789427940
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The murky AI milestone that has some of the industry’s leading voices increasingly on edge",
-      "link": "https://www.marketwatch.com/story/the-murky-ai-milestone-that-has-some-of-the-industrys-leading-voices-increasingly-on-edge-6ffeacc7?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 21:57:00 GMT",
-      "ts": 1789423020
     },
     {
       "source": "Investing Crypto",
@@ -177,27 +149,6 @@
       "link": "https://www.investing.com/news/forex-news/loonie-holds-near-12day-low-as-oil-support-fails-to-offset-dollar-strength-4900629",
       "published": "2026-09-14 21:54:08",
       "ts": 1789422848
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The oil market is sending an increasingly loud warning about gas prices at the pump",
-      "link": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 21:31:00 GMT",
-      "ts": 1789421460
-    },
-    {
-      "source": "MarketWatch",
-      "title": "CrowdStrike and Palo Alto Networks lead software stocks to a never-before-seen feat",
-      "link": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 21:11:00 GMT",
-      "ts": 1789420260
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Chip stocks were a safe AI play. Now they’ve turned into the market’s pain trade.",
-      "link": "https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 21:11:00 GMT",
-      "ts": 1789420260
     },
     {
       "source": "Investing Forex",
@@ -219,13 +170,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-passes-79k-oil-prices-cool-on-trump-iran-war-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 18:56:28 +0000",
       "ts": 1789412188
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Strive adds 469 Bitcoin to reach 25,000 BTC treasury",
-      "link": "https://cointelegraph.com/news/strive-adds-469-bitcoin-to-reach-25000-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 14 Sep 2026 17:50:12 +0000",
-      "ts": 1789408212
     },
     {
       "source": "Yahoo Finance",
@@ -282,6 +226,62 @@
       "link": "https://finance.yahoo.com/energy/articles/stanchart-warns-oil-now-built-230000074.html",
       "published": "2026-09-13T23:00:00Z",
       "ts": 1789340400
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin little changed at $77k as rate pressure clashes with diversification case",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-77200-as-rate-pressure-clashes-with-diversification-case-4898694",
+      "published": "2026-09-13 21:59:53",
+      "ts": 1789336793
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Further Oil Price Spikes Could Rekindle Recession Fears",
+      "link": "https://finance.yahoo.com/economy/policy/articles/further-oil-price-spikes-could-210000970.html",
+      "published": "2026-09-13T21:00:00Z",
+      "ts": 1789333200
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Oil Is $100, The 10-Year Is Near 5%. Why Doesn’t The Stock Market Care?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oil-100-10-near-5-203326495.html",
+      "published": "2026-09-13T20:33:26Z",
+      "ts": 1789331606
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin stalls at $77,338 between key support and resistance: Live",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
+      "published": "2026-09-13 19:02:21",
+      "ts": 1789326141
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin struggles above $77,000 as rising exchange reserves weigh on sentiment",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-77000-as-rising-exchange-reserves-weigh-on-sentiment-4898643",
+      "published": "2026-09-12 09:52:28",
+      "ts": 1789206748
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin set to snap three-week win streak on surging oil, tick up in Fed hike bets",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-771k-amid-usiran-jitters-cpi-caution-4897247",
+      "published": "2026-09-11 21:20:45",
+      "ts": 1789161645
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin dips to $77.1k as PPI data boosts Fed rate hike bets, oil prices jump",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-down-to-783k-on-iran-jitters-higher-yields-4894954",
+      "published": "2026-09-10 21:43:48",
+      "ts": 1789076628
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "I bond vs. high-yield savings account: Which is better for beating inflation?",
+      "link": "https://finance.yahoo.com/personal-finance/banking/comparison/i-bond-vs-savings-account-185055035.html",
+      "published": "2024-04-19T18:50:55Z",
+      "ts": 1713552655
     }
   ]
 }
