@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-15T03:00:18.556406+00:00",
+  "updated_utc": "2026-09-15T03:19:23.233111+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -200,6 +200,13 @@
       "ts": 1789401359
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Costco rations Kirkland motor oil, raises price to $57.99",
+      "link": "https://finance.yahoo.com/energy/articles/costco-rations-kirkland-motor-oil-133308837.html",
+      "published": "2026-09-14T13:33:08Z",
+      "ts": 1789392788
+    },
+    {
       "source": "Investing Forex",
       "title": "U.S. Treasury yields hold near multi-year highs as Fed hike bets anchor curve",
       "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
@@ -261,13 +268,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
       "published": "2026-09-13 19:02:21",
       "ts": 1789326141
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Suggests Waiting for a Lower Entry on Howmet Aerospace (HWM)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-waiting-lower-165503524.html",
-      "published": "2026-09-13T16:55:03Z",
-      "ts": 1789318503
     },
     {
       "source": "Yahoo Finance",
