@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-15T13:24:17.961336+00:00",
+  "updated_utc": "2026-09-15T13:39:09.522469+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Standard Chartered predicts Arbitrum's ARB to rise 70-fold to $10, citing Robinhood Chain revenue",
+      "link": "https://www.coindesk.com/markets/2026/09/15/standard-chartered-expects-arbitrum-s-arb-rising-70-fold-to-usd10-as-robinhood-boosts-its-revenue",
+      "published": "Tue, 15 Sep 2026 13:25:52 +0000",
+      "ts": 1789478752
+    },
     {
       "source": "MarketWatch",
       "title": "When people with student debt try to save for retirement, they fall behind early and never catch up",
@@ -16,6 +23,20 @@
       "link": "https://www.marketwatch.com/story/an-ai-bubble-is-no-longer-wall-streets-biggest-fear-this-market-risk-just-took-its-place-ec939034?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 13:18:00 GMT",
       "ts": 1789478280
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Oil prices edge higher as attacks, pipeline outage deepen Saudi supply concerns",
+      "link": "https://finance.yahoo.com/news/oil-prices-rise-saudi-pipeline-003617502.html",
+      "published": "2026-09-15T13:15:53Z",
+      "ts": 1789478153
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Here’s Why Sotera Health Company (SHC) Surges 25% in Q2",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-sotera-health-company-shc-131345471.html",
+      "published": "2026-09-15T13:13:45Z",
+      "ts": 1789478025
     },
     {
       "source": "Yahoo Finance",
@@ -53,25 +74,11 @@
       "ts": 1789477200
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Universal Display (OLED): Is the AI Infrastructure Boom Becoming a Hidden Risk for Display Suppliers?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/universal-display-oled-ai-infrastructure-125924977.html",
-      "published": "2026-09-15T12:59:24Z",
-      "ts": 1789477164
-    },
-    {
       "source": "MarketWatch",
-      "title": "Wells Fargo just lowered its S&P 500 year-end price target. Will others follow?",
+      "title": "A Wall Street firm just lowered its S&P 500 price target. Start of a trend?",
       "link": "https://www.marketwatch.com/story/wells-fargo-just-cuts-its-s-p-500-price-target-will-others-follow-e32f968a?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 12:56:00 GMT",
       "ts": 1789476960
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How AI Infrastructure and Component Costs Threaten Logitech’s (LOGI) Outlook",
-      "link": "https://finance.yahoo.com/technology/articles/ai-infrastructure-component-costs-threaten-125222803.html",
-      "published": "2026-09-15T12:52:22Z",
-      "ts": 1789476742
     },
     {
       "source": "Investing Forex",
@@ -184,13 +191,6 @@
       "link": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 09:40:27 +0000",
       "ts": 1789465227
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Hong Kong crypto exchange CoinEx to cease operations after 9 years in business",
-      "link": "https://www.coindesk.com/business/2026/09/15/hong-kong-crypto-exchange-coinex-to-cease-operations-after-9-years-in-business",
-      "published": "Tue, 15 Sep 2026 09:30:58 +0000",
-      "ts": 1789464658
     },
     {
       "source": "Cointelegraph",
