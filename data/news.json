@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-15T03:19:23.233111+00:00",
+  "updated_utc": "2026-09-15T03:35:28.289184+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "U.S. House panel shares crypto tax bill ahead of hearing later this week",
+      "link": "https://www.coindesk.com/policy/2026/09/14/u-s-house-panel-shares-crypto-tax-bill-ahead-of-hearing-later-this-week",
+      "published": "Tue, 15 Sep 2026 03:27:38 +0000",
+      "ts": 1789442858
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin slips to $77,800 as Senate Clarity Act vote nears and oil prices climb",
+      "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-slips-to-usd77-800-as-senate-clarity-act-vote-nears-and-oil-prices-climb",
+      "published": "Tue, 15 Sep 2026 03:23:28 +0000",
+      "ts": 1789442608
+    },
     {
       "source": "Cointelegraph",
       "title": "Democrats push back on GOP’s ‘final’ CLARITY offer with counterproposal: Politico",
@@ -158,13 +172,6 @@
       "ts": 1789410849
     },
     {
-      "source": "CoinDesk",
-      "title": "Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote",
-      "link": "https://www.coindesk.com/policy/2026/09/14/banks-escalate-stablecoin-rewards-fight-as-senate-prepares-for-a-clarity-act-vote",
-      "published": "Mon, 14 Sep 2026 17:51:20 +0000",
-      "ts": 1789408280
-    },
-    {
       "source": "Cointelegraph",
       "title": "Strive adds 469 Bitcoin to reach 25,000 BTC treasury",
       "link": "https://cointelegraph.com/news/strive-adds-469-bitcoin-to-reach-25000-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -184,13 +191,6 @@
       "link": "https://cointelegraph.com/news/sp-global-leads-110m-kaiko-funding-round-as-wall-street-eyes-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 14 Sep 2026 16:17:52 +0000",
       "ts": 1789402672
-    },
-    {
-      "source": "CoinDesk",
-      "title": "A bipartisan coalition of 17 state attorneys generals urge Senate to reject Clarity Act",
-      "link": "https://www.coindesk.com/policy/2026/09/14/bipartisan-group-of-state-attorneys-general-oppose-clarity-act-over-federal-preemption-worry",
-      "published": "Mon, 14 Sep 2026 15:57:01 +0000",
-      "ts": 1789401421
     },
     {
       "source": "Cointelegraph",
@@ -271,17 +271,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Jim Cramer Suggests Waiting for a Lower Entry on Howmet Aerospace (HWM)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-waiting-lower-165503524.html",
+      "published": "2026-09-13T16:55:03Z",
+      "ts": 1789318503
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Being a millionaire isn’t enough to join America’s top 10% — here’s the net worth it actually takes to be in the top",
       "link": "https://finance.yahoo.com/markets/articles/being-millionaire-isn-t-enough-164500172.html",
       "published": "2026-09-13T16:45:00Z",
       "ts": 1789317900
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Zcash Price Prediction: Bearish RSI Divergence Sets Stage for Pullback to $850",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/zcash-price-prediction-bearish-rsi-160848407.html",
-      "published": "2026-09-13T16:08:48Z",
-      "ts": 1789315728
     }
   ]
 }
