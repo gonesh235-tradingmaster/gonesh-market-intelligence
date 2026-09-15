@@ -1,14 +1,35 @@
 {
-  "updated_utc": "2026-09-15T09:08:09.347083+00:00",
+  "updated_utc": "2026-09-15T09:28:48.319467+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 09:15:00 GMT",
+      "ts": 1789463700
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Exclusive-Indian consumer regulator escalates probe into Apple's software warranty terms",
+      "link": "https://finance.yahoo.com/news/exclusive-indian-consumer-regulator-escalates-091004769.html",
+      "published": "2026-09-15T09:10:04Z",
+      "ts": 1789463404
+    },
     {
       "source": "MarketWatch",
       "title": "Morgan Stanley joins Goldman Sachs in 11th-hour switch to forecasting a Fed hike",
       "link": "https://www.marketwatch.com/story/morgan-stanley-joins-goldman-sachs-in-11th-hour-switch-to-forecasting-a-fed-hike-c7597bda?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 09:05:00 GMT",
       "ts": 1789463100
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "You've saved $2 million for retirement — but these 5 traps could be quietly devouring your nest egg",
+      "link": "https://finance.yahoo.com/markets/articles/youve-saved-2-million-retirement-090000432.html",
+      "published": "2026-09-15T09:00:00Z",
+      "ts": 1789462800
     },
     {
       "source": "Cointelegraph",
@@ -81,25 +102,11 @@
       "ts": 1789455352
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns",
-      "link": "https://finance.yahoo.com/news/oil-prices-rise-saudi-pipeline-003617502.html",
-      "published": "2026-09-15T06:55:51Z",
-      "ts": 1789455351
-    },
-    {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin slides from nearly $80,000 as Senate votes on Clarity Act",
       "link": "https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act",
       "published": "Tue, 15 Sep 2026 06:37:24 +0000",
       "ts": 1789454244
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Bristow’s (VTOL) Profit Nearly Doubles While A Government Problem Lingers",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bristow-vtol-profit-nearly-doubles-063305925.html",
-      "published": "2026-09-15T06:33:05Z",
-      "ts": 1789453985
     },
     {
       "source": "CoinDesk",
@@ -233,13 +240,6 @@
       "link": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
       "published": "Mon, 14 Sep 2026 21:31:00 GMT",
       "ts": 1789421460
-    },
-    {
-      "source": "MarketWatch",
-      "title": "CrowdStrike and Palo Alto Networks lead software stocks to a never-before-seen feat",
-      "link": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories",
-      "published": "Mon, 14 Sep 2026 21:11:00 GMT",
-      "ts": 1789420260
     },
     {
       "source": "Investing Forex",
