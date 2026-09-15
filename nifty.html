@@ -64,7 +64,7 @@
         <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
         {
           "autosize": true,
-          "symbol": "NSE:NIFTY50",
+          "symbol": "BSE:NIFTY50",
           "interval": "60",
           "timezone": "Asia/Kolkata",
           "theme": "dark",
@@ -81,8 +81,25 @@
     </div>
   </div>
 </section>
-    
+    <!-- Global Cues -->
+<section class="section">
+  <div class="section-title">Pre-Market Global Cues</div>
+  <div class="card">
+    <div id="global-cues">
+      <div class="loading">Loading global cues...</div>
+    </div>
+  </div>
+</section>
     <!-- Factor: US Markets -->
+    <!-- FII/DII Activity -->
+<section class="section">
+  <div class="section-title">FII / DII Activity</div>
+  <div class="card">
+    <div id="fii-dii">
+      <div class="loading">Loading FII/DII data...</div>
+    </div>
+  </div>
+</section>
     <section class="section">
       <div class="section-title">F1 — US Market Impact</div>
       <div class="card">
@@ -123,6 +140,7 @@
       </div>
     </section>
 
+    
     <!-- Factor: Options OI -->
     <section class="section">
       <div class="section-title">F8 — Options Open Interest</div>
