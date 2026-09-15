@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-15T17:43:51.212519+00:00",
+  "updated_utc": "2026-09-15T17:54:00.343058+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -9,6 +9,13 @@
       "link": "https://finance.yahoo.com/news/oil-prices-rise-saudi-pipeline-003617502.html",
       "published": "2026-09-15T17:26:18Z",
       "ts": 1789493178
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Cloudflare Hits Highs Amid Agentic AI Boom; Nears Pivot",
+      "link": "https://www.investors.com/research/cloudflare-net-stock-ai-agents-2/?src=A00220&yptr=yahoo",
+      "published": "2026-09-15T17:24:12Z",
+      "ts": 1789493052
     },
     {
       "source": "Yahoo Finance",
@@ -37,20 +44,6 @@
       "link": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 17:18:00 GMT",
       "ts": 1789492680
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "What American Eagle’s (AEO) Q2 Numbers Say Beyond the Tariff Refund Boost",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/american-eagle-aeo-q2-numbers-171745773.html",
-      "published": "2026-09-15T17:17:45Z",
-      "ts": 1789492665
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "IBD Stock Of The Day Scorpio Tankers Sails Toward Buy Point As Oil-Needy World Seeks Its Services",
-      "link": "https://www.investors.com/research/ibd-stock-of-the-day/scorpio-tankers-stock-buy-point/?src=A00220&yptr=yahoo",
-      "published": "2026-09-15T17:17:24Z",
-      "ts": 1789492644
     },
     {
       "source": "MarketWatch",
@@ -261,6 +254,13 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-slip-as-yen-pulls-back-fed-and-boj-decisions-loom-4900791",
       "published": "2026-09-15 09:19:19",
       "ts": 1789463959
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq fall after 10-year Treasury yield rises",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html",
+      "published": "2026-09-15T08:13:07Z",
+      "ts": 1789459987
     },
     {
       "source": "Investing Forex",
