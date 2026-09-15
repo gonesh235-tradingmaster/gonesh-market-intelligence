@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-15T13:52:31.650273+00:00",
+  "updated_utc": "2026-09-15T14:02:39.984705+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin dips to $76.2k ahead of Clarity Act vote, Fed meeting",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
+      "published": "2026-09-15 13:50:33",
+      "ts": 1789480233
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Musk hints (again) at possible SpaceX, Tesla merger",
+      "link": "https://finance.yahoo.com/markets/stocks/article/musk-hints-again-at-possible-spacex-tesla-merger-135029754.html",
+      "published": "2026-09-15T13:50:29Z",
+      "ts": 1789480229
+    },
     {
       "source": "MarketWatch",
       "title": "Traditional bond investors have lost money for years. These five-star portfolio managers show a better way.",
@@ -18,6 +32,20 @@
       "ts": 1789479830
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Falls As Yields, Oil Prices Rise With Fed Meeting Starting; Nvidia Rebounds (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-oil-prices-nvidia-stock/?src=A00220&yptr=yahoo",
+      "published": "2026-09-15T13:41:04Z",
+      "ts": 1789479664
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Commercial Foodservice Recovery Drives The Middleby Corporation (MIDD) Higher",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/commercial-foodservice-recovery-drives-middleby-134022144.html",
+      "published": "2026-09-15T13:40:22Z",
+      "ts": 1789479622
+    },
+    {
       "source": "Cointelegraph",
       "title": "USDT payments feature in Polish energy giant’s failed $230M oil deal: FT",
       "link": "https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -25,25 +53,11 @@
       "ts": 1789479451
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Hong Kong Crypto Exchange CoinEx To Shutdown",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/hong-kong-crypto-exchange-coinex-132900721.html",
-      "published": "2026-09-15T13:29:00Z",
-      "ts": 1789478940
-    },
-    {
       "source": "CoinDesk",
       "title": "Standard Chartered predicts Arbitrum's ARB to rise 70-fold to $10, citing Robinhood Chain revenue",
       "link": "https://www.coindesk.com/markets/2026/09/15/standard-chartered-expects-arbitrum-s-arb-rising-70-fold-to-usd10-as-robinhood-boosts-its-revenue",
       "published": "Tue, 15 Sep 2026 13:25:52 +0000",
       "ts": 1789478752
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Robinhood To Offer Share Redemptions And Voting Rights On Tokenized Stocks",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/robinhood-offer-share-redemptions-voting-132500081.html",
-      "published": "2026-09-15T13:25:00Z",
-      "ts": 1789478700
     },
     {
       "source": "MarketWatch",
@@ -58,20 +72,6 @@
       "link": "https://www.marketwatch.com/story/an-ai-bubble-is-no-longer-wall-streets-biggest-fear-this-market-risk-just-took-its-place-ec939034?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 13:18:00 GMT",
       "ts": 1789478280
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Oil prices edge higher as attacks, pipeline outage deepen Saudi supply concerns",
-      "link": "https://finance.yahoo.com/news/oil-prices-rise-saudi-pipeline-003617502.html",
-      "published": "2026-09-15T13:15:53Z",
-      "ts": 1789478153
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Here’s Why Sotera Health Company (SHC) Surges 25% in Q2",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-sotera-health-company-shc-131345471.html",
-      "published": "2026-09-15T13:13:45Z",
-      "ts": 1789478025
     },
     {
       "source": "MarketWatch",
@@ -207,13 +207,6 @@
       "ts": 1789464631
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin slips below $77k ahead of Clarity Act vote, Fed meeting",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
-      "published": "2026-09-15 09:24:43",
-      "ts": 1789464283
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar charges to over one-week peak as Fed hike bets hit 92% while euro, yen sag",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-slip-as-yen-pulls-back-fed-and-boj-decisions-loom-4900791",
@@ -282,6 +275,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
       "published": "2026-09-14 21:56:58",
       "ts": 1789423018
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Loonie holds near 12-day low as oil support fails to offset dollar strength",
+      "link": "https://www.investing.com/news/forex-news/loonie-holds-near-12day-low-as-oil-support-fails-to-offset-dollar-strength-4900629",
+      "published": "2026-09-14 21:54:08",
+      "ts": 1789422848
     }
   ]
 }
