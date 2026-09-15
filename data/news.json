@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-15T20:21:01.256287+00:00",
+  "updated_utc": "2026-09-15T20:32:56.436683+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Dow clinches its worst September start since 2008 as history repeats itself",
+      "link": "https://www.marketwatch.com/story/dow-clinches-its-worst-september-start-since-2008-as-history-repeats-itself-57d11f3f?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 20:20:00 GMT",
+      "ts": 1789503600
+    },
     {
       "source": "MarketWatch",
       "title": "Top Senate Republican floats a diesel export ban as prices soar. It might not work.",
@@ -121,13 +128,6 @@
       "link": "https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 17:22:04 +0000",
       "ts": 1789492924
-    },
-    {
-      "source": "MarketWatch",
-      "title": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
-      "link": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 17:18:00 GMT",
-      "ts": 1789492680
     },
     {
       "source": "Cointelegraph",
