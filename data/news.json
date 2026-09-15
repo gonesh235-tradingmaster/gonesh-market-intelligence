@@ -1,8 +1,43 @@
 {
-  "updated_utc": "2026-09-15T09:28:48.319467+00:00",
+  "updated_utc": "2026-09-15T09:45:21.407246+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Hong Kong crypto exchange CoinEx to cease operations after 9 years in business",
+      "link": "https://www.coindesk.com/business/2026/09/15/hong-kong-crypto-exchange-coinex-to-cease-operations-after-9-years-in-business",
+      "published": "Tue, 15 Sep 2026 09:30:58 +0000",
+      "ts": 1789464658
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin short-term holders hit 30-day profit streak as bull-market odds improve: CryptoQuant",
+      "link": "https://cointelegraph.com/markets/bitcoin-short-term-holders-hit-30-day-profit-streak-as-bull-market-odds-improve-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 15 Sep 2026 09:30:31 +0000",
+      "ts": 1789464631
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dole’s (DOLE) Revenue Climbs While Fruit Costs Squeeze Profits",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dole-dole-revenue-climbs-while-092810806.html",
+      "published": "2026-09-15T09:28:10Z",
+      "ts": 1789464490
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin slips below $77k ahead of Clarity Act vote, Fed meeting",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
+      "published": "2026-09-15 09:24:43",
+      "ts": 1789464283
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar charges to over one-week peak as Fed hike bets hit 92% while euro, yen sag",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-slip-as-yen-pulls-back-fed-and-boj-decisions-loom-4900791",
+      "published": "2026-09-15 09:19:19",
+      "ts": 1789463959
+    },
     {
       "source": "MarketWatch",
       "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
@@ -61,13 +96,6 @@
     },
     {
       "source": "Investing Forex",
-      "title": "Asian currencies weaken as yen pulls back, dollar nears two-week high",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-slip-as-yen-pulls-back-fed-and-boj-decisions-loom-4900791",
-      "published": "2026-09-15 07:48:37",
-      "ts": 1789458517
-    },
-    {
-      "source": "Investing Forex",
       "title": "European sovereign debt pressured as traders price ECB hikes through early 2027",
       "link": "https://www.investing.com/news/forex-news/european-sovereign-debt-pressured-as-traders-price-ecb-hikes-through-early-2027-4900845",
       "published": "2026-09-15 07:47:02",
@@ -81,25 +109,11 @@
       "ts": 1789457340
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Saudi Oil Pipeline Repairs Could Take Weeks After Drone Attack",
-      "link": "https://finance.yahoo.com/energy/articles/saudi-oil-pipeline-repairs-could-071500280.html",
-      "published": "2026-09-15T07:15:00Z",
-      "ts": 1789456500
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin trapped between $76,400 and $78,300: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
       "published": "2026-09-15 07:11:34",
       "ts": 1789456294
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin steadies at $77.4k with focus on Clarity vote, Fed meeting",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
-      "published": "2026-09-15 06:55:52",
-      "ts": 1789455352
     },
     {
       "source": "CoinDesk",
@@ -200,13 +214,6 @@
       "ts": 1789430460
     },
     {
-      "source": "CoinDesk",
-      "title": "Even if Clarity fails, Wall Street’s crypto push is unlikely to stop",
-      "link": "https://www.coindesk.com/policy/2026/09/14/even-if-clarity-fails-wall-street-s-crypto-push-is-unlikely-to-stop",
-      "published": "Mon, 14 Sep 2026 23:43:28 +0000",
-      "ts": 1789429408
-    },
-    {
       "source": "MarketWatch",
       "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
       "link": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
@@ -247,13 +254,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
       "published": "2026-09-14 21:03:42",
       "ts": 1789419822
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
-      "link": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 14 Sep 2026 20:54:10 +0000",
-      "ts": 1789419250
     },
     {
       "source": "Yahoo Finance",
