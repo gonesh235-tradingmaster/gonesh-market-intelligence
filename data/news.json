@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-15T06:22:29.642949+00:00",
+  "updated_utc": "2026-09-15T06:42:17.396780+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin slides from nearly $80,000 as Senate votes on Clarity Act",
+      "link": "https://www.coindesk.com/business/2026/09/15/live-updates-bitcoin-slides-from-nearly-usd80-000-as-senate-votes-on-clarity-act",
+      "published": "Tue, 15 Sep 2026 06:37:24 +0000",
+      "ts": 1789454244
+    },
     {
       "source": "CoinDesk",
       "title": "XRP Ledger is one vote away from starting its next big payments upgrade",
@@ -88,6 +95,20 @@
       "ts": 1789433175
     },
     {
+      "source": "MarketWatch",
+      "title": "‘He does not have a spouse or children’: My son has a serious genetic disease. What should I do with my $1.3 million estate?",
+      "link": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 00:15:00 GMT",
+      "ts": 1789431300
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 00:01:00 GMT",
+      "ts": 1789430460
+    },
+    {
       "source": "CoinDesk",
       "title": "Even if Clarity fails, Wall Street’s crypto push is unlikely to stop",
       "link": "https://www.coindesk.com/policy/2026/09/14/even-if-clarity-fails-wall-street-s-crypto-push-is-unlikely-to-stop",
@@ -95,11 +116,18 @@
       "ts": 1789429408
     },
     {
-      "source": "CoinDesk",
-      "title": "SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it",
-      "link": "https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it",
-      "published": "Mon, 14 Sep 2026 23:30:40 +0000",
-      "ts": 1789428640
+      "source": "MarketWatch",
+      "title": "AI doomsday fears are arriving at the worst possible time for the stock market",
+      "link": "https://www.marketwatch.com/story/ai-doomsday-fears-are-arriving-at-the-worst-possible-time-for-the-stock-market-75c4ad53?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 23:19:00 GMT",
+      "ts": 1789427940
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The murky AI milestone that has some of the industry’s leading voices increasingly on edge",
+      "link": "https://www.marketwatch.com/story/the-murky-ai-milestone-that-has-some-of-the-industrys-leading-voices-increasingly-on-edge-6ffeacc7?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:57:00 GMT",
+      "ts": 1789423020
     },
     {
       "source": "Investing Crypto",
@@ -116,11 +144,39 @@
       "ts": 1789422848
     },
     {
+      "source": "MarketWatch",
+      "title": "The oil market is sending an increasingly loud warning about gas prices at the pump",
+      "link": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:31:00 GMT",
+      "ts": 1789421460
+    },
+    {
+      "source": "MarketWatch",
+      "title": "CrowdStrike and Palo Alto Networks lead software stocks to a never-before-seen feat",
+      "link": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:11:00 GMT",
+      "ts": 1789420260
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Chip stocks were a safe AI play. Now they’ve turned into the market’s pain trade.",
+      "link": "https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:11:00 GMT",
+      "ts": 1789420260
+    },
+    {
       "source": "Investing Forex",
       "title": "Dollar at highest level in almost two weeks as Fed rate hike bets hit nearly 95%",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
       "published": "2026-09-14 21:03:42",
       "ts": 1789419822
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Am I crazy to do this?",
+      "link": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
+      "published": "Mon, 14 Sep 2026 21:00:00 GMT",
+      "ts": 1789419600
     },
     {
       "source": "Cointelegraph",
@@ -226,62 +282,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-looks-cheap-piper-191328167.html",
       "published": "2026-09-13T19:13:28Z",
       "ts": 1789326808
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Sonera Acquisition Bodes Well for Apple Stock in the Long Term, But Negative Catalysts Appear to Be Weighing on the Firm’s Performance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sonera-acquisition-bodes-well-apple-191233662.html",
-      "published": "2026-09-13T19:12:33Z",
-      "ts": 1789326753
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Intel (INTC) Is Winning From the CPU Shortage, but Its Foundry Valuation Needs More Proof",
-      "link": "https://finance.yahoo.com/technology/ai/articles/intel-intc-winning-cpu-shortage-191052125.html",
-      "published": "2026-09-13T19:10:52Z",
-      "ts": 1789326652
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin stalls at $77,338 between key support and resistance: Live",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-775k822k-range-live-levels-93CH-4890481",
-      "published": "2026-09-13 19:02:21",
-      "ts": 1789326141
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Starbucks’ $1 Billion Bet on Cozy Stores Faces a Margin Test",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/starbucks-1-billion-bet-cozy-190035733.html",
-      "published": "2026-09-13T19:00:35Z",
-      "ts": 1789326035
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin struggles above $77,000 as rising exchange reserves weigh on sentiment",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-above-77000-as-rising-exchange-reserves-weigh-on-sentiment-4898643",
-      "published": "2026-09-12 09:52:28",
-      "ts": 1789206748
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin set to snap three-week win streak on surging oil, tick up in Fed hike bets",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-771k-amid-usiran-jitters-cpi-caution-4897247",
-      "published": "2026-09-11 21:20:45",
-      "ts": 1789161645
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin dips to $77.1k as PPI data boosts Fed rate hike bets, oil prices jump",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-down-to-783k-on-iran-jitters-higher-yields-4894954",
-      "published": "2026-09-10 21:43:48",
-      "ts": 1789076628
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Uniswap Labs Launches StablePair Hook, a Dynamic-Fee Hook for Stable Pairs",
-      "link": "https://www.investing.com/news/cryptocurrency-news/uniswap-labs-launches-stablepair-hook-a-dynamicfee-hook-for-stable-pairs-4896728",
-      "published": "2026-09-10 19:00:36",
-      "ts": 1789066836
     }
   ]
 }
