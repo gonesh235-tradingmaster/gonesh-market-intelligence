@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-15T21:22:16.875585+00:00",
+  "updated_utc": "2026-09-15T21:33:34.517154+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
+      "link": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 15 Sep 2026 21:23:00 +0000",
+      "ts": 1789507380
+    },
     {
       "source": "MarketWatch",
       "title": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
@@ -163,13 +170,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-barrels-toward-disappointment-barring-last-minute-senate-turnaround",
       "published": "Tue, 15 Sep 2026 15:50:23 +0000",
       "ts": 1789487423
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address",
-      "link": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 15 Sep 2026 15:21:26 +0000",
-      "ts": 1789485686
     },
     {
       "source": "CoinDesk",
