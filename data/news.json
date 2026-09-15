@@ -1,8 +1,43 @@
 {
-  "updated_utc": "2026-09-15T15:30:50.233017+00:00",
+  "updated_utc": "2026-09-15T15:45:49.674607+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Clarity Act: What it means for your crypto holdings",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/clarity-act-what-it-means-for-your-crypto-holdings-153849029.html",
+      "published": "2026-09-15T15:38:49Z",
+      "ts": 1789486729
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How Allison Transmission Holdings (ALSN) is Capturing New Markets Beyond Commercial Vehicles",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/allison-transmission-holdings-alsn-capturing-153216137.html",
+      "published": "2026-09-15T15:32:16Z",
+      "ts": 1789486336
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bitcoin tumbles 3% to $76,000 as hopes of CLARITY Act passage this year fade",
+      "link": "https://finance.yahoo.com/markets/article/bitcoin-tumbles-3-to-76000-as-hopes-of-clarity-act-passage-this-year-fade-153127154.html",
+      "published": "2026-09-15T15:31:27Z",
+      "ts": 1789486287
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The Fund’s Largest Relative Detractor: Unowned Advanced Micro Devices (AMD)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fund-largest-relative-detractor-unowned-152642221.html",
+      "published": "2026-09-15T15:26:42Z",
+      "ts": 1789486002
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Seagate Technology (STX): The Primary Beneficiary of the AI Driven HDD Demand",
+      "link": "https://finance.yahoo.com/technology/ai/articles/seagate-technology-stx-primary-beneficiary-152345430.html",
+      "published": "2026-09-15T15:23:45Z",
+      "ts": 1789485825
+    },
     {
       "source": "Cointelegraph",
       "title": "ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address",
@@ -11,32 +46,18 @@
       "ts": 1789485686
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Western Digital (WDC): The Fund’s Top Relative Contributor",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-fund-top-151936638.html",
+      "published": "2026-09-15T15:19:36Z",
+      "ts": 1789485576
+    },
+    {
       "source": "MarketWatch",
-      "title": "How many rate hikes are on tap? Wall Street hopes to connect the Fed’s dots.",
+      "title": "How many rate hikes are on tap? Wall Street hopes to connect the Fed’s ‘dots.’",
       "link": "https://www.marketwatch.com/story/how-many-rate-hikes-are-on-tap-wall-street-hopes-to-connect-the-feds-dots-6b1ac5dc?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 15:16:00 GMT",
       "ts": 1789485360
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Meta launches Meta One subscriptions as it seeks to better monetize AI spending",
-      "link": "https://finance.yahoo.com/technology/article/meta-launches-meta-one-subscriptions-as-it-seeks-to-better-monetize-ai-spending-151014668.html",
-      "published": "2026-09-15T15:10:14Z",
-      "ts": 1789485014
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Better Pricing for Ride-Hailing Worldwide: inDrive CEO & Founder Arsen Tomsky, Live at Nasdaq",
-      "link": "https://finance.yahoo.com/small-business/articles/better-pricing-ride-hailing-worldwide-150428338.html",
-      "published": "2026-09-15T15:04:28Z",
-      "ts": 1789484668
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Questions TJX After Marmaxx Stumbles",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-questions-tjx-marmaxx-150053438.html",
-      "published": "2026-09-15T15:00:53Z",
-      "ts": 1789484453
     },
     {
       "source": "MarketWatch",
@@ -44,13 +65,6 @@
       "link": "https://www.marketwatch.com/story/is-the-shingles-vaccine-the-secret-to-living-longer-and-delaying-dementia-heres-what-the-science-says-1c108c26?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 14:51:00 GMT",
       "ts": 1789483860
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Citi’s 11%+ RoTCE Target Signals Stronger Capital Efficiency",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/citi-11-rotce-target-signals-144415162.html",
-      "published": "2026-09-15T14:44:15Z",
-      "ts": 1789483455
     },
     {
       "source": "MarketWatch",
@@ -268,20 +282,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 05:50:00 +0000",
       "ts": 1789451400
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin up 2% after Trump agrees to ethics requirements in latest Clarity Act text",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-777k-amid-meast-tensions-rate-hike-jitters-4898845",
-      "published": "2026-09-14 21:56:58",
-      "ts": 1789423018
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Loonie holds near 12-day low as oil support fails to offset dollar strength",
-      "link": "https://www.investing.com/news/forex-news/loonie-holds-near-12day-low-as-oil-support-fails-to-offset-dollar-strength-4900629",
-      "published": "2026-09-14 21:54:08",
-      "ts": 1789422848
     }
   ]
 }
