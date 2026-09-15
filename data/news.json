@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-15T02:35:01.592900+00:00",
+  "updated_utc": "2026-09-15T02:48:31.877755+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -264,6 +264,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Jim Cramer Suggests Waiting for a Lower Entry on Howmet Aerospace (HWM)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-waiting-lower-165503524.html",
+      "published": "2026-09-13T16:55:03Z",
+      "ts": 1789318503
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Being a millionaire isn’t enough to join America’s top 10% — here’s the net worth it actually takes to be in the top",
       "link": "https://finance.yahoo.com/markets/articles/being-millionaire-isn-t-enough-164500172.html",
       "published": "2026-09-13T16:45:00Z",
@@ -275,13 +282,6 @@
       "link": "https://finance.yahoo.com/markets/crypto/articles/zcash-price-prediction-bearish-rsi-160848407.html",
       "published": "2026-09-13T16:08:48Z",
       "ts": 1789315728
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Pay is back on the rise for job switchers, even in low-hire job market",
-      "link": "https://finance.yahoo.com/economy/article/pay-is-back-on-the-rise-for-job-switchers-even-in-low-hire-job-market-154504463.html",
-      "published": "2026-09-13T15:45:04Z",
-      "ts": 1789314304
     }
   ]
 }
