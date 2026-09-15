@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-15T21:53:37.841057+00:00",
+  "updated_utc": "2026-09-15T22:05:07.649402+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 22:00:00 GMT",
+      "ts": 1789509600
+    },
+    {
+      "source": "CoinDesk",
+      "title": "There were many conductors in the derailment of the crypto industry's Clarity Act",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
+      "published": "Tue, 15 Sep 2026 21:58:48 +0000",
+      "ts": 1789509528
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin adds to losses, falls nearly 4% after Clarity Act fails Senate vote",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
+      "published": "2026-09-15 21:49:19",
+      "ts": 1789508959
+    },
     {
       "source": "MarketWatch",
       "title": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity",
@@ -72,13 +93,6 @@
       "link": "https://www.marketwatch.com/story/oracles-stock-falls-for-the-fifth-day-in-a-row-missing-out-on-the-ai-bounce-9150c9ed?mod=mw_rss_topstories",
       "published": "Tue, 15 Sep 2026 20:31:00 GMT",
       "ts": 1789504260
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Dow clinches its worst September start since 2008 as history repeats itself",
-      "link": "https://www.marketwatch.com/story/dow-clinches-its-worst-september-start-since-2008-as-history-repeats-itself-57d11f3f?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 20:20:00 GMT",
-      "ts": 1789503600
     },
     {
       "source": "CoinDesk",
@@ -184,20 +198,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/15/clarity-act-s-odds-of-passing-plunge-as-republicans-reject-democrats-counter-proposal",
       "published": "Tue, 15 Sep 2026 14:13:44 +0000",
       "ts": 1789481624
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin dips to $76.2k ahead of Clarity Act vote, Fed meeting",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
-      "published": "2026-09-15 13:50:33",
-      "ts": 1789480233
-    },
-    {
-      "source": "CoinDesk",
-      "title": "A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge",
-      "link": "https://www.coindesk.com/tech/2026/09/15/a-hacker-turned-25-cents-of-bitcoin-into-46-billion-fake-btc-tokens-on-a-defi-bridge",
-      "published": "Tue, 15 Sep 2026 13:43:50 +0000",
-      "ts": 1789479830
     },
     {
       "source": "Yahoo Finance",
