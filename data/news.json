@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-16T09:16:43.389098+00:00",
+  "updated_utc": "2026-09-16T09:32:02.326764+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Dollar consolidates ahead of Fed rate decision and Warsh signals",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
+      "published": "2026-09-16 09:26:49",
+      "ts": 1789550809
+    },
+    {
+      "source": "Investing Forex",
+      "title": "UBS sees EUR/CHF retest of 0.96 as Swiss franc lags on low yield",
+      "link": "https://www.investing.com/news/forex-news/ubs-sees-eurchf-retest-of-096-as-swiss-franc-lags-on-low-yield-93CH-4903208",
+      "published": "2026-09-16 09:24:27",
+      "ts": 1789550667
+    },
     {
       "source": "MarketWatch",
       "title": "‘I am drowning in debt’: I have $125,000 in credit-card debt. Will $9,000 in disability income affect my bankruptcy?",
@@ -16,6 +30,13 @@
       "link": "https://www.marketwatch.com/story/what-history-says-about-longer-term-bond-yields-after-the-first-fed-hike-53eaae9f?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 09:11:00 GMT",
       "ts": 1789549860
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Citi sees GBP gains as short-lived ahead of October budget risks",
+      "link": "https://www.investing.com/news/forex-news/citi-sees-gbp-gains-as-shortlived-ahead-of-october-budget-risks-93CH-4903174",
+      "published": "2026-09-16 09:07:19",
+      "ts": 1789549639
     },
     {
       "source": "Cointelegraph",
@@ -58,13 +79,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/basispro-expands-onchain-infrastructure-with-xdc-network-partnership-and-zypher-dao-as-auto-earn-goes-live-4903004",
       "published": "2026-09-16 07:30:36",
       "ts": 1789543836
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar holds near highs, yen steadies ahead of Fed",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
-      "published": "2026-09-16 07:21:09",
-      "ts": 1789543269
     },
     {
       "source": "Investing Crypto",
@@ -268,20 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bingx-evolves-into-a-multiasset-trading-platform-connecting-users-to-global-opportunities-4901404",
       "published": "2026-09-15 11:30:33",
       "ts": 1789471833
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "NBKR and CertiK Establish Long-Term Strategic Partnership on Digital Som Security and Digital Asset Oversight",
-      "link": "https://www.investing.com/news/cryptocurrency-news/nbkr-and-certik-establish-longterm-strategic-partnership-on-digital-som-security-and-digital-asset-oversight-4901279",
-      "published": "2026-09-15 11:00:32",
-      "ts": 1789470032
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound fall as UK jobs data disappoints, dollar firm",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-fall-as-uk-jobs-data-disappoints-dollar-firm-4900933",
-      "published": "2026-09-15 08:06:27",
-      "ts": 1789459587
     }
   ]
 }
