@@ -1,21 +1,21 @@
 {
-  "updated_utc": "2026-09-16T17:54:39.572353+00:00",
+  "updated_utc": "2026-09-16T18:08:23.473697+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Fed raises rates by 25 basis points in first hike since July 2023",
+      "link": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
+      "published": "Wed, 16 Sep 2026 17:54:55 +0000",
+      "ts": 1789581295
+    },
     {
       "source": "CoinDesk",
       "title": "Celsius sues BitMEX for $495 million over 2020 crash liquidations",
       "link": "https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations",
       "published": "Wed, 16 Sep 2026 17:34:04 +0000",
       "ts": 1789580044
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "US DFC approves $500 million in guarantees to boost US exports to emerging markets",
-      "link": "https://finance.yahoo.com/economy/policy/articles/us-dfc-approves-500-million-173355620.html",
-      "published": "2026-09-16T17:33:55Z",
-      "ts": 1789580035
     },
     {
       "source": "Investing Crypto",
@@ -37,13 +37,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
       "published": "2026-09-16 17:27:03",
       "ts": 1789579623
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Nasdaq Leads Gains As Fed News Looms; Oil Ship Stocks Sail North (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T17:14:02Z",
-      "ts": 1789578842
     },
     {
       "source": "MarketWatch",
@@ -193,13 +186,6 @@
       "ts": 1789565400
     },
     {
-      "source": "CoinDesk",
-      "title": "A stolen coin can be returned. A leaked identity cannot.",
-      "link": "https://www.coindesk.com/opinion/2026/09/16/a-stolen-coin-can-be-returned-a-leaked-identity-cannot",
-      "published": "Wed, 16 Sep 2026 13:00:00 +0000",
-      "ts": 1789563600
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bernstein expects ‘aggressive’ rulemaking from SEC, CFTC, following CLARITY Act failure",
       "link": "https://cointelegraph.com/news/bernstein-aggressive-rulemaking-sec-cftc-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -228,13 +214,6 @@
       "ts": 1789554792
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Mortgage and refinance interest rates today, Wednesday, September 16, 2026: Rates ease somewhat ahead of the Fed's rate decision",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-september-16-2026-rates-ease-somewhat-ahead-of-the-feds-rate-decision-100000213.html",
-      "published": "2026-09-16T10:00:00Z",
-      "ts": 1789552800
-    },
-    {
       "source": "Investing Forex",
       "title": "UBS sees EUR/CHF retest of 0.96 as Swiss franc lags on low yield",
       "link": "https://www.investing.com/news/forex-news/ubs-sees-eurchf-retest-of-096-as-swiss-franc-lags-on-low-yield-93CH-4903208",
@@ -256,13 +235,6 @@
       "ts": 1789546915
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: S&P 500 and Nasdaq rise ahead of crucial Fed interest rate decision",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html",
-      "published": "2026-09-16T08:03:56Z",
-      "ts": 1789545836
-    },
-    {
       "source": "Investing Forex",
       "title": "Euro zone yields linger at multi-year peaks as traders brace for Fed rate decision",
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-linger-at-multiyear-peaks-as-traders-brace-for-fed-rate-decision-4902913",
@@ -282,6 +254,34 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
       "published": "2026-09-16 07:11:51",
       "ts": 1789542711
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin adds to losses, falls nearly 4% after Clarity Act fails Senate vote",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
+      "published": "2026-09-15 21:49:19",
+      "ts": 1789508959
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar hits two-week high as traders gear up for anticipated Fed hike on Wednesday",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-slip-as-yen-pulls-back-fed-and-boj-decisions-loom-4900791",
+      "published": "2026-09-15 20:38:48",
+      "ts": 1789504728
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Rich Dad Poor Dad author warns biggest crash in history has started",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rich-dad-poor-dad-author-172603940.html",
+      "published": "2026-09-15T17:26:03Z",
+      "ts": 1789493163
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How a Costco partner's bankruptcy could benefit its biggest rival",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html",
+      "published": "2026-09-15T13:33:00Z",
+      "ts": 1789479180
     }
   ]
 }
