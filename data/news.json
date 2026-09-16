@@ -1,8 +1,50 @@
 {
-  "updated_utc": "2026-09-16T14:33:44.891423+00:00",
+  "updated_utc": "2026-09-16T14:48:09.668846+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Payward plans to offer U.S. clients onchain perpetual futures on Hyperliquid",
+      "link": "https://www.coindesk.com/markets/2026/09/16/payward-plans-to-offer-u-s-clients-onchain-perpetual-futures-on-hyperliquid",
+      "published": "Wed, 16 Sep 2026 14:35:43 +0000",
+      "ts": 1789569343
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Revolution Medicines’ (RVMD) Promising Clinical Results Signal Potential Paradigm Shift",
+      "link": "https://finance.yahoo.com/healthcare/articles/revolution-medicines-rvmd-promising-clinical-143313578.html",
+      "published": "2026-09-16T14:33:13Z",
+      "ts": 1789569193
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Intel Stock Rises On Talk Of Fab Deal With SK Hynix",
+      "link": "https://www.investors.com/news/technology/intel-stock-possible-sk-hynix-fab-deal/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T14:26:31Z",
+      "ts": 1789568791
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Billionaire Ray Dalio’s Bridgewater’s and Cathie Wood’s ARK Portfolios: 2 Stocks They Both Own",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-ray-dalio-bridgewater-cathie-142413224.html",
+      "published": "2026-09-16T14:24:13Z",
+      "ts": 1789568653
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Medline (MDLN) Slips Amid Broader MedTech Weakness",
+      "link": "https://finance.yahoo.com/healthcare/articles/medline-mdln-slips-amid-broader-142122686.html",
+      "published": "2026-09-16T14:21:22Z",
+      "ts": 1789568482
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How Lumentum Holdings (LITE) Powers the Next Generation of AI Data Demand",
+      "link": "https://finance.yahoo.com/technology/ai/articles/lumentum-holdings-lite-powers-next-141805542.html",
+      "published": "2026-09-16T14:18:05Z",
+      "ts": 1789568285
+    },
     {
       "source": "MarketWatch",
       "title": "What happens if you never buy a house? What renters are gaining — and giving up",
@@ -12,10 +54,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "American Battery Technology (ABAT) Turns A Profit, But Faces A New Export Threat",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/american-battery-technology-abat-turns-141323855.html",
-      "published": "2026-09-16T14:13:23Z",
-      "ts": 1789568003
+      "title": "Brad Gerstner Says Latest ‘Negativity’ Around AI is ‘Political Agenda’; See His 2 New AI Stock Picks",
+      "link": "https://finance.yahoo.com/technology/ai/articles/brad-gerstner-says-latest-negativity-141757194.html",
+      "published": "2026-09-16T14:17:57Z",
+      "ts": 1789568277
     },
     {
       "source": "MarketWatch",
@@ -25,46 +67,11 @@
       "ts": 1789567920
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Coda Octopus (CODA) Just Posted A First-Ever Profit Milestone",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coda-octopus-coda-just-posted-141014735.html",
-      "published": "2026-09-16T14:10:14Z",
-      "ts": 1789567814
-    },
-    {
       "source": "MarketWatch",
       "title": "More home builders cut prices as buyers get spooked",
       "link": "https://www.marketwatch.com/story/more-home-builders-cut-prices-as-buyers-get-spooked-4cd4b4ec?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 14:10:00 GMT",
       "ts": 1789567800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Nasdaq, S&P 500 Up Ahead Of Likely Fed Rate Increase; AI Leader Dell Jams (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T14:07:08Z",
-      "ts": 1789567628
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Billionaire Ray Dalio’s Bridgewater’s 2 Non-AI Stock Picks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-ray-dalio-bridgewater-2-140700264.html",
-      "published": "2026-09-16T14:07:00Z",
-      "ts": 1789567620
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Deutsche Bank To Offer Crypto Custody For Institutions",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/deutsche-bank-offer-crypto-custody-140600953.html",
-      "published": "2026-09-16T14:06:00Z",
-      "ts": 1789567560
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "10-year Treasury sits below 5% as market awaits Fed decision: AlphaCheck",
-      "link": "https://finance.yahoo.com/markets/article/10-year-treasury-sits-below-5-as-market-awaits-fed-decision-alphacheck-140528141.html",
-      "published": "2026-09-16T14:05:28Z",
-      "ts": 1789567528
     },
     {
       "source": "MarketWatch",
@@ -191,13 +198,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault",
       "published": "Wed, 16 Sep 2026 11:00:00 +0000",
       "ts": 1789556400
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin ETFs shed $450 million as Clarity Act fails",
-      "link": "https://www.coindesk.com/markets/2026/09/16/bitcoin-etfs-shed-usd450-million-as-clarity-act-fails",
-      "published": "Wed, 16 Sep 2026 10:48:44 +0000",
-      "ts": 1789555724
     },
     {
       "source": "Cointelegraph",
