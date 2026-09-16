@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-16T09:32:02.326764+00:00",
+  "updated_utc": "2026-09-16T09:46:25.819309+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals",
+      "link": "https://www.coindesk.com/business/2026/09/16/two-robinhood-engineers-charged-with-insider-trading-using-hyperliquid-perpetuals",
+      "published": "Wed, 16 Sep 2026 09:42:37 +0000",
+      "ts": 1789551757
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This BlackRock strategist opposes a Fed hike. Here are the funds she recommends.",
+      "link": "https://www.marketwatch.com/story/this-blackrock-strategist-opposes-a-fed-hike-here-are-the-funds-she-recommends-36a3b981?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 09:34:00 GMT",
+      "ts": 1789551240
+    },
     {
       "source": "Investing Forex",
       "title": "Dollar consolidates ahead of Fed rate decision and Warsh signals",
@@ -200,13 +214,6 @@
       "ts": 1789508400
     },
     {
-      "source": "MarketWatch",
-      "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
-      "link": "https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
-      "published": "Tue, 15 Sep 2026 21:34:00 GMT",
-      "ts": 1789508040
-    },
-    {
       "source": "Cointelegraph",
       "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
       "link": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -233,13 +240,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/15/crypto-stocks-sink-after-senate-rejects-clarity-act",
       "published": "Tue, 15 Sep 2026 20:03:17 +0000",
       "ts": 1789502597
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto industry reacts after Clarity Act fails Senate vote",
-      "link": "https://www.coindesk.com/policy/2026/09/15/clarity-act-fails-in-senate-here-is-how-the-crypto-industry-is-reacting",
-      "published": "Tue, 15 Sep 2026 19:06:31 +0000",
-      "ts": 1789499191
     },
     {
       "source": "Investing Crypto",
