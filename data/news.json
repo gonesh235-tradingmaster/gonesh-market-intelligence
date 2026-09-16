@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-16T07:39:11.521627+00:00",
+  "updated_utc": "2026-09-16T07:52:01.674620+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Euro zone yields linger at multi-year peaks as traders brace for Fed rate decision",
+      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-linger-at-multiyear-peaks-as-traders-brace-for-fed-rate-decision-4902913",
+      "published": "2026-09-16 07:34:54",
+      "ts": 1789544094
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "BASIS.pro Expands On-Chain Infrastructure with XDC Network Partnership and Zypher DAO as Auto Earn Goes Live",
+      "link": "https://www.investing.com/news/cryptocurrency-news/basispro-expands-onchain-infrastructure-with-xdc-network-partnership-and-zypher-dao-as-auto-earn-goes-live-4903004",
+      "published": "2026-09-16 07:30:36",
+      "ts": 1789543836
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar holds near highs, yen steadies ahead of Fed",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
+      "published": "2026-09-16 07:21:09",
+      "ts": 1789543269
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin breaks down below 200MA at $75,861: Live levels",
@@ -44,13 +65,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 05:52:31 +0000",
       "ts": 1789537951
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar holds gains, yen slips to one-week low",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
-      "published": "2026-09-16 05:02:28",
-      "ts": 1789534948
     },
     {
       "source": "Cointelegraph",
@@ -249,13 +263,6 @@
       "ts": 1789470032
     },
     {
-      "source": "Investing Crypto",
-      "title": "Standard Chartered sees Arbitrum’s ARB token soaring 70x by 2030",
-      "link": "https://www.investing.com/news/cryptocurrency-news/standard-chartered-sees-arbitrums-arb-token-soaring-70x-by-2030-4901206",
-      "published": "2026-09-15 10:27:16",
-      "ts": 1789468036
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound fall as UK jobs data disappoints, dollar firm",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-fall-as-uk-jobs-data-disappoints-dollar-firm-4900933",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/loonie-holds-near-12day-low-as-oil-support-fails-to-offset-dollar-strength-4900629",
       "published": "2026-09-14 21:54:08",
       "ts": 1789422848
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar at highest level in almost two weeks as Fed rate hike bets hit nearly 95%",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
-      "published": "2026-09-14 21:03:42",
-      "ts": 1789419822
     }
   ]
 }
