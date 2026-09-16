@@ -1,9 +1,9 @@
 {
-  "updated_utc": "2026-09-16T16:41:32.342424+00:00",
+  "updated_utc": "2026-09-16T16:53:59.530877+00:00",
   "source": "Computed from NIFTY + BTC",
   "score": -12,
   "label": "NEUTRAL",
-  "explanation": "Global mood is neutral (score -12). NIFTY: NIFTY down 1.11% • US markets down 0.34% • Dollar strengthening | BTC: Funding elevated (0.614%) — longs overheated",
+  "explanation": "Global mood is neutral (score -12). NIFTY: NIFTY down 1.11% • US markets down 0.34% • Dollar strengthening | BTC: Funding elevated (0.630%) — longs overheated",
   "components": [
     {
       "asset": "NIFTY",
