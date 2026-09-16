@@ -1,14 +1,35 @@
 {
-  "updated_utc": "2026-09-16T15:45:01.184746+00:00",
+  "updated_utc": "2026-09-16T15:56:43.328693+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Westlake’s (WLK) Second Quarter Turned Two Straight Losses Into Profit",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/westlake-wlk-second-quarter-turned-153826527.html",
+      "published": "2026-09-16T15:38:26Z",
+      "ts": 1789573106
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin awaits Fed rate decision below $76K as analysis discounts ‘dovish surprise’ odds",
       "link": "https://cointelegraph.com/markets/bitcoin-awaits-fed-rate-decision-below-76k-as-analysis-discounts-dovish-surprise-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 15:30:49 +0000",
       "ts": 1789572649
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Kinetik’s (KNTK) Record Quarter Sets Up A Bigger 2027 Bet",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kinetik-kntk-record-quarter-sets-152943083.html",
+      "published": "2026-09-16T15:29:43Z",
+      "ts": 1789572583
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Arista Stock Holds Up Well Amid Weakness. Here's How To Capitalize.",
+      "link": "https://www.investors.com/research/options/arista-anet-stock-covered-call-options/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T15:26:07Z",
+      "ts": 1789572367
     },
     {
       "source": "CoinDesk",
@@ -19,38 +40,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Radiant Logistics (RLGT) Bets $100M On A Freight Rebound",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/radiant-logistics-rlgt-bets-100m-152433522.html",
+      "published": "2026-09-16T15:24:33Z",
+      "ts": 1789572273
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "S&P 500 Trucking Stock Craters On CFO's Warning",
       "link": "https://www.investors.com/news/sp-500-stocks-jb-hunt-cfo-earnings-oil-diesel-prices-iran-war/?src=A00220&yptr=yahoo",
       "published": "2026-09-16T15:16:13Z",
       "ts": 1789571773
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Cathie Wood Projects $10 Trillion In SpaceX Starship Revenue By 2030",
-      "link": "https://www.investors.com/news/cathie-wood-ark-spacex-starship-revenue-estimate-elon-msuk/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T15:10:54Z",
-      "ts": 1789571454
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Nasdaq, S&P 500 Up With Fed Decision Looming; Intel, Micron, Sandisk Rise (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T15:10:43Z",
-      "ts": 1789571443
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Impulse Space's Series D round grows to $808 million as backlog expands",
-      "link": "https://finance.yahoo.com/news/impulse-spaces-series-d-round-150705626.html",
-      "published": "2026-09-16T15:07:05Z",
-      "ts": 1789571225
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Alluvium Raised Its McKesson (MCK) Stake as Long-Term Growth Expectations Remain Strong",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alluvium-raised-mckesson-mck-stake-150454748.html",
-      "published": "2026-09-16T15:04:54Z",
-      "ts": 1789571094
     },
     {
       "source": "CoinDesk",
