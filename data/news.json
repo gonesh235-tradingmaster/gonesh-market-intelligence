@@ -1,8 +1,50 @@
 {
-  "updated_utc": "2026-09-16T15:16:06.874447+00:00",
+  "updated_utc": "2026-09-16T15:31:02.572159+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Hamas’ military wing told donors to avoid Binance. Use Bybit, OKX and others instead",
+      "link": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
+      "published": "Wed, 16 Sep 2026 15:25:41 +0000",
+      "ts": 1789572341
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "S&P 500 Trucking Stock Craters On CFO's Warning",
+      "link": "https://www.investors.com/news/sp-500-stocks-jb-hunt-cfo-earnings-oil-diesel-prices-iran-war/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T15:16:13Z",
+      "ts": 1789571773
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Cathie Wood Projects $10 Trillion In SpaceX Starship Revenue By 2030",
+      "link": "https://www.investors.com/news/cathie-wood-ark-spacex-starship-revenue-estimate-elon-msuk/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T15:10:54Z",
+      "ts": 1789571454
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Nasdaq, S&P 500 Up With Fed Decision Looming; Intel, Micron, Sandisk Rise (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T15:10:43Z",
+      "ts": 1789571443
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Impulse Space's Series D round grows to $808 million as backlog expands",
+      "link": "https://finance.yahoo.com/news/impulse-spaces-series-d-round-150705626.html",
+      "published": "2026-09-16T15:07:05Z",
+      "ts": 1789571225
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Alluvium Raised Its McKesson (MCK) Stake as Long-Term Growth Expectations Remain Strong",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alluvium-raised-mckesson-mck-stake-150454748.html",
+      "published": "2026-09-16T15:04:54Z",
+      "ts": 1789571094
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto Long & Short: Six signs a crypto winter is ending",
@@ -11,39 +53,11 @@
       "ts": 1789570774
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Here’s Why This Fund Sold Brown & Brown (BRO)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-fund-sold-brown-brown-145828796.html",
-      "published": "2026-09-16T14:58:28Z",
-      "ts": 1789570708
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "SandiskCorp. (SNDK): AI Boom Fuels Attractive Storage Market Opportunity",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sandiskcorp-sndk-ai-boom-fuels-145612588.html",
-      "published": "2026-09-16T14:56:12Z",
-      "ts": 1789570572
-    },
-    {
       "source": "Investing Crypto",
       "title": "Coinbase cuts trading fees for active users on Advanced platform",
       "link": "https://www.investing.com/news/cryptocurrency-news/coinbase-cuts-trading-fees-for-active-users-on-advanced-platform-432SI-4904040",
       "published": "2026-09-16 14:56:02",
       "ts": 1789570562
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "US Politicians Are Buying These Two Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-politicians-buying-two-stocks-144637200.html",
-      "published": "2026-09-16T14:46:37Z",
-      "ts": 1789569997
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dave & Buster’s (PLAY) Bets On New Leaders To Reverse Its Slide",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dave-buster-play-bets-leaders-144539009.html",
-      "published": "2026-09-16T14:45:39Z",
-      "ts": 1789569939
     },
     {
       "source": "CoinDesk",
@@ -186,13 +200,6 @@
       "ts": 1789557411
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin traders brace for Fed hike, but a surprise hold could pose bigger risk",
-      "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-traders-brace-for-fed-hike-but-a-surprise-hold-could-pose-bigger-risk",
-      "published": "Wed, 16 Sep 2026 11:00:00 +0000",
-      "ts": 1789556400
-    },
-    {
       "source": "Cointelegraph",
       "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
       "link": "https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
       "published": "2026-09-15 21:49:19",
       "ts": 1789508959
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar hits two-week high as traders gear up for anticipated Fed hike on Wednesday",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-slip-as-yen-pulls-back-fed-and-boj-decisions-loom-4900791",
-      "published": "2026-09-15 20:38:48",
-      "ts": 1789504728
     }
   ]
 }
