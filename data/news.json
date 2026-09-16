@@ -1,8 +1,64 @@
 {
-  "updated_utc": "2026-09-16T15:56:43.328693+00:00",
+  "updated_utc": "2026-09-16T16:11:32.097961+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Anchorage expands institutional custody to Etherlink, tokenized uranium",
+      "link": "https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 16 Sep 2026 16:03:35 +0000",
+      "ts": 1789574615
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bitget Publishes 45th Consecutive Monthly Proof-of-Reserves Report at 122% Reserve Ratio",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/bitget-publishes-45th-consecutive-monthly-160021181.html",
+      "published": "2026-09-16T16:00:21Z",
+      "ts": 1789574421
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+      "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 16:00:00 GMT",
+      "ts": 1789574400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "15 stocks that have grown dividends the most — and nearly all have beaten the S&P 500",
+      "link": "https://www.marketwatch.com/story/15-stocks-that-have-grown-dividends-the-most-and-nearly-all-have-beaten-the-s-p-500-6d8923fc?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 16:00:00 GMT",
+      "ts": 1789574400
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Robust US retail sales underscore economy's resilience; inflation pressures building",
+      "link": "https://finance.yahoo.com/economy/articles/us-retail-sales-rebound-sharply-123724094.html",
+      "published": "2026-09-16T15:57:35Z",
+      "ts": 1789574255
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Nasdaq Leads Rebound As Fed Rate Decision Looms; This Industry Surges (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T15:55:29Z",
+      "ts": 1789574129
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Coinbase faces greater fallout from CLARITY Act setback: Saxo",
+      "link": "https://cointelegraph.com/news/coinbase-clarity-act-exposure-saxo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 16 Sep 2026 15:52:17 +0000",
+      "ts": 1789573937
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Elastic (ESTC) Bets Big On AI Search With New Database",
+      "link": "https://finance.yahoo.com/technology/ai/articles/elastic-estc-bets-big-ai-154753742.html",
+      "published": "2026-09-16T15:47:53Z",
+      "ts": 1789573673
+    },
     {
       "source": "Yahoo Finance",
       "title": "Westlake’s (WLK) Second Quarter Turned Two Straight Losses Into Profit",
@@ -18,39 +74,11 @@
       "ts": 1789572649
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Kinetik’s (KNTK) Record Quarter Sets Up A Bigger 2027 Bet",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kinetik-kntk-record-quarter-sets-152943083.html",
-      "published": "2026-09-16T15:29:43Z",
-      "ts": 1789572583
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Arista Stock Holds Up Well Amid Weakness. Here's How To Capitalize.",
-      "link": "https://www.investors.com/research/options/arista-anet-stock-covered-call-options/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T15:26:07Z",
-      "ts": 1789572367
-    },
-    {
       "source": "CoinDesk",
       "title": "Hamas’ military wing told donors to avoid Binance. Use Bybit, OKX and others instead",
       "link": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
       "published": "Wed, 16 Sep 2026 15:25:41 +0000",
       "ts": 1789572341
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Radiant Logistics (RLGT) Bets $100M On A Freight Rebound",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/radiant-logistics-rlgt-bets-100m-152433522.html",
-      "published": "2026-09-16T15:24:33Z",
-      "ts": 1789572273
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "S&P 500 Trucking Stock Craters On CFO's Warning",
-      "link": "https://www.investors.com/news/sp-500-stocks-jb-hunt-cfo-earnings-oil-diesel-prices-iran-war/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T15:16:13Z",
-      "ts": 1789571773
     },
     {
       "source": "CoinDesk",
@@ -151,20 +179,6 @@
       "ts": 1789565400
     },
     {
-      "source": "MarketWatch",
-      "title": "What history says about longer-term bond yields after an initial Fed hike",
-      "link": "https://www.marketwatch.com/story/what-history-says-about-longer-term-bond-yields-after-the-first-fed-hike-53eaae9f?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 13:30:00 GMT",
-      "ts": 1789565400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Retail sales surged toward the end of summer. The U.S. economy has plenty of momentum.",
-      "link": "https://www.marketwatch.com/story/retail-sales-surged-toward-the-end-of-summer-economy-still-has-plenty-of-momentum-cdf667b2?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 13:22:00 GMT",
-      "ts": 1789564920
-    },
-    {
       "source": "CoinDesk",
       "title": "A stolen coin can be returned. A leaked identity cannot.",
       "link": "https://www.coindesk.com/opinion/2026/09/16/a-stolen-coin-can-be-returned-a-leaked-identity-cannot",
@@ -214,20 +228,6 @@
       "ts": 1789554792
     },
     {
-      "source": "Cointelegraph",
-      "title": "Ethiopia cuts Bitcoin miners’ power by 77% amid hydropower shortage: Report",
-      "link": "https://cointelegraph.com/news/ethiopia-bitcoin-mining-power-cut-hydro-shortage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 16 Sep 2026 10:11:39 +0000",
-      "ts": 1789553499
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Italy investigates government email breach linked to Revolut data leak",
-      "link": "https://cointelegraph.com/news/italy-government-email-breach-revolut-data-leak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 16 Sep 2026 09:58:48 +0000",
-      "ts": 1789552728
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar consolidates ahead of Fed rate decision and Warsh signals",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
@@ -256,6 +256,13 @@
       "ts": 1789546915
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Stock market today: S&P 500 and Nasdaq rise ahead of crucial Fed interest rate decision",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html",
+      "published": "2026-09-16T08:03:56Z",
+      "ts": 1789545836
+    },
+    {
       "source": "Investing Forex",
       "title": "Euro zone yields linger at multi-year peaks as traders brace for Fed rate decision",
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-linger-at-multiyear-peaks-as-traders-brace-for-fed-rate-decision-4902913",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
       "published": "2026-09-16 07:11:51",
       "ts": 1789542711
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin adds to losses, falls nearly 4% after Clarity Act fails Senate vote",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
-      "published": "2026-09-15 21:49:19",
-      "ts": 1789508959
     }
   ]
 }
