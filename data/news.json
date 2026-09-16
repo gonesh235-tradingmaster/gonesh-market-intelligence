@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-16T02:25:04.382098+00:00",
+  "updated_utc": "2026-09-16T02:39:12.461920+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto industry turns to US regulators after CLARITY setback",
+      "link": "https://cointelegraph.com/news/crypto-industry-turns-to-us-regulators-after-clarity-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 16 Sep 2026 02:24:07 +0000",
+      "ts": 1789525447
+    },
     {
       "source": "MarketWatch",
       "title": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
@@ -172,13 +179,6 @@
       "ts": 1789488121
     },
     {
-      "source": "Cointelegraph",
-      "title": "Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030",
-      "link": "https://cointelegraph.com/news/standard-chartered-arbitrum-arb-price-10-2030?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 15 Sep 2026 15:50:49 +0000",
-      "ts": 1789487449
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround",
       "link": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-barrels-toward-disappointment-barring-last-minute-senate-turnaround",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "HSBC Holdings (HSBC) Reshapes European Operations with German Exit",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-holdings-hsbc-reshapes-european-144430696.html",
-      "published": "2026-09-14T14:44:30Z",
-      "ts": 1789397070
+      "title": "TotalEnergies (TTE) Sees Long-Term Potential in Angola’s Offshore Oil",
+      "link": "https://finance.yahoo.com/energy/articles/totalenergies-tte-sees-long-term-145201682.html",
+      "published": "2026-09-14T14:52:01Z",
+      "ts": 1789397521
     }
   ]
 }
