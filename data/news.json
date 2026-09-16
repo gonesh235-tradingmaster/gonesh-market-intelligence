@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-16T01:32:26.846102+00:00",
+  "updated_utc": "2026-09-16T01:45:05.922031+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -229,10 +229,31 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "'Dario is Right': What Elon Musk and More Top Executives Are Saying About an AI Slowdown",
+      "link": "https://finance.yahoo.com/technology/ai/articles/dario-elon-musk-more-top-135024610.html",
+      "published": "2026-09-14T13:50:24Z",
+      "ts": 1789393824
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck",
+      "link": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-oil-prices-gain-treasury-yields-stay-elevated-alphacheck-134519544.html",
+      "published": "2026-09-14T13:45:19Z",
+      "ts": 1789393519
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Is CDW Corporation Stock Underperforming the S&P 500?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/cdw-corporation-stock-underperforming-p-134157757.html",
       "published": "2026-09-14T13:41:57Z",
       "ts": 1789393317
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Kenco opens new innovation lab for warehouse automation testing",
+      "link": "https://finance.yahoo.com/technology/articles/kenco-opens-innovation-lab-warehouse-134139757.html",
+      "published": "2026-09-14T13:41:39Z",
+      "ts": 1789393299
     },
     {
       "source": "Yahoo Finance",
@@ -247,27 +268,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/xcel-energy-stock-xel-outperforming-133754654.html",
       "published": "2026-09-14T13:37:54Z",
       "ts": 1789393074
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "US Pentagon triggers alarm for 150M+ American drivers after massive ID breach — is your identity exposed? Do this now",
-      "link": "https://finance.yahoo.com/technology/articles/us-pentagon-triggers-alarm-150m-133500969.html",
-      "published": "2026-09-14T13:35:00Z",
-      "ts": 1789392900
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Costco rations Kirkland motor oil, raises price to $57.99",
-      "link": "https://finance.yahoo.com/energy/articles/costco-rations-kirkland-motor-oil-133308837.html",
-      "published": "2026-09-14T13:33:08Z",
-      "ts": 1789392788
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "XRP Price Prediction: $1.40 Breakout Could Open Path to $2.10",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-prediction-1-40-133202440.html",
-      "published": "2026-09-14T13:32:02Z",
-      "ts": 1789392722
     },
     {
       "source": "Investing Forex",
