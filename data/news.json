@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-16T17:19:43.874918+00:00",
+  "updated_utc": "2026-09-16T17:32:58.254249+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Nasdaq Leads Gains As Fed News Looms; Oil Ship Stocks Sail North (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T17:14:02Z",
+      "ts": 1789578842
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Wall Street bets on a rate hike, but the Fed decision could be a close call",
+      "link": "https://finance.yahoo.com/economy/policy/article/wall-street-bets-on-a-rate-hike-but-the-fed-decision-could-be-a-close-call-171212149.html",
+      "published": "2026-09-16T17:12:12Z",
+      "ts": 1789578732
+    },
     {
       "source": "Yahoo Finance",
       "title": "S&P 500 Trucking Stock Craters On CFO's Warning",
@@ -18,25 +32,11 @@
       "ts": 1789578000
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Bloom Energy Stock Jumps On 'Meaningful' Data-Center Catalyst",
-      "link": "https://www.investors.com/news/bloom-energy-stock-jumps-on-meaningful-data-center-catalyst/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T16:55:19Z",
-      "ts": 1789577719
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar rises ahead of pivotal Fed rate decision, sterling slips as UK CPI heats up",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
       "published": "2026-09-16 16:49:53",
       "ts": 1789577393
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Guardant Health Nears Buy Point As Sales Outlook Brightens",
-      "link": "https://www.investors.com/research/cancer-stock-guardant-health-gh/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T16:39:37Z",
-      "ts": 1789576777
     },
     {
       "source": "MarketWatch",
@@ -58,13 +58,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/sec-chief-vows-action-on-crypto-rules-after-senate-bill-fails-93CH-4904160",
       "published": "2026-09-16 16:20:11",
       "ts": 1789575611
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Salesforce Stock Dips Ahead Of Investor Briefing Amid System Outage",
-      "link": "https://www.investors.com/news/technology/salesforce-stock-dips-ahead-of-investor-briefing-amid-system-outage/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T16:11:26Z",
-      "ts": 1789575086
     },
     {
       "source": "Cointelegraph",
@@ -131,7 +124,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "What happens if you never buy a house? What renters are gaining — and giving up",
+      "title": "What happens if you never buy a house? What renters are gaining — and giving up.",
       "link": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 14:18:00 GMT",
       "ts": 1789568280
@@ -235,6 +228,13 @@
       "ts": 1789554792
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Mortgage and refinance interest rates today, Wednesday, September 16, 2026: Rates ease somewhat ahead of the Fed's rate decision",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-september-16-2026-rates-ease-somewhat-ahead-of-the-feds-rate-decision-100000213.html",
+      "published": "2026-09-16T10:00:00Z",
+      "ts": 1789552800
+    },
+    {
       "source": "Investing Forex",
       "title": "UBS sees EUR/CHF retest of 0.96 as Swiss franc lags on low yield",
       "link": "https://www.investing.com/news/forex-news/ubs-sees-eurchf-retest-of-096-as-swiss-franc-lags-on-low-yield-93CH-4903208",
@@ -256,13 +256,6 @@
       "ts": 1789546915
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: S&P 500 and Nasdaq rise ahead of crucial Fed interest rate decision",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html",
-      "published": "2026-09-16T08:03:56Z",
-      "ts": 1789545836
-    },
-    {
       "source": "Investing Forex",
       "title": "Euro zone yields linger at multi-year peaks as traders brace for Fed rate decision",
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-linger-at-multiyear-peaks-as-traders-brace-for-fed-rate-decision-4902913",
@@ -282,6 +275,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
       "published": "2026-09-16 07:11:51",
       "ts": 1789542711
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin adds to losses, falls nearly 4% after Clarity Act fails Senate vote",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
+      "published": "2026-09-15 21:49:19",
+      "ts": 1789508959
     }
   ]
 }
