@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-16T08:20:24.322374+00:00",
+  "updated_utc": "2026-09-16T08:35:57.701256+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound slips as Fed hike bets and UK inflation uptick weigh",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-fed-hike-bets-and-uk-inflation-uptick-weigh-4903061",
+      "published": "2026-09-16 08:21:55",
+      "ts": 1789546915
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum, Base give up on common wallet standard after months of talks",
+      "link": "https://www.coindesk.com/tech/2026/09/16/ethereum-base-give-up-on-common-wallet-standard-after-months-of-talks",
+      "published": "Wed, 16 Sep 2026 08:07:59 +0000",
+      "ts": 1789546079
+    },
     {
       "source": "Investing Forex",
       "title": "Euro zone yields linger at multi-year peaks as traders brace for Fed rate decision",
@@ -151,13 +165,6 @@
       "ts": 1789499191
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto Clarity Act flames out in failed U.S. Senate vote",
-      "link": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote",
-      "published": "Tue, 15 Sep 2026 18:50:58 +0000",
-      "ts": 1789498258
-    },
-    {
       "source": "Cointelegraph",
       "title": "US Senate fails to advance CLARITY Act",
       "link": "https://cointelegraph.com/news/us-senate-fails-to-advance-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -235,11 +242,25 @@
       "ts": 1789422848
     },
     {
-      "source": "Investing Forex",
-      "title": "Dollar at highest level in almost two weeks as Fed rate hike bets hit nearly 95%",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
-      "published": "2026-09-14 21:03:42",
-      "ts": 1789419822
+      "source": "Yahoo Finance",
+      "title": "GEV Stock Sinks on New 'Sell' Rating. What to Know.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gev-stock-sinks-sell-rating-205515859.html",
+      "published": "2026-09-14T20:55:15Z",
+      "ts": 1789419315
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Coda Octopus Group, Inc. Q3 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/coda-octopus-group-inc-q3-205121286.html",
+      "published": "2026-09-14T20:51:21Z",
+      "ts": 1789419081
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The Hain Celestial Group, Inc. Q1 2027 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hain-celestial-group-inc-q1-205014153.html",
+      "published": "2026-09-14T20:50:14Z",
+      "ts": 1789419014
     },
     {
       "source": "Yahoo Finance",
@@ -261,27 +282,6 @@
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-nvda-stock-ai-warning/?src=A00220&yptr=yahoo",
       "published": "2026-09-14T20:36:26Z",
       "ts": 1789418186
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stocks Settle Lower as AI Slowdown Fears Weigh on Chipmakers",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-lower-ai-slowdown-203505818.html",
-      "published": "2026-09-14T20:35:05Z",
-      "ts": 1789418105
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Looking Inside Sunbelt Rentals’ (SUNB) Record Revenues, Debt Discipline, and Uneven Segment Margins",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/looking-inside-sunbelt-rentals-sunb-202755113.html",
-      "published": "2026-09-14T20:27:55Z",
-      "ts": 1789417675
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Bank of America leads financial services stocks lower on weak Wall Street fee forecast",
-      "link": "https://finance.yahoo.com/markets/article/bank-of-america-leads-financial-services-stocks-lower-on-weak-wall-street-fee-forecast-202601947.html",
-      "published": "2026-09-14T20:26:01Z",
-      "ts": 1789417561
     }
   ]
 }
