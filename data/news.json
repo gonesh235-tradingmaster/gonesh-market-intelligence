@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-16T06:39:24.073110+00:00",
+  "updated_utc": "2026-09-16T06:54:39.712896+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine",
+      "link": "https://www.coindesk.com/markets/2026/09/16/fed-meeting-is-shaping-up-to-be-a-nightmare-for-warsh-bitcoin-might-still-shine",
+      "published": "Wed, 16 Sep 2026 06:42:22 +0000",
+      "ts": 1789540942
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "AI has been a ‘net negative’ for crypto: Phemex CEO",
+      "link": "https://cointelegraph.com/news/ai-has-been-a-net-negative-for-crypto-phemex-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 16 Sep 2026 06:38:48 +0000",
+      "ts": 1789540728
+    },
     {
       "source": "CoinDesk",
       "title": "Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings",
@@ -137,20 +151,6 @@
       "ts": 1789497844
     },
     {
-      "source": "CoinDesk",
-      "title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
-      "link": "https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion",
-      "published": "Tue, 15 Sep 2026 18:02:05 +0000",
-      "ts": 1789495325
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official",
-      "link": "https://cointelegraph.com/news/stablecoins-us-dollar-dominance-treasury-demand-boe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 15 Sep 2026 17:53:04 +0000",
-      "ts": 1789494784
-    },
-    {
       "source": "Yahoo Finance",
       "title": "How a Costco partner's bankruptcy could benefit its biggest rival",
       "link": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html",
@@ -229,52 +229,52 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Affirm Stock Just Scored an Upgrade. Here's What to Know.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/affirm-stock-just-scored-upgrade-192425914.html",
+      "published": "2026-09-14T19:24:25Z",
+      "ts": 1789413865
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "HIMS Bulls Should Heed This Historic Chart Signal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hims-bulls-heed-historic-chart-192100582.html",
+      "published": "2026-09-14T19:21:00Z",
+      "ts": 1789413660
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Middle East Supply Constraints Lift Crude Oil Prices",
+      "link": "https://finance.yahoo.com/energy/articles/middle-east-supply-constraints-lift-191350297.html",
+      "published": "2026-09-14T19:13:50Z",
+      "ts": 1789413230
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Hotter US Weather Forecasts Boost Nat-Gas Prices",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/hotter-us-weather-forecasts-boost-191259102.html",
+      "published": "2026-09-14T19:12:59Z",
+      "ts": 1789413179
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Texas Instruments Is Up 55% in 2026: This Is the Secret Tech Stock You’re Missing Out On",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-55-2026-secret-190856222.html",
+      "published": "2026-09-14T19:08:56Z",
+      "ts": 1789412936
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "CRWV Stock Alert: Why CoreWeave May Have the Most to Lose From an AI Slowdown",
+      "link": "https://finance.yahoo.com/technology/ai/articles/crwv-stock-alert-why-coreweave-190814171.html",
+      "published": "2026-09-14T19:08:14Z",
+      "ts": 1789412894
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "AI Leaders Say Slow Down. IREN Says Compute Demand May Never Be Satisfied. Nvidia Sits in the Middle",
       "link": "https://finance.yahoo.com/technology/ai/articles/ai-leaders-slow-down-iren-190519922.html",
       "published": "2026-09-14T19:05:19Z",
       "ts": 1789412719
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AI-Related Debt Sales Are Near $500 Billion. Meta and CoreWeave Show Why the Same Boom Creates Two Different Risks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ai-related-debt-sales-near-190243211.html",
-      "published": "2026-09-14T19:02:43Z",
-      "ts": 1789412563
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "CoreWeave Pays SOFR +5.5%. Nebius Pays +2.5%. AI Lenders Are Already Drawing a Line",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-pays-sofr-5-5-185757301.html",
-      "published": "2026-09-14T18:57:57Z",
-      "ts": 1789412277
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Too early to judge Fed Chairman Kevin Warsh's communication style, billionaire investor David Rubenstein says",
-      "link": "https://finance.yahoo.com/markets/article/too-early-to-judge-fed-chairman-kevin-warshs-communication-style-billionaire-investor-david-rubenstein-says-185720476.html",
-      "published": "2026-09-14T18:57:20Z",
-      "ts": 1789412240
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Texas Put AI Data Centers on Notice. Meta and Digital Realty Already Chose Their Side",
-      "link": "https://finance.yahoo.com/technology/ai/articles/texas-put-ai-data-centers-185557597.html",
-      "published": "2026-09-14T18:55:57Z",
-      "ts": 1789412157
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Middle-market PE firms move down market in search of value",
-      "link": "https://finance.yahoo.com/small-business/articles/middle-market-pe-firms-move-185354819.html",
-      "published": "2026-09-14T18:53:54Z",
-      "ts": 1789412034
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Michael Burry Is Pushing Back on AI-Slowdown Calls. CoreWeave and Nebius Are the Stress Test",
-      "link": "https://finance.yahoo.com/technology/ai/articles/michael-burry-pushing-back-ai-185234642.html",
-      "published": "2026-09-14T18:52:34Z",
-      "ts": 1789411954
     },
     {
       "source": "Investing Forex",
