@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-16T21:42:01.783987+00:00",
+  "updated_utc": "2026-09-16T21:52:48.623384+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds.",
+      "link": "https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 21:40:00 GMT",
+      "ts": 1789594800
+    },
     {
       "source": "MarketWatch",
       "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
@@ -93,13 +100,6 @@
       "link": "https://www.investing.com/news/forex-news/loonie-weakens-after-fed-hike-as-dollar-gains-on-hawkish-outlook-4904309",
       "published": "2026-09-16 18:46:08",
       "ts": 1789584368
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The smartest money moves to make now that interest rates are going higher",
-      "link": "https://www.marketwatch.com/story/the-smartest-money-moves-to-make-with-interest-rates-expected-to-go-higher-aefe375b?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 18:38:00 GMT",
-      "ts": 1789583880
     },
     {
       "source": "Investing Forex",
