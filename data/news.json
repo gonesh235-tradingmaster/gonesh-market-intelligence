@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-16T04:12:50.652874+00:00",
+  "updated_utc": "2026-09-16T04:28:44.734439+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -9,6 +9,13 @@
       "link": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails",
       "published": "Wed, 16 Sep 2026 04:07:27 +0000",
       "ts": 1789531647
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs shed $450M in biggest outflow since June",
+      "link": "https://cointelegraph.com/news/bitcoin-etfs-shed-450m-in-biggest-outflow-since-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 16 Sep 2026 04:05:39 +0000",
+      "ts": 1789531539
     },
     {
       "source": "CoinDesk",
@@ -186,13 +193,6 @@
       "ts": 1789492924
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-falls-to-756k-september-low-as-global-bonds-hit-multidecade-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 15 Sep 2026 16:02:01 +0000",
-      "ts": 1789488121
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround",
       "link": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-barrels-toward-disappointment-barring-last-minute-senate-turnaround",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "China's DeepSeek hires dealmaker as CFO ahead of possible IPO",
-      "link": "https://finance.yahoo.com/technology/ai/articles/chinas-deepseek-hires-dealmaker-cfo-163408342.html",
-      "published": "2026-09-14T16:36:46Z",
-      "ts": 1789403806
+      "title": "What Old-School Chart Analysis and Gamma Exposure Tell Us About QQQ This Fed Week",
+      "link": "https://finance.yahoo.com/markets/options/articles/old-school-chart-analysis-gamma-165534313.html",
+      "published": "2026-09-14T16:55:34Z",
+      "ts": 1789404934
     }
   ]
 }
