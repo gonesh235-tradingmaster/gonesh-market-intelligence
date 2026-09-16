@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-16T18:08:23.473697+00:00",
+  "updated_utc": "2026-09-16T18:26:08.454280+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
+      "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 18:20:00 GMT",
+      "ts": 1789582800
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US House tax committee advances crypto tax overhaul in 38–5 vote",
+      "link": "https://cointelegraph.com/news/house-tax-committee-advances-crypto-tax-overhaul-in-385-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 16 Sep 2026 18:01:55 +0000",
+      "ts": 1789581715
+    },
     {
       "source": "CoinDesk",
       "title": "Fed raises rates by 25 basis points in first hike since July 2023",
@@ -151,13 +165,6 @@
       "ts": 1789567920
     },
     {
-      "source": "MarketWatch",
-      "title": "More home builders cut prices as buyers get spooked",
-      "link": "https://www.marketwatch.com/story/more-home-builders-cut-prices-as-buyers-get-spooked-4cd4b4ec?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 14:10:00 GMT",
-      "ts": 1789567800
-    },
-    {
       "source": "CoinDesk",
       "title": "Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases",
       "link": "https://www.coindesk.com/business/2026/09/16/blockchain-finance-platform-theo-launches-tokenized-silver-backed-by-usd40-million-in-active-leases",
@@ -205,13 +212,6 @@
       "link": "https://cointelegraph.com/news/circle-arc-mainnet-launch-usdc-native-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 11:39:44 +0000",
       "ts": 1789558784
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
-      "link": "https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 16 Sep 2026 10:33:12 +0000",
-      "ts": 1789554792
     },
     {
       "source": "Investing Forex",
