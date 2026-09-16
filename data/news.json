@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-16T18:55:38.325186+00:00",
+  "updated_utc": "2026-09-16T19:08:10.146852+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
+      "link": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
+      "published": "Wed, 16 Sep 2026 19:07:34 +0000",
+      "ts": 1789585654
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 19:00:00 GMT",
+      "ts": 1789585200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Google is playing a different AI game than everyone else, and Wall Street may be missing the point",
+      "link": "https://www.marketwatch.com/story/google-is-playing-a-different-ai-game-than-everyone-else-and-wall-street-may-be-missing-the-point-e91077a3?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 18:57:00 GMT",
+      "ts": 1789585020
+    },
     {
       "source": "MarketWatch",
       "title": "The smartest money moves to make now that interest rates are going higher",
@@ -88,11 +109,11 @@
       "ts": 1789578000
     },
     {
-      "source": "MarketWatch",
-      "title": "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does.",
-      "link": "https://www.marketwatch.com/story/classic-budgeting-rules-dont-work-anymore-even-if-your-household-makes-100-000-heres-what-does-cfb235a8?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 16:24:00 GMT",
-      "ts": 1789575840
+      "source": "Yahoo Finance",
+      "title": "Mysterious trader moves $122 million ahead of Fed's 2 p.m. decision",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html",
+      "published": "2026-09-16T16:47:40Z",
+      "ts": 1789577260
     },
     {
       "source": "CoinDesk",
@@ -114,13 +135,6 @@
       "link": "https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 16:03:35 +0000",
       "ts": 1789574615
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
-      "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 16:00:00 GMT",
-      "ts": 1789574400
     },
     {
       "source": "Cointelegraph",
@@ -168,13 +182,6 @@
       "source": "CoinDesk",
       "title": "Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases",
       "link": "https://www.coindesk.com/business/2026/09/16/blockchain-finance-platform-theo-launches-tokenized-silver-backed-by-usd40-million-in-active-leases",
-      "published": "Wed, 16 Sep 2026 14:00:00 +0000",
-      "ts": 1789567200
-    },
-    {
-      "source": "CoinDesk",
-      "title": "A LatAm telecom operator is putting part of its finances on Avalanche",
-      "link": "https://www.coindesk.com/business/2026/09/15/a-latam-telecom-operator-is-putting-part-of-its-finances-on-avalanche",
       "published": "Wed, 16 Sep 2026 14:00:00 +0000",
       "ts": 1789567200
     },
@@ -275,13 +282,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/rich-dad-poor-dad-author-172603940.html",
       "published": "2026-09-15T17:26:03Z",
       "ts": 1789493163
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How a Costco partner's bankruptcy could benefit its biggest rival",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html",
-      "published": "2026-09-15T13:33:00Z",
-      "ts": 1789479180
     }
   ]
 }
