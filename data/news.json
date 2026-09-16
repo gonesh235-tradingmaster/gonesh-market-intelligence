@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-09-16T10:55:28.170664+00:00",
+  "updated_utc": "2026-09-16T11:08:59.927058+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin traders brace for Fed hike, but a surprise hold could pose bigger risk",
+      "link": "https://www.coindesk.com/markets/2026/09/15/bitcoin-traders-brace-for-fed-hike-but-a-surprise-hold-could-pose-bigger-risk",
+      "published": "Wed, 16 Sep 2026 11:00:00 +0000",
+      "ts": 1789556400
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Two Prime makes onchain finance push with $10 million-backed bitcoin yield vault",
+      "link": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault",
+      "published": "Wed, 16 Sep 2026 11:00:00 +0000",
+      "ts": 1789556400
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures Rise As ServiceNow, Twilio Lead 8 New Buys; Will Market Bid Bond Voyage After Fed Rate Hike?",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T10:56:08Z",
+      "ts": 1789556168
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Silver price today, Wednesday, September 16, 2026:  Silver prices rise in anticipation of the Fed",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-september-16-2026-silver-prices-rise-in-anticipation-of-the-fed-105134969.html",
+      "published": "2026-09-16T10:51:34Z",
+      "ts": 1789555894
+    },
     {
       "source": "MarketWatch",
       "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
@@ -23,6 +51,13 @@
       "link": "https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients",
       "published": "Wed, 16 Sep 2026 10:46:28 +0000",
       "ts": 1789555588
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Morning Bid: A time to hike?",
+      "link": "https://finance.yahoo.com/news/morning-bid-time-hike-104329450.html",
+      "published": "2026-09-16T10:43:29Z",
+      "ts": 1789555409
     },
     {
       "source": "Yahoo Finance",
@@ -74,27 +109,6 @@
       "ts": 1789554540
     },
     {
-      "source": "Yahoo Finance",
-      "title": "5 signs you might be a good fit for debt settlement",
-      "link": "https://finance.yahoo.com/personal-finance/personal-loans/article/signs-you-might-be-a-good-fit-for-debt-settlement-102500610.html",
-      "published": "2026-09-16T10:25:00Z",
-      "ts": 1789554300
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Zscaler, Inc. (ZS)’s Growth Engine Is Strong, But Slowing ARR Could Pressure the Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zscaler-inc-zs-growth-engine-102049877.html",
-      "published": "2026-09-16T10:20:49Z",
-      "ts": 1789554049
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures Rise As ServiceNow, Twilio Lead 8 New Buys; How Will Bonds React To Fed Hike?",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T10:16:42Z",
-      "ts": 1789553802
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin dips to $76k as Clarity vote fails; Fed rate hike in focus",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
@@ -107,13 +121,6 @@
       "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 10:16:00 GMT",
       "ts": 1789553760
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "‘Dead money’: Your savings account is losing a fight with inflation. Here’s where 3 financial advisors put cash instead",
-      "link": "https://finance.yahoo.com/economy/articles/dead-money-savings-account-losing-101500222.html",
-      "published": "2026-09-16T10:15:00Z",
-      "ts": 1789553700
     },
     {
       "source": "Cointelegraph",
@@ -214,13 +221,6 @@
       "ts": 1789546915
     },
     {
-      "source": "CoinDesk",
-      "title": "Ethereum, Base give up on common wallet standard after months of talks",
-      "link": "https://www.coindesk.com/tech/2026/09/16/ethereum-base-give-up-on-common-wallet-standard-after-months-of-talks",
-      "published": "Wed, 16 Sep 2026 08:07:59 +0000",
-      "ts": 1789546079
-    },
-    {
       "source": "Investing Forex",
       "title": "Euro zone yields linger at multi-year peaks as traders brace for Fed rate decision",
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-linger-at-multiyear-peaks-as-traders-brace-for-fed-rate-decision-4902913",
@@ -240,13 +240,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
       "published": "2026-09-16 07:11:51",
       "ts": 1789542711
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine",
-      "link": "https://www.coindesk.com/markets/2026/09/16/fed-meeting-is-shaping-up-to-be-a-nightmare-for-warsh-bitcoin-might-still-shine",
-      "published": "Wed, 16 Sep 2026 06:42:22 +0000",
-      "ts": 1789540942
     },
     {
       "source": "Cointelegraph",
@@ -282,6 +275,13 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-slip-as-yen-pulls-back-fed-and-boj-decisions-loom-4900791",
       "published": "2026-09-15 20:38:48",
       "ts": 1789504728
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "XRP Falls 11% In Rout",
+      "link": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-11-in-rout-4902406",
+      "published": "2026-09-15 18:44:04",
+      "ts": 1789497844
     }
   ]
 }
