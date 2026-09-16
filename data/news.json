@@ -1,28 +1,35 @@
 {
-  "updated_utc": "2026-09-16T17:32:58.254249+00:00",
+  "updated_utc": "2026-09-16T17:44:53.772696+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Celsius sues BitMEX for $495 million over 2020 crash liquidations",
+      "link": "https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations",
+      "published": "Wed, 16 Sep 2026 17:34:04 +0000",
+      "ts": 1789580044
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "US DFC approves $500 million in guarantees to boost US exports to emerging markets",
+      "link": "https://finance.yahoo.com/economy/policy/articles/us-dfc-approves-500-million-173355620.html",
+      "published": "2026-09-16T17:33:55Z",
+      "ts": 1789580035
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The data-center backlash is so fierce that Republican candidates are willing to cross Trump",
+      "link": "https://www.marketwatch.com/story/the-data-center-backlash-is-so-fierce-that-republican-candidates-are-willing-to-cross-trump-9a6eaa03?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 17:30:00 GMT",
+      "ts": 1789579800
+    },
     {
       "source": "Yahoo Finance",
       "title": "Stock Market Today: Nasdaq Leads Gains As Fed News Looms; Oil Ship Stocks Sail North (Live Coverage)",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
       "published": "2026-09-16T17:14:02Z",
       "ts": 1789578842
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Wall Street bets on a rate hike, but the Fed decision could be a close call",
-      "link": "https://finance.yahoo.com/economy/policy/article/wall-street-bets-on-a-rate-hike-but-the-fed-decision-could-be-a-close-call-171212149.html",
-      "published": "2026-09-16T17:12:12Z",
-      "ts": 1789578732
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "S&P 500 Trucking Stock Craters On CFO's Warning",
-      "link": "https://www.investors.com/news/sp-500-stocks-jb-hunt-cfo-earnings-oil-diesel-prices-iran-war/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T17:00:50Z",
-      "ts": 1789578050
     },
     {
       "source": "MarketWatch",
@@ -144,13 +151,6 @@
       "ts": 1789567800
     },
     {
-      "source": "MarketWatch",
-      "title": "Why a Federal Reserve rate hike could be a ‘rare win’ for your retirement money",
-      "link": "https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 14:01:00 GMT",
-      "ts": 1789567260
-    },
-    {
       "source": "CoinDesk",
       "title": "Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases",
       "link": "https://www.coindesk.com/business/2026/09/16/blockchain-finance-platform-theo-launches-tokenized-silver-backed-by-usd40-million-in-active-leases",
@@ -200,13 +200,6 @@
       "ts": 1789562180
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin Core 32 enters final testing with faster validation, fee changes and security fixes",
-      "link": "https://www.coindesk.com/tech/2026/09/16/bitcoin-core-32-enters-final-testing-with-faster-validation-fee-changes-and-security-fixes",
-      "published": "Wed, 16 Sep 2026 12:00:41 +0000",
-      "ts": 1789560041
-    },
-    {
       "source": "Cointelegraph",
       "title": "Zcash holders back 25-second blocks, vote to keep ZEC halving schedule",
       "link": "https://cointelegraph.com/news/zcash-nu7-poll-faster-blocks-zec-halvings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -254,6 +247,13 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-fed-hike-bets-and-uk-inflation-uptick-weigh-4903061",
       "published": "2026-09-16 08:21:55",
       "ts": 1789546915
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock market today: S&P 500 and Nasdaq rise ahead of crucial Fed interest rate decision",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html",
+      "published": "2026-09-16T08:03:56Z",
+      "ts": 1789545836
     },
     {
       "source": "Investing Forex",
