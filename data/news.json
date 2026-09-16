@@ -1,8 +1,43 @@
 {
-  "updated_utc": "2026-09-16T11:08:59.927058+00:00",
+  "updated_utc": "2026-09-16T11:24:55.882895+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The ‘CIA’ strategy beating the market: How one top-performing money manager spots mispriced stocks.",
+      "link": "https://www.marketwatch.com/story/the-cia-strategy-beating-the-market-how-one-top-performing-money-manager-spots-mispriced-stocks-535c638d?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 11:20:00 GMT",
+      "ts": 1789557600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Is the shingles vaccine the secret to living longer and delaying dementia? Here’s what the science says.",
+      "link": "https://www.marketwatch.com/story/is-the-shingles-vaccine-the-secret-to-living-longer-and-delaying-dementia-heres-what-the-science-says-1c108c26?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 11:17:00 GMT",
+      "ts": 1789557420
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin loses touch with the Dollar Index, U.S. stocks ahead of the Fed",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/16/bitcoin-loses-touch-with-the-dollar-index-u-s-stocks-ahead-of-the-fed",
+      "published": "Wed, 16 Sep 2026 11:16:51 +0000",
+      "ts": 1789557411
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures Rise As ServiceNow, Twilio Lead 8 New Buys; Will Market Bid Bond Voyage After Fed Rate Hike?",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T11:08:31Z",
+      "ts": 1789556911
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Majority of US Gen Z healthcare workers eye new jobs within the year, survey shows",
+      "link": "https://finance.yahoo.com/healthcare/articles/majority-us-gen-z-healthcare-110356580.html",
+      "published": "2026-09-16T11:03:56Z",
+      "ts": 1789556636
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin traders brace for Fed hike, but a surprise hold could pose bigger risk",
@@ -16,13 +51,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault",
       "published": "Wed, 16 Sep 2026 11:00:00 +0000",
       "ts": 1789556400
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures Rise As ServiceNow, Twilio Lead 8 New Buys; Will Market Bid Bond Voyage After Fed Rate Hike?",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T10:56:08Z",
-      "ts": 1789556168
     },
     {
       "source": "Yahoo Finance",
@@ -72,13 +100,6 @@
       "link": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
       "published": "Wed, 16 Sep 2026 10:37:46 +0000",
       "ts": 1789555066
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Kevin O’Leary, Barbara Corcoran and Robert Herjavec all avoid mixing money and family. Why retirees should do the same",
-      "link": "https://finance.yahoo.com/small-business/articles/kevin-o-leary-barbara-corcoran-103500907.html",
-      "published": "2026-09-16T10:35:00Z",
-      "ts": 1789554900
     },
     {
       "source": "Cointelegraph",
@@ -151,13 +172,6 @@
       "ts": 1789552516
     },
     {
-      "source": "CoinDesk",
-      "title": "Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals",
-      "link": "https://www.coindesk.com/business/2026/09/16/two-robinhood-engineers-charged-with-insider-trading-using-hyperliquid-perpetuals",
-      "published": "Wed, 16 Sep 2026 09:42:37 +0000",
-      "ts": 1789551757
-    },
-    {
       "source": "MarketWatch",
       "title": "This BlackRock strategist opposes a Fed hike. Here are the funds she recommends.",
       "link": "https://www.marketwatch.com/story/this-blackrock-strategist-opposes-a-fed-hike-here-are-the-funds-she-recommends-36a3b981?mod=mw_rss_topstories",
@@ -186,13 +200,6 @@
       "ts": 1789550100
     },
     {
-      "source": "MarketWatch",
-      "title": "What history says about longer-term bond yields after the first Fed hike",
-      "link": "https://www.marketwatch.com/story/what-history-says-about-longer-term-bond-yields-after-the-first-fed-hike-53eaae9f?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 09:11:00 GMT",
-      "ts": 1789549860
-    },
-    {
       "source": "Investing Forex",
       "title": "Citi sees GBP gains as short-lived ahead of October budget risks",
       "link": "https://www.investing.com/news/forex-news/citi-sees-gbp-gains-as-shortlived-ahead-of-october-budget-risks-93CH-4903174",
@@ -205,13 +212,6 @@
       "link": "https://cointelegraph.com/news/ecb-online-merchants-2027-digital-euro-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 08:36:44 +0000",
       "ts": 1789547804
-    },
-    {
-      "source": "MarketWatch",
-      "title": "What Altman, Amodei, Huang and Zuckerberg are saying about the raging AI debate",
-      "link": "https://www.marketwatch.com/story/what-altman-amodei-huang-and-zuckerberg-are-saying-about-the-raging-ai-debate-afaae83b?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 08:26:00 GMT",
-      "ts": 1789547160
     },
     {
       "source": "Investing Forex",
