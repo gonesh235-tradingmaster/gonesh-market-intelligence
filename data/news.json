@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-16T20:48:04.116519+00:00",
+  "updated_utc": "2026-09-16T20:57:28.905818+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
+      "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 20:53:00 GMT",
+      "ts": 1789591980
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why optical stocks Lumentum and Coherent were the day’s biggest S&P 500 gainers",
+      "link": "https://www.marketwatch.com/story/why-optical-stocks-lumentum-and-coherent-were-the-days-biggest-gainers-051af440?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 20:52:00 GMT",
+      "ts": 1789591920
+    },
     {
       "source": "MarketWatch",
       "title": "Here’s a sneaky way to play the Fed’s rate increase",
@@ -86,20 +100,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
       "published": "2026-09-16 18:28:59",
       "ts": 1789583339
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Micron’s stock could climb 70% higher thanks to a factor that’s been largely absent so far",
-      "link": "https://www.marketwatch.com/story/microns-stock-could-climb-70-higher-thanks-to-a-factor-thats-been-largely-absent-so-far-2489f2cc?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 18:26:00 GMT",
-      "ts": 1789583160
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
-      "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 18:20:00 GMT",
-      "ts": 1789582800
     },
     {
       "source": "Cointelegraph",
