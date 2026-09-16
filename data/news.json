@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-16T06:54:39.712896+00:00",
+  "updated_utc": "2026-09-16T07:08:25.595419+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -74,6 +74,27 @@
       "ts": 1789525447
     },
     {
+      "source": "MarketWatch",
+      "title": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
+      "link": "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 23:09:00 GMT",
+      "ts": 1789513740
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 22:15:00 GMT",
+      "ts": 1789510500
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 22:00:00 GMT",
+      "ts": 1789509600
+    },
+    {
       "source": "CoinDesk",
       "title": "Inside the last-minute political breakdown that doomed the Clarity Act vote",
       "link": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
@@ -88,11 +109,46 @@
       "ts": 1789508959
     },
     {
+      "source": "MarketWatch",
+      "title": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity",
+      "link": "https://www.marketwatch.com/story/these-four-stocks-could-benefit-most-from-a-3-2-trillion-semiconductor-opportunity-e6bf58b4?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 21:40:00 GMT",
+      "ts": 1789508400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
+      "link": "https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 21:34:00 GMT",
+      "ts": 1789508040
+    },
+    {
       "source": "Cointelegraph",
       "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
       "link": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 21:23:00 +0000",
       "ts": 1789507380
+    },
+    {
+      "source": "MarketWatch",
+      "title": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
+      "link": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 21:15:00 GMT",
+      "ts": 1789506900
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Inflation killed the penny. Now it’s coming for your dollar.",
+      "link": "https://www.marketwatch.com/story/inflation-killed-the-penny-now-its-coming-for-your-dollar-78336cd8?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 21:00:00 GMT",
+      "ts": 1789506000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why a Federal Reserve rate hike could be a ‘rare win’ for your retirement money",
+      "link": "https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 20:47:00 GMT",
+      "ts": 1789505220
     },
     {
       "source": "Investing Forex",
@@ -226,62 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
       "published": "2026-09-14 21:03:42",
       "ts": 1789419822
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Affirm Stock Just Scored an Upgrade. Here's What to Know.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/affirm-stock-just-scored-upgrade-192425914.html",
-      "published": "2026-09-14T19:24:25Z",
-      "ts": 1789413865
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "HIMS Bulls Should Heed This Historic Chart Signal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hims-bulls-heed-historic-chart-192100582.html",
-      "published": "2026-09-14T19:21:00Z",
-      "ts": 1789413660
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Middle East Supply Constraints Lift Crude Oil Prices",
-      "link": "https://finance.yahoo.com/energy/articles/middle-east-supply-constraints-lift-191350297.html",
-      "published": "2026-09-14T19:13:50Z",
-      "ts": 1789413230
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Hotter US Weather Forecasts Boost Nat-Gas Prices",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/hotter-us-weather-forecasts-boost-191259102.html",
-      "published": "2026-09-14T19:12:59Z",
-      "ts": 1789413179
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Texas Instruments Is Up 55% in 2026: This Is the Secret Tech Stock You’re Missing Out On",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-55-2026-secret-190856222.html",
-      "published": "2026-09-14T19:08:56Z",
-      "ts": 1789412936
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "CRWV Stock Alert: Why CoreWeave May Have the Most to Lose From an AI Slowdown",
-      "link": "https://finance.yahoo.com/technology/ai/articles/crwv-stock-alert-why-coreweave-190814171.html",
-      "published": "2026-09-14T19:08:14Z",
-      "ts": 1789412894
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AI Leaders Say Slow Down. IREN Says Compute Demand May Never Be Satisfied. Nvidia Sits in the Middle",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-leaders-slow-down-iren-190519922.html",
-      "published": "2026-09-14T19:05:19Z",
-      "ts": 1789412719
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. Treasury yields hold near multi-year highs as Fed hike bets anchor curve",
-      "link": "https://www.investing.com/news/forex-news/euro-yields-hold-at-multiyear-peaks-as-crude-surge-precedes-cbank-decisions-4898851",
-      "published": "2026-09-14 12:13:47",
-      "ts": 1789388027
     }
   ]
 }
