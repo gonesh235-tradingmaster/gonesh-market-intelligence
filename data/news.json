@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-16T03:57:24.042770+00:00",
+  "updated_utc": "2026-09-16T04:12:50.652874+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto longs worth $570 million wiped out as Clarity Act fails",
+      "link": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails",
+      "published": "Wed, 16 Sep 2026 04:07:27 +0000",
+      "ts": 1789531647
+    },
     {
       "source": "CoinDesk",
       "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
@@ -193,13 +200,6 @@
       "ts": 1789487423
     },
     {
-      "source": "CoinDesk",
-      "title": "European Central Bank calls for merchants to participate in digital euro pilot",
-      "link": "https://www.coindesk.com/policy/2026/09/15/european-central-bank-calls-for-merchants-to-participate-in-digital-euro-pilot",
-      "published": "Tue, 15 Sep 2026 14:15:06 +0000",
-      "ts": 1789481706
-    },
-    {
       "source": "Yahoo Finance",
       "title": "How a Costco partner's bankruptcy could benefit its biggest rival",
       "link": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "How gold IRAs fit into a diversified retirement portfolio",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/how-gold-iras-fit-into-a-diversified-retirement-portfolio-162815731.html",
-      "published": "2026-09-14T16:28:15Z",
-      "ts": 1789403295
+      "title": "China's DeepSeek hires dealmaker as CFO ahead of possible IPO",
+      "link": "https://finance.yahoo.com/technology/ai/articles/chinas-deepseek-hires-dealmaker-cfo-163408342.html",
+      "published": "2026-09-14T16:36:46Z",
+      "ts": 1789403806
     }
   ]
 }
