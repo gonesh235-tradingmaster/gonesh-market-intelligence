@@ -1,8 +1,57 @@
 {
-  "updated_utc": "2026-09-16T09:57:21.067571+00:00",
+  "updated_utc": "2026-09-16T10:13:13.832845+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Are you 5 years from retirement? Do these 5 things now — or risk running out of cash",
+      "link": "https://finance.yahoo.com/markets/articles/5-years-retirement-5-things-100500756.html",
+      "published": "2026-09-16T10:05:00Z",
+      "ts": 1789553100
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens",
+      "link": "https://finance.yahoo.com/economy/article/federal-reserve-interest-rate-hikes-usually-pound-stocks-but-then-something-surprising-happens-100449563.html",
+      "published": "2026-09-16T10:04:49Z",
+      "ts": 1789553089
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Death of software 'greatly overstated' as sector flips the script on chip stocks: Chart of the Day",
+      "link": "https://finance.yahoo.com/markets/article/death-of-software-greatly-overstated-as-sector-flips-the-script-on-chip-stocks-chart-of-the-day-100000695.html",
+      "published": "2026-09-16T10:00:00Z",
+      "ts": 1789552800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Best CD rates today, Wednesday, September 16, 2026: Earn up to 4.40% APY with Happen Bank",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-september-16-2026-earn-up-to-440-apy-with-happen-bank-100000125.html",
+      "published": "2026-09-16T10:00:00Z",
+      "ts": 1789552800
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Italy investigates government email breach linked to Revolut data leak",
+      "link": "https://cointelegraph.com/news/italy-government-email-breach-revolut-data-leak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 16 Sep 2026 09:58:48 +0000",
+      "ts": 1789552728
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's Coinbase premium sinks to one-month low, here’s why",
+      "link": "https://www.coindesk.com/markets/2026/09/16/bitcoin-s-coinbase-premium-sinks-to-one-month-low-here-s-why",
+      "published": "Wed, 16 Sep 2026 09:57:12 +0000",
+      "ts": 1789552632
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin Coinbase Premium hits monthly low as CLARITY Act vote squeezes US demand",
+      "link": "https://cointelegraph.com/markets/bitcoin-coinbase-premium-hits-monthly-low-as-clarity-act-vote-squeezes-us-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 16 Sep 2026 09:55:16 +0000",
+      "ts": 1789552516
+    },
     {
       "source": "CoinDesk",
       "title": "Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals",
@@ -79,6 +128,13 @@
       "link": "https://www.coindesk.com/tech/2026/09/16/ethereum-base-give-up-on-common-wallet-standard-after-months-of-talks",
       "published": "Wed, 16 Sep 2026 08:07:59 +0000",
       "ts": 1789546079
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rise ahead of crucial Fed interest rate decision",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html",
+      "published": "2026-09-16T08:03:56Z",
+      "ts": 1789545836
     },
     {
       "source": "Investing Forex",
@@ -214,13 +270,6 @@
       "ts": 1789508400
     },
     {
-      "source": "Cointelegraph",
-      "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
-      "link": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 15 Sep 2026 21:23:00 +0000",
-      "ts": 1789507380
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar hits two-week high as traders gear up for anticipated Fed hike on Wednesday",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-slip-as-yen-pulls-back-fed-and-boj-decisions-loom-4900791",
@@ -228,60 +277,11 @@
       "ts": 1789504728
     },
     {
-      "source": "Cointelegraph",
-      "title": "Crypto stocks slide after CLARITY Act fails to advance in Senate",
-      "link": "https://cointelegraph.com/markets/crypto-stocks-slide-after-clarity-act-fails-to-advance-in-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 15 Sep 2026 20:37:34 +0000",
-      "ts": 1789504654
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto stocks sink after Senate rejects Clarity Act",
-      "link": "https://www.coindesk.com/markets/2026/09/15/crypto-stocks-sink-after-senate-rejects-clarity-act",
-      "published": "Tue, 15 Sep 2026 20:03:17 +0000",
-      "ts": 1789502597
-    },
-    {
       "source": "Investing Crypto",
       "title": "XRP Falls 11% In Rout",
       "link": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-11-in-rout-4902406",
       "published": "2026-09-15 18:44:04",
       "ts": 1789497844
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Rich Dad Poor Dad author warns biggest crash in history has started",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rich-dad-poor-dad-author-172603940.html",
-      "published": "2026-09-15T17:26:03Z",
-      "ts": 1789493163
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How a Costco partner's bankruptcy could benefit its biggest rival",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html",
-      "published": "2026-09-15T13:33:00Z",
-      "ts": 1789479180
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Loonie slips as oil surge fuels rate worries ahead of Fed decision",
-      "link": "https://www.investing.com/news/forex-news/loonie-slips-as-oil-surge-fuels-rate-worries-ahead-of-fed-decision-4901710",
-      "published": "2026-09-15 12:40:11",
-      "ts": 1789476011
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Exclusive: Bitget Wallet adds tokenized U.S. stocks through Reality integration",
-      "link": "https://www.investing.com/news/cryptocurrency-news/exclusive-bitget-wallet-adds-tokenized-us-stocks-through-reality-integration-4901412",
-      "published": "2026-09-15 11:31:22",
-      "ts": 1789471882
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "BingX Evolves into a Multi-Asset Trading Platform, Connecting Users to Global Opportunities",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bingx-evolves-into-a-multiasset-trading-platform-connecting-users-to-global-opportunities-4901404",
-      "published": "2026-09-15 11:30:33",
-      "ts": 1789471833
     }
   ]
 }
