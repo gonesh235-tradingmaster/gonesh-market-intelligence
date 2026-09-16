@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-16T16:27:19.598704+00:00",
+  "updated_utc": "2026-09-16T16:41:32.295403+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does.",
+      "link": "https://www.marketwatch.com/story/classic-budgeting-rules-dont-work-anymore-even-if-your-household-makes-100-000-heres-what-does-cfb235a8?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 16:24:00 GMT",
+      "ts": 1789575840
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss",
@@ -33,7 +40,7 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "The Fed Will Be Hawkish. The S&P 500 May Prefer It (Live Coverage)",
+      "title": "The Fed Will Be Hawkish. The S&P 500 May Prefer It. (Live Coverage)",
       "link": "https://www.investors.com/news/federal-reserve-meeting-sept-warsh-10-year-treasury-yield-sp-500/?src=A00220&yptr=yahoo",
       "published": "2026-09-16T16:10:25Z",
       "ts": 1789575025
@@ -60,11 +67,18 @@
       "ts": 1789574529
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Bitget Publishes 45th Consecutive Monthly Proof-of-Reserves Report at 122% Reserve Ratio",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitget-publishes-45th-consecutive-monthly-160021181.html",
-      "published": "2026-09-16T16:00:21Z",
-      "ts": 1789574421
+      "source": "MarketWatch",
+      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+      "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 16:00:00 GMT",
+      "ts": 1789574400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "15 stocks that have grown dividends the most — and nearly all have beaten the S&P 500",
+      "link": "https://www.marketwatch.com/story/15-stocks-that-have-grown-dividends-the-most-and-nearly-all-have-beaten-the-s-p-500-6d8923fc?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 16:00:00 GMT",
+      "ts": 1789574400
     },
     {
       "source": "Cointelegraph",
@@ -109,6 +123,34 @@
       "ts": 1789569343
     },
     {
+      "source": "MarketWatch",
+      "title": "What happens if you never buy a house? What renters are gaining — and giving up",
+      "link": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 14:18:00 GMT",
+      "ts": 1789568280
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Book your Thanksgiving and Christmas travel now — or risk getting priced out of flying home for the holidays",
+      "link": "https://www.marketwatch.com/story/the-best-time-to-book-your-flight-home-for-the-holidays-yesterday-6f5928f2?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 14:12:00 GMT",
+      "ts": 1789567920
+    },
+    {
+      "source": "MarketWatch",
+      "title": "More home builders cut prices as buyers get spooked",
+      "link": "https://www.marketwatch.com/story/more-home-builders-cut-prices-as-buyers-get-spooked-4cd4b4ec?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 14:10:00 GMT",
+      "ts": 1789567800
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why a Federal Reserve rate hike could be a ‘rare win’ for your retirement money",
+      "link": "https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 14:01:00 GMT",
+      "ts": 1789567260
+    },
+    {
       "source": "CoinDesk",
       "title": "Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases",
       "link": "https://www.coindesk.com/business/2026/09/16/blockchain-finance-platform-theo-launches-tokenized-silver-backed-by-usd40-million-in-active-leases",
@@ -120,6 +162,13 @@
       "title": "A LatAm telecom operator is putting part of its finances on Avalanche",
       "link": "https://www.coindesk.com/business/2026/09/15/a-latam-telecom-operator-is-putting-part-of-its-finances-on-avalanche",
       "published": "Wed, 16 Sep 2026 14:00:00 +0000",
+      "ts": 1789567200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 14:00:00 GMT",
       "ts": 1789567200
     },
     {
@@ -233,55 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
       "published": "2026-09-16 07:11:51",
       "ts": 1789542711
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin adds to losses, falls nearly 4% after Clarity Act fails Senate vote",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
-      "published": "2026-09-15 21:49:19",
-      "ts": 1789508959
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar hits two-week high as traders gear up for anticipated Fed hike on Wednesday",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-slip-as-yen-pulls-back-fed-and-boj-decisions-loom-4900791",
-      "published": "2026-09-15 20:38:48",
-      "ts": 1789504728
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "XRP Falls 11% In Rout",
-      "link": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-11-in-rout-4902406",
-      "published": "2026-09-15 18:44:04",
-      "ts": 1789497844
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Rich Dad Poor Dad author warns biggest crash in history has started",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rich-dad-poor-dad-author-172603940.html",
-      "published": "2026-09-15T17:26:03Z",
-      "ts": 1789493163
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How a Costco partner's bankruptcy could benefit its biggest rival",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html",
-      "published": "2026-09-15T13:33:00Z",
-      "ts": 1789479180
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Loonie slips as oil surge fuels rate worries ahead of Fed decision",
-      "link": "https://www.investing.com/news/forex-news/loonie-slips-as-oil-surge-fuels-rate-worries-ahead-of-fed-decision-4901710",
-      "published": "2026-09-15 12:40:11",
-      "ts": 1789476011
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound fall as UK jobs data disappoints, dollar firm",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-fall-as-uk-jobs-data-disappoints-dollar-firm-4900933",
-      "published": "2026-09-15 08:06:27",
-      "ts": 1789459587
     }
   ]
 }
