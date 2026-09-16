@@ -1,8 +1,43 @@
 {
-  "updated_utc": "2026-09-16T12:04:31.605035+00:00",
+  "updated_utc": "2026-09-16T12:27:09.254347+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Robert Half (RHI): Can a Slow Recruitment Recovery Turn a Former Buying Mistake Into a Winner?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/robert-half-rhi-slow-recruitment-121817621.html",
+      "published": "2026-09-16T12:18:17Z",
+      "ts": 1789561097
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Alluvium Increases HCA Healthcare (HCA) Holdings After Its 17.5% Selloff",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alluvium-increases-hca-healthcare-hca-121528197.html",
+      "published": "2026-09-16T12:15:28Z",
+      "ts": 1789560928
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bond market woes likely a factor for Fed, but intervention seen as unlikely",
+      "link": "https://finance.yahoo.com/economy/policy/articles/bond-market-woes-likely-factor-100656182.html",
+      "published": "2026-09-16T12:12:19Z",
+      "ts": 1789560739
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Alluvium Bought More Ryanair (RYAAY) on Weakness — Then Trimmed After the Rebound",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alluvium-bought-more-ryanair-ryaay-121120647.html",
+      "published": "2026-09-16T12:11:20Z",
+      "ts": 1789560680
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Like Costco, Walmart will sell Medicare Advantage plans",
+      "link": "https://www.marketwatch.com/story/like-costco-walmart-to-sell-medicare-advantage-plans-b31977d2?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 12:10:00 GMT",
+      "ts": 1789560600
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin Core 32 enters final testing with faster validation, fee changes and security fixes",
@@ -32,20 +67,6 @@
       "ts": 1789559199
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures Rise As Oil Prices, Yields Fall Before Fed Rate Hike; Will Market Rally Bid Bond Voyage?",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T11:45:16Z",
-      "ts": 1789559116
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Here’s how many Americans have $500K saved for retirement — and it’s more than you might think. Are you in this group?",
-      "link": "https://finance.yahoo.com/markets/articles/many-americans-500k-saved-retirement-114500328.html",
-      "published": "2026-09-16T11:45:00Z",
-      "ts": 1789559100
-    },
-    {
       "source": "Cointelegraph",
       "title": "Circle launches Arc mainnet with USDC as native gas token",
       "link": "https://cointelegraph.com/news/circle-arc-mainnet-launch-usdc-native-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -60,13 +81,6 @@
       "ts": 1789558740
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Cemetery plot prices jumped 65% from 2018 to 2024, and now people are trying to flip them for profit",
-      "link": "https://finance.yahoo.com/real-estate/articles/cemetery-plot-prices-jumped-65-113500939.html",
-      "published": "2026-09-16T11:35:00Z",
-      "ts": 1789558500
-    },
-    {
       "source": "MarketWatch",
       "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don’t want to do this anymore?",
       "link": "https://www.marketwatch.com/story/my-brother-in-law-expects-my-husband-and-me-to-pay-for-his-food-every-time-we-go-out-how-can-i-tell-my-husband-i-dont-want-to-do-this-anymore-e2141455?mod=mw_rss_topstories",
@@ -79,13 +93,6 @@
       "link": "https://www.marketwatch.com/story/most-workers-would-take-a-pay-cut-for-job-security-right-now-i-cant-deal-with-this-stress-anymore-284aa87a?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 11:30:00 GMT",
       "ts": 1789558200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Co-investment and directs to eclipse primary funds, buyers say",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/co-investment-directs-eclipse-primary-112810718.html",
-      "published": "2026-09-16T11:28:10Z",
-      "ts": 1789558090
     },
     {
       "source": "MarketWatch",
@@ -121,13 +128,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/15/two-prime-makes-onchain-finance-push-with-usd10-million-backed-bitcoin-yield-vault",
       "published": "Wed, 16 Sep 2026 11:00:00 +0000",
       "ts": 1789556400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
-      "link": "https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 10:51:00 GMT",
-      "ts": 1789555860
     },
     {
       "source": "CoinDesk",
