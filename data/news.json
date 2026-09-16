@@ -1,14 +1,35 @@
 {
-  "updated_utc": "2026-09-16T17:05:10.157923+00:00",
+  "updated_utc": "2026-09-16T17:19:43.874918+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "S&P 500 Trucking Stock Craters On CFO's Warning",
+      "link": "https://www.investors.com/news/sp-500-stocks-jb-hunt-cfo-earnings-oil-diesel-prices-iran-war/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T17:00:50Z",
+      "ts": 1789578050
+    },
     {
       "source": "MarketWatch",
       "title": "My son has a potentially fatal genetic disease. What should I do with my $1.3 million estate?",
       "link": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 17:00:00 GMT",
       "ts": 1789578000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bloom Energy Stock Jumps On 'Meaningful' Data-Center Catalyst",
+      "link": "https://www.investors.com/news/bloom-energy-stock-jumps-on-meaningful-data-center-catalyst/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T16:55:19Z",
+      "ts": 1789577719
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar rises ahead of pivotal Fed rate decision, sterling slips as UK CPI heats up",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
+      "published": "2026-09-16 16:49:53",
+      "ts": 1789577393
     },
     {
       "source": "Yahoo Finance",
@@ -44,20 +65,6 @@
       "link": "https://www.investors.com/news/technology/salesforce-stock-dips-ahead-of-investor-briefing-amid-system-outage/?src=A00220&yptr=yahoo",
       "published": "2026-09-16T16:11:26Z",
       "ts": 1789575086
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Tech Titan Apple, Nvidia Chipmaker TSMC, AMD, Bloom Energy In Or Near Buy Zones",
-      "link": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-apple-stock-aapl-nvidia-chipmaker-tsm-amd-bloom/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T16:10:31Z",
-      "ts": 1789575031
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The Fed Will Be Hawkish. The S&P 500 May Prefer It. (Live Coverage)",
-      "link": "https://www.investors.com/news/federal-reserve-meeting-sept-warsh-10-year-treasury-yield-sp-500/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T16:10:25Z",
-      "ts": 1789575025
     },
     {
       "source": "Cointelegraph",
@@ -226,13 +233,6 @@
       "link": "https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 10:33:12 +0000",
       "ts": 1789554792
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar consolidates ahead of Fed rate decision and Warsh signals",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
-      "published": "2026-09-16 09:26:49",
-      "ts": 1789550809
     },
     {
       "source": "Investing Forex",
