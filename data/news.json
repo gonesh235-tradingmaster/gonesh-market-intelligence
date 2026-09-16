@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-16T03:33:00.538501+00:00",
+  "updated_utc": "2026-09-16T03:46:33.456612+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
+      "link": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000",
+      "published": "Wed, 16 Sep 2026 03:37:45 +0000",
+      "ts": 1789529865
+    },
     {
       "source": "Cointelegraph",
       "title": "Crypto industry turns to US regulators after CLARITY setback",
@@ -193,13 +200,6 @@
       "ts": 1789481706
     },
     {
-      "source": "CoinDesk",
-      "title": "Clarity Act's odds of passing plunge as Republicans reject Democrats' counter-proposal",
-      "link": "https://www.coindesk.com/policy/2026/09/15/clarity-act-s-odds-of-passing-plunge-as-republicans-reject-democrats-counter-proposal",
-      "published": "Tue, 15 Sep 2026 14:13:44 +0000",
-      "ts": 1789481624
-    },
-    {
       "source": "Yahoo Finance",
       "title": "How a Costco partner's bankruptcy could benefit its biggest rival",
       "link": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "A $90 Billion Reason to Buy Oracle Stock Now",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/90-billion-reason-buy-oracle-155458851.html",
-      "published": "2026-09-14T15:54:58Z",
-      "ts": 1789401298
+      "title": "Is PPG Industries Stock Underperforming the Dow?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ppg-industries-stock-underperforming-dow-161750825.html",
+      "published": "2026-09-14T16:17:50Z",
+      "ts": 1789402670
     }
   ]
 }
