@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-16T11:39:57.786887+00:00",
+  "updated_utc": "2026-09-16T11:52:54.008101+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Circle launches Arc mainnet with USDC as native gas token",
+      "link": "https://cointelegraph.com/news/circle-arc-mainnet-launch-usdc-native-gas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 16 Sep 2026 11:39:44 +0000",
+      "ts": 1789558784
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
+      "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 11:39:00 GMT",
+      "ts": 1789558740
+    },
     {
       "source": "MarketWatch",
       "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don’t want to do this anymore?",
@@ -47,7 +61,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The ‘CIA’ strategy beating the market: How one top-performing money manager spots mispriced stocks.",
+      "title": "The ‘CIA’ strategy beating the market: How one top-performing money manager spots mispriced stocks",
       "link": "https://www.marketwatch.com/story/the-cia-strategy-beating-the-market-how-one-top-performing-money-manager-spots-mispriced-stocks-535c638d?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 11:20:00 GMT",
       "ts": 1789557600
@@ -72,13 +86,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-phenomenal-advice-gm-111500447.html",
       "published": "2026-09-16T11:15:00Z",
       "ts": 1789557300
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Majority of US Gen Z healthcare workers eye new jobs within the year, survey shows",
-      "link": "https://finance.yahoo.com/healthcare/articles/majority-us-gen-z-healthcare-110356580.html",
-      "published": "2026-09-16T11:03:56Z",
-      "ts": 1789556636
     },
     {
       "source": "CoinDesk",
@@ -155,13 +162,6 @@
       "title": "Bitcoin dips to $76k as Clarity vote fails; Fed rate hike in focus",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
       "published": "2026-09-16 10:16:00",
-      "ts": 1789553760
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 10:16:00 GMT",
       "ts": 1789553760
     },
     {
@@ -263,13 +263,6 @@
       "ts": 1789537951
     },
     {
-      "source": "Cointelegraph",
-      "title": "US charges ex-Robinhood engineers over alleged pre-listing crypto trades",
-      "link": "https://cointelegraph.com/news/robinhood-engineers-hyperliquid-listing-trades-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 16 Sep 2026 04:48:20 +0000",
-      "ts": 1789534100
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin adds to losses, falls nearly 4% after Clarity Act fails Senate vote",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
@@ -282,6 +275,13 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-slip-as-yen-pulls-back-fed-and-boj-decisions-loom-4900791",
       "published": "2026-09-15 20:38:48",
       "ts": 1789504728
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "XRP Falls 11% In Rout",
+      "link": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-11-in-rout-4902406",
+      "published": "2026-09-15 18:44:04",
+      "ts": 1789497844
     }
   ]
 }
