@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-16T04:43:33.207842+00:00",
+  "updated_utc": "2026-09-16T04:55:36.469832+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "US charges ex-Robinhood engineers over alleged pre-listing crypto trades",
+      "link": "https://cointelegraph.com/news/robinhood-engineers-hyperliquid-listing-trades-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 16 Sep 2026 04:48:20 +0000",
+      "ts": 1789534100
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto longs worth $570 million wiped out as Clarity Act fails",
@@ -186,13 +193,6 @@
       "ts": 1789494784
     },
     {
-      "source": "Cointelegraph",
-      "title": "Binance adds 11 US-listed ETFs to wealth management offering",
-      "link": "https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 15 Sep 2026 17:22:04 +0000",
-      "ts": 1789492924
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround",
       "link": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-barrels-toward-disappointment-barring-last-minute-senate-turnaround",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Spot Bitcoin ETFs Lose $463M Amid ‘Difficult’ Time for Markets",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/spot-bitcoin-etfs-lose-463m-170500167.html",
-      "published": "2026-09-14T17:05:00Z",
-      "ts": 1789405500
+      "title": "Northern Air Cargo names permanent CEO",
+      "link": "https://finance.yahoo.com/small-business/articles/northern-air-cargo-names-permanent-171653326.html",
+      "published": "2026-09-14T17:16:53Z",
+      "ts": 1789406213
     }
   ]
 }
