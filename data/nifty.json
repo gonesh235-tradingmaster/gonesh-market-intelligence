@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-16T14:19:26.035069+00:00",
+  "updated_utc": "2026-09-16T14:33:43.152602+00:00",
   "source": "Yahoo Finance",
   "source_url": "https://finance.yahoo.com/quote/%5ENSEI",
   "data": {
@@ -11,7 +11,7 @@
     "day_low": 23116.1,
     "currency": "INR",
     "market_state": "",
-    "mood_score": -28,
-    "mood_reason": "NIFTY down 1.11% • US markets down 0.38% • Crude oil rising sharply"
+    "mood_score": -26,
+    "mood_reason": "NIFTY down 1.11% • US markets down 0.43% • Crude oil rising sharply"
   }
 }

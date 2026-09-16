@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-16T14:19:27.969468+00:00",
+  "updated_utc": "2026-09-16T14:33:44.891423+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -11,6 +11,13 @@
       "ts": 1789568280
     },
     {
+      "source": "Yahoo Finance",
+      "title": "American Battery Technology (ABAT) Turns A Profit, But Faces A New Export Threat",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/american-battery-technology-abat-turns-141323855.html",
+      "published": "2026-09-16T14:13:23Z",
+      "ts": 1789568003
+    },
+    {
       "source": "MarketWatch",
       "title": "Book your Thanksgiving and Christmas travel now — or risk getting priced out of flying home for the holidays",
       "link": "https://www.marketwatch.com/story/the-best-time-to-book-your-flight-home-for-the-holidays-yesterday-6f5928f2?mod=mw_rss_topstories",
@@ -18,11 +25,39 @@
       "ts": 1789567920
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Coda Octopus (CODA) Just Posted A First-Ever Profit Milestone",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/coda-octopus-coda-just-posted-141014735.html",
+      "published": "2026-09-16T14:10:14Z",
+      "ts": 1789567814
+    },
+    {
       "source": "MarketWatch",
       "title": "More home builders cut prices as buyers get spooked",
       "link": "https://www.marketwatch.com/story/more-home-builders-cut-prices-as-buyers-get-spooked-4cd4b4ec?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 14:10:00 GMT",
       "ts": 1789567800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Nasdaq, S&P 500 Up Ahead Of Likely Fed Rate Increase; AI Leader Dell Jams (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T14:07:08Z",
+      "ts": 1789567628
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Billionaire Ray Dalio’s Bridgewater’s 2 Non-AI Stock Picks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-ray-dalio-bridgewater-2-140700264.html",
+      "published": "2026-09-16T14:07:00Z",
+      "ts": 1789567620
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Deutsche Bank To Offer Crypto Custody For Institutions",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/deutsche-bank-offer-crypto-custody-140600953.html",
+      "published": "2026-09-16T14:06:00Z",
+      "ts": 1789567560
     },
     {
       "source": "Yahoo Finance",
@@ -60,39 +95,11 @@
       "ts": 1789567200
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Bitcoin ETFs See $450 Million In Outflows After Clarity Act Vote",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-see-450-million-135000092.html",
-      "published": "2026-09-16T13:50:00Z",
-      "ts": 1789566600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Charter Communications (CHTR): Cox Merger and Wireless Growth Signal Stronger Future Ahead",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/charter-communications-chtr-cox-merger-134918958.html",
-      "published": "2026-09-16T13:49:18Z",
-      "ts": 1789566558
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Investor Fears of AI Disintermediation Weigh on Accenture (ACN) Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investor-fears-ai-disintermediation-weigh-134808888.html",
-      "published": "2026-09-16T13:48:08Z",
-      "ts": 1789566488
-    },
-    {
       "source": "Investing Crypto",
       "title": "XRP price outlook after token drops 10% on failed Clarity Act vote",
       "link": "https://www.investing.com/news/cryptocurrency-news/xrp-price-outlook-after-token-drops-10-on-failed-clarity-act-vote-93CH-4903927",
       "published": "2026-09-16 13:44:48",
       "ts": 1789566288
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Says Brinker (EAT) “Never Fails to Wow Me”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-brinker-eat-134344027.html",
-      "published": "2026-09-16T13:43:44Z",
-      "ts": 1789566224
     },
     {
       "source": "Investing Crypto",
@@ -247,13 +254,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-fed-hike-bets-and-uk-inflation-uptick-weigh-4903061",
       "published": "2026-09-16 08:21:55",
       "ts": 1789546915
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: S&P 500 and Nasdaq rise ahead of crucial Fed interest rate decision",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html",
-      "published": "2026-09-16T08:03:56Z",
-      "ts": 1789545836
     },
     {
       "source": "Investing Forex",
