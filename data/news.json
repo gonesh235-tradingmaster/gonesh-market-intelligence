@@ -1,14 +1,28 @@
 {
-  "updated_utc": "2026-09-16T13:49:43.537206+00:00",
+  "updated_utc": "2026-09-16T14:00:25.232763+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Says Brinker (EAT) “Never Fails to Wow Me”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-brinker-eat-134344027.html",
+      "published": "2026-09-16T13:43:44Z",
+      "ts": 1789566224
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin drops below $76k as Clarity vote fails; Fed rate hike in focus",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
       "published": "2026-09-16 13:40:40",
       "ts": 1789566040
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "CoStar (CSGP): Residential Strategy Unchanged Despite Persistent Market Skepticism",
+      "link": "https://finance.yahoo.com/real-estate/articles/costar-csgp-residential-strategy-unchanged-133542445.html",
+      "published": "2026-09-16T13:35:42Z",
+      "ts": 1789565742
     },
     {
       "source": "MarketWatch",
@@ -46,25 +60,11 @@
       "ts": 1789564974
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Why Meta's Zuckerberg, Nvidia's Huang Say An AI Slowdown Is Not Needed",
-      "link": "https://www.investors.com/news/technology/meta-stock-zuckerberg-ai-safety-nvidia-anthropic/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T13:22:23Z",
-      "ts": 1789564943
-    },
-    {
       "source": "MarketWatch",
       "title": "Retail sales surged toward the end of summer. The U.S. economy has plenty of momentum.",
       "link": "https://www.marketwatch.com/story/retail-sales-surged-toward-the-end-of-summer-economy-still-has-plenty-of-momentum-cdf667b2?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 13:22:00 GMT",
       "ts": 1789564920
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why Axon Got Slammed By Convertible: It's The Cash Flow",
-      "link": "https://www.investors.com/news/axon-stock-falls-convertible-bond-sp-500/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T13:20:47Z",
-      "ts": 1789564847
     },
     {
       "source": "MarketWatch",
@@ -236,7 +236,7 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq rise ahead of crucial Fed interest rate decision",
+      "title": "Stock market today: S&P 500 and Nasdaq rise ahead of crucial Fed interest rate decision",
       "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html",
       "published": "2026-09-16T08:03:56Z",
       "ts": 1789545836
