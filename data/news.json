@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-16T05:08:34.983329+00:00",
+  "updated_utc": "2026-09-16T05:23:25.208538+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar holds gains, yen slips to one-week low",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
+      "published": "2026-09-16 05:02:28",
+      "ts": 1789534948
+    },
     {
       "source": "Cointelegraph",
       "title": "US charges ex-Robinhood engineers over alleged pre-listing crypto trades",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-rises-yen-holds-near-sevenmonth-high-4898821",
       "published": "2026-09-14 21:03:42",
       "ts": 1789419822
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "SpaceX Stock Is Positioned for Robust ARR Growth and EBITDA Margin Expansion",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-positioned-robust-arr-172347013.html",
-      "published": "2026-09-14T17:23:47Z",
-      "ts": 1789406627
     }
   ]
 }
