@@ -1,17 +1,17 @@
 {
-  "updated_utc": "2026-09-16T08:35:55.705340+00:00",
+  "updated_utc": "2026-09-16T08:50:01.920645+00:00",
   "source": "Yahoo Finance",
   "source_url": "https://finance.yahoo.com/quote/%5ENSEI",
   "data": {
-    "value": 23234.35,
+    "value": 23231.6,
     "previous_close": 23477.8,
-    "change": -243.45,
-    "change_percent": -1.04,
+    "change": -246.2,
+    "change_percent": -1.05,
     "day_high": 23284.75,
     "day_low": 23116.1,
     "currency": "INR",
     "market_state": "",
     "mood_score": -44,
-    "mood_reason": "NIFTY down 1.04% • US markets down 1.40% • US 10Y yield rising sharply"
+    "mood_reason": "NIFTY down 1.05% • US markets down 1.40% • US 10Y yield rising sharply"
   }
 }

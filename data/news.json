@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-16T08:35:57.701256+00:00",
+  "updated_utc": "2026-09-16T08:50:04.110911+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "ECB seeks online merchants for 2027 digital euro pilot",
+      "link": "https://cointelegraph.com/news/ecb-online-merchants-2027-digital-euro-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 16 Sep 2026 08:36:44 +0000",
+      "ts": 1789547804
+    },
+    {
+      "source": "MarketWatch",
+      "title": "What Altman, Amodei, Huang and Zuckerberg are saying about the raging AI debate",
+      "link": "https://www.marketwatch.com/story/what-altman-amodei-huang-and-zuckerberg-are-saying-about-the-raging-ai-debate-afaae83b?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 08:26:00 GMT",
+      "ts": 1789547160
+    },
     {
       "source": "Investing Forex",
       "title": "Sterling today: Pound slips as Fed hike bets and UK inflation uptick weigh",
@@ -116,6 +130,27 @@
       "ts": 1789525447
     },
     {
+      "source": "MarketWatch",
+      "title": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
+      "link": "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 23:09:00 GMT",
+      "ts": 1789513740
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 22:15:00 GMT",
+      "ts": 1789510500
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 22:00:00 GMT",
+      "ts": 1789509600
+    },
+    {
       "source": "CoinDesk",
       "title": "Inside the last-minute political breakdown that doomed the Clarity Act vote",
       "link": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
@@ -130,11 +165,39 @@
       "ts": 1789508959
     },
     {
+      "source": "MarketWatch",
+      "title": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity",
+      "link": "https://www.marketwatch.com/story/these-four-stocks-could-benefit-most-from-a-3-2-trillion-semiconductor-opportunity-e6bf58b4?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 21:40:00 GMT",
+      "ts": 1789508400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How the Iran war is transforming the relationship between stocks, bonds and oil",
+      "link": "https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 21:34:00 GMT",
+      "ts": 1789508040
+    },
+    {
       "source": "Cointelegraph",
       "title": "BIS paper finds major gap in Bitcoin onchain transfer estimates",
       "link": "https://cointelegraph.com/news/bis-paper-finds-major-gap-in-bitcoin-onchain-transfer-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 15 Sep 2026 21:23:00 +0000",
       "ts": 1789507380
+    },
+    {
+      "source": "MarketWatch",
+      "title": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
+      "link": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 21:15:00 GMT",
+      "ts": 1789506900
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Inflation killed the penny. Now it’s coming for your dollar.",
+      "link": "https://www.marketwatch.com/story/inflation-killed-the-penny-now-its-coming-for-your-dollar-78336cd8?mod=mw_rss_topstories",
+      "published": "Tue, 15 Sep 2026 21:00:00 GMT",
+      "ts": 1789506000
     },
     {
       "source": "Investing Forex",
@@ -163,13 +226,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/15/clarity-act-fails-in-senate-here-is-how-the-crypto-industry-is-reacting",
       "published": "Tue, 15 Sep 2026 19:06:31 +0000",
       "ts": 1789499191
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US Senate fails to advance CLARITY Act",
-      "link": "https://cointelegraph.com/news/us-senate-fails-to-advance-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 15 Sep 2026 18:46:51 +0000",
-      "ts": 1789498011
     },
     {
       "source": "Investing Crypto",
@@ -226,62 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-fall-as-uk-jobs-data-disappoints-dollar-firm-4900933",
       "published": "2026-09-15 08:06:27",
       "ts": 1789459587
-    },
-    {
-      "source": "Investing Forex",
-      "title": "European sovereign debt pressured as traders price ECB hikes through early 2027",
-      "link": "https://www.investing.com/news/forex-news/european-sovereign-debt-pressured-as-traders-price-ecb-hikes-through-early-2027-4900845",
-      "published": "2026-09-15 07:47:02",
-      "ts": 1789458422
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Loonie holds near 12-day low as oil support fails to offset dollar strength",
-      "link": "https://www.investing.com/news/forex-news/loonie-holds-near-12day-low-as-oil-support-fails-to-offset-dollar-strength-4900629",
-      "published": "2026-09-14 21:54:08",
-      "ts": 1789422848
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "GEV Stock Sinks on New 'Sell' Rating. What to Know.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/gev-stock-sinks-sell-rating-205515859.html",
-      "published": "2026-09-14T20:55:15Z",
-      "ts": 1789419315
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Coda Octopus Group, Inc. Q3 2026 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coda-octopus-group-inc-q3-205121286.html",
-      "published": "2026-09-14T20:51:21Z",
-      "ts": 1789419081
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The Hain Celestial Group, Inc. Q1 2027 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hain-celestial-group-inc-q1-205014153.html",
-      "published": "2026-09-14T20:50:14Z",
-      "ts": 1789419014
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Behind the Ticker: The Billionaire's CLUB",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/behind-ticker-billionaires-club-204916747.html",
-      "published": "2026-09-14T20:49:16Z",
-      "ts": 1789418956
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Oracle (ORCL): Oracle Has the Backlog. Wall Street Wants the Cash",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-oracle-backlog-wall-203907436.html",
-      "published": "2026-09-14T20:39:07Z",
-      "ts": 1789418347
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Falls, Cyber Plays Soar Amid AI Fears; Bessent Makes This Move On Iran (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-nvda-stock-ai-warning/?src=A00220&yptr=yahoo",
-      "published": "2026-09-14T20:36:26Z",
-      "ts": 1789418186
     }
   ]
 }
