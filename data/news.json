@@ -1,14 +1,56 @@
 {
-  "updated_utc": "2026-09-17T13:28:40.311196+00:00",
+  "updated_utc": "2026-09-17T13:43:46.423380+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
       "source": "Yahoo Finance",
-      "title": "US single-family housing starts rebound in August; building permits fall",
-      "link": "https://finance.yahoo.com/real-estate/articles/us-single-family-housing-starts-131652276.html",
-      "published": "2026-09-17T13:16:52Z",
-      "ts": 1789651012
+      "title": "SEC, Aware Super and Birdwood to build 1.86GWh battery in Victoria",
+      "link": "https://finance.yahoo.com/energy/articles/sec-aware-super-birdwood-build-133846082.html",
+      "published": "2026-09-17T13:38:46Z",
+      "ts": 1789652326
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Rises In Fed Aftermath; Generac, Nebius, Bloom, SpaceX Are Early Movers (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-fed-reaction-generac-nebius-bloom-energy-spacex/?src=A00220&yptr=yahoo",
+      "published": "2026-09-17T13:34:46Z",
+      "ts": 1789652086
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Lazard (LAZ) Slid on Slower M&A Activity",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lazard-laz-slid-slower-m-133023245.html",
+      "published": "2026-09-17T13:30:23Z",
+      "ts": 1789651823
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin treasury firms can outperform BTC... but is the risk worth taking?",
+      "link": "https://cointelegraph.com/magazine/bitcoin-treasuries-can-outperform-btc-but-is-it-a-risk-worth-taking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 17 Sep 2026 13:30:00 +0000",
+      "ts": 1789651800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Here’s Why Dolby Laboratories (DLB) Traded Down in Q2",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-dolby-laboratories-dlb-traded-132841555.html",
+      "published": "2026-09-17T13:28:41Z",
+      "ts": 1789651721
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nebius Stock Jumps On Cloud Computing Price Hikes",
+      "link": "https://www.investors.com/news/technology/nebius-stock-jumps-cloud-computing-price-hikes-nvidia-gpu/?src=A00220&yptr=yahoo",
+      "published": "2026-09-17T13:28:20Z",
+      "ts": 1789651700
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Strategy’s Preferred Stock Nears Par Value After Buybacks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-preferred-stock-nears-par-132700962.html",
+      "published": "2026-09-17T13:27:00Z",
+      "ts": 1789651620
     },
     {
       "source": "CoinDesk",
@@ -18,18 +60,18 @@
       "ts": 1789650921
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Bristow Group Director Truelove Sells 3,500 Shares for $161,000",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bristow-group-director-truelove-sells-131501665.html",
-      "published": "2026-09-17T13:15:01Z",
-      "ts": 1789650901
+      "source": "MarketWatch",
+      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 13:15:00 GMT",
+      "ts": 1789650900
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Rises In Fed Aftermath; Generac, Nebius, Bloom, SpaceX Are Early Movers (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-fed-reaction-generac-nebius-bloom-energy-spacex/?src=A00220&yptr=yahoo",
-      "published": "2026-09-17T13:14:15Z",
-      "ts": 1789650855
+      "source": "MarketWatch",
+      "title": "‘You are freed’: What happened when an OpenAI model began secretly writing notes to itself",
+      "link": "https://www.marketwatch.com/story/you-are-freed-what-happened-when-an-openai-model-began-secretly-writing-notes-to-itself-25808ea8?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 13:07:00 GMT",
+      "ts": 1789650420
     },
     {
       "source": "CoinDesk",
@@ -46,18 +88,11 @@
       "ts": 1789649783
     },
     {
-      "source": "Yahoo Finance",
-      "title": "BCSM Exits Heartflow (HTFL) on Competitive Concerns",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bcsm-exits-heartflow-htfl-competitive-124947141.html",
-      "published": "2026-09-17T12:49:47Z",
-      "ts": 1789649387
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "BCSM Exits Insulet Corporation (PODD), Maintains Watchlist Status",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bcsm-exits-insulet-corporation-podd-124807842.html",
-      "published": "2026-09-17T12:48:07Z",
-      "ts": 1789649287
+      "source": "MarketWatch",
+      "title": "It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
+      "link": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 12:39:00 GMT",
+      "ts": 1789648740
     },
     {
       "source": "Investing Forex",
@@ -72,6 +107,27 @@
       "link": "https://cointelegraph.com/news/crypto-adoption-blooming-germany-uk-behind-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 12:34:11 +0000",
       "ts": 1789648451
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 12:15:00 GMT",
+      "ts": 1789647300
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 12:15:00 GMT",
+      "ts": 1789647300
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Bitcoin could be headed for $230,000 in less than a decade. Here are seven ways to value the crypto.",
+      "link": "https://www.marketwatch.com/story/bitcoin-could-be-headed-for-230-000-in-less-than-a-decade-here-are-seven-ways-to-value-the-crypto-d1110aab?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 12:10:00 GMT",
+      "ts": 1789647000
     },
     {
       "source": "Investing Forex",
@@ -102,6 +158,20 @@
       "ts": 1789645342
     },
     {
+      "source": "MarketWatch",
+      "title": "‘I just want out’: Why Jeffrey Gundlach is moving his money as far from AI as possible — and what he’s doing instead",
+      "link": "https://www.marketwatch.com/story/i-just-want-out-why-jeffrey-gundlach-is-moving-his-money-as-far-from-ai-as-possible-and-what-hes-doing-instead-54281010?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 11:41:00 GMT",
+      "ts": 1789645260
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How can I get my employees to stop oversharing at work?",
+      "link": "https://www.marketwatch.com/story/how-can-i-get-my-employees-to-stop-oversharing-at-work-540ba78c?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 11:30:00 GMT",
+      "ts": 1789644600
+    },
+    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound falls as BoE holds rates, cautious minutes weigh",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-flat-as-dollar-rally-pauses-ahead-of-boe-4904969",
@@ -124,7 +194,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin rises as oil sinks on report of China intervention on Iran",
+      "title": "Live updates: Bitcoin continues near $76,000 as stocks surge following Fed rate hike",
       "link": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
       "published": "Thu, 17 Sep 2026 10:41:15 +0000",
       "ts": 1789641675
@@ -200,13 +270,6 @@
       "ts": 1789629094
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 17 Sep 2026 06:01:31 +0000",
-      "ts": 1789624891
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin turns slightly higher as traders digest Clarity Act failure, Fed rate hike",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
@@ -219,69 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/loonie-weakens-after-fed-hike-as-dollar-gains-on-hawkish-outlook-4904309",
       "published": "2026-09-16 18:46:08",
       "ts": 1789584368
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar gains after Fed raises interest rates",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
-      "published": "2026-09-16 18:28:59",
-      "ts": 1789583339
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Phoenix Enables SOL as Collateral for Perpetual Futures Trading",
-      "link": "https://www.investing.com/news/cryptocurrency-news/phoenix-enables-sol-as-collateral-for-perpetual-futures-trading-4904222",
-      "published": "2026-09-16 17:30:36",
-      "ts": 1789579836
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mysterious trader moves $122 million ahead of Fed's 2 p.m. decision",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html",
-      "published": "2026-09-16T16:47:40Z",
-      "ts": 1789577260
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "SEC chief vows action on crypto rules after Senate bill fails",
-      "link": "https://www.investing.com/news/cryptocurrency-news/sec-chief-vows-action-on-crypto-rules-after-senate-bill-fails-93CH-4904160",
-      "published": "2026-09-16 16:20:11",
-      "ts": 1789575611
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Coinbase cuts trading fees for active users on Advanced platform",
-      "link": "https://www.investing.com/news/cryptocurrency-news/coinbase-cuts-trading-fees-for-active-users-on-advanced-platform-432SI-4904040",
-      "published": "2026-09-16 14:56:02",
-      "ts": 1789570562
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "XRP price outlook after token drops 10% on failed Clarity Act vote",
-      "link": "https://www.investing.com/news/cryptocurrency-news/xrp-price-outlook-after-token-drops-10-on-failed-clarity-act-vote-93CH-4903927",
-      "published": "2026-09-16 13:44:48",
-      "ts": 1789566288
-    },
-    {
-      "source": "Investing Forex",
-      "title": "UBS sees EUR/CHF retest of 0.96 as Swiss franc lags on low yield",
-      "link": "https://www.investing.com/news/forex-news/ubs-sees-eurchf-retest-of-096-as-swiss-franc-lags-on-low-yield-93CH-4903208",
-      "published": "2026-09-16 09:24:27",
-      "ts": 1789550667
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Citi sees GBP gains as short-lived ahead of October budget risks",
-      "link": "https://www.investing.com/news/forex-news/citi-sees-gbp-gains-as-shortlived-ahead-of-october-budget-risks-93CH-4903174",
-      "published": "2026-09-16 09:07:19",
-      "ts": 1789549639
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Tech stocks today: OpenAI reveals six more instances of 'concerning model behavior'",
-      "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-openai-reveals-six-more-instances-of-concerning-model-behavior-140134624.html",
-      "published": "2026-09-14T14:01:34Z",
-      "ts": 1789394494
     }
   ]
 }
