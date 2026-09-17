@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-17T08:29:59.314651+00:00",
+  "updated_utc": "2026-09-17T08:44:11.275144+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin faces 2022 parallels as federal reserve resumes rate hikes",
+      "link": "https://www.coindesk.com/markets/2026/09/17/bitcoin-faces-2022-parallels-as-federal-reserve-resumes-rate-hikes",
+      "published": "Thu, 17 Sep 2026 08:41:48 +0000",
+      "ts": 1789634508
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound flat as dollar rally pauses ahead of BoE decision",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-flat-as-dollar-rally-pauses-ahead-of-boe-4904969",
+      "published": "2026-09-17 08:13:47",
+      "ts": 1789632827
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. 10-year Treasury yield eases in the afterglow of Fed hike",
+      "link": "https://www.investing.com/news/forex-news/us-10year-treasury-yield-eases-in-the-afterglow-of-fed-hike-4904832",
+      "published": "2026-09-17 08:09:55",
+      "ts": 1789632595
+    },
     {
       "source": "Investing Forex",
       "title": "Asian currencies mixed as dollar eases, yen strengthens ahead of BoJ",
@@ -16,13 +37,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit",
       "published": "Thu, 17 Sep 2026 07:54:33 +0000",
       "ts": 1789631673
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. 10-year Treasury yield eases in the afterglow of Fed hike;",
-      "link": "https://www.investing.com/news/forex-news/us-10year-treasury-yield-eases-in-the-afterglow-of-fed-hike-4904832",
-      "published": "2026-09-17 07:53:16",
-      "ts": 1789631596
     },
     {
       "source": "MarketWatch",
@@ -228,13 +242,6 @@
       "ts": 1789577260
     },
     {
-      "source": "CoinDesk",
-      "title": "U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss",
-      "link": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
-      "published": "Wed, 16 Sep 2026 16:21:44 +0000",
-      "ts": 1789575704
-    },
-    {
       "source": "Investing Crypto",
       "title": "SEC chief vows action on crypto rules after Senate bill fails",
       "link": "https://www.investing.com/news/cryptocurrency-news/sec-chief-vows-action-on-crypto-rules-after-senate-bill-fails-93CH-4904160",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-fed-hike-bets-and-uk-inflation-uptick-weigh-4903061",
       "published": "2026-09-16 08:21:55",
       "ts": 1789546915
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Euro zone yields linger at multi-year peaks as traders brace for Fed rate decision",
-      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-linger-at-multiyear-peaks-as-traders-brace-for-fed-rate-decision-4902913",
-      "published": "2026-09-16 07:43:07",
-      "ts": 1789544587
     }
   ]
 }
