@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-17T19:47:07.382147+00:00",
+  "updated_utc": "2026-09-17T19:55:19.459624+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz",
+      "link": "https://www.marketwatch.com/story/saudi-arabia-is-now-pushing-to-export-more-oil-through-the-strait-of-hormuz-bcce044b?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 19:52:00 GMT",
+      "ts": 1789674720
+    },
     {
       "source": "Cointelegraph",
       "title": "CFTC expands regulatory relief for passive trading software providers",
@@ -114,13 +121,6 @@
       "link": "https://www.marketwatch.com/story/like-costco-walmart-to-sell-medicare-advantage-plans-b31977d2?mod=mw_rss_topstories",
       "published": "Thu, 17 Sep 2026 15:24:00 GMT",
       "ts": 1789658640
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
-      "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 15:22:00 GMT",
-      "ts": 1789658520
     },
     {
       "source": "CoinDesk",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Are you 5 years from retirement? Do these 5 things now — or risk running out of cash",
-      "link": "https://finance.yahoo.com/markets/articles/5-years-retirement-5-things-100500756.html",
-      "published": "2026-09-16T10:05:00Z",
-      "ts": 1789553100
+      "title": "Is Iron Mountain Stock Underperforming the Dow?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/iron-mountain-stock-underperforming-dow-100715952.html",
+      "published": "2026-09-16T10:07:15Z",
+      "ts": 1789553235
     }
   ]
 }
