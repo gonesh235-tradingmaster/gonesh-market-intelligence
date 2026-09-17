@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-17T19:25:02.143308+00:00",
+  "updated_utc": "2026-09-17T19:36:59.919180+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "CFTC expands regulatory relief for passive trading software providers",
+      "link": "https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 17 Sep 2026 19:30:48 +0000",
+      "ts": 1789673448
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar halts six-day rally after Fed hike, sterling slips after BoE stands pat",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
+      "published": "2026-09-17 19:24:32",
+      "ts": 1789673072
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin trapped in $75K-$77K range on 5h chart: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+      "published": "2026-09-17 19:18:50",
+      "ts": 1789672730
+    },
     {
       "source": "MarketWatch",
       "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don’t want to do this anymore?",
@@ -158,13 +179,6 @@
       "ts": 1789652057
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin treasury firms can outperform BTC... but is the risk worth taking?",
-      "link": "https://cointelegraph.com/magazine/bitcoin-treasuries-can-outperform-btc-but-is-it-a-risk-worth-taking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 17 Sep 2026 13:30:00 +0000",
-      "ts": 1789651800
-    },
-    {
       "source": "CoinDesk",
       "title": "Ratings giant S&P Global acquires OpenZeppelin in tokenized finance risk push",
       "link": "https://www.coindesk.com/business/2026/09/17/ratings-giant-s-and-p-global-acquires-openzeppelin-in-tokenized-finance-risk-push",
@@ -205,20 +219,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/zama-opens-confidential-access-to-defis-existing-yield-venues-4905281",
       "published": "2026-09-17 11:00:34",
       "ts": 1789642834
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Yen rise as markets price BOJ rate hike  while dollar pauses post-Fed",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
-      "published": "2026-09-17 09:27:30",
-      "ts": 1789637250
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin consolidates above $75K support: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
-      "published": "2026-09-17 07:11:34",
-      "ts": 1789629094
     },
     {
       "source": "Investing Crypto",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "6 signs you might be a good fit for debt settlement",
-      "link": "https://finance.yahoo.com/personal-finance/personal-loans/article/signs-you-might-be-a-good-fit-for-debt-settlement-102500610.html",
-      "published": "2026-09-16T10:25:00Z",
-      "ts": 1789554300
+      "title": "How Is Cardinal Health's Stock Performance Compared to Other Health Care Services Stocks?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cardinal-healths-stock-performance-compared-100143179.html",
+      "published": "2026-09-16T10:01:43Z",
+      "ts": 1789552903
     }
   ]
 }
