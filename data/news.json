@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-17T06:00:31.678374+00:00",
+  "updated_utc": "2026-09-17T06:23:58.049921+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 17 Sep 2026 06:01:31 +0000",
+      "ts": 1789624891
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BitMEX faces Celsius lawsuit ahead of exchange closure",
+      "link": "https://cointelegraph.com/news/celsius-estate-bitmex-6360-btc-liquidation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 17 Sep 2026 05:55:18 +0000",
+      "ts": 1789624518
+    },
     {
       "source": "Cointelegraph",
       "title": "OpenAI discloses 6 new cases of ‘misaligned’ AI behavior",
@@ -117,13 +131,6 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 16 Sep 2026 19:25:46 +0000",
-      "ts": 1789586746
-    },
-    {
-      "source": "Cointelegraph",
       "title": "UK FCA sets crypto authorization guidance ahead of September application window",
       "link": "https://cointelegraph.com/news/uk-fca-sets-crypto-authorization-guidance-ahead-of-september-application-window?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 19:19:23 +0000",
@@ -205,13 +212,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/sec-chief-vows-action-on-crypto-rules-after-senate-bill-fails-93CH-4904160",
       "published": "2026-09-16 16:20:11",
       "ts": 1789575611
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Anchorage expands institutional custody to Etherlink, tokenized uranium",
-      "link": "https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 16 Sep 2026 16:03:35 +0000",
-      "ts": 1789574615
     },
     {
       "source": "CoinDesk",
