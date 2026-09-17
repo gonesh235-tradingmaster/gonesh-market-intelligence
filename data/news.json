@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-17T07:46:12.819934+00:00",
+  "updated_utc": "2026-09-17T07:56:37.157423+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Ripple adds XRP payments to Stripe and Tempo’s AI standard in new developer kit",
+      "link": "https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit",
+      "published": "Thu, 17 Sep 2026 07:54:33 +0000",
+      "ts": 1789631673
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Tom Lee says the ‘face-ripping’ rally he predicted is merely delayed",
+      "link": "https://www.marketwatch.com/story/tom-lee-says-the-face-ripping-rally-he-predicted-is-merely-delayed-16933e30?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 07:50:00 GMT",
+      "ts": 1789631400
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
@@ -137,13 +151,6 @@
       "ts": 1789594800
     },
     {
-      "source": "MarketWatch",
-      "title": "Why optical stocks Lumentum and Coherent were the day’s biggest S&P 500 gainers",
-      "link": "https://www.marketwatch.com/story/why-optical-stocks-lumentum-and-coherent-were-the-days-biggest-gainers-051af440?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 20:52:00 GMT",
-      "ts": 1789591920
-    },
-    {
       "source": "Cointelegraph",
       "title": "CLARITY Act could get another shot during lame-duck session, policy advocate says",
       "link": "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -226,13 +233,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/sec-chief-vows-action-on-crypto-rules-after-senate-bill-fails-93CH-4904160",
       "published": "2026-09-16 16:20:11",
       "ts": 1789575611
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Hamas military wing told donors to avoid sending crypto directly from Binance, DOJ filing shows",
-      "link": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
-      "published": "Wed, 16 Sep 2026 15:25:41 +0000",
-      "ts": 1789572341
     },
     {
       "source": "Investing Crypto",
