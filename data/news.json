@@ -1,8 +1,57 @@
 {
-  "updated_utc": "2026-09-17T15:22:35.376706+00:00",
+  "updated_utc": "2026-09-17T15:35:06.215914+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Average auto loan interest rates by credit score in 2026",
+      "link": "https://finance.yahoo.com/news/average-car-loan-interest-rates-212521067.html",
+      "published": "2026-09-17T15:26:52Z",
+      "ts": 1789658812
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Like Costco, Walmart will sell Medicare Advantage plans",
+      "link": "https://www.marketwatch.com/story/like-costco-walmart-to-sell-medicare-advantage-plans-b31977d2?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 15:24:00 GMT",
+      "ts": 1789658640
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Apple iPhone 18 Pro Sales Helped By Carrier Promotions",
+      "link": "https://www.investors.com/news/technology/apple-stock-iphone-18-pro-carrier-promotions/?src=A00220&yptr=yahoo",
+      "published": "2026-09-17T15:22:15Z",
+      "ts": 1789658535
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+      "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 15:22:00 GMT",
+      "ts": 1789658520
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Novartis (NVS) and Ionis (IONS)’ Big Cholesterol Bet Comes Up Short in Late-Stage Trial",
+      "link": "https://finance.yahoo.com/healthcare/articles/novartis-nvs-ionis-ions-big-152119015.html",
+      "published": "2026-09-17T15:21:19Z",
+      "ts": 1789658479
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The Strategist Who Wanted 8,400 on the S&P 500 Just Cut His Number, and It Is Not Because Earnings Got Worse",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/strategist-wanted-8-400-p-152036941.html",
+      "published": "2026-09-17T15:20:36Z",
+      "ts": 1789658436
+    },
+    {
+      "source": "MarketWatch",
+      "title": "More Americans are about to get scammed by the coming peptide rush",
+      "link": "https://www.marketwatch.com/story/more-americans-are-about-to-get-scammed-by-the-coming-peptide-rush-c835bc3d?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 15:20:00 GMT",
+      "ts": 1789658400
+    },
     {
       "source": "MarketWatch",
       "title": "My son has a potentially fatal genetic disease. What should I do with my $1.3 million estate?",
@@ -12,10 +61,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Adaptive raises $30m in funding for agentic construction accounting",
-      "link": "https://finance.yahoo.com/small-business/articles/adaptive-raises-30m-funding-agentic-150902252.html",
-      "published": "2026-09-17T15:09:02Z",
-      "ts": 1789657742
+      "title": "Meta Stock Climbs On Muse AI Excitement. Here's The Next Potential Catalyst.",
+      "link": "https://www.investors.com/news/technology/meta-stock-connect-2026-preview-muse-ai/?src=A00220&yptr=yahoo",
+      "published": "2026-09-17T15:14:28Z",
+      "ts": 1789658068
     },
     {
       "source": "CoinDesk",
@@ -46,39 +95,11 @@
       "ts": 1789657255
     },
     {
-      "source": "Yahoo Finance",
-      "title": "VinFast (VFS)-Backed Taxi Firm GSM Plots a US and European Push ahead of its Hong Kong IPO",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vinfast-vfs-backed-taxi-firm-150001467.html",
-      "published": "2026-09-17T15:00:01Z",
-      "ts": 1789657201
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Talen Energy (TLN) Gains as Regulatory Progress Enhances Data Center Framework",
-      "link": "https://finance.yahoo.com/energy/articles/talen-energy-tln-gains-regulatory-145925718.html",
-      "published": "2026-09-17T14:59:25Z",
-      "ts": 1789657165
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto for Advisors: Beyond bitcoin and ether",
       "link": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
       "published": "Thu, 17 Sep 2026 14:57:11 +0000",
       "ts": 1789657031
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Ryanair (RYAAY) Slashes its Winter Flight Plans to Dodge a Costly Oil Spike",
-      "link": "https://finance.yahoo.com/energy/articles/ryanair-ryaay-slashes-winter-flight-145505604.html",
-      "published": "2026-09-17T14:55:05Z",
-      "ts": 1789656905
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Should I buy a new or used car? Here’s how to decide",
-      "link": "https://finance.yahoo.com/deals-and-buying-guides/articles/buy-used-car-181444914.html",
-      "published": "2026-09-17T14:53:52Z",
-      "ts": 1789656832
     },
     {
       "source": "CoinDesk",
@@ -158,13 +179,6 @@
       "ts": 1789650900
     },
     {
-      "source": "MarketWatch",
-      "title": "‘You are freed’: What happened when an OpenAI model began secretly writing notes to itself",
-      "link": "https://www.marketwatch.com/story/you-are-freed-what-happened-when-an-openai-model-began-secretly-writing-notes-to-itself-25808ea8?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 13:07:00 GMT",
-      "ts": 1789650420
-    },
-    {
       "source": "CoinDesk",
       "title": "SEC rolls out long-awaited 'innovation exemption' for tokenized securities venues",
       "link": "https://www.coindesk.com/policy/2026/09/17/sec-rolls-out-long-awaited-innovation-exemption-for-tokenized-securities-venues",
@@ -177,13 +191,6 @@
       "link": "https://cointelegraph.com/news/sp-global-openzeppelin-acquisition-blockchain-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 12:56:23 +0000",
       "ts": 1789649783
-    },
-    {
-      "source": "MarketWatch",
-      "title": "It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
-      "link": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 12:39:00 GMT",
-      "ts": 1789648740
     },
     {
       "source": "CoinDesk",
@@ -205,13 +212,6 @@
       "link": "https://cointelegraph.com/news/crypto-adoption-blooming-germany-uk-behind-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 12:34:11 +0000",
       "ts": 1789648451
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 12:15:00 GMT",
-      "ts": 1789647300
     },
     {
       "source": "Investing Forex",
