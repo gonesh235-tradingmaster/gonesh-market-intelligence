@@ -1,14 +1,35 @@
 {
-  "updated_utc": "2026-09-17T16:30:01.318293+00:00",
+  "updated_utc": "2026-09-17T16:44:38.631457+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
       "source": "Yahoo Finance",
-      "title": "Nvidia Expects Chip Sales to Double in 2027",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-expects-chip-sales-double-161001284.html",
-      "published": "2026-09-17T16:10:01Z",
-      "ts": 1789661401
+      "title": "SoFi Could Be Building Something Wall Street Hasn’t Fully Priced In",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sofi-could-building-something-wall-163015781.html",
+      "published": "2026-09-17T16:30:15Z",
+      "ts": 1789662615
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How To Protect Yourself From The Looming AI-Stock Crash",
+      "link": "https://www.investors.com/etfs-and-funds/etfs/ai-stock-crash-how-to-protect-yourself-from-the-looming/?src=A00220&yptr=yahoo",
+      "published": "2026-09-17T16:30:04Z",
+      "ts": 1789662604
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Assemblin Caverion prints €1.5B floating-rate note in bumper day for European high yield",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/assemblin-caverion-prints-1-5b-162749040.html",
+      "published": "2026-09-17T16:27:49Z",
+      "ts": 1789662469
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
+      "link": "https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 17 Sep 2026 16:22:23 +0000",
+      "ts": 1789662143
     },
     {
       "source": "Yahoo Finance",
@@ -39,25 +60,11 @@
       "ts": 1789660873
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Struggling Coinbase Stock Sets Itself Up For This Bearish Trade",
-      "link": "https://www.investors.com/research/options/coinbase-coin-stock-bear-put-spread-options/?src=A00220&yptr=yahoo",
-      "published": "2026-09-17T16:01:06Z",
-      "ts": 1789660866
-    },
-    {
       "source": "Cointelegraph",
       "title": "Zcash miner Fortitude taps former Hut 8 CEO to lead ahead of public listing",
       "link": "https://cointelegraph.com/news/former-hut-8-ceo-jaime-leverton-to-lead-zcash-miner-fortitude-ahead-of-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 15:58:33 +0000",
       "ts": 1789660713
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Nasdaq Leads Dow After Surprise Jobs Data; Gold Name Vaults Higher (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-fed-reaction-generac-nebius-bloom-energy-spacex/?src=A00220&yptr=yahoo",
-      "published": "2026-09-17T15:56:57Z",
-      "ts": 1789660617
     },
     {
       "source": "MarketWatch",
@@ -231,13 +238,6 @@
       "source": "CoinDesk",
       "title": "Zcash miner Fortitude names former Hut 8 chief Jaime Leverton CEO ahead of Nasdaq deal",
       "link": "https://www.coindesk.com/business/2026/09/17/zcash-miner-fortitude-names-former-hut-8-chief-jaime-leverton-ceo-ahead-of-nasdaq-deal",
-      "published": "Thu, 17 Sep 2026 12:00:00 +0000",
-      "ts": 1789646400
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "State hackers drive 420% surge in onchain malware, Chainalysis finds",
-      "link": "https://cointelegraph.com/news/onchain-malware-writes-surge-420-north-korea-iran-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 12:00:00 +0000",
       "ts": 1789646400
     },
