@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-17T21:46:55.380360+00:00",
+  "updated_utc": "2026-09-17T21:56:07.735807+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work",
+      "link": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work",
+      "published": "Thu, 17 Sep 2026 21:47:22 +0000",
+      "ts": 1789681642
+    },
     {
       "source": "CoinDesk",
       "title": "The Ondo Finance succession crisis gets messier as Kathleen Allman’s daughter alleges ‘dementia’, alcoholism and reckless spending",
@@ -186,13 +193,6 @@
       "ts": 1789652057
     },
     {
-      "source": "CoinDesk",
-      "title": "Ratings giant S&P Global acquires OpenZeppelin in tokenized finance risk push",
-      "link": "https://www.coindesk.com/business/2026/09/17/ratings-giant-s-and-p-global-acquires-openzeppelin-in-tokenized-finance-risk-push",
-      "published": "Thu, 17 Sep 2026 13:15:21 +0000",
-      "ts": 1789650921
-    },
-    {
       "source": "Investing Forex",
       "title": "Uganda shilling faces pressure as dollar demand rises",
       "link": "https://www.investing.com/news/forex-news/uganda-shilling-faces-pressure-as-dollar-demand-rises-93CH-4905645",
@@ -271,17 +271,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Charter Communications (CHTR): Cox Merger and Wireless Growth Signal Stronger Future Ahead",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/charter-communications-chtr-cox-merger-134918958.html",
-      "published": "2026-09-16T13:49:18Z",
-      "ts": 1789566558
+      "title": "Circle Unveils New Arc Blockchain",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/circle-unveils-arc-blockchain-135200065.html",
+      "published": "2026-09-16T13:52:00Z",
+      "ts": 1789566720
     },
     {
       "source": "Yahoo Finance",
-      "title": "Investor Fears of AI Disintermediation Weigh on Accenture (ACN) Stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investor-fears-ai-disintermediation-weigh-134808888.html",
-      "published": "2026-09-16T13:48:08Z",
-      "ts": 1789566488
+      "title": "Bitcoin ETFs See $450 Million In Outflows After Clarity Act Vote",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-see-450-million-135000092.html",
+      "published": "2026-09-16T13:50:00Z",
+      "ts": 1789566600
     }
   ]
 }
