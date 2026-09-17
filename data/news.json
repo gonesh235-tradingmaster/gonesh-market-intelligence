@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-17T11:11:48.708918+00:00",
+  "updated_utc": "2026-09-17T11:26:27.567984+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Optimism creeps back into crypto, with the 2022 test still to come",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/17/optimism-creeps-back-into-crypto-with-the-2022-test-still-to-come",
+      "published": "Thu, 17 Sep 2026 11:19:09 +0000",
+      "ts": 1789643949
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+      "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 11:15:00 GMT",
+      "ts": 1789643700
+    },
     {
       "source": "MarketWatch",
       "title": "Generac’s stock soars more than 30% after Amazon deal cements company’s status as an AI power player",
@@ -193,25 +207,11 @@
       "ts": 1789613528
     },
     {
-      "source": "MarketWatch",
-      "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
-      "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 23:51:00 GMT",
-      "ts": 1789602660
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin turns slightly higher as traders digest Clarity Act failure, Fed rate hike",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
       "published": "2026-09-16 21:54:07",
       "ts": 1789595647
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Revolut hackers demand $3 million in Monero, threaten to sell customer data",
-      "link": "https://www.coindesk.com/markets/2026/09/16/revolut-hackers-demand-usd3-million-in-monero-threaten-to-sell-customer-data",
-      "published": "Wed, 16 Sep 2026 19:07:34 +0000",
-      "ts": 1789585654
     },
     {
       "source": "Investing Forex",
