@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-16T23:52:15.048108+00:00",
+  "updated_utc": "2026-09-17T00:02:18.272793+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
+      "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 23:51:00 GMT",
+      "ts": 1789602660
+    },
     {
       "source": "MarketWatch",
       "title": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
@@ -44,13 +51,6 @@
       "link": "https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories",
       "published": "Wed, 16 Sep 2026 21:40:00 GMT",
       "ts": 1789594800
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
-      "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 20:53:00 GMT",
-      "ts": 1789591980
     },
     {
       "source": "MarketWatch",
