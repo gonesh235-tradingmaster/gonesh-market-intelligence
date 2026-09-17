@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-17T11:26:27.567984+00:00",
+  "updated_utc": "2026-09-17T11:39:52.313882+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "How can I get my employees to stop oversharing at work?",
+      "link": "https://www.marketwatch.com/story/how-can-i-get-my-employees-to-stop-oversharing-at-work-540ba78c?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 11:30:00 GMT",
+      "ts": 1789644600
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound falls as BoE holds rates, cautious minutes weigh",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-flat-as-dollar-rally-pauses-ahead-of-boe-4904969",
+      "published": "2026-09-17 11:20:53",
+      "ts": 1789644053
+    },
     {
       "source": "CoinDesk",
       "title": "Optimism creeps back into crypto, with the 2022 test still to come",
@@ -16,6 +30,13 @@
       "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
       "published": "Thu, 17 Sep 2026 11:15:00 GMT",
       "ts": 1789643700
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Zama Opens Confidential Access to DeFi’s Existing Yield Venues",
+      "link": "https://www.investing.com/news/cryptocurrency-news/zama-opens-confidential-access-to-defis-existing-yield-venues-4905281",
+      "published": "2026-09-17 11:00:34",
+      "ts": 1789642834
     },
     {
       "source": "MarketWatch",
@@ -117,13 +138,6 @@
     },
     {
       "source": "Investing Forex",
-      "title": "Sterling today: Pound flat as dollar rally pauses ahead of BoE decision",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-flat-as-dollar-rally-pauses-ahead-of-boe-4904969",
-      "published": "2026-09-17 08:13:47",
-      "ts": 1789632827
-    },
-    {
-      "source": "Investing Forex",
       "title": "U.S. 10-year Treasury yield dips in afterglow of Fed hike",
       "link": "https://www.investing.com/news/forex-news/us-10year-treasury-yield-eases-in-the-afterglow-of-fed-hike-4904832",
       "published": "2026-09-17 08:09:55",
@@ -156,13 +170,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
       "published": "2026-09-17 07:11:34",
       "ts": 1789629094
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘You are freed.’ What happened when an OpenAI model began secretly writing notes to itself.",
-      "link": "https://www.marketwatch.com/story/you-are-freed-what-happened-when-an-openai-model-began-secretly-writing-notes-to-itself-25808ea8?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 07:08:00 GMT",
-      "ts": 1789628880
     },
     {
       "source": "Cointelegraph",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/citi-sees-gbp-gains-as-shortlived-ahead-of-october-budget-risks-93CH-4903174",
       "published": "2026-09-16 09:07:19",
       "ts": 1789549639
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound slips as Fed hike bets and UK inflation uptick weigh",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-fed-hike-bets-and-uk-inflation-uptick-weigh-4903061",
-      "published": "2026-09-16 08:21:55",
-      "ts": 1789546915
     }
   ]
 }
