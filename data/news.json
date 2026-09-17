@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-17T15:07:46.310877+00:00",
+  "updated_utc": "2026-09-17T15:22:35.376706+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "My son has a potentially fatal genetic disease. What should I do with my $1.3 million estate?",
+      "link": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 15:15:00 GMT",
+      "ts": 1789658100
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Adaptive raises $30m in funding for agentic construction accounting",
+      "link": "https://finance.yahoo.com/small-business/articles/adaptive-raises-30m-funding-agentic-150902252.html",
+      "published": "2026-09-17T15:09:02Z",
+      "ts": 1789657742
+    },
+    {
+      "source": "CoinDesk",
+      "title": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs",
+      "link": "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
+      "published": "Thu, 17 Sep 2026 15:08:24 +0000",
+      "ts": 1789657704
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm",
@@ -12,10 +33,31 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Azets appoints new corporate finance partner in UK",
-      "link": "https://finance.yahoo.com/small-business/articles/azets-appoints-corporate-finance-partner-150020540.html",
-      "published": "2026-09-17T15:00:20Z",
-      "ts": 1789657220
+      "title": "Second-chance car loans: What they are and how to get one",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/second-chance-car-loans-one-210834465.html",
+      "published": "2026-09-17T15:02:40Z",
+      "ts": 1789657360
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Nasdaq Leads Charge After Fed Day; Nvidia, Amazon Rise (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-fed-reaction-generac-nebius-bloom-energy-spacex/?src=A00220&yptr=yahoo",
+      "published": "2026-09-17T15:00:55Z",
+      "ts": 1789657255
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "VinFast (VFS)-Backed Taxi Firm GSM Plots a US and European Push ahead of its Hong Kong IPO",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vinfast-vfs-backed-taxi-firm-150001467.html",
+      "published": "2026-09-17T15:00:01Z",
+      "ts": 1789657201
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Talen Energy (TLN) Gains as Regulatory Progress Enhances Data Center Framework",
+      "link": "https://finance.yahoo.com/energy/articles/talen-energy-tln-gains-regulatory-145925718.html",
+      "published": "2026-09-17T14:59:25Z",
+      "ts": 1789657165
     },
     {
       "source": "CoinDesk",
@@ -25,46 +67,25 @@
       "ts": 1789657031
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Ryanair (RYAAY) Slashes its Winter Flight Plans to Dodge a Costly Oil Spike",
+      "link": "https://finance.yahoo.com/energy/articles/ryanair-ryaay-slashes-winter-flight-145505604.html",
+      "published": "2026-09-17T14:55:05Z",
+      "ts": 1789656905
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Should I buy a new or used car? Here’s how to decide",
+      "link": "https://finance.yahoo.com/deals-and-buying-guides/articles/buy-used-car-181444914.html",
+      "published": "2026-09-17T14:53:52Z",
+      "ts": 1789656832
+    },
+    {
       "source": "CoinDesk",
       "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
       "link": "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
       "published": "Thu, 17 Sep 2026 14:50:58 +0000",
       "ts": 1789656658
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "What’s the average car loan length?",
-      "link": "https://finance.yahoo.com/markets/options/articles/long-car-loan-163621954.html",
-      "published": "2026-09-17T14:50:00Z",
-      "ts": 1789656600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Strong Execution Strengthens Macerich (MAC) in Q2",
-      "link": "https://finance.yahoo.com/real-estate/articles/strong-execution-strengthens-macerich-mac-144814109.html",
-      "published": "2026-09-17T14:48:14Z",
-      "ts": 1789656494
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Starbucks (SBUX) Wins Big in Court, but One Finding Still Sticks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/starbucks-sbux-wins-big-court-144721274.html",
-      "published": "2026-09-17T14:47:21Z",
-      "ts": 1789656441
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Boeing (BA)’s $8.4 Billion Supplier Buyback Keeps Turning Up New Costs",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-8-4-billion-144356015.html",
-      "published": "2026-09-17T14:43:56Z",
-      "ts": 1789656236
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Southwest (LUV) Finally Joins the Lounge Business it Long Rejected",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/southwest-luv-finally-joins-lounge-143820941.html",
-      "published": "2026-09-17T14:38:20Z",
-      "ts": 1789655900
     },
     {
       "source": "MarketWatch",
@@ -193,13 +214,6 @@
       "ts": 1789647300
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 12:15:00 GMT",
-      "ts": 1789647300
-    },
-    {
       "source": "Investing Forex",
       "title": "Global yields ease as Fed hike and BoE rate hold anchor debt bourses",
       "link": "https://www.investing.com/news/forex-news/us-10year-treasury-yield-eases-in-the-afterglow-of-fed-hike-4904832",
@@ -219,13 +233,6 @@
       "link": "https://cointelegraph.com/news/onchain-malware-writes-surge-420-north-korea-iran-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 12:00:00 +0000",
       "ts": 1789646400
-    },
-    {
-      "source": "CoinDesk",
-      "title": "How Circle’s institutional Arc blockchain got taken over by memecoins on day one",
-      "link": "https://www.coindesk.com/business/2026/09/17/circle-launched-a-corporate-l2-backed-by-blackrock-but-traders-immediately-turned-it-into-a-memecoin-casino",
-      "published": "Thu, 17 Sep 2026 11:42:22 +0000",
-      "ts": 1789645342
     },
     {
       "source": "Investing Forex",
@@ -254,13 +261,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
       "published": "2026-09-17 09:27:30",
       "ts": 1789637250
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate hike pacifies markets' inflation worries",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-17-dow-sp-500-nasdaq-081248626.html",
-      "published": "2026-09-17T08:12:48Z",
-      "ts": 1789632768
     },
     {
       "source": "Investing Crypto",
