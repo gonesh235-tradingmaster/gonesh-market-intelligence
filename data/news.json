@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-17T10:32:55.888301+00:00",
+  "updated_utc": "2026-09-17T10:47:08.566552+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Zcash jumps 17% as $345 million of liquidations hit crypto traders",
+      "link": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
+      "published": "Thu, 17 Sep 2026 10:41:15 +0000",
+      "ts": 1789641675
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto rallies through the Fed's first rate increase since 2023",
+      "link": "https://www.coindesk.com/markets/2026/09/17/crypto-rallies-through-the-fed-s-first-rate-increase-since-2023",
+      "published": "Thu, 17 Sep 2026 10:40:01 +0000",
+      "ts": 1789641601
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Zcash gains 20% as Paradigm founder reveals firm made ZEC investment",
+      "link": "https://cointelegraph.com/markets/zcash-zec-price-paradigm-investment-privacy-coins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 17 Sep 2026 10:35:29 +0000",
+      "ts": 1789641329
+    },
     {
       "source": "MarketWatch",
       "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
@@ -158,13 +179,6 @@
       "ts": 1789613528
     },
     {
-      "source": "Cointelegraph",
-      "title": "US lawmakers advance bill to lock Trump’s Bitcoin reserve into law",
-      "link": "https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 17 Sep 2026 00:23:44 +0000",
-      "ts": 1789604624
-    },
-    {
       "source": "MarketWatch",
       "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
       "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
@@ -212,20 +226,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
       "published": "2026-09-16 18:28:59",
       "ts": 1789583339
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Fed raises rates by 25 basis points in first hike since July 2023",
-      "link": "https://www.coindesk.com/markets/2026/09/16/fed-raises-rates-by-25-basis-points-in-first-hike-since-july-2023",
-      "published": "Wed, 16 Sep 2026 17:54:55 +0000",
-      "ts": 1789581295
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Celsius sues BitMEX for $495 million over 2020 crash liquidations",
-      "link": "https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations",
-      "published": "Wed, 16 Sep 2026 17:34:04 +0000",
-      "ts": 1789580044
     },
     {
       "source": "Investing Crypto",
