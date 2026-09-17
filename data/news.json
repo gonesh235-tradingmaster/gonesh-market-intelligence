@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-17T11:51:59.665139+00:00",
+  "updated_utc": "2026-09-17T12:01:29.663214+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Zcash miner Fortitude names former Hut 8 chief Jaime Leverton CEO ahead of Nasdaq deal",
+      "link": "https://www.coindesk.com/business/2026/09/17/zcash-miner-fortitude-names-former-hut-8-chief-jaime-leverton-ceo-ahead-of-nasdaq-deal",
+      "published": "Thu, 17 Sep 2026 12:00:00 +0000",
+      "ts": 1789646400
+    },
     {
       "source": "CoinDesk",
       "title": "How Circle’s institutional Arc blockchain got taken over by memecoins on day one",
@@ -198,13 +205,6 @@
       "link": "https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 05:49:06 +0000",
       "ts": 1789624146
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023",
-      "link": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
-      "published": "Thu, 17 Sep 2026 04:47:27 +0000",
-      "ts": 1789620447
     },
     {
       "source": "Cointelegraph",
