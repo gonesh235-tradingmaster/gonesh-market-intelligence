@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-17T21:11:49.498722+00:00",
+  "updated_utc": "2026-09-17T21:25:55.004355+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The bond market is seeing trouble. Why investors are buying now anyway.",
+      "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 21:22:00 GMT",
+      "ts": 1789680120
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+      "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 21:22:00 GMT",
+      "ts": 1789680120
+    },
     {
       "source": "MarketWatch",
       "title": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
@@ -74,13 +88,6 @@
       "ts": 1789672020
     },
     {
-      "source": "MarketWatch",
-      "title": "This is the only cybersecurity stock that can post big gains, according to one analyst",
-      "link": "https://www.marketwatch.com/story/this-is-the-only-cybersecurity-stock-that-can-post-big-gains-according-to-one-analyst-8ffe034f?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 18:46:00 GMT",
-      "ts": 1789670760
-    },
-    {
       "source": "CoinDesk",
       "title": "Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances",
       "link": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
@@ -93,13 +100,6 @@
       "link": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit",
       "published": "Thu, 17 Sep 2026 18:38:10 +0000",
       "ts": 1789670290
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Amazon’s secret weapon against Walmart could be a massive blitz in same-day delivery",
-      "link": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 17:42:00 GMT",
-      "ts": 1789666920
     },
     {
       "source": "Cointelegraph",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Meta's Zuckerberg, Nvidia's Huang Say An AI Slowdown Is Not Needed",
-      "link": "https://www.investors.com/news/technology/meta-stock-zuckerberg-ai-safety-nvidia-anthropic/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T13:22:23Z",
-      "ts": 1789564943
+      "title": "The Bull Case for Netflix’s (NFLX) New Growth Engine",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bull-case-netflix-nflx-growth-132531860.html",
+      "published": "2026-09-16T13:25:31Z",
+      "ts": 1789565131
     }
   ]
 }
