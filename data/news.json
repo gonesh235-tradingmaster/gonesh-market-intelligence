@@ -1,28 +1,35 @@
 {
-  "updated_utc": "2026-09-17T17:32:27.818565+00:00",
+  "updated_utc": "2026-09-17T17:45:32.024391+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
       "source": "Yahoo Finance",
-      "title": "Stock Market Today: Nasdaq Dwarfs Dow's Gain; This AI Chip Leader Breaks Out To All-Time High (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-fed-reaction-generac-nebius-bloom-energy-spacex/?src=A00220&yptr=yahoo",
-      "published": "2026-09-17T17:17:27Z",
-      "ts": 1789665447
+      "title": "AMD Jumps 7% as Semiconductor Rebound Reaches a Third Session; Broadcom Rises 3%, NVIDIA Edges Higher",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-jumps-7-semiconductor-rebound-173707172.html",
+      "published": "2026-09-17T17:37:07Z",
+      "ts": 1789666627
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "WisdomTree, MoonPay team up to expand US access to tokenized money market fund",
+      "link": "https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 17 Sep 2026 17:31:12 +0000",
+      "ts": 1789666272
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Oracle Stock Jumped 6% Today on OpenAI Funding Buzz",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-oracle-stock-jumped-6-171651571.html",
-      "published": "2026-09-17T17:16:51Z",
-      "ts": 1789665411
+      "title": "How does the Fed interest rate affect car loans?",
+      "link": "https://finance.yahoo.com/news/fed-affects-auto-loan-rates-190622401.html",
+      "published": "2026-09-17T17:20:50Z",
+      "ts": 1789665650
     },
     {
-      "source": "MarketWatch",
-      "title": "Why growth stocks’ surprising strength may be warning of a market bubble",
-      "link": "https://www.marketwatch.com/story/why-growth-stocks-surprising-strength-may-be-warning-of-a-market-bubble-5288a7dc?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 17:16:00 GMT",
-      "ts": 1789665360
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Nasdaq Dwarfs Dow's Gain; This AI Chip Leader Breaks Out To All-Time High (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-fed-reaction-generac-nebius-bloom-energy-spacex/?src=A00220&yptr=yahoo",
+      "published": "2026-09-17T17:17:07Z",
+      "ts": 1789665427
     },
     {
       "source": "Yahoo Finance",
@@ -67,41 +74,6 @@
       "ts": 1789660713
     },
     {
-      "source": "MarketWatch",
-      "title": "Book your Thanksgiving and Christmas travel now — or risk getting priced out of flying home for the holidays",
-      "link": "https://www.marketwatch.com/story/the-best-time-to-book-your-flight-home-for-the-holidays-yesterday-6f5928f2?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 15:49:00 GMT",
-      "ts": 1789660140
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Like Costco, Walmart will sell Medicare Advantage plans",
-      "link": "https://www.marketwatch.com/story/like-costco-walmart-to-sell-medicare-advantage-plans-b31977d2?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 15:24:00 GMT",
-      "ts": 1789658640
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
-      "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 15:22:00 GMT",
-      "ts": 1789658520
-    },
-    {
-      "source": "MarketWatch",
-      "title": "More Americans are about to get scammed by the coming peptide rush",
-      "link": "https://www.marketwatch.com/story/more-americans-are-about-to-get-scammed-by-the-coming-peptide-rush-c835bc3d?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 15:20:00 GMT",
-      "ts": 1789658400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My son has a potentially fatal genetic disease. What should I do with my $1.3 million estate?",
-      "link": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 15:15:00 GMT",
-      "ts": 1789658100
-    },
-    {
       "source": "CoinDesk",
       "title": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs",
       "link": "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
@@ -128,20 +100,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
       "published": "Thu, 17 Sep 2026 14:50:58 +0000",
       "ts": 1789656658
-    },
-    {
-      "source": "MarketWatch",
-      "title": "More home builders cut prices as buyers get spooked",
-      "link": "https://www.marketwatch.com/story/more-home-builders-cut-prices-as-buyers-get-spooked-4cd4b4ec?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 14:37:00 GMT",
-      "ts": 1789655820
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The smartest money moves to make now that interest rates are going up",
-      "link": "https://www.marketwatch.com/story/the-smartest-money-moves-to-make-with-interest-rates-expected-to-go-higher-aefe375b?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 14:04:00 GMT",
-      "ts": 1789653840
     },
     {
       "source": "Investing Crypto",
@@ -193,13 +151,6 @@
       "ts": 1789650000
     },
     {
-      "source": "Cointelegraph",
-      "title": "S&P Global to acquire blockchain security platform OpenZeppelin",
-      "link": "https://cointelegraph.com/news/sp-global-openzeppelin-acquisition-blockchain-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 17 Sep 2026 12:56:23 +0000",
-      "ts": 1789649783
-    },
-    {
       "source": "CoinDesk",
       "title": "Ethereum’s upcoming Glamsterdam upgrade clears rehearsal for a big jump in capacity",
       "link": "https://www.coindesk.com/tech/2026/09/17/ethereum-s-upcoming-glamsterdam-upgrade-clears-rehearsal-for-a-big-jump-in-capacity",
@@ -242,18 +193,18 @@
       "ts": 1789642834
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Mortgage rates fell slightly after the Fed hiked rates: Mortgage and refinance interest rates today, Thursday, September 17, 2026",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-fell-slightly-after-the-fed-hiked-rates-mortgage-and-refinance-interest-rates-today-thursday-september-17-2026-100000901.html",
+      "published": "2026-09-17T10:00:00Z",
+      "ts": 1789639200
+    },
+    {
       "source": "Investing Forex",
       "title": "Yen rise as markets price BOJ rate hike  while dollar pauses post-Fed",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
       "published": "2026-09-17 09:27:30",
       "ts": 1789637250
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as oil slips, Fed rate hike pacifies markets' inflation worries",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-17-dow-sp-500-nasdaq-oil-fed-081248626.html",
-      "published": "2026-09-17T08:12:48Z",
-      "ts": 1789632768
     },
     {
       "source": "Investing Crypto",
@@ -282,6 +233,55 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
       "published": "2026-09-16 18:28:59",
       "ts": 1789583339
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Phoenix Enables SOL as Collateral for Perpetual Futures Trading",
+      "link": "https://www.investing.com/news/cryptocurrency-news/phoenix-enables-sol-as-collateral-for-perpetual-futures-trading-4904222",
+      "published": "2026-09-16 17:30:36",
+      "ts": 1789579836
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Mysterious trader moves $122 million ahead of Fed's 2 p.m. decision",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html",
+      "published": "2026-09-16T16:47:40Z",
+      "ts": 1789577260
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "SEC chief vows action on crypto rules after Senate bill fails",
+      "link": "https://www.investing.com/news/cryptocurrency-news/sec-chief-vows-action-on-crypto-rules-after-senate-bill-fails-93CH-4904160",
+      "published": "2026-09-16 16:20:11",
+      "ts": 1789575611
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Coinbase cuts trading fees for active users on Advanced platform",
+      "link": "https://www.investing.com/news/cryptocurrency-news/coinbase-cuts-trading-fees-for-active-users-on-advanced-platform-432SI-4904040",
+      "published": "2026-09-16 14:56:02",
+      "ts": 1789570562
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "XRP price outlook after token drops 10% on failed Clarity Act vote",
+      "link": "https://www.investing.com/news/cryptocurrency-news/xrp-price-outlook-after-token-drops-10-on-failed-clarity-act-vote-93CH-4903927",
+      "published": "2026-09-16 13:44:48",
+      "ts": 1789566288
+    },
+    {
+      "source": "Investing Forex",
+      "title": "UBS sees EUR/CHF retest of 0.96 as Swiss franc lags on low yield",
+      "link": "https://www.investing.com/news/forex-news/ubs-sees-eurchf-retest-of-096-as-swiss-franc-lags-on-low-yield-93CH-4903208",
+      "published": "2026-09-16 09:24:27",
+      "ts": 1789550667
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Citi sees GBP gains as short-lived ahead of October budget risks",
+      "link": "https://www.investing.com/news/forex-news/citi-sees-gbp-gains-as-shortlived-ahead-of-october-budget-risks-93CH-4903174",
+      "published": "2026-09-16 09:07:19",
+      "ts": 1789549639
     }
   ]
 }
