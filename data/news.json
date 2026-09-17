@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-17T10:57:07.847893+00:00",
+  "updated_utc": "2026-09-17T11:11:48.708918+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Generac’s stock soars more than 30% after Amazon deal cements company’s status as an AI power player",
+      "link": "https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 10:55:00 GMT",
+      "ts": 1789642500
+    },
+    {
+      "source": "MarketWatch",
+      "title": "It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
+      "link": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 10:52:00 GMT",
+      "ts": 1789642320
+    },
     {
       "source": "CoinDesk",
       "title": "Live updates: Zcash jumps 17% as $345 million of liquidations hit crypto traders",
@@ -25,11 +39,25 @@
       "ts": 1789641329
     },
     {
+      "source": "MarketWatch",
+      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 10:15:00 GMT",
+      "ts": 1789640100
+    },
+    {
       "source": "Cointelegraph",
       "title": "Revolut says no direct contact after $3 million public ransom demand",
       "link": "https://cointelegraph.com/news/revolut-data-breach-monero-ransom-no-direct-contact?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 09:57:51 +0000",
       "ts": 1789639071
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why stocks can still advance after a Fed hike, according to a Wall Street strategist",
+      "link": "https://www.marketwatch.com/story/why-the-s-p-500-could-still-advance-after-a-fed-hike-according-to-a-wall-street-strategist-d357b4f2?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 09:54:00 GMT",
+      "ts": 1789638840
     },
     {
       "source": "Cointelegraph",
@@ -51,6 +79,13 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
       "published": "2026-09-17 09:27:30",
       "ts": 1789637250
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 09:15:00 GMT",
+      "ts": 1789636500
     },
     {
       "source": "Cointelegraph",
@@ -75,7 +110,7 @@
     },
     {
       "source": "Investing Forex",
-      "title": "U.S. 10-year Treasury yield eases in the afterglow of Fed hike",
+      "title": "U.S. 10-year Treasury yield dips in afterglow of Fed hike",
       "link": "https://www.investing.com/news/forex-news/us-10year-treasury-yield-eases-in-the-afterglow-of-fed-hike-4904832",
       "published": "2026-09-17 08:09:55",
       "ts": 1789632595
@@ -86,6 +121,13 @@
       "link": "https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit",
       "published": "Thu, 17 Sep 2026 07:54:33 +0000",
       "ts": 1789631673
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Tom Lee says the ‘face-ripping’ rally he predicted is merely delayed",
+      "link": "https://www.marketwatch.com/story/tom-lee-says-the-face-ripping-rally-he-predicted-is-merely-delayed-16933e30?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 07:50:00 GMT",
+      "ts": 1789631400
     },
     {
       "source": "CoinDesk",
@@ -100,6 +142,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
       "published": "2026-09-17 07:11:34",
       "ts": 1789629094
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘You are freed.’ What happened when an OpenAI model began secretly writing notes to itself.",
+      "link": "https://www.marketwatch.com/story/you-are-freed-what-happened-when-an-openai-model-began-secretly-writing-notes-to-itself-25808ea8?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 07:08:00 GMT",
+      "ts": 1789628880
     },
     {
       "source": "Cointelegraph",
@@ -142,6 +191,13 @@
       "link": "https://cointelegraph.com/markets/bitcoin-absorbs-fed-rate-hike-as-officials-see-more-tightening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 02:52:08 +0000",
       "ts": 1789613528
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
+      "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+      "published": "Wed, 16 Sep 2026 23:51:00 GMT",
+      "ts": 1789602660
     },
     {
       "source": "Investing Crypto",
@@ -226,62 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-fed-hike-bets-and-uk-inflation-uptick-weigh-4903061",
       "published": "2026-09-16 08:21:55",
       "ts": 1789546915
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "BASIS.pro Expands On-Chain Infrastructure with XDC Network Partnership and Zypher DAO as Auto Earn Goes Live",
-      "link": "https://www.investing.com/news/cryptocurrency-news/basispro-expands-onchain-infrastructure-with-xdc-network-partnership-and-zypher-dao-as-auto-earn-goes-live-4903004",
-      "published": "2026-09-16 07:30:36",
-      "ts": 1789543836
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "This High-Yield Construction Stock Just Raised Its Dividend by 40%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/high-yield-construction-stock-just-233002433.html",
-      "published": "2026-09-15T23:30:02Z",
-      "ts": 1789515002
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The Grid’s Wasted-Power Problem Has a Sector-Coupling Fix",
-      "link": "https://finance.yahoo.com/energy/articles/grid-wasted-power-problem-sector-230208698.html",
-      "published": "2026-09-15T23:02:08Z",
-      "ts": 1789513328
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Berkshire Hathaway's Class A Shares Cost About $766,000. Here's Why the Class B Shares Exist.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaways-class-shares-cost-225000317.html",
-      "published": "2026-09-15T22:50:00Z",
-      "ts": 1789512600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Americans’ Median Household Income Hit a Record High in 2025",
-      "link": "https://finance.yahoo.com/economy/articles/americans-median-household-income-hit-224629115.html",
-      "published": "2026-09-15T22:46:29Z",
-      "ts": 1789512389
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Can you have two of the same credit card?",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/can-you-have-two-of-the-same-credit-card-175008954.html",
-      "published": "2026-09-15T17:50:08Z",
-      "ts": 1789494608
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "What time is this week's Fed meeting?",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/what-time-is-this-weeks-fed-meeting-120032072.html",
-      "published": "2025-05-05T12:00:32Z",
-      "ts": 1746446432
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Frozen bank account? How it happens and what to do next.",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/frozen-bank-account-185128708.html",
-      "published": "2024-09-25T18:51:28Z",
-      "ts": 1727290288
     }
   ]
 }
