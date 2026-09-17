@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-17T09:51:41.324220+00:00",
+  "updated_utc": "2026-09-17T10:00:45.546091+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Why stocks can still advance after a Fed hike, according to a Wall Street strategist",
+      "link": "https://www.marketwatch.com/story/why-the-s-p-500-could-still-advance-after-a-fed-hike-according-to-a-wall-street-strategist-d357b4f2?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 09:54:00 GMT",
+      "ts": 1789638840
+    },
     {
       "source": "Cointelegraph",
       "title": "Polymarket users referred to prosecutors in South Korea: Report",
@@ -11,18 +18,18 @@
       "ts": 1789637852
     },
     {
+      "source": "Investing Crypto",
+      "title": "Bitcoin rangebound at $76.7k as markets digest Fed rate hike, M.East tensions",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
+      "published": "2026-09-17 09:30:31",
+      "ts": 1789637431
+    },
+    {
       "source": "Investing Forex",
       "title": "Yen rise as markets price BOJ rate hike  while dollar pauses post-Fed",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
       "published": "2026-09-17 09:27:30",
       "ts": 1789637250
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why the S&P 500 could still advance after a Fed hike, according to a Wall Street strategist",
-      "link": "https://www.marketwatch.com/story/why-the-s-p-500-could-still-advance-after-a-fed-hike-according-to-a-wall-street-strategist-d357b4f2?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 09:16:00 GMT",
-      "ts": 1789636560
     },
     {
       "source": "MarketWatch",
@@ -93,13 +100,6 @@
       "link": "https://www.marketwatch.com/story/you-are-freed-what-happened-when-an-openai-model-began-secretly-writing-notes-to-itself-25808ea8?mod=mw_rss_topstories",
       "published": "Thu, 17 Sep 2026 07:08:00 GMT",
       "ts": 1789628880
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin steady at $76.5k as markets digest Fed rate hike, M.East tensions",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
-      "published": "2026-09-17 07:01:04",
-      "ts": 1789628464
     },
     {
       "source": "Cointelegraph",
