@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-17T01:27:58.159056+00:00",
+  "updated_utc": "2026-09-17T01:41:41.482493+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -11,41 +11,6 @@
       "ts": 1789604624
     },
     {
-      "source": "MarketWatch",
-      "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
-      "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 23:51:00 GMT",
-      "ts": 1789602660
-    },
-    {
-      "source": "MarketWatch",
-      "title": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
-      "link": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 22:25:00 GMT",
-      "ts": 1789597500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-      "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 22:16:00 GMT",
-      "ts": 1789596960
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 22:15:00 GMT",
-      "ts": 1789596900
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Generac’s stock soars more than 30% after Amazon deal cements company’s status as an AI power player",
-      "link": "https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 21:56:00 GMT",
-      "ts": 1789595760
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin turns slightly higher as traders digest Clarity Act failure, Fed rate hike",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
@@ -53,32 +18,11 @@
       "ts": 1789595647
     },
     {
-      "source": "MarketWatch",
-      "title": "Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds.",
-      "link": "https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 21:40:00 GMT",
-      "ts": 1789594800
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why optical stocks Lumentum and Coherent were the day’s biggest S&P 500 gainers",
-      "link": "https://www.marketwatch.com/story/why-optical-stocks-lumentum-and-coherent-were-the-days-biggest-gainers-051af440?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 20:52:00 GMT",
-      "ts": 1789591920
-    },
-    {
       "source": "Cointelegraph",
       "title": "CLARITY Act could get another shot during lame-duck session, policy advocate says",
       "link": "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 20:51:38 +0000",
       "ts": 1789591898
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Here’s a sneaky way to play the Fed’s rate increase",
-      "link": "https://www.marketwatch.com/story/heres-a-sneaky-way-to-play-the-feds-rate-increase-6deb072f?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 20:38:00 GMT",
-      "ts": 1789591080
     },
     {
       "source": "Cointelegraph",
@@ -282,6 +226,62 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-slip-as-yen-pulls-back-fed-and-boj-decisions-loom-4900791",
       "published": "2026-09-15 20:38:48",
       "ts": 1789504728
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Rich Dad Poor Dad author warns biggest crash in history has started",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rich-dad-poor-dad-author-172603940.html",
+      "published": "2026-09-15T17:26:03Z",
+      "ts": 1789493163
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Inside Broyhill’s Bearish Exit of Accenture (ACN)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/inside-broyhill-bearish-exit-accenture-140414781.html",
+      "published": "2026-09-15T14:04:14Z",
+      "ts": 1789481054
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why Wall Street Could Be Pricing This GE Stock Option Spread Incorrectly",
+      "link": "https://finance.yahoo.com/markets/options/articles/why-wall-street-could-pricing-140322126.html",
+      "published": "2026-09-15T14:03:22Z",
+      "ts": 1789481002
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why 1 Analyst Is Betting That DELL Stock Can Gain At Least Another 20% From Here",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-1-analyst-betting-dell-140003788.html",
+      "published": "2026-09-15T14:00:03Z",
+      "ts": 1789480803
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Malone Lam, 22, pleads guilty to stealing $245 million in crypto through a Google impersonation scheme",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/malone-lam-22-pleads-guilty-140000273.html",
+      "published": "2026-09-15T14:00:00Z",
+      "ts": 1789480800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "A Strong Rebound Case of IQVIA Holdings (IQV)",
+      "link": "https://finance.yahoo.com/healthcare/articles/strong-rebound-case-iqvia-holdings-135751415.html",
+      "published": "2026-09-15T13:57:51Z",
+      "ts": 1789480671
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How a Costco partner's bankruptcy could benefit its biggest rival",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/costco-partners-bankruptcy-could-benefit-133300901.html",
+      "published": "2026-09-15T13:33:00Z",
+      "ts": 1789479180
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Loonie slips as oil surge fuels rate worries ahead of Fed decision",
+      "link": "https://www.investing.com/news/forex-news/loonie-slips-as-oil-surge-fuels-rate-worries-ahead-of-fed-decision-4901710",
+      "published": "2026-09-15 12:40:11",
+      "ts": 1789476011
     }
   ]
 }
