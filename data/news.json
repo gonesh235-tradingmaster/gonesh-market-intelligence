@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-17T06:57:55.957968+00:00",
+  "updated_utc": "2026-09-17T07:15:48.587988+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin steady at $76.5k as markets digest Fed rate hike, M.East tensions",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
+      "published": "2026-09-17 07:01:04",
+      "ts": 1789628464
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -60,41 +67,6 @@
       "ts": 1789604624
     },
     {
-      "source": "MarketWatch",
-      "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
-      "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 23:51:00 GMT",
-      "ts": 1789602660
-    },
-    {
-      "source": "MarketWatch",
-      "title": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
-      "link": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 22:25:00 GMT",
-      "ts": 1789597500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-      "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 22:16:00 GMT",
-      "ts": 1789596960
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 22:15:00 GMT",
-      "ts": 1789596900
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Generac’s stock soars more than 30% after Amazon deal cements company’s status as an AI power player",
-      "link": "https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 21:56:00 GMT",
-      "ts": 1789595760
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin turns slightly higher as traders digest Clarity Act failure, Fed rate hike",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
@@ -102,32 +74,11 @@
       "ts": 1789595647
     },
     {
-      "source": "MarketWatch",
-      "title": "Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds.",
-      "link": "https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 21:40:00 GMT",
-      "ts": 1789594800
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why optical stocks Lumentum and Coherent were the day’s biggest S&P 500 gainers",
-      "link": "https://www.marketwatch.com/story/why-optical-stocks-lumentum-and-coherent-were-the-days-biggest-gainers-051af440?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 20:52:00 GMT",
-      "ts": 1789591920
-    },
-    {
       "source": "Cointelegraph",
       "title": "CLARITY Act could get another shot during lame-duck session, policy advocate says",
       "link": "https://cointelegraph.com/news/clarity-act-could-get-another-shot-during-lame-duck-session-policy-advocate-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 20:51:38 +0000",
       "ts": 1789591898
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Here’s a sneaky way to play the Fed’s rate increase",
-      "link": "https://www.marketwatch.com/story/heres-a-sneaky-way-to-play-the-feds-rate-increase-6deb072f?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 20:38:00 GMT",
-      "ts": 1789591080
     },
     {
       "source": "Cointelegraph",
@@ -277,11 +228,60 @@
       "ts": 1789543836
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin adds to losses, falls nearly 4% after Clarity Act fails Senate vote",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
-      "published": "2026-09-15 21:49:19",
-      "ts": 1789508959
+      "source": "Investing Forex",
+      "title": "Dollar hits two-week high as traders gear up for anticipated Fed hike on Wednesday",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-slip-as-yen-pulls-back-fed-and-boj-decisions-loom-4900791",
+      "published": "2026-09-15 20:38:48",
+      "ts": 1789504728
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dear Intuit Stock Fans, Mark Your Calendars for September 17",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dear-intuit-stock-fans-mark-192340305.html",
+      "published": "2026-09-15T19:23:40Z",
+      "ts": 1789500220
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Says “Target’s Doing Better than Walmart Right Now”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-target-doing-192102989.html",
+      "published": "2026-09-15T19:21:02Z",
+      "ts": 1789500062
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "This Utility ETF Says the AI Trade Is Over",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/utility-etf-says-ai-trade-191906797.html",
+      "published": "2026-09-15T19:19:06Z",
+      "ts": 1789499946
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "DEUTZ’s Growth Spree Comes With a Dilution Bill",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/deutz-growth-spree-comes-dilution-191755723.html",
+      "published": "2026-09-15T19:17:55Z",
+      "ts": 1789499875
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Crude Prices Surge on Global Supply Risks",
+      "link": "https://finance.yahoo.com/energy/articles/crude-prices-surge-global-supply-191609324.html",
+      "published": "2026-09-15T19:16:09Z",
+      "ts": 1789499769
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The Outlook for Stronger Demand Lifts Nat-Gas Prices",
+      "link": "https://finance.yahoo.com/energy/articles/outlook-stronger-demand-lifts-nat-191457136.html",
+      "published": "2026-09-15T19:14:57Z",
+      "ts": 1789499697
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why investors are cheering this defense stock's space pivot",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-investors-cheering-defense-stocks-191300798.html",
+      "published": "2026-09-15T19:13:00Z",
+      "ts": 1789499580
     }
   ]
 }
