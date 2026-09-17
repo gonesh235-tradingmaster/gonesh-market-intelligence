@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-17T14:41:20.716152+00:00",
+  "updated_utc": "2026-09-17T14:53:54.340035+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
+      "link": "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
+      "published": "Thu, 17 Sep 2026 14:50:58 +0000",
+      "ts": 1789656658
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why Newmont Stock Just Popped",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-newmont-stock-just-popped-144223956.html",
+      "published": "2026-09-17T14:42:23Z",
+      "ts": 1789656143
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Southwest (LUV) Finally Joins the Lounge Business it Long Rejected",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/southwest-luv-finally-joins-lounge-143820941.html",
+      "published": "2026-09-17T14:38:20Z",
+      "ts": 1789655900
+    },
     {
       "source": "MarketWatch",
       "title": "More home builders cut prices as buyers get spooked",
@@ -12,38 +33,31 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "What to Watch: HQDG",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/watch-hqdg-142026539.html",
-      "published": "2026-09-17T14:20:26Z",
-      "ts": 1789654826
+      "title": "Medtronic (MDT) Raises its Outlook Again as Heart Device Demand Keeps Climbing",
+      "link": "https://finance.yahoo.com/healthcare/articles/medtronic-mdt-raises-outlook-again-143459144.html",
+      "published": "2026-09-17T14:34:59Z",
+      "ts": 1789655699
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stock Market Today: Nasdaq Charges Higher On Amazon Deal; This Home Builder Misses Views (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-fed-reaction-generac-nebius-bloom-energy-spacex/?src=A00220&yptr=yahoo",
-      "published": "2026-09-17T14:20:04Z",
-      "ts": 1789654804
+      "title": "How to save on auto loans as the federal funds rate changes",
+      "link": "https://finance.yahoo.com/news/save-auto-loans-federal-funds-220313700.html",
+      "published": "2026-09-17T14:33:54Z",
+      "ts": 1789655634
     },
     {
       "source": "Yahoo Finance",
-      "title": "Home contract signings drop 4.7% from last year amid higher mortgage rates",
-      "link": "https://finance.yahoo.com/real-estate/article/home-contract-signings-drop-47-from-last-year-amid-higher-mortgage-rates-141613199.html",
-      "published": "2026-09-17T14:16:13Z",
-      "ts": 1789654573
+      "title": "Here’s Why Why Baron Capital Bought Alexandria (ARE)",
+      "link": "https://finance.yahoo.com/real-estate/articles/why-why-baron-capital-bought-143155988.html",
+      "published": "2026-09-17T14:31:55Z",
+      "ts": 1789655515
     },
     {
       "source": "Yahoo Finance",
-      "title": "Can you use a personal loan to buy a car?",
-      "link": "https://finance.yahoo.com/markets/options/articles/personal-loan-buy-car-024352858.html",
-      "published": "2026-09-17T14:13:52Z",
-      "ts": 1789654432
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Renewed Industry Competition Sparks T-Mobile US’s (TMUS) Sell-Off",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/renewed-industry-competition-sparks-t-140751845.html",
-      "published": "2026-09-17T14:07:51Z",
-      "ts": 1789654071
+      "title": "OpenAI Fires Back at Apple (AAPL)",
+      "link": "https://finance.yahoo.com/technology/ai/articles/openai-fires-back-apple-aapl-142906076.html",
+      "published": "2026-09-17T14:29:06Z",
+      "ts": 1789655346
     },
     {
       "source": "MarketWatch",
@@ -228,13 +242,6 @@
       "ts": 1789641675
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto rallies through the Fed's first rate increase since 2023",
-      "link": "https://www.coindesk.com/markets/2026/09/17/crypto-rallies-through-the-fed-s-first-rate-increase-since-2023",
-      "published": "Thu, 17 Sep 2026 10:40:01 +0000",
-      "ts": 1789641601
-    },
-    {
       "source": "Cointelegraph",
       "title": "Zcash gains 20% as Paradigm founder reveals firm made ZEC investment",
       "link": "https://cointelegraph.com/markets/zcash-zec-price-paradigm-investment-privacy-coins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/loonie-weakens-after-fed-hike-as-dollar-gains-on-hawkish-outlook-4904309",
       "published": "2026-09-16 18:46:08",
       "ts": 1789584368
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar gains after Fed raises interest rates",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
-      "published": "2026-09-16 18:28:59",
-      "ts": 1789583339
     }
   ]
 }
