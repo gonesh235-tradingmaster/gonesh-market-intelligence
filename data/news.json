@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-17T04:56:06.913335+00:00",
+  "updated_utc": "2026-09-17T05:09:45.251943+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar holds seven-week high, yen steadies",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
+      "published": "2026-09-17 05:02:32",
+      "ts": 1789621352
+    },
     {
       "source": "CoinDesk",
       "title": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-774k-with-focus-on-clarity-vote-fed-meeting-4900866",
       "published": "2026-09-15 21:49:19",
       "ts": 1789508959
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar hits two-week high as traders gear up for anticipated Fed hike on Wednesday",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-slip-as-yen-pulls-back-fed-and-boj-decisions-loom-4900791",
-      "published": "2026-09-15 20:38:48",
-      "ts": 1789504728
     }
   ]
 }
