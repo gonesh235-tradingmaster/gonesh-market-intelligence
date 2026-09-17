@@ -1,12 +1,96 @@
 {
-  "updated_utc": "2026-09-17T12:01:29.663214+00:00",
+  "updated_utc": "2026-09-17T12:24:30.725414+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
+      "source": "MarketWatch",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 12:15:00 GMT",
+      "ts": 1789647300
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 12:15:00 GMT",
+      "ts": 1789647300
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Fund Capitalizes on Axon Enterprise (AXON) in AI-Related Selloff",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fund-capitalizes-axon-enterprise-axon-121322313.html",
+      "published": "2026-09-17T12:13:22Z",
+      "ts": 1789647202
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Bitcoin could be headed for $230,000 in less than a decade. Here are seven ways to value the crypto.",
+      "link": "https://www.marketwatch.com/story/bitcoin-could-be-headed-for-230-000-in-less-than-a-decade-here-are-seven-ways-to-value-the-crypto-d1110aab?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 12:10:00 GMT",
+      "ts": 1789647000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures Rise After Hawkish Fed, Warsh Hit Stocks, Trump Fumes; AMD, Bloom Energy Eye Buy Points",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-fed-rate-hike-warsh-amd-bloom-energy-stocks-to-watch/?src=A00220&yptr=yahoo",
+      "published": "2026-09-17T12:08:58Z",
+      "ts": 1789646938
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Rises In Fed Aftermath; Generac, Nebius, Bloom, SpaceX Are Early Movers (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-fed-reaction-generac-nebius-bloom-energy-spacex/?src=A00220&yptr=yahoo",
+      "published": "2026-09-17T12:08:50Z",
+      "ts": 1789646930
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nebius Stock Jumps On Cloud Computing Price Hikes",
+      "link": "https://www.investors.com/news/technology/nebius-stock-jumps-cloud-computing-price-hikes-nvidia-gpu/?src=A00220&yptr=yahoo",
+      "published": "2026-09-17T12:07:32Z",
+      "ts": 1789646852
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Global yields ease as Fed hike and BoE rate hold anchor debt bourses",
+      "link": "https://www.investing.com/news/forex-news/us-10year-treasury-yield-eases-in-the-afterglow-of-fed-hike-4904832",
+      "published": "2026-09-17 12:07:30",
+      "ts": 1789646850
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The Hidden Tax Reporting Trap That Could Cost Your Restaurant Thousands",
+      "link": "https://finance.yahoo.com/small-business/articles/hidden-tax-reporting-trap-could-120457278.html",
+      "published": "2026-09-17T12:04:57Z",
+      "ts": 1789646697
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Breakout Watch: Savvy Investors Get Wired Up For This Nvidia, Amazon Partner",
+      "link": "https://www.investors.com/research/ibd-stock-analysis/f5-stock-near-breakout-as-top-funds-buy-into-nvidia-amazon-partner/?src=A00220&yptr=yahoo",
+      "published": "2026-09-17T12:00:45Z",
+      "ts": 1789646445
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How To Protect Yourself From The Looming AI-Stock Crash",
+      "link": "https://www.investors.com/etfs-and-funds/etfs/ai-stock-crash-how-to-protect-yourself-from-the-looming/?src=A00220&yptr=yahoo",
+      "published": "2026-09-17T12:00:43Z",
+      "ts": 1789646443
+    },
+    {
       "source": "CoinDesk",
       "title": "Zcash miner Fortitude names former Hut 8 chief Jaime Leverton CEO ahead of Nasdaq deal",
       "link": "https://www.coindesk.com/business/2026/09/17/zcash-miner-fortitude-names-former-hut-8-chief-jaime-leverton-ceo-ahead-of-nasdaq-deal",
+      "published": "Thu, 17 Sep 2026 12:00:00 +0000",
+      "ts": 1789646400
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "State hackers drive 420% surge in onchain malware, Chainalysis finds",
+      "link": "https://cointelegraph.com/news/onchain-malware-writes-surge-420-north-korea-iran-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 12:00:00 +0000",
       "ts": 1789646400
     },
@@ -75,7 +159,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin flat near $76,000 as stocks set for sharply higher open",
+      "title": "Live updates: Bitcoin rises as oil sinks on report of China intervention on Iran",
       "link": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
       "published": "Thu, 17 Sep 2026 10:41:15 +0000",
       "ts": 1789641675
@@ -95,25 +179,11 @@
       "ts": 1789641329
     },
     {
-      "source": "MarketWatch",
-      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 10:15:00 GMT",
-      "ts": 1789640100
-    },
-    {
       "source": "Cointelegraph",
-      "title": "Revolut says no direct contact after $3 million public ransom demand",
+      "title": "Revolut says no direct contact from hackers after $3M public ransom demand",
       "link": "https://cointelegraph.com/news/revolut-data-breach-monero-ransom-no-direct-contact?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 09:57:51 +0000",
       "ts": 1789639071
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why stocks can still advance after a Fed hike, according to a Wall Street strategist",
-      "link": "https://www.marketwatch.com/story/why-the-s-p-500-could-still-advance-after-a-fed-hike-according-to-a-wall-street-strategist-d357b4f2?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 09:54:00 GMT",
-      "ts": 1789638840
     },
     {
       "source": "Cointelegraph",
@@ -137,13 +207,6 @@
       "ts": 1789637250
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 09:15:00 GMT",
-      "ts": 1789636500
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bitcoin treasuries buy just 5.9K BTC in three months as paper losses linger",
       "link": "https://cointelegraph.com/markets/bitcoin-treasuries-buy-just-59k-btc-in-three-months-as-paper-losses-linger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -156,13 +219,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/17/bitcoin-faces-2022-parallels-as-federal-reserve-resumes-rate-hikes",
       "published": "Thu, 17 Sep 2026 08:41:48 +0000",
       "ts": 1789634508
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. 10-year Treasury yield dips in afterglow of Fed hike",
-      "link": "https://www.investing.com/news/forex-news/us-10year-treasury-yield-eases-in-the-afterglow-of-fed-hike-4904832",
-      "published": "2026-09-17 08:09:55",
-      "ts": 1789632595
     },
     {
       "source": "CoinDesk",
@@ -207,13 +263,6 @@
       "ts": 1789624146
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin absorbs Fed rate hike as officials see more tightening",
-      "link": "https://cointelegraph.com/markets/bitcoin-absorbs-fed-rate-hike-as-officials-see-more-tightening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 17 Sep 2026 02:52:08 +0000",
-      "ts": 1789613528
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin turns slightly higher as traders digest Clarity Act failure, Fed rate hike",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-76k-as-clarity-vote-fails-fed-rate-hike-in-focus-4902981",
@@ -233,55 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
       "published": "2026-09-16 18:28:59",
       "ts": 1789583339
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Phoenix Enables SOL as Collateral for Perpetual Futures Trading",
-      "link": "https://www.investing.com/news/cryptocurrency-news/phoenix-enables-sol-as-collateral-for-perpetual-futures-trading-4904222",
-      "published": "2026-09-16 17:30:36",
-      "ts": 1789579836
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mysterious trader moves $122 million ahead of Fed's 2 p.m. decision",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html",
-      "published": "2026-09-16T16:47:40Z",
-      "ts": 1789577260
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "SEC chief vows action on crypto rules after Senate bill fails",
-      "link": "https://www.investing.com/news/cryptocurrency-news/sec-chief-vows-action-on-crypto-rules-after-senate-bill-fails-93CH-4904160",
-      "published": "2026-09-16 16:20:11",
-      "ts": 1789575611
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Coinbase cuts trading fees for active users on Advanced platform",
-      "link": "https://www.investing.com/news/cryptocurrency-news/coinbase-cuts-trading-fees-for-active-users-on-advanced-platform-432SI-4904040",
-      "published": "2026-09-16 14:56:02",
-      "ts": 1789570562
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "XRP price outlook after token drops 10% on failed Clarity Act vote",
-      "link": "https://www.investing.com/news/cryptocurrency-news/xrp-price-outlook-after-token-drops-10-on-failed-clarity-act-vote-93CH-4903927",
-      "published": "2026-09-16 13:44:48",
-      "ts": 1789566288
-    },
-    {
-      "source": "Investing Forex",
-      "title": "UBS sees EUR/CHF retest of 0.96 as Swiss franc lags on low yield",
-      "link": "https://www.investing.com/news/forex-news/ubs-sees-eurchf-retest-of-096-as-swiss-franc-lags-on-low-yield-93CH-4903208",
-      "published": "2026-09-16 09:24:27",
-      "ts": 1789550667
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Citi sees GBP gains as short-lived ahead of October budget risks",
-      "link": "https://www.investing.com/news/forex-news/citi-sees-gbp-gains-as-shortlived-ahead-of-october-budget-risks-93CH-4903174",
-      "published": "2026-09-16 09:07:19",
-      "ts": 1789549639
     }
   ]
 }
