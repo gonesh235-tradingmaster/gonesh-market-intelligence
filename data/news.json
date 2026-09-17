@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-17T11:39:52.313882+00:00",
+  "updated_utc": "2026-09-17T11:51:59.665139+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "How Circle’s institutional Arc blockchain got taken over by memecoins on day one",
+      "link": "https://www.coindesk.com/business/2026/09/17/circle-launched-a-corporate-l2-backed-by-blackrock-but-traders-immediately-turned-it-into-a-memecoin-casino",
+      "published": "Thu, 17 Sep 2026 11:42:22 +0000",
+      "ts": 1789645342
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I just want out’: Why Jeffrey Gundlach is moving his money as far from AI as possible — and what he’s doing instead",
+      "link": "https://www.marketwatch.com/story/i-just-want-out-why-jeffrey-gundlach-is-moving-his-money-as-far-from-ai-as-possible-and-what-hes-doing-instead-54281010?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 11:41:00 GMT",
+      "ts": 1789645260
+    },
     {
       "source": "MarketWatch",
       "title": "How can I get my employees to stop oversharing at work?",
@@ -54,7 +68,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Zcash jumps 17% as $345 million of liquidations hit crypto traders",
+      "title": "Live updates: Bitcoin flat near $76,000 as stocks set for sharply higher open",
       "link": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
       "published": "Thu, 17 Sep 2026 10:41:15 +0000",
       "ts": 1789641675
@@ -151,13 +165,6 @@
       "ts": 1789631673
     },
     {
-      "source": "MarketWatch",
-      "title": "Tom Lee says the ‘face-ripping’ rally he predicted is merely delayed",
-      "link": "https://www.marketwatch.com/story/tom-lee-says-the-face-ripping-rally-he-predicted-is-merely-delayed-16933e30?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 07:50:00 GMT",
-      "ts": 1789631400
-    },
-    {
       "source": "CoinDesk",
       "title": "U.S. diesel prices hit record high as bitcoin and gold struggle",
       "link": "https://www.coindesk.com/markets/2026/09/17/u-s-diesel-prices-hit-record-high-as-bitcoin-and-gold-struggle",
@@ -198,13 +205,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
       "published": "Thu, 17 Sep 2026 04:47:27 +0000",
       "ts": 1789620447
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Goldman pivots, now forecasts Fed rate hike in October",
-      "link": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
-      "published": "Thu, 17 Sep 2026 04:17:55 +0000",
-      "ts": 1789618675
     },
     {
       "source": "Cointelegraph",
