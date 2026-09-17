@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-17T05:51:31.529375+00:00",
+  "updated_utc": "2026-09-17T06:00:31.678374+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "OpenAI discloses 6 new cases of ‘misaligned’ AI behavior",
+      "link": "https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 17 Sep 2026 05:49:06 +0000",
+      "ts": 1789624146
+    },
     {
       "source": "Investing Forex",
       "title": "Asian currencies mixed as dollar holds seven-week high, yen steadies",
@@ -205,13 +212,6 @@
       "link": "https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 16 Sep 2026 16:03:35 +0000",
       "ts": 1789574615
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Coinbase faces greater fallout from CLARITY Act setback: Saxo",
-      "link": "https://cointelegraph.com/news/coinbase-clarity-act-exposure-saxo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 16 Sep 2026 15:52:17 +0000",
-      "ts": 1789573937
     },
     {
       "source": "CoinDesk",
