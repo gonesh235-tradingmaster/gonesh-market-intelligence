@@ -1,14 +1,28 @@
 {
-  "updated_utc": "2026-09-17T07:56:37.157423+00:00",
+  "updated_utc": "2026-09-17T08:12:33.654528+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar eases, yen strengthens ahead of BoJ",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
+      "published": "2026-09-17 08:01:35",
+      "ts": 1789632095
+    },
     {
       "source": "CoinDesk",
       "title": "Ripple adds XRP payments to Stripe and Tempo’s AI standard in new developer kit",
       "link": "https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit",
       "published": "Thu, 17 Sep 2026 07:54:33 +0000",
       "ts": 1789631673
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. 10-year Treasury yield eases in the afterglow of Fed hike;",
+      "link": "https://www.investing.com/news/forex-news/us-10year-treasury-yield-eases-in-the-afterglow-of-fed-hike-4904832",
+      "published": "2026-09-17 07:53:16",
+      "ts": 1789631596
     },
     {
       "source": "MarketWatch",
@@ -65,13 +79,6 @@
       "link": "https://cointelegraph.com/news/openai-discloses-6-new-cases-of-misaligned-ai-behavior?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 05:49:06 +0000",
       "ts": 1789624146
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar holds seven-week high, yen steadies",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
-      "published": "2026-09-17 05:02:32",
-      "ts": 1789621352
     },
     {
       "source": "CoinDesk",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-linger-at-multiyear-peaks-as-traders-brace-for-fed-rate-decision-4902913",
       "published": "2026-09-16 07:43:07",
       "ts": 1789544587
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "BASIS.pro Expands On-Chain Infrastructure with XDC Network Partnership and Zypher DAO as Auto Earn Goes Live",
-      "link": "https://www.investing.com/news/cryptocurrency-news/basispro-expands-onchain-infrastructure-with-xdc-network-partnership-and-zypher-dao-as-auto-earn-goes-live-4903004",
-      "published": "2026-09-16 07:30:36",
-      "ts": 1789543836
     }
   ]
 }
