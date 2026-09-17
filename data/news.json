@@ -1,11 +1,18 @@
 {
-  "updated_utc": "2026-09-17T04:44:14.946780+00:00",
+  "updated_utc": "2026-09-17T04:56:06.913335+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
       "source": "CoinDesk",
-      "title": "Goldman pivots, now forecasts Fed hike in October",
+      "title": "Zcash jumps 23% as bitcoin and major tokens rise despite Fed’s first hike since 2023",
+      "link": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
+      "published": "Thu, 17 Sep 2026 04:47:27 +0000",
+      "ts": 1789620447
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Goldman pivots, now forecasts Fed rate hike in October",
       "link": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
       "published": "Thu, 17 Sep 2026 04:17:55 +0000",
       "ts": 1789618675
@@ -219,13 +226,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/coinbase-cuts-trading-fees-for-active-users-on-advanced-platform-432SI-4904040",
       "published": "2026-09-16 14:56:02",
       "ts": 1789570562
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Payward plans to offer U.S. clients onchain perpetual futures on Hyperliquid",
-      "link": "https://www.coindesk.com/markets/2026/09/16/payward-plans-to-offer-u-s-clients-onchain-perpetual-futures-on-hyperliquid",
-      "published": "Wed, 16 Sep 2026 14:35:43 +0000",
-      "ts": 1789569343
     },
     {
       "source": "Investing Crypto",
