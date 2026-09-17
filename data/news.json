@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-17T17:55:19.831521+00:00",
+  "updated_utc": "2026-09-17T18:09:58.940108+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -9,13 +9,6 @@
       "link": "https://www.marketwatch.com/story/amazons-secret-weapon-against-walmart-could-be-a-massive-blitz-in-same-day-delivery-a0ddf8d6?mod=mw_rss_topstories",
       "published": "Thu, 17 Sep 2026 17:42:00 GMT",
       "ts": 1789666920
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AMD Jumps 7% as Semiconductor Rebound Reaches a Third Session; Broadcom Rises 3%, NVIDIA Edges Higher",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-jumps-7-semiconductor-rebound-173707172.html",
-      "published": "2026-09-17T17:37:07Z",
-      "ts": 1789666627
     },
     {
       "source": "Cointelegraph",
@@ -32,46 +25,11 @@
       "ts": 1789666260
     },
     {
-      "source": "Yahoo Finance",
-      "title": "How does the Fed interest rate affect car loans?",
-      "link": "https://finance.yahoo.com/news/fed-affects-auto-loan-rates-190622401.html",
-      "published": "2026-09-17T17:20:50Z",
-      "ts": 1789665650
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Nasdaq Dwarfs Dow's Gain; This AI Chip Leader Breaks Out To All-Time High (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-fed-reaction-generac-nebius-bloom-energy-spacex/?src=A00220&yptr=yahoo",
-      "published": "2026-09-17T17:17:07Z",
-      "ts": 1789665427
-    },
-    {
       "source": "MarketWatch",
       "title": "Why growth stocks’ surprising strength may be warning of a market bubble",
       "link": "https://www.marketwatch.com/story/why-growth-stocks-surprising-strength-may-be-warning-of-a-market-bubble-5288a7dc?mod=mw_rss_topstories",
       "published": "Thu, 17 Sep 2026 17:16:00 GMT",
       "ts": 1789665360
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Access to credit is tightening — here’s what it means for your next auto loan",
-      "link": "https://finance.yahoo.com/economy/policy/articles/access-credit-tightening-means-next-150515547.html",
-      "published": "2026-09-17T17:11:21Z",
-      "ts": 1789665081
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Takeda Pharmaceutical (TAK) Gets Priority Review. Can Zasocitinib Win in Psoriasis?",
-      "link": "https://finance.yahoo.com/healthcare/articles/takeda-pharmaceutical-tak-gets-priority-170819495.html",
-      "published": "2026-09-17T17:08:19Z",
-      "ts": 1789664899
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How secured auto loans work",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/secured-auto-loans-why-usually-212442450.html",
-      "published": "2026-09-17T17:05:22Z",
-      "ts": 1789664722
     },
     {
       "source": "Cointelegraph",
@@ -249,13 +207,6 @@
       "ts": 1789642834
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Mortgage rates fell slightly after the Fed hiked rates: Mortgage and refinance interest rates today, Thursday, September 17, 2026",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-fell-slightly-after-the-fed-hiked-rates-mortgage-and-refinance-interest-rates-today-thursday-september-17-2026-100000901.html",
-      "published": "2026-09-17T10:00:00Z",
-      "ts": 1789639200
-    },
-    {
       "source": "Investing Forex",
       "title": "Yen rise as markets price BOJ rate hike  while dollar pauses post-Fed",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
@@ -282,6 +233,55 @@
       "link": "https://www.investing.com/news/forex-news/loonie-weakens-after-fed-hike-as-dollar-gains-on-hawkish-outlook-4904309",
       "published": "2026-09-16 18:46:08",
       "ts": 1789584368
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar gains after Fed raises interest rates",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-slips-to-oneweek-low-4902879",
+      "published": "2026-09-16 18:28:59",
+      "ts": 1789583339
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Phoenix Enables SOL as Collateral for Perpetual Futures Trading",
+      "link": "https://www.investing.com/news/cryptocurrency-news/phoenix-enables-sol-as-collateral-for-perpetual-futures-trading-4904222",
+      "published": "2026-09-16 17:30:36",
+      "ts": 1789579836
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Mysterious trader moves $122 million ahead of Fed's 2 p.m. decision",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html",
+      "published": "2026-09-16T16:47:40Z",
+      "ts": 1789577260
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "SEC chief vows action on crypto rules after Senate bill fails",
+      "link": "https://www.investing.com/news/cryptocurrency-news/sec-chief-vows-action-on-crypto-rules-after-senate-bill-fails-93CH-4904160",
+      "published": "2026-09-16 16:20:11",
+      "ts": 1789575611
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Coinbase cuts trading fees for active users on Advanced platform",
+      "link": "https://www.investing.com/news/cryptocurrency-news/coinbase-cuts-trading-fees-for-active-users-on-advanced-platform-432SI-4904040",
+      "published": "2026-09-16 14:56:02",
+      "ts": 1789570562
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "XRP price outlook after token drops 10% on failed Clarity Act vote",
+      "link": "https://www.investing.com/news/cryptocurrency-news/xrp-price-outlook-after-token-drops-10-on-failed-clarity-act-vote-93CH-4903927",
+      "published": "2026-09-16 13:44:48",
+      "ts": 1789566288
+    },
+    {
+      "source": "Investing Forex",
+      "title": "UBS sees EUR/CHF retest of 0.96 as Swiss franc lags on low yield",
+      "link": "https://www.investing.com/news/forex-news/ubs-sees-eurchf-retest-of-096-as-swiss-franc-lags-on-low-yield-93CH-4903208",
+      "published": "2026-09-16 09:24:27",
+      "ts": 1789550667
     }
   ]
 }
