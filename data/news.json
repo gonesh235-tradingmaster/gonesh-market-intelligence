@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-17T20:09:14.653455+00:00",
+  "updated_utc": "2026-09-17T20:25:19.723133+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Tesla’s upcoming product frenzy could leave investors disappointed",
+      "link": "https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 20:23:00 GMT",
+      "ts": 1789676580
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Pet insurance or savings account: What’s the best way to plan for a big vet bill?",
+      "link": "https://www.marketwatch.com/story/pet-insurance-or-savings-account-whats-the-best-way-to-plan-for-a-big-vet-bill-f9f22f33?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 20:19:00 GMT",
+      "ts": 1789676340
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Pokémon has turned 30, and Target is set to cash in on the anniversary craze",
+      "link": "https://www.marketwatch.com/story/pokemon-has-turned-30-and-target-is-set-to-cash-in-on-the-anniversary-craze-f5eb2af1?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 20:13:00 GMT",
+      "ts": 1789675980
+    },
     {
       "source": "MarketWatch",
       "title": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz",
@@ -81,13 +102,6 @@
       "ts": 1789666260
     },
     {
-      "source": "MarketWatch",
-      "title": "Why growth stocks’ surprising strength may be warning of a market bubble",
-      "link": "https://www.marketwatch.com/story/why-growth-stocks-surprising-strength-may-be-warning-of-a-market-bubble-5288a7dc?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 17:16:00 GMT",
-      "ts": 1789665360
-    },
-    {
       "source": "Cointelegraph",
       "title": "Is there any chance left to save the CLARITY Act?",
       "link": "https://cointelegraph.com/magazine/is-there-any-chance-left-to-save-the-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -107,20 +121,6 @@
       "link": "https://cointelegraph.com/news/former-hut-8-ceo-jaime-leverton-to-lead-zcash-miner-fortitude-ahead-of-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 15:58:33 +0000",
       "ts": 1789660713
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Book your Thanksgiving and Christmas travel now — or risk getting priced out of flying home for the holidays",
-      "link": "https://www.marketwatch.com/story/the-best-time-to-book-your-flight-home-for-the-holidays-yesterday-6f5928f2?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 15:49:00 GMT",
-      "ts": 1789660140
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Like Costco, Walmart will sell Medicare Advantage plans",
-      "link": "https://www.marketwatch.com/story/like-costco-walmart-to-sell-medicare-advantage-plans-b31977d2?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 15:24:00 GMT",
-      "ts": 1789658640
     },
     {
       "source": "CoinDesk",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is West Pharmaceutical Services Stock Outperforming the Nasdaq?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/west-pharmaceutical-services-stock-outperforming-115008400.html",
-      "published": "2026-09-16T11:50:08Z",
-      "ts": 1789559408
+      "title": "Dow Jones Futures Rise As Oil Prices, Yields Fall Before Fed Rate Hike; Will Market Rally Bid Bond Voyage?",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T12:07:50Z",
+      "ts": 1789560470
     }
   ]
 }
