@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-17T21:25:55.004355+00:00",
+  "updated_utc": "2026-09-17T21:37:41.042076+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "The Ondo Finance succession crisis gets messier as Kathleen Allman’s daughter alleges ‘dementia’, alcoholism and reckless spending",
+      "link": "https://www.coindesk.com/business/2026/09/17/the-ondo-finance-succession-crisis-gets-messier-as-kathleen-allman-s-daughter-alleges-dementia-alcoholism-and-reckless-spending",
+      "published": "Thu, 17 Sep 2026 21:28:35 +0000",
+      "ts": 1789680515
+    },
     {
       "source": "MarketWatch",
       "title": "The bond market is seeing trouble. Why investors are buying now anyway.",
@@ -16,6 +23,13 @@
       "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
       "published": "Thu, 17 Sep 2026 21:22:00 GMT",
       "ts": 1789680120
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin extends recovery from Clarity setback, gains capped by Fed hawkishness",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
+      "published": "2026-09-17 21:19:11",
+      "ts": 1789679951
     },
     {
       "source": "MarketWatch",
@@ -158,13 +172,6 @@
       "ts": 1789656658
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin steady at $76.5k as markets digest Fed rate hike, M.East tensions",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
-      "published": "2026-09-17 13:57:03",
-      "ts": 1789653423
-    },
-    {
       "source": "Cointelegraph",
       "title": "OG.com cleared by SEC to offer single-stock futures, says Crypto.com CEO",
       "link": "https://cointelegraph.com/news/ogcom-cleared-sec-stock-futures-cryptocom-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -184,13 +191,6 @@
       "link": "https://www.coindesk.com/business/2026/09/17/ratings-giant-s-and-p-global-acquires-openzeppelin-in-tokenized-finance-risk-push",
       "published": "Thu, 17 Sep 2026 13:15:21 +0000",
       "ts": 1789650921
-    },
-    {
-      "source": "CoinDesk",
-      "title": "SEC rolls out long-awaited 'innovation exemption' for tokenized securities venues",
-      "link": "https://www.coindesk.com/policy/2026/09/17/sec-rolls-out-long-awaited-innovation-exemption-for-tokenized-securities-venues",
-      "published": "Thu, 17 Sep 2026 13:00:00 +0000",
-      "ts": 1789650000
     },
     {
       "source": "Investing Forex",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "The Bull Case for Netflix’s (NFLX) New Growth Engine",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bull-case-netflix-nflx-growth-132531860.html",
-      "published": "2026-09-16T13:25:31Z",
-      "ts": 1789565131
+      "title": "NVR Stock: Is NVR Underperforming the Consumer Cyclical Sector?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvr-stock-nvr-underperforming-consumer-133902769.html",
+      "published": "2026-09-16T13:39:02Z",
+      "ts": 1789565942
     }
   ]
 }
