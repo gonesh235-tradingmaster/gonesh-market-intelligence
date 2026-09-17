@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-17T04:13:14.883971+00:00",
+  "updated_utc": "2026-09-17T04:29:01.016169+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Goldman pivots, now forecasts Fed hike in October",
+      "link": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
+      "published": "Thu, 17 Sep 2026 04:17:55 +0000",
+      "ts": 1789618675
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin absorbs Fed rate hike as officials see more tightening",
@@ -219,13 +226,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/16/payward-plans-to-offer-u-s-clients-onchain-perpetual-futures-on-hyperliquid",
       "published": "Wed, 16 Sep 2026 14:35:43 +0000",
       "ts": 1789569343
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases",
-      "link": "https://www.coindesk.com/business/2026/09/16/blockchain-finance-platform-theo-launches-tokenized-silver-backed-by-usd40-million-in-active-leases",
-      "published": "Wed, 16 Sep 2026 14:00:00 +0000",
-      "ts": 1789567200
     },
     {
       "source": "Investing Crypto",
