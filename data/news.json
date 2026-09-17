@@ -1,21 +1,14 @@
 {
-  "updated_utc": "2026-09-17T09:24:09.767528+00:00",
+  "updated_utc": "2026-09-17T09:38:47.474682+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
-      "source": "MarketWatch",
-      "title": "Why the S&P 500 could still advance after a Fed hike, according to a Wall Street strategist",
-      "link": "https://www.marketwatch.com/story/why-the-s-p-500-could-still-advance-after-a-fed-hike-according-to-a-wall-street-strategist-d357b4f2?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 09:16:00 GMT",
-      "ts": 1789636560
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 09:15:00 GMT",
-      "ts": 1789636500
+      "source": "Investing Forex",
+      "title": "Yen rise as markets price BOJ rate hike  while dollar pauses post-Fed",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
+      "published": "2026-09-17 09:27:30",
+      "ts": 1789637250
     },
     {
       "source": "Cointelegraph",
@@ -46,25 +39,11 @@
       "ts": 1789632595
     },
     {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar eases, yen strengthens ahead of BoJ",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
-      "published": "2026-09-17 08:01:35",
-      "ts": 1789632095
-    },
-    {
       "source": "CoinDesk",
       "title": "Ripple adds XRP payments to Stripe and Tempo’s AI standard in new developer kit",
       "link": "https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit",
       "published": "Thu, 17 Sep 2026 07:54:33 +0000",
       "ts": 1789631673
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Tom Lee says the ‘face-ripping’ rally he predicted is merely delayed",
-      "link": "https://www.marketwatch.com/story/tom-lee-says-the-face-ripping-rally-he-predicted-is-merely-delayed-16933e30?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 07:50:00 GMT",
-      "ts": 1789631400
     },
     {
       "source": "CoinDesk",
@@ -79,13 +58,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
       "published": "2026-09-17 07:11:34",
       "ts": 1789629094
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘You are freed.’ What happened when an OpenAI model began secretly writing notes to itself.",
-      "link": "https://www.marketwatch.com/story/you-are-freed-what-happened-when-an-openai-model-began-secretly-writing-notes-to-itself-25808ea8?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 07:08:00 GMT",
-      "ts": 1789628880
     },
     {
       "source": "Investing Crypto",
@@ -142,34 +114,6 @@
       "link": "https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 00:23:44 +0000",
       "ts": 1789604624
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
-      "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 23:51:00 GMT",
-      "ts": 1789602660
-    },
-    {
-      "source": "MarketWatch",
-      "title": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
-      "link": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 22:25:00 GMT",
-      "ts": 1789597500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-      "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 22:16:00 GMT",
-      "ts": 1789596960
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "published": "Wed, 16 Sep 2026 22:15:00 GMT",
-      "ts": 1789596900
     },
     {
       "source": "Investing Crypto",
@@ -282,6 +226,62 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-fed-hike-bets-and-uk-inflation-uptick-weigh-4903061",
       "published": "2026-09-16 08:21:55",
       "ts": 1789546915
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "BASIS.pro Expands On-Chain Infrastructure with XDC Network Partnership and Zypher DAO as Auto Earn Goes Live",
+      "link": "https://www.investing.com/news/cryptocurrency-news/basispro-expands-onchain-infrastructure-with-xdc-network-partnership-and-zypher-dao-as-auto-earn-goes-live-4903004",
+      "published": "2026-09-16 07:30:36",
+      "ts": 1789543836
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "As Infleqtion Teams Up With Cisco, Here’s How You Should Play INFQ Stock Now",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/infleqtion-teams-cisco-play-infq-214331803.html",
+      "published": "2026-09-15T21:43:31Z",
+      "ts": 1789508611
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Likes McDonald’s (MCD) but Sees Jersey Mike’s (JMKE) as the Lower-Risk Bet",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-likes-mcdonald-mcd-214316046.html",
+      "published": "2026-09-15T21:43:16Z",
+      "ts": 1789508596
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Ubiquiti Just Posted 23.5% Revenue Growth and a Dividend. What Could Derail the Momentum?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ubiquiti-just-posted-23-5-213926267.html",
+      "published": "2026-09-15T21:39:26Z",
+      "ts": 1789508366
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nvidia Bought Hugging Face for $12.9 Billion. This Software Acquisition Changes Everything.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-bought-hugging-face-12-213200678.html",
+      "published": "2026-09-15T21:32:00Z",
+      "ts": 1789507920
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Gold and the U.S. dollar: Why they often move in opposite directions",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-us-dollar-relationship-204112404.html",
+      "published": "2026-09-15T20:41:12Z",
+      "ts": 1789504872
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Can you have two of the same credit card?",
+      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/can-you-have-two-of-the-same-credit-card-175008954.html",
+      "published": "2026-09-15T17:50:08Z",
+      "ts": 1789494608
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "What time is this week's Fed meeting?",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/what-time-is-this-weeks-fed-meeting-120032072.html",
+      "published": "2025-05-05T12:00:32Z",
+      "ts": 1746446432
     }
   ]
 }
