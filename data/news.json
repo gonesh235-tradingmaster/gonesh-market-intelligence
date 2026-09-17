@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-17T22:22:39.002640+00:00",
+  "updated_utc": "2026-09-17T22:32:27.064004+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -263,6 +263,13 @@
       "ts": 1789575611
     },
     {
+      "source": "Yahoo Finance",
+      "title": "SandiskCorp. (SNDK): AI Boom Fuels Attractive Storage Market Opportunity",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sandiskcorp-sndk-ai-boom-fuels-145612588.html",
+      "published": "2026-09-16T14:56:12Z",
+      "ts": 1789570572
+    },
+    {
       "source": "Investing Crypto",
       "title": "Coinbase cuts trading fees for active users on Advanced platform",
       "link": "https://www.investing.com/news/cryptocurrency-news/coinbase-cuts-trading-fees-for-active-users-on-advanced-platform-432SI-4904040",
@@ -271,17 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "US Politicians Are Buying These Two Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-politicians-buying-two-stocks-144637200.html",
-      "published": "2026-09-16T14:46:37Z",
-      "ts": 1789569997
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dave & Buster’s (PLAY) Bets On New Leaders To Reverse Its Slide",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dave-buster-play-bets-leaders-144539009.html",
-      "published": "2026-09-16T14:45:39Z",
-      "ts": 1789569939
+      "title": "Circle Launches Arc Mainnet With BlackRock, DTCC and Visa as Validators",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/circle-launches-arc-mainnet-blackrock-145602831.html",
+      "published": "2026-09-16T14:56:02Z",
+      "ts": 1789570562
     }
   ]
 }
