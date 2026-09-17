@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-17T14:53:54.340035+00:00",
+  "updated_utc": "2026-09-17T15:07:46.310877+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm",
+      "link": "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm",
+      "published": "Thu, 17 Sep 2026 15:03:19 +0000",
+      "ts": 1789657399
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Azets appoints new corporate finance partner in UK",
+      "link": "https://finance.yahoo.com/small-business/articles/azets-appoints-corporate-finance-partner-150020540.html",
+      "published": "2026-09-17T15:00:20Z",
+      "ts": 1789657220
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: Beyond bitcoin and ether",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
+      "published": "Thu, 17 Sep 2026 14:57:11 +0000",
+      "ts": 1789657031
+    },
     {
       "source": "CoinDesk",
       "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
@@ -12,10 +33,31 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Newmont Stock Just Popped",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-newmont-stock-just-popped-144223956.html",
-      "published": "2026-09-17T14:42:23Z",
-      "ts": 1789656143
+      "title": "What’s the average car loan length?",
+      "link": "https://finance.yahoo.com/markets/options/articles/long-car-loan-163621954.html",
+      "published": "2026-09-17T14:50:00Z",
+      "ts": 1789656600
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Strong Execution Strengthens Macerich (MAC) in Q2",
+      "link": "https://finance.yahoo.com/real-estate/articles/strong-execution-strengthens-macerich-mac-144814109.html",
+      "published": "2026-09-17T14:48:14Z",
+      "ts": 1789656494
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Starbucks (SBUX) Wins Big in Court, but One Finding Still Sticks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/starbucks-sbux-wins-big-court-144721274.html",
+      "published": "2026-09-17T14:47:21Z",
+      "ts": 1789656441
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Boeing (BA)’s $8.4 Billion Supplier Buyback Keeps Turning Up New Costs",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-8-4-billion-144356015.html",
+      "published": "2026-09-17T14:43:56Z",
+      "ts": 1789656236
     },
     {
       "source": "Yahoo Finance",
@@ -30,34 +72,6 @@
       "link": "https://www.marketwatch.com/story/more-home-builders-cut-prices-as-buyers-get-spooked-4cd4b4ec?mod=mw_rss_topstories",
       "published": "Thu, 17 Sep 2026 14:37:00 GMT",
       "ts": 1789655820
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Medtronic (MDT) Raises its Outlook Again as Heart Device Demand Keeps Climbing",
-      "link": "https://finance.yahoo.com/healthcare/articles/medtronic-mdt-raises-outlook-again-143459144.html",
-      "published": "2026-09-17T14:34:59Z",
-      "ts": 1789655699
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How to save on auto loans as the federal funds rate changes",
-      "link": "https://finance.yahoo.com/news/save-auto-loans-federal-funds-220313700.html",
-      "published": "2026-09-17T14:33:54Z",
-      "ts": 1789655634
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Here’s Why Why Baron Capital Bought Alexandria (ARE)",
-      "link": "https://finance.yahoo.com/real-estate/articles/why-why-baron-capital-bought-143155988.html",
-      "published": "2026-09-17T14:31:55Z",
-      "ts": 1789655515
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "OpenAI Fires Back at Apple (AAPL)",
-      "link": "https://finance.yahoo.com/technology/ai/articles/openai-fires-back-apple-aapl-142906076.html",
-      "published": "2026-09-17T14:29:06Z",
-      "ts": 1789655346
     },
     {
       "source": "MarketWatch",
@@ -221,25 +235,11 @@
       "ts": 1789644053
     },
     {
-      "source": "CoinDesk",
-      "title": "Optimism creeps back into crypto, with the 2022 test still to come",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/17/optimism-creeps-back-into-crypto-with-the-2022-test-still-to-come",
-      "published": "Thu, 17 Sep 2026 11:19:09 +0000",
-      "ts": 1789643949
-    },
-    {
       "source": "Investing Crypto",
       "title": "Zama Opens Confidential Access to DeFi’s Existing Yield Venues",
       "link": "https://www.investing.com/news/cryptocurrency-news/zama-opens-confidential-access-to-defis-existing-yield-venues-4905281",
       "published": "2026-09-17 11:00:34",
       "ts": 1789642834
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin continues near $76,000 as stocks surge following Fed rate hike",
-      "link": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
-      "published": "Thu, 17 Sep 2026 10:41:15 +0000",
-      "ts": 1789641675
     },
     {
       "source": "Cointelegraph",
