@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-18T21:49:17.461276+00:00",
+  "updated_utc": "2026-09-18T21:58:16.020802+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin jumps, tops $80k for first time since Sept 7 & turns positive for the week",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
+      "published": "2026-09-18 21:49:51",
+      "ts": 1789768191
+    },
     {
       "source": "MarketWatch",
       "title": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
@@ -145,13 +152,6 @@
     },
     {
       "source": "Investing Crypto",
-      "title": "Bitcoin climbs to $78k as markets look past Clarity setback",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
-      "published": "2026-09-18 13:39:48",
-      "ts": 1789738788
-    },
-    {
-      "source": "Investing Crypto",
       "title": "Why is Bitcoin US Dollar stock climbing today?",
       "link": "https://www.investing.com/news/cryptocurrency-news/why-is-bitcoin-us-dollar-stock-climbing-today-93CH-4907428",
       "published": "2026-09-18 13:06:16",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "HQDG Dividend Growth ETF Launches Into Rising Rates: Here’s What Matters Most",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hqdg-dividend-growth-etf-launches-142026539.html",
-      "published": "2026-09-17T14:20:26Z",
-      "ts": 1789654826
+      "title": "Ethereum Price Prediction: $2,400 Bounce Keeps $3,300 in Play",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-prediction-2-400-143354402.html",
+      "published": "2026-09-17T14:33:54Z",
+      "ts": 1789655634
     }
   ]
 }
