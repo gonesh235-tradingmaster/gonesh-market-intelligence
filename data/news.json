@@ -1,21 +1,42 @@
 {
-  "updated_utc": "2026-09-18T17:38:56.382735+00:00",
+  "updated_utc": "2026-09-18T17:48:07.556226+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
-      "source": "Yahoo Finance",
-      "title": "DTE Could Be One of the Quiet Winners of the Data Center Boom",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dte-could-one-quiet-winners-173028126.html",
-      "published": "2026-09-18T17:30:28Z",
-      "ts": 1789752628
+      "source": "MarketWatch",
+      "title": "As Warren Buffett’s reign ends, fans should sell Berkshire — and buy these stocks instead",
+      "link": "https://www.marketwatch.com/story/as-warren-buffetts-reign-ends-fans-should-sell-berkshire-and-buy-these-stocks-instead-bff5ba32?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 17:41:00 GMT",
+      "ts": 1789753260
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why XLK’s Next Rebalance Won’t Fix Its Massive Concentration Problem",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-xlk-next-rebalance-won-172540422.html",
-      "published": "2026-09-18T17:25:40Z",
-      "ts": 1789752340
+      "title": "Jim Cramer Says He “Would Be a Buyer Right Here, Right Now” of Nokia (NOK)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buyer-now-173333902.html",
+      "published": "2026-09-18T17:33:33Z",
+      "ts": 1789752813
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nike lost its blue-chip badge but not its swagger",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nike-lost-blue-chip-badge-173300242.html",
+      "published": "2026-09-18T17:33:00Z",
+      "ts": 1789752780
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Disney names Karandeep Anand as first-ever CTO",
+      "link": "https://finance.yahoo.com/technology/articles/disney-names-karandeep-anand-first-173120309.html",
+      "published": "2026-09-18T17:31:20Z",
+      "ts": 1789752680
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer on CoreWeave (CRWV): “I Think It’s Going to Be Okay to Buy”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-coreweave-crwv-think-172910718.html",
+      "published": "2026-09-18T17:29:10Z",
+      "ts": 1789752550
     },
     {
       "source": "Yahoo Finance",
@@ -39,32 +60,11 @@
       "ts": 1789751414
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-amd-micron-sandisk/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T17:09:47Z",
-      "ts": 1789751387
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "DoorDash’s $300 Million Grubhub Deal Opens a New Venue-Commerce Opportunity",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/doordash-300-million-grubhub-deal-170248558.html",
-      "published": "2026-09-18T17:02:48Z",
-      "ts": 1789750968
-    },
-    {
       "source": "MarketWatch",
       "title": "Two signs investors don’t have to fear an AI slowdown",
       "link": "https://www.marketwatch.com/story/two-signs-investors-dont-have-to-fear-an-ai-slowdown-5ec40948?mod=mw_rss_topstories",
       "published": "Fri, 18 Sep 2026 17:02:00 GMT",
       "ts": 1789750920
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Coca-Cola Bets $10 Billion on U.S. Infrastructure to Drive Growth",
-      "link": "https://finance.yahoo.com/economy/policy/articles/coca-cola-bets-10-billion-170127971.html",
-      "published": "2026-09-18T17:01:27Z",
-      "ts": 1789750887
     },
     {
       "source": "MarketWatch",
@@ -142,13 +142,6 @@
       "link": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
       "published": "Fri, 18 Sep 2026 15:06:31 +0000",
       "ts": 1789743991
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Travis Kelce and others lost millions in a Ponzi scheme. Here’s what a basic index fund would have earned them instead.",
-      "link": "https://www.marketwatch.com/story/travis-kelce-and-others-lost-millions-in-a-ponzi-scheme-heres-what-a-basic-index-fund-would-have-earned-them-instead-c1ee3bd6?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 14:09:00 GMT",
-      "ts": 1789740540
     },
     {
       "source": "Cointelegraph",
@@ -282,6 +275,13 @@
       "link": "https://www.investing.com/news/forex-news/citi-sees-eurjpy-falling-below-175-despite-nearterm-rebound-risk-93CH-4906818",
       "published": "2026-09-18 08:37:50",
       "ts": 1789720670
+    },
+    {
+      "source": "Investing Forex",
+      "title": "UBS sees EUR/USD long opportunity on central bank dynamics",
+      "link": "https://www.investing.com/news/forex-news/ubs-sees-eurusd-long-opportunity-on-central-bank-dynamics-93CH-4906809",
+      "published": "2026-09-18 08:21:32",
+      "ts": 1789719692
     }
   ]
 }
