@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-18T03:00:39.090517+00:00",
+  "updated_utc": "2026-09-18T03:17:48.894124+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bank of Japan raises interest rates by 25 basis points. Bitcoin rises against yen",
+      "link": "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike",
+      "published": "Fri, 18 Sep 2026 03:03:38 +0000",
+      "ts": 1789700618
+    },
     {
       "source": "Investing Crypto",
       "title": "Cardano Climbs 10% In Bullish Trade",
@@ -193,13 +200,6 @@
       "ts": 1789657031
     },
     {
-      "source": "CoinDesk",
-      "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
-      "link": "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
-      "published": "Thu, 17 Sep 2026 14:50:58 +0000",
-      "ts": 1789656658
-    },
-    {
       "source": "Investing Forex",
       "title": "Uganda shilling faces pressure as dollar demand rises",
       "link": "https://www.investing.com/news/forex-news/uganda-shilling-faces-pressure-as-dollar-demand-rises-93CH-4905645",
@@ -271,17 +271,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "SandiskCorp. (SNDK): AI Boom Fuels Attractive Storage Market Opportunity",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sandiskcorp-sndk-ai-boom-fuels-145612588.html",
-      "published": "2026-09-16T14:56:12Z",
-      "ts": 1789570572
+      "title": "How Is Entergy's Stock Performance Compared to Other Utility Stocks?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/entergys-stock-performance-compared-other-152737113.html",
+      "published": "2026-09-16T15:27:37Z",
+      "ts": 1789572457
     },
     {
-      "source": "Investing Crypto",
-      "title": "Coinbase cuts trading fees for active users on Advanced platform",
-      "link": "https://www.investing.com/news/cryptocurrency-news/coinbase-cuts-trading-fees-for-active-users-on-advanced-platform-432SI-4904040",
-      "published": "2026-09-16 14:56:02",
-      "ts": 1789570562
+      "source": "Yahoo Finance",
+      "title": "Arista Stock Holds Up Well Amid Weakness. Here's How To Capitalize.",
+      "link": "https://www.investors.com/research/options/arista-anet-stock-covered-call-options/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T15:26:07Z",
+      "ts": 1789572367
     }
   ]
 }
