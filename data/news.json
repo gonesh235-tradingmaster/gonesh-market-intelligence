@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-18T17:16:55.174109+00:00",
+  "updated_utc": "2026-09-18T17:28:35.347450+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Says Selling Arm Holdings (ARM) Early Was a “Big Mistake”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-selling-arm-171014392.html",
+      "published": "2026-09-18T17:10:14Z",
+      "ts": 1789751414
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Pressured As Yields Hit 5%; Chip Gear Players Jump, Lead Nasdaq 100 (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-amd-micron-sandisk/?src=A00220&yptr=yahoo",
+      "published": "2026-09-18T17:09:47Z",
+      "ts": 1789751387
+    },
     {
       "source": "Yahoo Finance",
       "title": "Cerity Partners Enters Iowa with $2B Gilbert & Cook",
@@ -12,10 +26,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Want to Invest in Anthropic Before Its IPO? Here's How.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/want-invest-anthropic-ipo-heres-170700655.html",
-      "published": "2026-09-18T17:07:00Z",
-      "ts": 1789751220
+      "title": "PepsiCo Falls 3% While Consumer Staples Hold Firm; Keurig Dr. Pepper Eases, Coca-Cola Barely Budges",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pepsico-falls-3-while-consumer-170726924.html",
+      "published": "2026-09-18T17:07:26Z",
+      "ts": 1789751246
     },
     {
       "source": "Yahoo Finance",
@@ -51,20 +65,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/carter-cri-rebrands-younger-parents-165846295.html",
       "published": "2026-09-18T16:58:46Z",
       "ts": 1789750726
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Say What? This AI Stock Gets Support, Eyes New Entry As Earnings Surge 66%",
-      "link": "https://www.investors.com/stock-lists/stock-spotlight/ai-stock-netapp-ntap-support-entry-earnings-surge/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T16:57:59Z",
-      "ts": 1789750679
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Novo CEO Says Drugmaker Needs to “Rethink” its Obesity Strategy",
-      "link": "https://finance.yahoo.com/healthcare/articles/novo-ceo-says-drugmaker-needs-165713245.html",
-      "published": "2026-09-18T16:57:13Z",
-      "ts": 1789750633
     },
     {
       "source": "MarketWatch",
