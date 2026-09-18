@@ -1,14 +1,28 @@
 {
-  "updated_utc": "2026-09-18T04:49:40.264099+00:00",
+  "updated_utc": "2026-09-18T04:58:28.324812+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Zcash targets November for NU7 mainnet upgrade with 25-second blocks",
+      "link": "https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 04:51:29 +0000",
+      "ts": 1789707089
+    },
     {
       "source": "CoinDesk",
       "title": "Ether and XRP ETFs post outflows as bitcoin moves above $77,000",
       "link": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
       "published": "Fri, 18 Sep 2026 04:49:17 +0000",
       "ts": 1789706957
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Why is Australian Dollar gaining today?",
+      "link": "https://www.investing.com/news/forex-news/why-is-australian-dollar-gaining-today-93CH-4906672",
+      "published": "2026-09-18 04:47:25",
+      "ts": 1789706845
     },
     {
       "source": "Cointelegraph",
@@ -193,13 +207,6 @@
       "ts": 1789664400
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
-      "link": "https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 17 Sep 2026 16:22:23 +0000",
-      "ts": 1789662143
-    },
-    {
       "source": "CoinDesk",
       "title": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs",
       "link": "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
@@ -271,17 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Corn Falling Lower on Wednesday",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/corn-falling-lower-wednesday-172852782.html",
-      "published": "2026-09-16T17:28:52Z",
-      "ts": 1789579732
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Soybean Pulling Back on Wednesday",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/soybean-pulling-back-wednesday-172852392.html",
-      "published": "2026-09-16T17:28:52Z",
-      "ts": 1789579732
+      "title": "Large, Unusual Volume in Long-Dated Apple Put Options Shows Investors Bullish in AAPL",
+      "link": "https://finance.yahoo.com/markets/options/articles/large-unusual-volume-long-dated-173002343.html",
+      "published": "2026-09-16T17:30:02Z",
+      "ts": 1789579802
     }
   ]
 }
