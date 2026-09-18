@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-18T05:59:54.559657+00:00",
+  "updated_utc": "2026-09-18T06:22:26.413972+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
+      "link": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
+      "published": "Fri, 18 Sep 2026 06:16:57 +0000",
+      "ts": 1789712217
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 06:00:00 +0000",
+      "ts": 1789711200
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Why is the Australian Dollar gaining today?",
+      "link": "https://www.investing.com/news/forex-news/why-is-australian-dollar-gaining-today-93CH-4906672",
+      "published": "2026-09-18 05:58:24",
+      "ts": 1789711104
+    },
     {
       "source": "CoinDesk",
       "title": "Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too.",
@@ -37,13 +58,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
       "published": "Fri, 18 Sep 2026 04:49:17 +0000",
       "ts": 1789706957
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Why is Australian Dollar gaining today?",
-      "link": "https://www.investing.com/news/forex-news/why-is-australian-dollar-gaining-today-93CH-4906672",
-      "published": "2026-09-18 04:47:25",
-      "ts": 1789706845
     },
     {
       "source": "Cointelegraph",
@@ -116,60 +130,11 @@
       "ts": 1789680515
     },
     {
-      "source": "MarketWatch",
-      "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
-      "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 21:22:00 GMT",
-      "ts": 1789680120
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
-      "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 21:22:00 GMT",
-      "ts": 1789680120
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin extends recovery from Clarity setback, gains capped by Fed hawkishness",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
       "published": "2026-09-17 21:19:11",
       "ts": 1789679951
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
-      "link": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 21:09:00 GMT",
-      "ts": 1789679340
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Tesla’s upcoming product frenzy could leave investors disappointed",
-      "link": "https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 20:23:00 GMT",
-      "ts": 1789676580
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Pet insurance or savings account: What’s the best way to plan for a big vet bill?",
-      "link": "https://www.marketwatch.com/story/pet-insurance-or-savings-account-whats-the-best-way-to-plan-for-a-big-vet-bill-f9f22f33?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 20:19:00 GMT",
-      "ts": 1789676340
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Pokémon has turned 30, and Target is set to cash in on the anniversary craze",
-      "link": "https://www.marketwatch.com/story/pokemon-has-turned-30-and-target-is-set-to-cash-in-on-the-anniversary-craze-f5eb2af1?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 20:13:00 GMT",
-      "ts": 1789675980
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz",
-      "link": "https://www.marketwatch.com/story/saudi-arabia-is-now-pushing-to-export-more-oil-through-the-strait-of-hormuz-bcce044b?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 19:52:00 GMT",
-      "ts": 1789674720
     },
     {
       "source": "Cointelegraph",
@@ -193,13 +158,6 @@
       "ts": 1789672730
     },
     {
-      "source": "MarketWatch",
-      "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don’t want to do this anymore?",
-      "link": "https://www.marketwatch.com/story/my-brother-in-law-expects-my-husband-and-me-to-pay-for-his-food-every-time-we-go-out-how-can-i-tell-my-husband-i-dont-want-to-do-this-anymore-e2141455?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 19:07:00 GMT",
-      "ts": 1789672020
-    },
-    {
       "source": "CoinDesk",
       "title": "Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances",
       "link": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
@@ -207,25 +165,11 @@
       "ts": 1789670438
     },
     {
-      "source": "CoinDesk",
-      "title": "SEC opens door to tokenized U.S. stock trading. Here’s who could benefit",
-      "link": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit",
-      "published": "Thu, 17 Sep 2026 18:38:10 +0000",
-      "ts": 1789670290
-    },
-    {
       "source": "Cointelegraph",
       "title": "WisdomTree, MoonPay team up to expand US access to tokenized money market fund",
       "link": "https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 17:31:12 +0000",
       "ts": 1789666272
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Is there any chance left to save the CLARITY Act?",
-      "link": "https://cointelegraph.com/magazine/is-there-any-chance-left-to-save-the-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 17 Sep 2026 17:00:00 +0000",
-      "ts": 1789664400
     },
     {
       "source": "Investing Forex",
@@ -271,6 +215,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Saudi Oil Crisis Is About to Hit Europe",
+      "link": "https://finance.yahoo.com/energy/articles/saudi-oil-crisis-hit-europe-183200571.html",
+      "published": "2026-09-16T18:32:00Z",
+      "ts": 1789583520
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why It’s Time to Load Up on Nvidia Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-time-load-nvidia-stock-183025364.html",
+      "published": "2026-09-16T18:30:25Z",
+      "ts": 1789583425
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "This Dividend Stock Is Staging a Turnaround in 2026 and Pays More Than 2.4%",
       "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-stock-staging-turnaround-2026-182206216.html",
       "published": "2026-09-16T18:22:06Z",
@@ -278,10 +236,52 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Fed Unanimously Raises Rates by a Quarter Point",
-      "link": "https://finance.yahoo.com/video/fed-unanimously-raises-rates-quarter-181455988.html",
-      "published": "2026-09-16T18:14:55Z",
-      "ts": 1789582495
+      "title": "Lumentum Stock Leads the S&P 500 While Corning Can’t Keep Up",
+      "link": "https://www.barrons.com/articles/lumentum-corning-stock-networking-112f9a13?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-09-16T18:22:00Z",
+      "ts": 1789582920
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Paramount, Atty. Gen. Bonta ordered to meet for merger settlement talks",
+      "link": "https://finance.yahoo.com/media-advertising/articles/paramount-atty-gen-bonta-ordered-182155586.html",
+      "published": "2026-09-16T18:21:55Z",
+      "ts": 1789582915
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Phoenix Enables SOL as Collateral for Perpetual Futures Trading",
+      "link": "https://www.investing.com/news/cryptocurrency-news/phoenix-enables-sol-as-collateral-for-perpetual-futures-trading-4904222",
+      "published": "2026-09-16 17:30:36",
+      "ts": 1789579836
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "SEC chief vows action on crypto rules after Senate bill fails",
+      "link": "https://www.investing.com/news/cryptocurrency-news/sec-chief-vows-action-on-crypto-rules-after-senate-bill-fails-93CH-4904160",
+      "published": "2026-09-16 16:20:11",
+      "ts": 1789575611
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How the Federal Reserve rate hike shapes consumer loans",
+      "link": "https://finance.yahoo.com/personal-finance/personal-loans/article/federal-reserve-loan-rates-190719060.html",
+      "published": "2025-09-16T19:07:19Z",
+      "ts": 1758049639
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The best credit cards for Airbnb rentals (2026): Earn points and cash back for your stay",
+      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-card-for-airbnb-rentals-183212147.html",
+      "published": "2025-04-14T18:32:12Z",
+      "ts": 1744655532
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Understanding the Fed's rate decisions: Do we want high or low interest rates​?",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/do-we-want-high-or-low-interest-rates-223031516.html",
+      "published": "2024-12-27T22:30:31Z",
+      "ts": 1735338631
     }
   ]
 }
