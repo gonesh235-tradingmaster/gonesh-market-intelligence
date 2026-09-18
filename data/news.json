@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-18T15:51:40.627724+00:00",
+  "updated_utc": "2026-09-18T16:00:51.947383+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Meta Is About to Become Mega Cloud Operator",
+      "link": "https://finance.yahoo.com/technology/ai/articles/meta-become-mega-cloud-operator-154422140.html",
+      "published": "2026-09-18T15:44:22Z",
+      "ts": 1789746262
+    },
     {
       "source": "Yahoo Finance",
       "title": "Fed sat on Silicon Valley Bank flaws because regulators feared being wrong, report finds",
@@ -12,10 +19,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Alphabet Stock Popped This Morning",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-alphabet-stock-popped-morning-153653750.html",
-      "published": "2026-09-18T15:36:53Z",
-      "ts": 1789745813
+      "title": "Costco’s DoorDash Launch Came Too Late to Touch the Quarter It Reports September 24",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/costco-doordash-launch-came-too-154323539.html",
+      "published": "2026-09-18T15:43:23Z",
+      "ts": 1789746203
     },
     {
       "source": "Cointelegraph",
@@ -23,13 +30,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 15:35:59 +0000",
       "ts": 1789745759
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "3 AI Stocks Stuck in Neutral to Buy Before Their Next Catalysts Hit",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-stuck-neutral-153500608.html",
-      "published": "2026-09-18T15:35:00Z",
-      "ts": 1789745700
     },
     {
       "source": "MarketWatch",
