@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-18T12:59:24.680503+00:00",
+  "updated_utc": "2026-09-18T13:15:51.523104+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Why is Bitcoin US Dollar stock climbing today?",
+      "link": "https://www.investing.com/news/cryptocurrency-news/why-is-bitcoin-us-dollar-stock-climbing-today-93CH-4907428",
+      "published": "2026-09-18 13:06:16",
+      "ts": 1789736776
+    },
+    {
+      "source": "CoinDesk",
+      "title": "DHS’s predictive policing is unconstitutional, un-American and should be stopped",
+      "link": "https://www.coindesk.com/opinion/2026/09/18/dhs-s-predictive-policing-is-unconstitutional-un-american-and-should-be-stopped",
+      "published": "Fri, 18 Sep 2026 13:00:00 +0000",
+      "ts": 1789736400
+    },
     {
       "source": "CoinDesk",
       "title": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
@@ -221,13 +235,6 @@
       "ts": 1789715519
     },
     {
-      "source": "CoinDesk",
-      "title": "Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says",
-      "link": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
-      "published": "Fri, 18 Sep 2026 06:52:23 +0000",
-      "ts": 1789714343
-    },
-    {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/zama-opens-confidential-access-to-defis-existing-yield-venues-4905281",
       "published": "2026-09-17 11:00:34",
       "ts": 1789642834
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AI Won’t Replace Advisors. It May Actually Add More",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-won-t-replace-advisors-040200789.html",
-      "published": "2026-09-17T04:02:00Z",
-      "ts": 1789617720
     }
   ]
 }
