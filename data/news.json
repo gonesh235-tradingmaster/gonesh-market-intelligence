@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-18T09:45:44.252802+00:00",
+  "updated_utc": "2026-09-18T09:55:23.389754+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: HYPE leads altcoin rally as bitcoin recovers toward $78,000",
+      "link": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
+      "published": "Fri, 18 Sep 2026 09:49:51 +0000",
+      "ts": 1789724991
+    },
     {
       "source": "Investing Crypto",
       "title": "CT3 to Participate as Speaker at CoinFerenceX Singapore 2026",
@@ -205,13 +212,6 @@
       "link": "https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 01:33:54 +0000",
       "ts": 1789695234
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work",
-      "link": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work",
-      "published": "Thu, 17 Sep 2026 21:47:22 +0000",
-      "ts": 1789681642
     },
     {
       "source": "MarketWatch",
