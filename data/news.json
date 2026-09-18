@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-18T08:26:02.461287+00:00",
+  "updated_utc": "2026-09-18T08:40:38.428114+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "UBS sees EUR/USD long opportunity on central bank dynamics",
+      "link": "https://www.investing.com/news/forex-news/ubs-sees-eurusd-long-opportunity-on-central-bank-dynamics-93CH-4906809",
+      "published": "2026-09-18 08:21:32",
+      "ts": 1789719692
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound gains as UK retail sales beat and dollar cools",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-gains-as-uk-retail-sales-beat-and-dollar-cools-4906805",
+      "published": "2026-09-18 08:17:33",
+      "ts": 1789719453
+    },
     {
       "source": "Investing Forex",
       "title": "Euro zone yields head for weekly decline as post-Fed rally soothes duration fears",
@@ -249,20 +263,6 @@
       "ts": 1789648541
     },
     {
-      "source": "Investing Forex",
-      "title": "Global yields ease as Fed hike and BoE rate hold anchor debt bourses",
-      "link": "https://www.investing.com/news/forex-news/us-10year-treasury-yield-eases-in-the-afterglow-of-fed-hike-4904832",
-      "published": "2026-09-17 12:07:30",
-      "ts": 1789646850
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound falls as BoE holds rates, cautious minutes weigh",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-flat-as-dollar-rally-pauses-ahead-of-boe-4904969",
-      "published": "2026-09-17 11:20:53",
-      "ts": 1789644053
-    },
-    {
       "source": "Investing Crypto",
       "title": "Zama Opens Confidential Access to DeFi’s Existing Yield Venues",
       "link": "https://www.investing.com/news/cryptocurrency-news/zama-opens-confidential-access-to-defis-existing-yield-venues-4905281",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Granite Construction (GVA) Wins $23.7 Million Road Contract. Can Repeat Work Lift Margins?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/granite-construction-gva-wins-23-205822584.html",
-      "published": "2026-09-16T20:58:22Z",
-      "ts": 1789592302
+      "title": "ETF League Tables: Inflows of $285M For JMorgan ETFs",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-inflows-285m-210033559.html",
+      "published": "2026-09-16T21:00:33Z",
+      "ts": 1789592433
     }
   ]
 }
