@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-18T09:02:50.694974+00:00",
+  "updated_utc": "2026-09-18T09:19:48.753074+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term insurance?",
+      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 09:15:00 GMT",
+      "ts": 1789722900
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Here’s what BoE tightening means for EUR/GBP",
+      "link": "https://www.investing.com/news/forex-news/heres-what-boe-tightening-means-for-eurgbp-4906839",
+      "published": "2026-09-18 09:00:35",
+      "ts": 1789722035
+    },
     {
       "source": "Cointelegraph",
       "title": "Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment",
@@ -249,20 +263,6 @@
       "ts": 1789674720
     },
     {
-      "source": "Investing Forex",
-      "title": "Dollar halts six-day rally after Fed hike, sterling slips after BoE stands pat",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
-      "published": "2026-09-17 19:24:32",
-      "ts": 1789673072
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don’t want to do this anymore?",
-      "link": "https://www.marketwatch.com/story/my-brother-in-law-expects-my-husband-and-me-to-pay-for-his-food-every-time-we-go-out-how-can-i-tell-my-husband-i-dont-want-to-do-this-anymore-e2141455?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 19:07:00 GMT",
-      "ts": 1789672020
-    },
-    {
       "source": "Investing Crypto",
       "title": "Zama Opens Confidential Access to DeFi’s Existing Yield Venues",
       "link": "https://www.investing.com/news/cryptocurrency-news/zama-opens-confidential-access-to-defis-existing-yield-venues-4905281",
@@ -277,11 +277,11 @@
       "ts": 1789595647
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Sunbelt Rentals (SUNB) Raises Guidance. Will Higher Fleet Spending Deliver Cash?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sunbelt-rentals-sunb-raises-guidance-213756984.html",
-      "published": "2026-09-16T21:37:56Z",
-      "ts": 1789594676
+      "source": "Investing Crypto",
+      "title": "Phoenix Enables SOL as Collateral for Perpetual Futures Trading",
+      "link": "https://www.investing.com/news/cryptocurrency-news/phoenix-enables-sol-as-collateral-for-perpetual-futures-trading-4904222",
+      "published": "2026-09-16 17:30:36",
+      "ts": 1789579836
     }
   ]
 }
