@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-18T20:59:12.181086+00:00",
+  "updated_utc": "2026-09-18T21:15:18.888698+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Amazon, Palantir and 12 more top tech-stock picks from UBS analysts",
+      "link": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 21:14:00 GMT",
+      "ts": 1789766040
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 21:00:00 +0000",
+      "ts": 1789765200
+    },
     {
       "source": "MarketWatch",
       "title": "Stocks are failing the ‘breadth’ test, but options traders still see reason to buy",
@@ -81,13 +95,6 @@
       "ts": 1789757160
     },
     {
-      "source": "MarketWatch",
-      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 18:30:00 GMT",
-      "ts": 1789756200
-    },
-    {
       "source": "Cointelegraph",
       "title": "Crypto stocks rebound after CLARITY Act selloff",
       "link": "https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -142,13 +149,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
       "published": "2026-09-18 13:39:48",
       "ts": 1789738788
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 18 Sep 2026 13:34:11 +0000",
-      "ts": 1789738451
     },
     {
       "source": "Investing Crypto",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Oracle Is Slashing Payroll While Borrowing Billions for AI. What It Means for ORCL Stock.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-slashing-payroll-while-borrowing-112001539.html",
-      "published": "2026-09-17T11:20:01Z",
-      "ts": 1789644001
+      "title": "Ventas Stock: Is VTR Outperforming the Real Estate Sector?",
+      "link": "https://finance.yahoo.com/real-estate/articles/ventas-stock-vtr-outperforming-real-134934587.html",
+      "published": "2026-09-17T13:49:34Z",
+      "ts": 1789652974
     }
   ]
 }
