@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-18T03:31:58.557994+00:00",
+  "updated_utc": "2026-09-18T03:45:27.200147+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -46,6 +46,20 @@
       "ts": 1789680515
     },
     {
+      "source": "MarketWatch",
+      "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
+      "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 21:22:00 GMT",
+      "ts": 1789680120
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+      "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 21:22:00 GMT",
+      "ts": 1789680120
+    },
+    {
       "source": "Investing Crypto",
       "title": "Bitcoin extends recovery from Clarity setback, gains capped by Fed hawkishness",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
@@ -53,11 +67,46 @@
       "ts": 1789679951
     },
     {
+      "source": "MarketWatch",
+      "title": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
+      "link": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 21:09:00 GMT",
+      "ts": 1789679340
+    },
+    {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 17 Sep 2026 20:44:00 +0000",
       "ts": 1789677840
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Tesla’s upcoming product frenzy could leave investors disappointed",
+      "link": "https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 20:23:00 GMT",
+      "ts": 1789676580
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Pet insurance or savings account: What’s the best way to plan for a big vet bill?",
+      "link": "https://www.marketwatch.com/story/pet-insurance-or-savings-account-whats-the-best-way-to-plan-for-a-big-vet-bill-f9f22f33?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 20:19:00 GMT",
+      "ts": 1789676340
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Pokémon has turned 30, and Target is set to cash in on the anniversary craze",
+      "link": "https://www.marketwatch.com/story/pokemon-has-turned-30-and-target-is-set-to-cash-in-on-the-anniversary-craze-f5eb2af1?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 20:13:00 GMT",
+      "ts": 1789675980
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz",
+      "link": "https://www.marketwatch.com/story/saudi-arabia-is-now-pushing-to-export-more-oil-through-the-strait-of-hormuz-bcce044b?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 19:52:00 GMT",
+      "ts": 1789674720
     },
     {
       "source": "Cointelegraph",
@@ -79,6 +128,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
       "published": "2026-09-17 19:18:50",
       "ts": 1789672730
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don’t want to do this anymore?",
+      "link": "https://www.marketwatch.com/story/my-brother-in-law-expects-my-husband-and-me-to-pay-for-his-food-every-time-we-go-out-how-can-i-tell-my-husband-i-dont-want-to-do-this-anymore-e2141455?mod=mw_rss_topstories",
+      "published": "Thu, 17 Sep 2026 19:07:00 GMT",
+      "ts": 1789672020
     },
     {
       "source": "CoinDesk",
@@ -215,73 +271,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Kinetik’s (KNTK) Record Quarter Sets Up A Bigger 2027 Bet",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kinetik-kntk-record-quarter-sets-152943083.html",
-      "published": "2026-09-16T15:29:43Z",
-      "ts": 1789572583
+      "title": "Bitget Publishes 45th Consecutive Monthly Proof-of-Reserves Report at 122% Reserve Ratio",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/bitget-publishes-45th-consecutive-monthly-160021181.html",
+      "published": "2026-09-16T16:00:21Z",
+      "ts": 1789574421
     },
     {
       "source": "Yahoo Finance",
-      "title": "How Is Entergy's Stock Performance Compared to Other Utility Stocks?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/entergys-stock-performance-compared-other-152737113.html",
-      "published": "2026-09-16T15:27:37Z",
-      "ts": 1789572457
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Arista Stock Holds Up Well Amid Weakness. Here's How To Capitalize.",
-      "link": "https://www.investors.com/research/options/arista-anet-stock-covered-call-options/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T15:26:07Z",
-      "ts": 1789572367
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is PepsiCo Stock Cheap Enough To Live With Slow Growth?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pepsico-stock-cheap-enough-live-152519934.html",
-      "published": "2026-09-16T15:25:19Z",
-      "ts": 1789572319
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Radiant Logistics (RLGT) Bets $100M On A Freight Rebound",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/radiant-logistics-rlgt-bets-100m-152433522.html",
-      "published": "2026-09-16T15:24:33Z",
-      "ts": 1789572273
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Weakness Is an Opportunity for Long-Term ASML Stock Investors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/weakness-opportunity-long-term-asml-152400381.html",
-      "published": "2026-09-16T15:24:00Z",
-      "ts": 1789572240
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Coinbase cuts trading fees for active users on Advanced platform",
-      "link": "https://www.investing.com/news/cryptocurrency-news/coinbase-cuts-trading-fees-for-active-users-on-advanced-platform-432SI-4904040",
-      "published": "2026-09-16 14:56:02",
-      "ts": 1789570562
-    },
-    {
-      "source": "Investing Forex",
-      "title": "UBS sees EUR/CHF retest of 0.96 as Swiss franc lags on low yield",
-      "link": "https://www.investing.com/news/forex-news/ubs-sees-eurchf-retest-of-096-as-swiss-franc-lags-on-low-yield-93CH-4903208",
-      "published": "2026-09-16 09:24:27",
-      "ts": 1789550667
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Citi sees GBP gains as short-lived ahead of October budget risks",
-      "link": "https://www.investing.com/news/forex-news/citi-sees-gbp-gains-as-shortlived-ahead-of-october-budget-risks-93CH-4903174",
-      "published": "2026-09-16 09:07:19",
-      "ts": 1789549639
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "5 things you need to know about Mission Lane credit cards",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/review/mission-lane-credit-cards-202259595.html",
-      "published": "2024-09-27T20:22:59Z",
-      "ts": 1727468579
+      "title": "Is Broadridge Financial Stock Underperforming the S&P 500?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadridge-financial-stock-underperforming-p-155958681.html",
+      "published": "2026-09-16T15:59:58Z",
+      "ts": 1789574398
     }
   ]
 }
