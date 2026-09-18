@@ -1,21 +1,35 @@
 {
-  "updated_utc": "2026-09-18T14:34:19.126422+00:00",
+  "updated_utc": "2026-09-18T14:47:24.853082+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
       "source": "Yahoo Finance",
-      "title": "Xeinadin appoints John Dwyer as new chairman",
-      "link": "https://finance.yahoo.com/small-business/articles/xeinadin-appoints-john-dwyer-chairman-141529085.html",
-      "published": "2026-09-18T14:15:29Z",
-      "ts": 1789740929
+      "title": "Insurtech company Luzern Risk raises $45m in Series B round",
+      "link": "https://finance.yahoo.com/small-business/articles/insurtech-company-luzern-risk-raises-143348982.html",
+      "published": "2026-09-18T14:33:48Z",
+      "ts": 1789742028
     },
     {
       "source": "Yahoo Finance",
-      "title": "One of These Dividend Aristocrats Pays More. The Other Compounds Faster. Which Is Roth Ready?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/one-dividend-aristocrats-pays-more-141500184.html",
-      "published": "2026-09-18T14:15:00Z",
-      "ts": 1789740900
+      "title": "SpaceX stock falls as Starship's test flight slips to Sept. 28, retail investors sell shares",
+      "link": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-falls-as-starships-test-flight-slips-to-sept-28-retail-investors-sell-shares-143200705.html",
+      "published": "2026-09-18T14:32:00Z",
+      "ts": 1789741920
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Techs Move Higher As Dow Slides; Taiwan Semiconductor Nears Buy Point (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-amd-micron-sandisk/?src=A00220&yptr=yahoo",
+      "published": "2026-09-18T14:24:59Z",
+      "ts": 1789741499
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Should You Be Bullish on Tyler Technologies (TYL)?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bullish-tyler-technologies-tyl-142303614.html",
+      "published": "2026-09-18T14:23:03Z",
+      "ts": 1789741383
     },
     {
       "source": "Yahoo Finance",
@@ -44,34 +58,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/makes-ryan-specialty-holdings-ryan-140405924.html",
       "published": "2026-09-18T14:04:05Z",
       "ts": 1789740245
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Accenture (ACN) Positioned to Sustain Its Long-Term Competitive Position",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/accenture-acn-positioned-sustain-long-135755570.html",
-      "published": "2026-09-18T13:57:55Z",
-      "ts": 1789739875
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The Biotech Surged 50% On Positive Data In March. Now, It's Almost Gone.",
-      "link": "https://www.investors.com/news/technology/xenon-pharmaceuticals-azetukalner-side-effects-biotech-stock/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T13:56:47Z",
-      "ts": 1789739807
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Here’s Why Aristotle International Equity Fund Exited Unilever (UL)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-aristotle-international-equity-fund-135629902.html",
-      "published": "2026-09-18T13:56:29Z",
-      "ts": 1789739789
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Types of student loans and how to choose one",
-      "link": "https://finance.yahoo.com/news/types-student-loans-203055156.html",
-      "published": "2026-09-18T13:56:19Z",
-      "ts": 1789739779
     },
     {
       "source": "Investing Crypto",
@@ -282,6 +268,20 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-gains-as-uk-retail-sales-beat-and-dollar-cools-4906805",
       "published": "2026-09-18 08:17:33",
       "ts": 1789719453
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices rise",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-18-dow-sp-500-nasdaq-080504071.html",
+      "published": "2026-09-18T08:05:04Z",
+      "ts": 1789718704
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
+      "link": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
+      "published": "Fri, 18 Sep 2026 07:37:32 +0000",
+      "ts": 1789717052
     }
   ]
 }
