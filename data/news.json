@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-18T18:29:28.328580+00:00",
+  "updated_utc": "2026-09-18T18:43:32.942159+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 18:30:00 GMT",
+      "ts": 1789756200
+    },
     {
       "source": "MarketWatch",
       "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
@@ -79,13 +86,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 15:35:59 +0000",
       "ts": 1789745759
-    },
-    {
-      "source": "MarketWatch",
-      "title": "A happier retirement contains these 3 elements",
-      "link": "https://www.marketwatch.com/story/a-happier-retirement-contains-these-3-elements-9aa99c9a?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 15:35:00 GMT",
-      "ts": 1789745700
     },
     {
       "source": "CoinDesk",
