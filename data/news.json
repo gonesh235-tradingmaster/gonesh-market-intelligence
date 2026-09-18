@@ -1,11 +1,18 @@
 {
-  "updated_utc": "2026-09-18T21:15:18.888698+00:00",
+  "updated_utc": "2026-09-18T21:28:22.339257+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
       "source": "MarketWatch",
-      "title": "Amazon, Palantir and 12 more top tech-stock picks from UBS analysts",
+      "title": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
+      "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 21:16:00 GMT",
+      "ts": 1789766160
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
       "link": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
       "published": "Fri, 18 Sep 2026 21:14:00 GMT",
       "ts": 1789766040
@@ -65,13 +72,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
       "published": "2026-09-18 19:18:50",
       "ts": 1789759130
-    },
-    {
-      "source": "MarketWatch",
-      "title": "It’s almost impossible to sell a condo these days: ‘I feel trapped’",
-      "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 19:11:00 GMT",
-      "ts": 1789758660
     },
     {
       "source": "Cointelegraph",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Ventas Stock: Is VTR Outperforming the Real Estate Sector?",
-      "link": "https://finance.yahoo.com/real-estate/articles/ventas-stock-vtr-outperforming-real-134934587.html",
-      "published": "2026-09-17T13:49:34Z",
-      "ts": 1789652974
+      "title": "Renewed Industry Competition Sparks T-Mobile US’s (TMUS) Sell-Off",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/renewed-industry-competition-sparks-t-140751845.html",
+      "published": "2026-09-17T14:07:51Z",
+      "ts": 1789654071
     }
   ]
 }
