@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-18T20:50:19.128732+00:00",
+  "updated_utc": "2026-09-18T20:59:12.181086+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Stocks are failing the ‘breadth’ test, but options traders still see reason to buy",
+      "link": "https://www.marketwatch.com/story/stocks-are-failing-the-breadth-test-but-options-traders-still-see-reason-to-buy-ef78ef14?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 20:48:00 GMT",
+      "ts": 1789764480
+    },
     {
       "source": "MarketWatch",
       "title": "Most of what you know about data centers is wrong",
@@ -79,13 +86,6 @@
       "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
       "published": "Fri, 18 Sep 2026 18:30:00 GMT",
       "ts": 1789756200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 18:26:00 GMT",
-      "ts": 1789755960
     },
     {
       "source": "Cointelegraph",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Iren Stock Has Dropped 12% in a Week. Why, and How to Play It Here.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/iren-stock-dropped-12-week-111020110.html",
-      "published": "2026-09-17T11:10:20Z",
-      "ts": 1789643420
+      "title": "Oracle Is Slashing Payroll While Borrowing Billions for AI. What It Means for ORCL Stock.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-slashing-payroll-while-borrowing-112001539.html",
+      "published": "2026-09-17T11:20:01Z",
+      "ts": 1789644001
     }
   ]
 }
