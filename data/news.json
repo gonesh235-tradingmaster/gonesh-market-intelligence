@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-18T12:50:19.064969+00:00",
+  "updated_utc": "2026-09-18T12:59:24.680503+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
+      "link": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
+      "published": "Fri, 18 Sep 2026 12:57:06 +0000",
+      "ts": 1789736226
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Zcash targets November upgrade to make private payments up to three times faster",
+      "link": "https://www.coindesk.com/tech/2026/09/18/zcash-targets-november-upgrade-to-make-private-payments-up-to-three-times-faster",
+      "published": "Fri, 18 Sep 2026 12:50:01 +0000",
+      "ts": 1789735801
+    },
     {
       "source": "Cointelegraph",
       "title": "Ethereum Institutional signals support for Ethlabs’ motion to reduce Ethereum block times",
@@ -214,13 +228,6 @@
       "ts": 1789714343
     },
     {
-      "source": "CoinDesk",
-      "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
-      "link": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
-      "published": "Fri, 18 Sep 2026 06:16:57 +0000",
-      "ts": 1789712217
-    },
-    {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -233,13 +240,6 @@
       "link": "https://www.investing.com/news/forex-news/why-is-australian-dollar-gaining-today-93CH-4906672",
       "published": "2026-09-18 05:58:24",
       "ts": 1789711104
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Corporate treasuries bought just 5,900 bitcoin in 3 months. Other demand signals look weak, too.",
-      "link": "https://www.coindesk.com/markets/2026/09/18/corporate-treasuries-bought-just-5-900-bitcoin-in-3-months-other-demand-signals-look-weak-too",
-      "published": "Fri, 18 Sep 2026 05:43:21 +0000",
-      "ts": 1789710201
     },
     {
       "source": "Investing Forex",
