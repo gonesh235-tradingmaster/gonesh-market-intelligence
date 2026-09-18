@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-18T12:35:08.358442+00:00",
+  "updated_utc": "2026-09-18T12:50:19.064969+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum Institutional signals support for Ethlabs’ motion to reduce Ethereum block times",
+      "link": "https://cointelegraph.com/news/ethereum-institutional-support-ethlabs-reduce-ethereum-block-times?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 12:40:04 +0000",
+      "ts": 1789735204
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why mortgage bonds are set to deteriorate, and possibly hit the whole market, according to this Wall Street expert",
+      "link": "https://www.marketwatch.com/story/why-mortgage-bonds-are-set-to-deteriorate-and-possibly-hit-the-whole-market-according-to-this-wall-street-expert-0dd7f05d?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 12:40:00 GMT",
+      "ts": 1789735200
+    },
     {
       "source": "MarketWatch",
       "title": "Tesla’s upcoming product frenzy could leave investors disappointed",
@@ -91,13 +105,6 @@
       "source": "MarketWatch",
       "title": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR.",
       "link": "https://www.marketwatch.com/story/the-feds-never-been-so-confident-on-economic-growth-what-investors-should-do-now-according-to-kkr-b2eef2ee?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 10:08:00 GMT",
-      "ts": 1789726080
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The Fed hasn’t been this terse since 2007. What a 130-word statement signals for market stability.",
-      "link": "https://www.marketwatch.com/story/the-fed-hasnt-been-this-terse-since-2007-what-a-130-word-statement-signals-for-market-stability-0fd31292?mod=mw_rss_topstories",
       "published": "Fri, 18 Sep 2026 10:08:00 GMT",
       "ts": 1789726080
     },
@@ -235,13 +242,6 @@
       "ts": 1789710201
     },
     {
-      "source": "Cointelegraph",
-      "title": "Zcash targets November for NU7 mainnet upgrade with 25-second blocks",
-      "link": "https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 18 Sep 2026 04:51:29 +0000",
-      "ts": 1789707089
-    },
-    {
       "source": "Investing Forex",
       "title": "Yuan hits 4-year high ahead of Trump-Xi meeting as China broadens clearing",
       "link": "https://www.investing.com/news/forex-news/yuan-hits-4year-high-ahead-of-trumpxi-meeting-as-china-broadens-clearing-4906662",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Fed Raises Interest Rates for First Time in Three Years as Diesel, Gas Prices Surge",
-      "link": "https://finance.yahoo.com/economy/policy/articles/fed-raises-interest-rates-first-040100694.html",
-      "published": "2026-09-17T04:01:00Z",
-      "ts": 1789617660
+      "title": "AI Won’t Replace Advisors. It May Actually Add More",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-won-t-replace-advisors-040200789.html",
+      "published": "2026-09-17T04:02:00Z",
+      "ts": 1789617720
     }
   ]
 }
