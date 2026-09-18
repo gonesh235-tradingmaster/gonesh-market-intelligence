@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-18T18:13:01.008134+00:00",
+  "updated_utc": "2026-09-18T18:29:28.328580+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 18:26:00 GMT",
+      "ts": 1789755960
+    },
     {
       "source": "Cointelegraph",
       "title": "Crypto stocks rebound after CLARITY Act selloff",
@@ -86,13 +93,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
       "published": "Fri, 18 Sep 2026 15:16:37 +0000",
       "ts": 1789744597
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Many young investors can’t afford to invest without their parents’ help",
-      "link": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 15:14:00 GMT",
-      "ts": 1789744440
     },
     {
       "source": "CoinDesk",
