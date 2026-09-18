@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-18T11:48:04.811450+00:00",
+  "updated_utc": "2026-09-18T11:57:07.492699+00:00",
   "source": "Yahoo Finance",
   "us_markets": {
     "sp500": {
@@ -23,9 +23,9 @@
       "market_state": ""
     },
     "dow": {
-      "value": 51778.0,
+      "value": 51778.04,
       "previous_close": 52064.1,
-      "change": -286.1,
+      "change": -286.06,
       "change_percent": -0.55,
       "day_high": 51935.97,
       "day_low": 51607.65,
@@ -33,10 +33,10 @@
       "market_state": ""
     },
     "vix": {
-      "value": 15.35,
+      "value": 15.34,
       "previous_close": 17.1,
-      "change": -1.75,
-      "change_percent": -10.23,
+      "change": -1.76,
+      "change_percent": -10.29,
       "day_high": 15.44,
       "day_low": 14.99,
       "currency": "USD",
@@ -57,30 +57,30 @@
   },
   "commodities": {
     "brent": {
-      "value": 98.45,
+      "value": 98.58,
       "previous_close": 105.68,
-      "change": -7.23,
-      "change_percent": -6.84,
+      "change": -7.1,
+      "change_percent": -6.72,
       "day_high": 99.62,
       "day_low": 97.81,
       "currency": "USD",
       "market_state": ""
     },
     "wti": {
-      "value": 96.06,
+      "value": 96.23,
       "previous_close": 101.39,
-      "change": -5.33,
-      "change_percent": -5.26,
+      "change": -5.16,
+      "change_percent": -5.09,
       "day_high": 96.84,
       "day_low": 94.83,
       "currency": "USD",
       "market_state": ""
     },
     "gold": {
-      "value": 4419.5,
+      "value": 4416.1,
       "previous_close": 4351.9,
-      "change": 67.6,
-      "change_percent": 1.55,
+      "change": 64.2,
+      "change_percent": 1.48,
       "day_high": 4439.8,
       "day_low": 4372.2,
       "currency": "USD",
@@ -91,8 +91,8 @@
     "value": 100.5,
     "previous_close": 99.46,
     "change": 1.04,
-    "change_percent": 1.04,
-    "day_high": 100.5,
+    "change_percent": 1.05,
+    "day_high": 100.53,
     "day_low": 100.19,
     "currency": "USD",
     "market_state": ""
