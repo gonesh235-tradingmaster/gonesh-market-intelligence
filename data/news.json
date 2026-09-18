@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-18T18:43:32.942159+00:00",
+  "updated_utc": "2026-09-18T18:53:27.246376+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 18:46:00 GMT",
+      "ts": 1789757160
+    },
     {
       "source": "MarketWatch",
       "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
@@ -65,13 +72,6 @@
       "link": "https://www.marketwatch.com/story/netflix-is-too-focused-on-podcasts-and-not-enough-on-good-shows-analysts-say-be758c93?mod=mw_rss_topstories",
       "published": "Fri, 18 Sep 2026 16:23:00 GMT",
       "ts": 1789748580
-    },
-    {
-      "source": "MarketWatch",
-      "title": "These fast-growing ETFs aim for yields as high as 17.5%. But here’s the catch.",
-      "link": "https://www.marketwatch.com/story/these-fast-growing-etfs-aim-for-yields-as-high-as-17-5-but-heres-the-catch-6f0a3d43?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 16:11:00 GMT",
-      "ts": 1789747860
     },
     {
       "source": "Cointelegraph",
