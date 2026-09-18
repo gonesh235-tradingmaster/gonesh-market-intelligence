@@ -1,8 +1,50 @@
 {
-  "updated_utc": "2026-09-18T15:11:35.154176+00:00",
+  "updated_utc": "2026-09-18T15:26:24.239771+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Why Palo Alto Networks Stock Dropped Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-palo-alto-networks-stock-151911452.html",
+      "published": "2026-09-18T15:19:11Z",
+      "ts": 1789744751
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nativo signs LoI for La Patona gold plant funding in Peru",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/nativo-signs-loi-la-patona-151909445.html",
+      "published": "2026-09-18T15:19:09Z",
+      "ts": 1789744749
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
+      "link": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
+      "published": "Fri, 18 Sep 2026 15:16:37 +0000",
+      "ts": 1789744597
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Many young investors can’t afford to invest without their parents’ help",
+      "link": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 15:14:00 GMT",
+      "ts": 1789744440
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "What are the requirements for private student loans?",
+      "link": "https://finance.yahoo.com/news/qualify-private-student-loan-212942539.html",
+      "published": "2026-09-18T15:12:46Z",
+      "ts": 1789744366
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Sinks On Surprise Economic Data; Energy Name Teases Buy Point (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-amd-micron-sandisk/?src=A00220&yptr=yahoo",
+      "published": "2026-09-18T15:11:31Z",
+      "ts": 1789744291
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
@@ -12,24 +54,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Stay In Sync With Stock Trends Using Exposure Levels, Market Pulse",
+      "link": "https://www.investors.com/how-to-invest/investors-corner/stock-market-exposure-levels-market-pulse-investors-nasdaq-sp500/?src=A00220&yptr=yahoo",
+      "published": "2026-09-18T15:04:26Z",
+      "ts": 1789743866
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Caleb Hammer blasts 27-year-old who cashed out her 401(k) twice to fund a home down payment — with penalties",
       "link": "https://finance.yahoo.com/markets/options/articles/caleb-hammer-blasts-27-old-150000706.html",
       "published": "2026-09-18T15:00:00Z",
       "ts": 1789743600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "3 Stocks That Have Compounded Wealth for Decades. History Suggests the Next Decade Will Not Be Different",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-compounded-wealth-decades-145907091.html",
-      "published": "2026-09-18T14:59:07Z",
-      "ts": 1789743547
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "KCM awards $498m copper recovery plant contract to China’s NERIN",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/kcm-awards-498m-copper-recovery-145808484.html",
-      "published": "2026-09-18T14:58:08Z",
-      "ts": 1789743488
     },
     {
       "source": "Yahoo Finance",
@@ -44,20 +79,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/why-strategy-exits-boston-omaha-144442656.html",
       "published": "2026-09-18T14:44:42Z",
       "ts": 1789742682
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Thermo Fisher Scientific (TMO) is Positioned for Resurgence",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/thermo-fisher-scientific-tmo-positioned-143434079.html",
-      "published": "2026-09-18T14:34:34Z",
-      "ts": 1789742074
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "SpaceX stock falls as Starship's test flight slips to Sept. 28, retail investors sell shares",
-      "link": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-falls-as-starships-test-flight-slips-to-sept-28-retail-investors-sell-shares-143200705.html",
-      "published": "2026-09-18T14:32:00Z",
-      "ts": 1789741920
     },
     {
       "source": "MarketWatch",
@@ -165,13 +186,6 @@
       "ts": 1789734840
     },
     {
-      "source": "MarketWatch",
-      "title": "Warren Buffett moves further out of the spotlight at Berkshire, as his son is named chairman",
-      "link": "https://www.marketwatch.com/story/warren-buffett-exits-as-berkshire-hathaway-as-his-son-howard-becomes-chairman-095cc4f9?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 12:22:00 GMT",
-      "ts": 1789734120
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. Treasury curve flattens as long-end yields ease off multi-year peaks",
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-head-for-weekly-decline-as-postfed-rally-soothes-duration-fears-4906685",
@@ -221,13 +235,6 @@
       "ts": 1789726053
     },
     {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin climbs over $80,000 as rally accelerates at U.S. market open",
-      "link": "https://www.coindesk.com/tech/2026/09/18/live-updates-hype-leads-altcoin-rally-as-bitcoin-recovers-toward-usd78-000",
-      "published": "Fri, 18 Sep 2026 09:49:51 +0000",
-      "ts": 1789724991
-    },
-    {
       "source": "Investing Crypto",
       "title": "CT3 to Participate as Speaker at CoinFerenceX Singapore 2026",
       "link": "https://www.investing.com/news/cryptocurrency-news/ct3-to-participate-as-speaker-at-coinferencex-singapore-2026-4906900",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/ubs-sees-eurusd-long-opportunity-on-central-bank-dynamics-93CH-4906809",
       "published": "2026-09-18 08:21:32",
       "ts": 1789719692
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound gains as UK retail sales beat and dollar cools",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-gains-as-uk-retail-sales-beat-and-dollar-cools-4906805",
-      "published": "2026-09-18 08:17:33",
-      "ts": 1789719453
     }
   ]
 }
