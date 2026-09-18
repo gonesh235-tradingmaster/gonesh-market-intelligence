@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-18T19:04:39.428347+00:00",
+  "updated_utc": "2026-09-18T19:19:24.168099+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "It’s almost impossible to sell a condo these days: ‘I feel trapped’",
+      "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 19:11:00 GMT",
+      "ts": 1789758660
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance launches 24/7 FX perps with weekend pricing system",
+      "link": "https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 19:06:30 +0000",
+      "ts": 1789758390
+    },
     {
       "source": "MarketWatch",
       "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
@@ -58,13 +72,6 @@
       "link": "https://www.marketwatch.com/story/whats-really-driving-inflation-and-rising-interest-rates-59a9cd51?mod=mw_rss_topstories",
       "published": "Fri, 18 Sep 2026 16:50:00 GMT",
       "ts": 1789750200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why investors’ best move in reaction to Fed’s rate hike is doing nothing at all",
-      "link": "https://www.marketwatch.com/story/why-investors-best-move-in-reaction-to-feds-rate-hike-is-doing-nothing-at-all-6ff56b4c?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 16:39:00 GMT",
-      "ts": 1789749540
     },
     {
       "source": "Investing Forex",
@@ -170,13 +177,6 @@
       "link": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 11:54:24 +0000",
       "ts": 1789732464
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Dragonfly’s Qureshi calls for end to Zcash dev fund after 2028",
-      "link": "https://cointelegraph.com/news/dragonflys-qureshi-end-zcash-dev-fund-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 18 Sep 2026 11:22:24 +0000",
-      "ts": 1789730544
     },
     {
       "source": "CoinDesk",
