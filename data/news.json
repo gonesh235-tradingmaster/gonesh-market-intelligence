@@ -1,14 +1,14 @@
 {
-  "updated_utc": "2026-09-18T17:57:08.716111+00:00",
+  "updated_utc": "2026-09-18T18:13:01.008134+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
-      "source": "Yahoo Finance",
-      "title": "Visa, Mastercard $167.5 million settlement could mean money for ATM users. Who qualifies.",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/visa-mastercard-1675-million-settlement-could-mean-money-for-atm-users-who-qualifies-174156944.html",
-      "published": "2026-09-18T17:41:56Z",
-      "ts": 1789753316
+      "source": "Cointelegraph",
+      "title": "Crypto stocks rebound after CLARITY Act selloff",
+      "link": "https://cointelegraph.com/news/crypto-stocks-rebound-after-clarity-selloff-as-us-regulators-move-ahead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 17:55:57 +0000",
+      "ts": 1789754157
     },
     {
       "source": "MarketWatch",
@@ -16,48 +16,6 @@
       "link": "https://www.marketwatch.com/story/as-warren-buffetts-reign-ends-fans-should-sell-berkshire-and-buy-these-stocks-instead-bff5ba32?mod=mw_rss_topstories",
       "published": "Fri, 18 Sep 2026 17:41:00 GMT",
       "ts": 1789753260
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Everything You Need to Know About Oklo's Strategy",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/everything-know-oklos-strategy-174000831.html",
-      "published": "2026-09-18T17:40:00Z",
-      "ts": 1789753200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Says He “Would Be a Buyer Right Here, Right Now” of Nokia (NOK)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buyer-now-173333902.html",
-      "published": "2026-09-18T17:33:33Z",
-      "ts": 1789752813
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nike lost its blue-chip badge but not its swagger",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nike-lost-blue-chip-badge-173300242.html",
-      "published": "2026-09-18T17:33:00Z",
-      "ts": 1789752780
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer on CoreWeave (CRWV): “I Think It’s Going to Be Okay to Buy”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-coreweave-crwv-think-172910718.html",
-      "published": "2026-09-18T17:29:10Z",
-      "ts": 1789752550
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Says AI Could Make Okta’s Security Software More Essential",
-      "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-says-ai-could-171508518.html",
-      "published": "2026-09-18T17:15:08Z",
-      "ts": 1789751708
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Time to Build Better Corporate Governance at BETR",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/time-build-better-corporate-governance-171105878.html",
-      "published": "2026-09-18T17:11:05Z",
-      "ts": 1789751465
     },
     {
       "source": "MarketWatch",
@@ -228,13 +186,6 @@
       "ts": 1789730100
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross",
-      "link": "https://cointelegraph.com/markets/bitcoin-adds-to-bull-market-hopes-as-price-metric-prints-fourth-ever-bullish-cross?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 18 Sep 2026 10:46:17 +0000",
-      "ts": 1789728377
-    },
-    {
       "source": "CoinDesk",
       "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
       "link": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
@@ -282,6 +233,55 @@
       "link": "https://www.investing.com/news/forex-news/ubs-sees-eurusd-long-opportunity-on-central-bank-dynamics-93CH-4906809",
       "published": "2026-09-18 08:21:32",
       "ts": 1789719692
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound gains as UK retail sales beat and dollar cools",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-gains-as-uk-retail-sales-beat-and-dollar-cools-4906805",
+      "published": "2026-09-18 08:17:33",
+      "ts": 1789719453
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin consolidates at $77,612 with breakout imminent: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+      "published": "2026-09-18 07:11:59",
+      "ts": 1789715519
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Why is the Australian Dollar gaining today?",
+      "link": "https://www.investing.com/news/forex-news/why-is-australian-dollar-gaining-today-93CH-4906672",
+      "published": "2026-09-18 05:58:24",
+      "ts": 1789711104
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Climbs 12% In Bullish Trade",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-in-bullish-trade-4906656",
+      "published": "2026-09-18 03:36:04",
+      "ts": 1789702564
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Cardano Climbs 10% In Bullish Trade",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-bullish-trade-4906628",
+      "published": "2026-09-18 02:27:02",
+      "ts": 1789698422
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin extends recovery from Clarity setback, gains capped by Fed hawkishness",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
+      "published": "2026-09-17 21:19:11",
+      "ts": 1789679951
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Zama Opens Confidential Access to DeFi’s Existing Yield Venues",
+      "link": "https://www.investing.com/news/cryptocurrency-news/zama-opens-confidential-access-to-defis-existing-yield-venues-4905281",
+      "published": "2026-09-17 11:00:34",
+      "ts": 1789642834
     }
   ]
 }
