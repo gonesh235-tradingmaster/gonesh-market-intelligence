@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-18T09:19:48.753074+00:00",
+  "updated_utc": "2026-09-18T09:33:18.902393+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -9,6 +9,13 @@
       "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
       "published": "Fri, 18 Sep 2026 09:15:00 GMT",
       "ts": 1789722900
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
+      "link": "https://cointelegraph.com/news/dtcpay-25m-series-a-sbi-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 09:14:03 +0000",
+      "ts": 1789722843
     },
     {
       "source": "Investing Forex",
@@ -191,13 +198,6 @@
       "link": "https://cointelegraph.com/news/us-sanctions-irans-bitbank-saying-it-processes-hormuz-safe-bitcoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 01:33:54 +0000",
       "ts": 1789695234
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "North Korea drives onchain malware surge, CoinEx shuts: Asia Express",
-      "link": "https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 17 Sep 2026 23:49:23 +0000",
-      "ts": 1789688963
     },
     {
       "source": "CoinDesk",
