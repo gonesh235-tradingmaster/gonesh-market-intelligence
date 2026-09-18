@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-18T07:33:59.736686+00:00",
+  "updated_utc": "2026-09-18T07:46:15.204551+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
+      "link": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
+      "published": "Fri, 18 Sep 2026 07:37:32 +0000",
+      "ts": 1789717052
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Yen slides despite BOJ rate hike, dollar holds gains amid hawkish Fed",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-yen-slides-despite-boj-rate-hike-4906678",
+      "published": "2026-09-18 07:18:34",
+      "ts": 1789715914
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin consolidates at $77,612 with breakout imminent: Live levels",
@@ -58,13 +72,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
       "published": "Fri, 18 Sep 2026 05:23:29 +0000",
       "ts": 1789709009
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asia FX mixed as yen slides despite BOJ rate hike",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-yen-slides-despite-boj-rate-hike-4906678",
-      "published": "2026-09-18 05:07:17",
-      "ts": 1789708037
     },
     {
       "source": "Cointelegraph",
@@ -142,13 +149,6 @@
       "link": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work",
       "published": "Thu, 17 Sep 2026 21:47:22 +0000",
       "ts": 1789681642
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The Ondo Finance succession crisis gets messier as Kathleen Allman’s daughter alleges ‘dementia’, alcoholism and reckless spending",
-      "link": "https://www.coindesk.com/business/2026/09/17/the-ondo-finance-succession-crisis-gets-messier-as-kathleen-allman-s-daughter-alleges-dementia-alcoholism-and-reckless-spending",
-      "published": "Thu, 17 Sep 2026 21:28:35 +0000",
-      "ts": 1789680515
     },
     {
       "source": "MarketWatch",
@@ -271,17 +271,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "FBI opens probe of Jon Venetos’ Lurin Capital",
-      "link": "https://finance.yahoo.com/real-estate/articles/fbi-opens-probe-jon-venetos-194004197.html",
-      "published": "2026-09-16T19:40:04Z",
-      "ts": 1789587604
+      "title": "Average car payments in 2026: What to expect",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/average-auto-loan-payments-expect-174817148.html",
+      "published": "2026-09-16T19:50:31Z",
+      "ts": 1789588231
     },
     {
       "source": "Yahoo Finance",
-      "title": "The Fed's Hawkish Pivot Didn't Fix The 10-Year Yield; S&P 500 Slides",
-      "link": "https://www.investors.com/news/federal-reserve-meeting-sept-warsh-10-year-treasury-yield-sp-500/?src=A00220&yptr=yahoo",
-      "published": "2026-09-16T19:33:41Z",
-      "ts": 1789587221
+      "title": "Fox (FOXA) Faces a Deeper DOJ Review of Roku (ROKU). Can the Deal Still Deliver?",
+      "link": "https://finance.yahoo.com/media-advertising/articles/fox-foxa-faces-deeper-doj-194850344.html",
+      "published": "2026-09-16T19:48:50Z",
+      "ts": 1789588130
     }
   ]
 }
