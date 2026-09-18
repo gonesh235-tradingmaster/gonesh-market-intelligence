@@ -1,14 +1,70 @@
 {
-  "updated_utc": "2026-09-18T16:52:41.573017+00:00",
+  "updated_utc": "2026-09-18T17:02:41.965349+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Why Sandisk Stock Rallied Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-sandisk-stock-rallied-today-165646280.html",
+      "published": "2026-09-18T16:56:46Z",
+      "ts": 1789750606
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Vista Energy's 2026 Outlook: Shale Expansion Drives 70% Adjusted EBITDA Margins",
+      "link": "https://finance.yahoo.com/energy/articles/vista-energys-2026-outlook-shale-165601160.html",
+      "published": "2026-09-18T16:56:01Z",
+      "ts": 1789750561
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Gilead Strengthens HIV Growth Platform with Expanded Latin America Access",
+      "link": "https://finance.yahoo.com/healthcare/articles/gilead-strengthens-hiv-growth-platform-165122348.html",
+      "published": "2026-09-18T16:51:22Z",
+      "ts": 1789750282
+    },
     {
       "source": "MarketWatch",
       "title": "What’s really driving inflation and rising interest rates",
       "link": "https://www.marketwatch.com/story/whats-really-driving-inflation-and-rising-interest-rates-59a9cd51?mod=mw_rss_topstories",
       "published": "Fri, 18 Sep 2026 16:50:00 GMT",
       "ts": 1789750200
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Auto industry urges Trump to keep Chinese automakers out ahead of Xi meeting",
+      "link": "https://finance.yahoo.com/economy/policy/articles/auto-industry-urges-trump-keep-164913146.html",
+      "published": "2026-09-18T16:49:13Z",
+      "ts": 1789750153
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Truist Reshapes Lending Strategy with $5.5B Auto-Loan Sale",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/truist-reshapes-lending-strategy-5-164856583.html",
+      "published": "2026-09-18T16:48:56Z",
+      "ts": 1789750136
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "JPMorgan Sees Investment Banking and Trading Powering Q3 Growth",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-sees-investment-banking-trading-164740809.html",
+      "published": "2026-09-18T16:47:40Z",
+      "ts": 1789750060
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "AbbVie’s Dividend Growth Remains Solid Despite a Moderate Yield",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/abbvie-dividend-growth-remains-solid-164620099.html",
+      "published": "2026-09-18T16:46:20Z",
+      "ts": 1789749980
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Verizon’s Dividend Story: Reliable Income with Gradual Growth",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/verizon-dividend-story-reliable-income-164507682.html",
+      "published": "2026-09-18T16:45:07Z",
+      "ts": 1789749907
     },
     {
       "source": "MarketWatch",
@@ -18,20 +74,6 @@
       "ts": 1789749540
     },
     {
-      "source": "Yahoo Finance",
-      "title": "1 Incredible Reason to Buy Costco Stock Before It Reports Earnings on Sept. 24.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-incredible-reason-buy-costco-163500644.html",
-      "published": "2026-09-18T16:35:00Z",
-      "ts": 1789749300
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Using A Limit Order To Buy Occidental Petroleum At A Discount",
-      "link": "https://www.investors.com/research/options/occidental-petroleum-stock-oxy-limit-order-options/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T16:34:34Z",
-      "ts": 1789749274
-    },
-    {
       "source": "MarketWatch",
       "title": "Two signs investors don’t have to fear an AI slowdown",
       "link": "https://www.marketwatch.com/story/two-signs-investors-dont-have-to-fear-an-ai-slowdown-5ec40948?mod=mw_rss_topstories",
@@ -39,11 +81,11 @@
       "ts": 1789749180
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Up 500% In 12 Months, This is Where Micron Is Headed",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/500-12-months-where-micron-163024451.html",
-      "published": "2026-09-18T16:30:24Z",
-      "ts": 1789749024
+      "source": "Investing Forex",
+      "title": "Canadian dollar weakens against major currencies in the week ending September 18",
+      "link": "https://www.investing.com/news/forex-news/canadian-dollar-weakens-against-major-currencies-in-the-week-ending-september-18-93CH-4907692",
+      "published": "2026-09-18 16:25:57",
+      "ts": 1789748757
     },
     {
       "source": "MarketWatch",
@@ -53,32 +95,11 @@
       "ts": 1789748580
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Says to Wait For Corning (GLW) to Fall Further",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-wait-corning-162201204.html",
-      "published": "2026-09-18T16:22:01Z",
-      "ts": 1789748521
-    },
-    {
       "source": "MarketWatch",
       "title": "These fast-growing ETFs aim for yields as high as 17.5%. But here’s the catch.",
       "link": "https://www.marketwatch.com/story/these-fast-growing-etfs-aim-for-yields-as-high-as-17-5-but-heres-the-catch-6f0a3d43?mod=mw_rss_topstories",
       "published": "Fri, 18 Sep 2026 16:11:00 GMT",
       "ts": 1789747860
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Darden Restaurants, Costco In Earnings Spotlight, Along With This IT Distributor",
-      "link": "https://www.investors.com/research/earnings-preview/darden-stock-costco-earnings-td-synnex-ai-infrastructure/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T16:07:33Z",
-      "ts": 1789747653
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Pressured As Yields Hit 5%; Strategy Soars As Bitcoin Price Tops $80,500 (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-amd-micron-sandisk/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T16:04:37Z",
-      "ts": 1789747477
     },
     {
       "source": "Cointelegraph",
@@ -235,13 +256,6 @@
       "ts": 1789726053
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Mortgage and refinance interest rates today, Friday, September 18, 2026: Rates climb above 7%",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-september-18-2026-rates-climb-above-7-100000327.html",
-      "published": "2026-09-18T10:00:00Z",
-      "ts": 1789725600
-    },
-    {
       "source": "Investing Crypto",
       "title": "CT3 to Participate as Speaker at CoinFerenceX Singapore 2026",
       "link": "https://www.investing.com/news/cryptocurrency-news/ct3-to-participate-as-speaker-at-coinferencex-singapore-2026-4906900",
@@ -268,20 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/citi-sees-eurjpy-falling-below-175-despite-nearterm-rebound-risk-93CH-4906818",
       "published": "2026-09-18 08:37:50",
       "ts": 1789720670
-    },
-    {
-      "source": "Investing Forex",
-      "title": "UBS sees EUR/USD long opportunity on central bank dynamics",
-      "link": "https://www.investing.com/news/forex-news/ubs-sees-eurusd-long-opportunity-on-central-bank-dynamics-93CH-4906809",
-      "published": "2026-09-18 08:21:32",
-      "ts": 1789719692
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound gains as UK retail sales beat and dollar cools",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-gains-as-uk-retail-sales-beat-and-dollar-cools-4906805",
-      "published": "2026-09-18 08:17:33",
-      "ts": 1789719453
     }
   ]
 }
