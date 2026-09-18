@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-18T07:55:44.247088+00:00",
+  "updated_utc": "2026-09-18T08:09:42.005178+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Euro zone yields head for weekly decline as post-Fed rally soothes duration fears",
+      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-head-for-weekly-decline-as-postfed-rally-soothes-duration-fears-4906685",
+      "published": "2026-09-18 07:55:05",
+      "ts": 1789718105
+    },
     {
       "source": "CoinDesk",
       "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
@@ -271,17 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Should you pay off your car loan early?",
-      "link": "https://finance.yahoo.com/news/pay-off-car-loan-early-202140632.html",
-      "published": "2026-09-16T19:58:34Z",
-      "ts": 1789588714
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Investors Don’t Have 9 Lives, So Stop Chasing Dead-Count Bounces in Hot Stocks Like Broadcom",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-don-t-9-lives-195816669.html",
-      "published": "2026-09-16T19:58:16Z",
-      "ts": 1789588696
+      "title": "Ispire Technology Inc. Q4 2026 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ispire-technology-inc-q4-2026-204637854.html",
+      "published": "2026-09-16T20:46:37Z",
+      "ts": 1789591597
     }
   ]
 }
