@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-18T08:52:32.920279+00:00",
+  "updated_utc": "2026-09-18T09:02:50.694974+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment",
+      "link": "https://cointelegraph.com/news/binance-cites-speculation-report-ecb-chief-mica-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 08:50:38 +0000",
+      "ts": 1789721438
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin cycle bottom may already be in at $58K, says analyst James Check",
@@ -242,13 +249,6 @@
       "ts": 1789674720
     },
     {
-      "source": "Cointelegraph",
-      "title": "CFTC expands regulatory relief for passive trading software providers",
-      "link": "https://cointelegraph.com/news/cftc-expands-regulatory-relief-for-passive-trading-software-providers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 17 Sep 2026 19:30:48 +0000",
-      "ts": 1789673448
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar halts six-day rally after Fed hike, sterling slips after BoE stands pat",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-sevenweek-high-yen-steadies-4904802",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "When the Fed hikes rates, here's how it affects retirees and their money",
-      "link": "https://finance.yahoo.com/economy/article/when-the-fed-hikes-rates-heres-how-it-affects-retirees-and-their-money-212953419.html",
-      "published": "2026-09-16T21:29:53Z",
-      "ts": 1789594193
+      "title": "Sunbelt Rentals (SUNB) Raises Guidance. Will Higher Fleet Spending Deliver Cash?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sunbelt-rentals-sunb-raises-guidance-213756984.html",
+      "published": "2026-09-16T21:37:56Z",
+      "ts": 1789594676
     }
   ]
 }
