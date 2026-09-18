@@ -1,14 +1,28 @@
 {
-  "updated_utc": "2026-09-18T11:25:13.964212+00:00",
+  "updated_utc": "2026-09-18T11:37:56.913419+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "A sideways market and rising earnings are presenting a buying opportunity for this crucial sector",
+      "link": "https://www.marketwatch.com/story/a-sideways-market-and-rising-earnings-are-presenting-opportunities-not-seen-since-chatgpt-first-launched-0c37f89d?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 11:34:00 GMT",
+      "ts": 1789731240
+    },
     {
       "source": "MarketWatch",
       "title": "More Americans are about to get scammed by the coming peptide rush",
       "link": "https://www.marketwatch.com/story/more-americans-are-about-to-get-scammed-by-the-coming-peptide-rush-c835bc3d?mod=mw_rss_topstories",
       "published": "Fri, 18 Sep 2026 11:23:00 GMT",
       "ts": 1789730580
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Dragonfly’s Qureshi calls for end to Zcash dev fund after 2028",
+      "link": "https://cointelegraph.com/news/dragonflys-qureshi-end-zcash-dev-fund-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 11:22:24 +0000",
+      "ts": 1789730544
     },
     {
       "source": "CoinDesk",
@@ -30,13 +44,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-adds-to-bull-market-hopes-as-price-metric-prints-fourth-ever-bullish-cross?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 10:46:17 +0000",
       "ts": 1789728377
-    },
-    {
-      "source": "MarketWatch",
-      "title": "A sideways market and rising earnings are presenting opportunities not seen since ChatGPT first launched",
-      "link": "https://www.marketwatch.com/story/a-sideways-market-and-rising-earnings-are-presenting-opportunities-not-seen-since-chatgpt-first-launched-0c37f89d?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 10:38:00 GMT",
-      "ts": 1789727880
     },
     {
       "source": "CoinDesk",
@@ -228,13 +235,6 @@
       "ts": 1789704234
     },
     {
-      "source": "Cointelegraph",
-      "title": "World launches self-custodial ‘super app’ World Money",
-      "link": "https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 18 Sep 2026 03:40:28 +0000",
-      "ts": 1789702828
-    },
-    {
       "source": "Investing Crypto",
       "title": "EOS Climbs 12% In Bullish Trade",
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-in-bullish-trade-4906656",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "StanChart Sees Higher Oil Floor as Hormuz Crisis Spreads to Saudi Export Routes",
-      "link": "https://finance.yahoo.com/energy/articles/stanchart-sees-higher-oil-floor-000000512.html",
-      "published": "2026-09-17T00:00:00Z",
-      "ts": 1789603200
+      "title": "AXT Inc. (AXTI) Draws Bullish Analyst Attention — Here’s Why",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/axt-inc-axti-draws-bullish-010252885.html",
+      "published": "2026-09-17T01:02:52Z",
+      "ts": 1789606972
     }
   ]
 }
