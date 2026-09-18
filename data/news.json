@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-17T23:53:20.203744+00:00",
+  "updated_utc": "2026-09-18T00:05:03.018385+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -257,6 +257,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Guardant Health Nears Buy Point As Sales Outlook Brightens",
+      "link": "https://www.investors.com/research/cancer-stock-guardant-health-gh/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T16:39:37Z",
+      "ts": 1789576777
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is Zimmer Biomet Stock Underperforming the Nasdaq?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zimmer-biomet-stock-underperforming-nasdaq-163755218.html",
+      "published": "2026-09-16T16:37:55Z",
+      "ts": 1789576675
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "ORCL Stock Layoffs: What to Know About the Latest Oracle Job Cuts",
       "link": "https://finance.yahoo.com/markets/stocks/articles/orcl-stock-layoffs-know-latest-163322999.html",
       "published": "2026-09-16T16:33:22Z",
@@ -264,24 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "$420M CMBS Loan at 51 West 52nd Exits Special Servicing",
-      "link": "https://finance.yahoo.com/real-estate/articles/420m-cmbs-loan-51-west-162120078.html",
-      "published": "2026-09-16T16:21:20Z",
-      "ts": 1789575680
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "SEC chief vows action on crypto rules after Senate bill fails",
-      "link": "https://www.investing.com/news/cryptocurrency-news/sec-chief-vows-action-on-crypto-rules-after-senate-bill-fails-93CH-4904160",
-      "published": "2026-09-16 16:20:11",
-      "ts": 1789575611
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Diesel Price Predictions: How Much Higher Prices Can Go as Diesel Prices Top Record $6 Per Gallon",
-      "link": "https://finance.yahoo.com/energy/articles/diesel-price-predictions-much-higher-161226017.html",
-      "published": "2026-09-16T16:12:26Z",
-      "ts": 1789575146
+      "title": "Australia’s infrastructure puts steel supply under pressure",
+      "link": "https://finance.yahoo.com/energy/articles/australia-infrastructure-puts-steel-supply-163106803.html",
+      "published": "2026-09-16T16:31:06Z",
+      "ts": 1789576266
     }
   ]
 }
