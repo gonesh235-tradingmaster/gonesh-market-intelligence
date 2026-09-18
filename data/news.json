@@ -1,14 +1,35 @@
 {
-  "updated_utc": "2026-09-18T16:43:39.462632+00:00",
+  "updated_utc": "2026-09-18T16:52:41.573017+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "What’s really driving inflation and rising interest rates",
+      "link": "https://www.marketwatch.com/story/whats-really-driving-inflation-and-rising-interest-rates-59a9cd51?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 16:50:00 GMT",
+      "ts": 1789750200
+    },
     {
       "source": "MarketWatch",
       "title": "Why investors’ best move in reaction to Fed’s rate hike is doing nothing at all",
       "link": "https://www.marketwatch.com/story/why-investors-best-move-in-reaction-to-feds-rate-hike-is-doing-nothing-at-all-6ff56b4c?mod=mw_rss_topstories",
       "published": "Fri, 18 Sep 2026 16:39:00 GMT",
       "ts": 1789749540
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "1 Incredible Reason to Buy Costco Stock Before It Reports Earnings on Sept. 24.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-incredible-reason-buy-costco-163500644.html",
+      "published": "2026-09-18T16:35:00Z",
+      "ts": 1789749300
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Using A Limit Order To Buy Occidental Petroleum At A Discount",
+      "link": "https://www.investors.com/research/options/occidental-petroleum-stock-oxy-limit-order-options/?src=A00220&yptr=yahoo",
+      "published": "2026-09-18T16:34:34Z",
+      "ts": 1789749274
     },
     {
       "source": "MarketWatch",
@@ -19,10 +40,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "The CFTC Just Sent Its Crypto Rules to the White House. What’s in the Filing, and How Quickly Could It Move?",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/cftc-just-sent-crypto-rules-162414716.html",
-      "published": "2026-09-18T16:24:14Z",
-      "ts": 1789748654
+      "title": "Up 500% In 12 Months, This is Where Micron Is Headed",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/500-12-months-where-micron-163024451.html",
+      "published": "2026-09-18T16:30:24Z",
+      "ts": 1789749024
     },
     {
       "source": "MarketWatch",
@@ -37,13 +58,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-wait-corning-162201204.html",
       "published": "2026-09-18T16:22:01Z",
       "ts": 1789748521
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Portfolio Fit: UCBG",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/portfolio-fit-ucbg-162046722.html",
-      "published": "2026-09-18T16:20:46Z",
-      "ts": 1789748446
     },
     {
       "source": "MarketWatch",
@@ -72,20 +86,6 @@
       "link": "https://cointelegraph.com/news/cftc-submits-crypto-market-regulation-plan-for-white-house-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 16:04:22 +0000",
       "ts": 1789747462
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Netflix Stock Downgraded To Sell As Viewer Engagement Wanes",
-      "link": "https://www.investors.com/news/technology/netflix-stock-downgraded-sell-viewer-engagement-wanes/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T15:56:30Z",
-      "ts": 1789746990
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "These Steelmakers Sink To Bottom Of S&P 500 After Issuing Weak Guidance",
-      "link": "https://www.investors.com/news/sp-500-stocks-steelmakers-outlook-nue-stld-stock/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T15:47:54Z",
-      "ts": 1789746474
     },
     {
       "source": "Cointelegraph",
@@ -142,13 +142,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
       "published": "2026-09-18 13:39:48",
       "ts": 1789738788
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 13:39:00 GMT",
-      "ts": 1789738740
     },
     {
       "source": "Cointelegraph",
@@ -240,6 +233,13 @@
       "link": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
       "published": "Fri, 18 Sep 2026 10:07:33 +0000",
       "ts": 1789726053
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Mortgage and refinance interest rates today, Friday, September 18, 2026: Rates climb above 7%",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-september-18-2026-rates-climb-above-7-100000327.html",
+      "published": "2026-09-18T10:00:00Z",
+      "ts": 1789725600
     },
     {
       "source": "Investing Crypto",
