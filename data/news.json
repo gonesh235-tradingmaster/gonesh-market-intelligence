@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-18T22:57:39.663749+00:00",
+  "updated_utc": "2026-09-18T23:12:25.428639+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 23:00:00 GMT",
+      "ts": 1789772400
+    },
     {
       "source": "MarketWatch",
       "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
@@ -79,13 +86,6 @@
       "link": "https://cointelegraph.com/news/coinbase-files-to-bring-single-stock-perpetual-futures-to-us-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 19:53:54 +0000",
       "ts": 1789761234
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
-      "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 19:30:00 GMT",
-      "ts": 1789759800
     },
     {
       "source": "Investing Crypto",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "ETSY Gets a Bullish Upgrade: What Investors Should Know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etsy-gets-bullish-upgrade-investors-153936911.html",
-      "published": "2026-09-17T15:39:36Z",
-      "ts": 1789659576
+      "title": "SpaceX (SPCX)’s Space Data Center Dream Runs into Four Very Earthly Problems",
+      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-spcx-space-data-center-160856877.html",
+      "published": "2026-09-17T16:08:56Z",
+      "ts": 1789661336
     }
   ]
 }
