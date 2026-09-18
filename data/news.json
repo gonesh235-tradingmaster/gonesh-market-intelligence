@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-18T10:23:53.747903+00:00",
+  "updated_utc": "2026-09-18T10:37:02.427844+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Warren Buffett exits as Berkshire Hathaway as his son Howard becomes chairman",
+      "link": "https://www.marketwatch.com/story/warren-buffett-exits-as-berkshire-hathaway-as-his-son-howard-becomes-chairman-095cc4f9?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 10:35:00 GMT",
+      "ts": 1789727700
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
+      "link": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
+      "published": "Fri, 18 Sep 2026 10:33:05 +0000",
+      "ts": 1789727585
+    },
     {
       "source": "MarketWatch",
       "title": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR.",
@@ -179,13 +193,6 @@
       "ts": 1789707089
     },
     {
-      "source": "CoinDesk",
-      "title": "Ether and XRP ETFs post outflows as crypto majors move higher",
-      "link": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
-      "published": "Fri, 18 Sep 2026 04:49:17 +0000",
-      "ts": 1789706957
-    },
-    {
       "source": "Cointelegraph",
       "title": "Cardano’s IOG warns users to avoid YouTube channel amid apparent hijack",
       "link": "https://cointelegraph.com/news/cardanos-iog-warns-users-to-avoid-youtube-channel-amid-giveaway-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -261,13 +268,6 @@
       "link": "https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
       "published": "Thu, 17 Sep 2026 20:23:00 GMT",
       "ts": 1789676580
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Pet insurance or savings account: What’s the best way to plan for a big vet bill?",
-      "link": "https://www.marketwatch.com/story/pet-insurance-or-savings-account-whats-the-best-way-to-plan-for-a-big-vet-bill-f9f22f33?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 20:19:00 GMT",
-      "ts": 1789676340
     },
     {
       "source": "Investing Crypto",
