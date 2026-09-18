@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-18T08:40:38.428114+00:00",
+  "updated_utc": "2026-09-18T08:52:32.920279+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin cycle bottom may already be in at $58K, says analyst James Check",
+      "link": "https://cointelegraph.com/markets/bitcoin-cycle-bottom-58k-james-check?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 08:47:20 +0000",
+      "ts": 1789721240
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Citi sees EUR/JPY falling below ¥175 despite near-term rebound risk",
+      "link": "https://www.investing.com/news/forex-news/citi-sees-eurjpy-falling-below-175-despite-nearterm-rebound-risk-93CH-4906818",
+      "published": "2026-09-18 08:37:50",
+      "ts": 1789720670
+    },
     {
       "source": "Investing Forex",
       "title": "UBS sees EUR/USD long opportunity on central bank dynamics",
@@ -249,20 +263,6 @@
       "ts": 1789672020
     },
     {
-      "source": "Cointelegraph",
-      "title": "WisdomTree, MoonPay team up to expand US access to tokenized money market fund",
-      "link": "https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 17 Sep 2026 17:31:12 +0000",
-      "ts": 1789666272
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Uganda shilling faces pressure as dollar demand rises",
-      "link": "https://www.investing.com/news/forex-news/uganda-shilling-faces-pressure-as-dollar-demand-rises-93CH-4905645",
-      "published": "2026-09-17 12:35:41",
-      "ts": 1789648541
-    },
-    {
       "source": "Investing Crypto",
       "title": "Zama Opens Confidential Access to DeFi’s Existing Yield Venues",
       "link": "https://www.investing.com/news/cryptocurrency-news/zama-opens-confidential-access-to-defis-existing-yield-venues-4905281",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "ETF League Tables: Inflows of $285M For JMorgan ETFs",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-inflows-285m-210033559.html",
-      "published": "2026-09-16T21:00:33Z",
-      "ts": 1789592433
+      "title": "When the Fed hikes rates, here's how it affects retirees and their money",
+      "link": "https://finance.yahoo.com/economy/article/when-the-fed-hikes-rates-heres-how-it-affects-retirees-and-their-money-212953419.html",
+      "published": "2026-09-16T21:29:53Z",
+      "ts": 1789594193
     }
   ]
 }
