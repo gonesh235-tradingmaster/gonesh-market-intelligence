@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-18T11:11:31.647726+00:00",
+  "updated_utc": "2026-09-18T11:25:13.964212+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "More Americans are about to get scammed by the coming peptide rush",
+      "link": "https://www.marketwatch.com/story/more-americans-are-about-to-get-scammed-by-the-coming-peptide-rush-c835bc3d?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 11:23:00 GMT",
+      "ts": 1789730580
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP on the brink of a golden cross as focus switches to altcoins",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
+      "published": "Fri, 18 Sep 2026 11:15:00 +0000",
+      "ts": 1789730100
+    },
     {
       "source": "MarketWatch",
       "title": "Warren Buffett exits Berkshire Hathaway as his son Howard becomes chairman",
@@ -193,13 +207,6 @@
       "ts": 1789710201
     },
     {
-      "source": "CoinDesk",
-      "title": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
-      "link": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
-      "published": "Fri, 18 Sep 2026 05:23:29 +0000",
-      "ts": 1789709009
-    },
-    {
       "source": "Cointelegraph",
       "title": "Zcash targets November for NU7 mainnet upgrade with 25-second blocks",
       "link": "https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -261,13 +268,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
       "published": "2026-09-17 21:19:11",
       "ts": 1789679951
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
-      "link": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
-      "published": "Thu, 17 Sep 2026 21:09:00 GMT",
-      "ts": 1789679340
     },
     {
       "source": "Investing Crypto",
