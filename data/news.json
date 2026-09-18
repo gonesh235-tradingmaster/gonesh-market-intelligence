@@ -1,28 +1,42 @@
 {
-  "updated_utc": "2026-09-18T15:39:48.970768+00:00",
+  "updated_utc": "2026-09-18T15:51:40.627724+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Fed sat on Silicon Valley Bank flaws because regulators feared being wrong, report finds",
+      "link": "https://finance.yahoo.com/economy/policy/article/fed-sat-on-silicon-valley-bank-flaws-because-regulators-feared-being-wrong-report-finds-154331423.html",
+      "published": "2026-09-18T15:43:31Z",
+      "ts": 1789746211
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why Alphabet Stock Popped This Morning",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-alphabet-stock-popped-morning-153653750.html",
+      "published": "2026-09-18T15:36:53Z",
+      "ts": 1789745813
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin hits $81K as US bond yields rebound on global oil woes",
+      "link": "https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 15:35:59 +0000",
+      "ts": 1789745759
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "3 AI Stocks Stuck in Neutral to Buy Before Their Next Catalysts Hit",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-stuck-neutral-153500608.html",
+      "published": "2026-09-18T15:35:00Z",
+      "ts": 1789745700
+    },
     {
       "source": "MarketWatch",
       "title": "A happier retirement contains these 3 elements",
       "link": "https://www.marketwatch.com/story/a-happier-retirement-contains-these-3-elements-9aa99c9a?mod=mw_rss_topstories",
       "published": "Fri, 18 Sep 2026 15:35:00 GMT",
       "ts": 1789745700
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Ripple Just Connected XRP to Stripe’s AI Agent Payments. Why the Sessions Run on XRP, Not RLUSD",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/ripple-just-connected-xrp-stripe-153254707.html",
-      "published": "2026-09-18T15:32:54Z",
-      "ts": 1789745574
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Waymo Is Doing So Much More Than Most Understand, Keeping Me Buying Alphabet Hand Over Fist",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/waymo-doing-much-more-most-153230124.html",
-      "published": "2026-09-18T15:32:30Z",
-      "ts": 1789745550
     },
     {
       "source": "Yahoo Finance",
@@ -72,20 +86,6 @@
       "link": "https://www.investors.com/how-to-invest/investors-corner/stock-market-exposure-levels-market-pulse-investors-nasdaq-sp500/?src=A00220&yptr=yahoo",
       "published": "2026-09-18T15:04:26Z",
       "ts": 1789743866
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Caleb Hammer blasts 27-year-old who cashed out her 401(k) twice to fund a home down payment — with penalties",
-      "link": "https://finance.yahoo.com/markets/options/articles/caleb-hammer-blasts-27-old-150000706.html",
-      "published": "2026-09-18T15:00:00Z",
-      "ts": 1789743600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "EU banks must be bigger, have deeper capital market, to compete with US, say top EU officials",
-      "link": "https://finance.yahoo.com/news/eu-banks-must-bigger-deeper-145102687.html",
-      "published": "2026-09-18T14:51:02Z",
-      "ts": 1789743062
     },
     {
       "source": "MarketWatch",
@@ -263,13 +263,6 @@
       "ts": 1789722035
     },
     {
-      "source": "Cointelegraph",
-      "title": "Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment",
-      "link": "https://cointelegraph.com/news/binance-cites-speculation-report-ecb-chief-mica-intervention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 18 Sep 2026 08:50:38 +0000",
-      "ts": 1789721438
-    },
-    {
       "source": "Investing Forex",
       "title": "Citi sees EUR/JPY falling below ¥175 despite near-term rebound risk",
       "link": "https://www.investing.com/news/forex-news/citi-sees-eurjpy-falling-below-175-despite-nearterm-rebound-risk-93CH-4906818",
@@ -282,6 +275,13 @@
       "link": "https://www.investing.com/news/forex-news/ubs-sees-eurusd-long-opportunity-on-central-bank-dynamics-93CH-4906809",
       "published": "2026-09-18 08:21:32",
       "ts": 1789719692
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound gains as UK retail sales beat and dollar cools",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-gains-as-uk-retail-sales-beat-and-dollar-cools-4906805",
+      "published": "2026-09-18 08:17:33",
+      "ts": 1789719453
     }
   ]
 }
