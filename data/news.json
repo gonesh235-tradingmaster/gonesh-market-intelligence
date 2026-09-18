@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-18T02:27:30.070655+00:00",
+  "updated_utc": "2026-09-18T02:40:50.600262+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Cardano Climbs 10% In Bullish Trade",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-bullish-trade-4906628",
+      "published": "2026-09-18 02:27:02",
+      "ts": 1789698422
+    },
     {
       "source": "Cointelegraph",
       "title": "US sanctions Iran’s BitBank, saying it processes ‘Hormuz Safe’ Bitcoin payments",
@@ -271,17 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dollar Posts Modest Gains Ahead of Expected Fed Rate Hike",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-posts-modest-gains-ahead-143354252.html",
-      "published": "2026-09-16T14:33:54Z",
-      "ts": 1789569234
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Revolution Medicines’ (RVMD) Promising Clinical Results Signal Potential Paradigm Shift",
-      "link": "https://finance.yahoo.com/healthcare/articles/revolution-medicines-rvmd-promising-clinical-143313578.html",
-      "published": "2026-09-16T14:33:13Z",
-      "ts": 1789569193
+      "title": "Dave & Buster’s (PLAY) Bets On New Leaders To Reverse Its Slide",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dave-buster-play-bets-leaders-144539009.html",
+      "published": "2026-09-16T14:45:39Z",
+      "ts": 1789569939
     }
   ]
 }
