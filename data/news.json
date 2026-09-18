@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-18T04:08:50.387824+00:00",
+  "updated_utc": "2026-09-18T04:24:15.399753+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Cardano’s IOG warns users to avoid YouTube channel amid giveaway scam",
+      "link": "https://cointelegraph.com/news/cardanos-iog-warns-users-to-avoid-youtube-channel-amid-giveaway-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 04:11:40 +0000",
+      "ts": 1789704700
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Yuan hits 4-year high ahead of Trump-Xi meeting as China broadens clearing",
+      "link": "https://www.investing.com/news/forex-news/yuan-hits-4year-high-ahead-of-trumpxi-meeting-as-china-broadens-clearing-4906662",
+      "published": "2026-09-18 04:03:54",
+      "ts": 1789704234
+    },
     {
       "source": "Cointelegraph",
       "title": "World launches self-custodial ‘super app’ World Money",
@@ -179,13 +193,6 @@
       "ts": 1789664400
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin coils near $76.5K as US stocks rebound from Fed rate hike",
-      "link": "https://cointelegraph.com/markets/bitcoin-coils-near-765k-as-us-stocks-rebound-from-fed-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 17 Sep 2026 16:22:23 +0000",
-      "ts": 1789662143
-    },
-    {
       "source": "CoinDesk",
       "title": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs",
       "link": "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
@@ -264,24 +271,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Mysterious trader moves $122 million ahead of Fed's 2 p.m. decision",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html",
-      "published": "2026-09-16T16:47:40Z",
-      "ts": 1789577260
+      "title": "This President Trump-Approved Stock Just Hit Another 52-Week Low. How to Play It Here.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/president-trump-approved-stock-just-165739294.html",
+      "published": "2026-09-16T16:57:39Z",
+      "ts": 1789577859
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Zimmer Biomet Stock Underperforming the Nasdaq?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zimmer-biomet-stock-underperforming-nasdaq-163755218.html",
-      "published": "2026-09-16T16:37:55Z",
-      "ts": 1789576675
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "ORCL Stock Layoffs: What to Know About the Latest Oracle Job Cuts",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/orcl-stock-layoffs-know-latest-163322999.html",
-      "published": "2026-09-16T16:33:22Z",
-      "ts": 1789576402
+      "title": "Target Takes on Amazon With Fall Shopping Event. What Comes Next for TGT Stock.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/target-takes-amazon-fall-shopping-165530007.html",
+      "published": "2026-09-16T16:55:30Z",
+      "ts": 1789577730
     }
   ]
 }
