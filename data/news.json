@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-18T02:51:34.302506+00:00",
+  "updated_utc": "2026-09-18T03:00:39.090517+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -270,18 +270,18 @@
       "ts": 1789575611
     },
     {
+      "source": "Yahoo Finance",
+      "title": "SandiskCorp. (SNDK): AI Boom Fuels Attractive Storage Market Opportunity",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sandiskcorp-sndk-ai-boom-fuels-145612588.html",
+      "published": "2026-09-16T14:56:12Z",
+      "ts": 1789570572
+    },
+    {
       "source": "Investing Crypto",
       "title": "Coinbase cuts trading fees for active users on Advanced platform",
       "link": "https://www.investing.com/news/cryptocurrency-news/coinbase-cuts-trading-fees-for-active-users-on-advanced-platform-432SI-4904040",
       "published": "2026-09-16 14:56:02",
       "ts": 1789570562
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How I’m Using This Great Barchart Stock Screener to Feel Like the ‘Dr. J’ of Trading",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/m-using-great-barchart-stock-144936394.html",
-      "published": "2026-09-16T14:49:36Z",
-      "ts": 1789570176
     }
   ]
 }
