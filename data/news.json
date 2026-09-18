@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-18T23:25:34.489100+00:00",
+  "updated_utc": "2026-09-18T23:36:43.027639+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "published": "Fri, 18 Sep 2026 23:30:00 GMT",
+      "ts": 1789774200
+    },
     {
       "source": "MarketWatch",
       "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
@@ -72,13 +79,6 @@
       "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-yen-slides-despite-boj-rate-hike-4906678",
       "published": "2026-09-18 20:05:38",
       "ts": 1789761938
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-      "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 20:01:00 GMT",
-      "ts": 1789761660
     },
     {
       "source": "Cointelegraph",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Assemblin Caverion prints €1.5B floating-rate note in bumper day for European high yield",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/assemblin-caverion-prints-1-5b-162749040.html",
-      "published": "2026-09-17T16:27:49Z",
-      "ts": 1789662469
+      "title": "Rackspace’s Nvidia Partnership Sparks Early Rally, But a $2.8 Billion Debt Load Remains",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rackspace-nvidia-partnership-sparks-early-163851620.html",
+      "published": "2026-09-17T16:38:51Z",
+      "ts": 1789663131
     }
   ]
 }
