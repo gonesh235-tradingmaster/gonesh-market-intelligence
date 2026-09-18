@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-18T06:39:28.425231+00:00",
+  "updated_utc": "2026-09-18T06:53:43.130027+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says",
+      "link": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
+      "published": "Fri, 18 Sep 2026 06:52:23 +0000",
+      "ts": 1789714343
+    },
     {
       "source": "CoinDesk",
       "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
@@ -214,13 +221,6 @@
       "ts": 1789672020
     },
     {
-      "source": "CoinDesk",
-      "title": "Kevin O’Leary says Congress will revisit Clarity early next year as crypto tax bill advances",
-      "link": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
-      "published": "Thu, 17 Sep 2026 18:40:38 +0000",
-      "ts": 1789670438
-    },
-    {
       "source": "Cointelegraph",
       "title": "WisdomTree, MoonPay team up to expand US access to tokenized money market fund",
       "link": "https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -263,25 +263,25 @@
       "ts": 1789595647
     },
     {
-      "source": "Investing Forex",
-      "title": "Loonie weakens after Fed hike as dollar gains on hawkish outlook",
-      "link": "https://www.investing.com/news/forex-news/loonie-weakens-after-fed-hike-as-dollar-gains-on-hawkish-outlook-4904309",
-      "published": "2026-09-16 18:46:08",
-      "ts": 1789584368
+      "source": "Yahoo Finance",
+      "title": "A $10 Trillion Reason Why SpaceX Stock Is Up Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/10-trillion-reason-why-spacex-185529245.html",
+      "published": "2026-09-16T18:55:29Z",
+      "ts": 1789584929
     },
     {
       "source": "Yahoo Finance",
-      "title": "Robust US retail sales underscore economy's resilience, inflation pressures building",
-      "link": "https://finance.yahoo.com/economy/articles/us-retail-sales-rebound-sharply-123724094.html",
-      "published": "2026-09-16T18:40:07Z",
-      "ts": 1789584007
+      "title": "Mining Stock Could Soon Unearth Another Record",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mining-stock-could-soon-unearth-185040112.html",
+      "published": "2026-09-16T18:50:40Z",
+      "ts": 1789584640
     },
     {
       "source": "Yahoo Finance",
-      "title": "Fed officials' forecasts project one more rate hike to come in 2026",
-      "link": "https://finance.yahoo.com/economy/policy/article/fed-officials-forecasts-project-one-more-rate-hike-to-come-in-2026-183856618.html",
-      "published": "2026-09-16T18:38:56Z",
-      "ts": 1789583936
+      "title": "Crypto Volatility to Stay High as Fed, CLARITY Failure Weigh on Markets",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/crypto-volatility-stay-high-fed-185000456.html",
+      "published": "2026-09-16T18:50:00Z",
+      "ts": 1789584600
     }
   ]
 }
