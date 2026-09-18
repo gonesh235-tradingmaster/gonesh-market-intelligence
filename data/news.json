@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-18T11:57:09.011460+00:00",
+  "updated_utc": "2026-09-18T12:15:13.532762+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
+      "link": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 18 Sep 2026 11:54:24 +0000",
+      "ts": 1789732464
+    },
     {
       "source": "MarketWatch",
       "title": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
@@ -235,13 +242,6 @@
       "ts": 1789707089
     },
     {
-      "source": "Cointelegraph",
-      "title": "Cardano’s IOG warns users to avoid YouTube channel amid apparent hijack",
-      "link": "https://cointelegraph.com/news/cardanos-iog-warns-users-to-avoid-youtube-channel-amid-giveaway-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 18 Sep 2026 04:11:40 +0000",
-      "ts": 1789704700
-    },
-    {
       "source": "Investing Forex",
       "title": "Yuan hits 4-year high ahead of Trump-Xi meeting as China broadens clearing",
       "link": "https://www.investing.com/news/forex-news/yuan-hits-4year-high-ahead-of-trumpxi-meeting-as-china-broadens-clearing-4906662",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "AXT Inc. (AXTI) Draws Bullish Analyst Attention — Here’s Why",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/axt-inc-axti-draws-bullish-010252885.html",
-      "published": "2026-09-17T01:02:52Z",
-      "ts": 1789606972
+      "title": "GE Vernova and Vineyard Wind Settle $300M-Plus Offshore Wind Dispute",
+      "link": "https://finance.yahoo.com/energy/articles/ge-vernova-vineyard-wind-settle-024435837.html",
+      "published": "2026-09-17T02:44:35Z",
+      "ts": 1789613075
     }
   ]
 }
