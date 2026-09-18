@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-18T06:53:43.130027+00:00",
+  "updated_utc": "2026-09-18T07:05:21.515659+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -9,6 +9,13 @@
       "link": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
       "published": "Fri, 18 Sep 2026 06:52:23 +0000",
       "ts": 1789714343
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin rises to $77.5k as markets look past Clarity setback",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
+      "published": "2026-09-18 06:47:46",
+      "ts": 1789714066
     },
     {
       "source": "CoinDesk",
@@ -264,24 +271,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "A $10 Trillion Reason Why SpaceX Stock Is Up Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/10-trillion-reason-why-spacex-185529245.html",
-      "published": "2026-09-16T18:55:29Z",
-      "ts": 1789584929
+      "title": "What is the average personal loan rate for September 2026?",
+      "link": "https://finance.yahoo.com/markets/articles/average-personal-loan-interest-rate-005856676.html",
+      "published": "2026-09-16T19:25:09Z",
+      "ts": 1789586709
     },
     {
       "source": "Yahoo Finance",
-      "title": "Mining Stock Could Soon Unearth Another Record",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mining-stock-could-soon-unearth-185040112.html",
-      "published": "2026-09-16T18:50:40Z",
-      "ts": 1789584640
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Crypto Volatility to Stay High as Fed, CLARITY Failure Weigh on Markets",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/crypto-volatility-stay-high-fed-185000456.html",
-      "published": "2026-09-16T18:50:00Z",
-      "ts": 1789584600
+      "title": "Two Low-Profile AI Data-Center Innovators That Investors Should Watch",
+      "link": "https://www.investors.com/news/ai-data-centers-neocloud-oracle-microsoft-joulent-crusoe/?src=A00220&yptr=yahoo",
+      "published": "2026-09-16T19:22:17Z",
+      "ts": 1789586537
     }
   ]
 }
