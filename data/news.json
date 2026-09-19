@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-19T19:56:18.015917+00:00",
+  "updated_utc": "2026-09-19T20:09:43.645980+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "eGain (EGAN): B. Riley and Roth Capital Both Cut Targets as AI Growth Struggles to Offset Legacy Declines",
+      "link": "https://finance.yahoo.com/technology/ai/articles/egain-egan-b-riley-roth-194936520.html",
+      "published": "2026-09-19T19:49:36Z",
+      "ts": 1789847376
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Infosys (INFY) Lands a Brake Maker as Growth Stays in Low Gear",
+      "link": "https://finance.yahoo.com/technology/ai/articles/infosys-infy-lands-brake-maker-194747627.html",
+      "published": "2026-09-19T19:47:47Z",
+      "ts": 1789847267
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer on Seanergy Maritime (SHIP): “I’d Be a Buyer”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-seanergy-maritime-ship-194035405.html",
+      "published": "2026-09-19T19:40:35Z",
+      "ts": 1789846835
+    },
     {
       "source": "Yahoo Finance",
       "title": "Jim Cramer Notes Oil Is Behind Pressure on Casey’s (CASY) and Texas Roadhouse (TXRH)",
@@ -30,27 +51,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-charging-more-ai-193252050.html",
       "published": "2026-09-19T19:32:52Z",
       "ts": 1789846372
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Suggests Against Holding Dominion (D) Through the NextEra (NEE) Share Conversion",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-against-holding-192955385.html",
-      "published": "2026-09-19T19:29:55Z",
-      "ts": 1789846195
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "STMicroelectronics (STM) Wants Every Car Watching Its Driver, and Cheaply",
-      "link": "https://finance.yahoo.com/technology/articles/stmicroelectronics-stm-wants-every-car-192912047.html",
-      "published": "2026-09-19T19:29:12Z",
-      "ts": 1789846152
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Cerebras (CBRS) Plants A 165 MW Flag In Finland While Still Losing Money",
-      "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-cbrs-plants-165-mw-192515264.html",
-      "published": "2026-09-19T19:25:15Z",
-      "ts": 1789845915
     },
     {
       "source": "Cointelegraph",
