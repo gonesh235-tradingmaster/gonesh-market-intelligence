@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-19T20:35:06.903287+00:00",
+  "updated_utc": "2026-09-19T20:44:36.838780+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Should Investors Be Worried About an AI Bubble? Here's What History Says.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-worried-ai-bubble-heres-203500865.html",
+      "published": "2026-09-19T20:35:00Z",
+      "ts": 1789850100
+    },
     {
       "source": "Yahoo Finance",
       "title": "Nashville’s Traffic Nightmare Is Now a $9.2B Ferrovial (FER)-Led Project",
@@ -30,13 +37,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-ibkr-turns-every-200932877.html",
       "published": "2026-09-19T20:09:32Z",
       "ts": 1789848572
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "If You'd Invested $1,000 in VGT 10 Years Ago, Here's How Much You'd Have Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-1-000-vgt-200900217.html",
-      "published": "2026-09-19T20:09:00Z",
-      "ts": 1789848540
     },
     {
       "source": "Yahoo Finance",
