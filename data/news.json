@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-19T09:31:21.610472+00:00",
+  "updated_utc": "2026-09-19T09:42:54.140959+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -271,17 +271,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Is Tyson Foods Stock Underperforming the Nasdaq?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tyson-foods-stock-underperforming-nasdaq-070706294.html",
+      "published": "2026-09-18T07:07:06Z",
+      "ts": 1789715226
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "I Have $1.7M Invested With an Advisor and Pay a 1% Fee. Is That Too Much?",
       "link": "https://finance.yahoo.com/news/1-7m-invested-advisor-pay-120000978.html",
       "published": "2026-09-18T07:00:00Z",
       "ts": 1789714800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Marsh & McLennan Stock Underperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/marsh-mclennan-stock-underperforming-p-063453524.html",
-      "published": "2026-09-18T06:34:53Z",
-      "ts": 1789713293
     }
   ]
 }
