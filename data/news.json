@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-19T09:52:10.122720+00:00",
+  "updated_utc": "2026-09-19T10:02:05.219561+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -249,6 +249,20 @@
       "ts": 1789722035
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Should I Convert 10% of My 401(k) to a Roth IRA Each Year to Reduce Taxes and RMDs?",
+      "link": "https://finance.yahoo.com/news/wise-convert-10-401-k-113000206.html",
+      "published": "2026-09-18T09:00:00Z",
+      "ts": 1789722000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Hitachi to double US production of small and medium-sized power transformers",
+      "link": "https://finance.yahoo.com/energy/articles/hitachi-double-us-production-small-084236160.html",
+      "published": "2026-09-18T08:42:36Z",
+      "ts": 1789720956
+    },
+    {
       "source": "Investing Forex",
       "title": "Citi sees EUR/JPY falling below ¥175 despite near-term rebound risk",
       "link": "https://www.investing.com/news/forex-news/citi-sees-eurjpy-falling-below-175-despite-nearterm-rebound-risk-93CH-4906818",
@@ -257,31 +271,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "💬Money Quote: Binance Founder on a Setback in Europe",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2026/card/-money-quote-binance-founder-on-a-setback-in-europe-HkanwOS4rjGMVkvwNsJy?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-09-18T08:36:44Z",
+      "ts": 1789720604
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "China’s Fuel Exports Surge as Global Diesel Shortage Deepens",
       "link": "https://finance.yahoo.com/energy/articles/china-fuel-exports-surge-global-083000060.html",
       "published": "2026-09-18T08:30:00Z",
       "ts": 1789720200
-    },
-    {
-      "source": "Investing Forex",
-      "title": "UBS sees EUR/USD long opportunity on central bank dynamics",
-      "link": "https://www.investing.com/news/forex-news/ubs-sees-eurusd-long-opportunity-on-central-bank-dynamics-93CH-4906809",
-      "published": "2026-09-18 08:21:32",
-      "ts": 1789719692
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound gains as UK retail sales beat and dollar cools",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-gains-as-uk-retail-sales-beat-and-dollar-cools-4906805",
-      "published": "2026-09-18 08:17:33",
-      "ts": 1789719453
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "BYD, CATL, Xiaomi executives may join Xi's US visit, sources say",
-      "link": "https://finance.yahoo.com/economy/policy/articles/byd-catl-xiaomi-executives-may-072150010.html",
-      "published": "2026-09-18T07:21:50Z",
-      "ts": 1789716110
     }
   ]
 }
