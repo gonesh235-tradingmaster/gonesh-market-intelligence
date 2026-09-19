@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-19T10:42:24.266282+00:00",
+  "updated_utc": "2026-09-19T10:51:20.502736+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -235,11 +235,39 @@
       "ts": 1789726053
     },
     {
+      "source": "Yahoo Finance",
+      "title": "AMD Up 155% YTD on Record Revenue, AI Demand",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-155-ytd-record-revenue-095032401.html",
+      "published": "2026-09-18T09:50:32Z",
+      "ts": 1789725032
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is India’s secondaries market hitting an inflection point?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/india-secondaries-market-hitting-inflection-094400255.html",
+      "published": "2026-09-18T09:44:00Z",
+      "ts": 1789724640
+    },
+    {
       "source": "Investing Crypto",
       "title": "CT3 to Participate as Speaker at CoinFerenceX Singapore 2026",
       "link": "https://www.investing.com/news/cryptocurrency-news/ct3-to-participate-as-speaker-at-coinferencex-singapore-2026-4906900",
       "published": "2026-09-18 09:30:34",
       "ts": 1789723834
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "A 401(k) Millionaire’s First RMD Is About $37,700. Add a $40,000 Social Security Benefit and 85% of the Benefit Turns Taxable the Same Year",
+      "link": "https://finance.yahoo.com/markets/options/articles/401-k-millionaire-first-rmd-092655828.html",
+      "published": "2026-09-18T09:26:55Z",
+      "ts": 1789723615
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Warren Buffett's Successor, Greg Abel, Is Wagering Heavily on an AI-Driven Future",
+      "link": "https://finance.yahoo.com/technology/ai/articles/warren-buffetts-successor-greg-abel-092601943.html",
+      "published": "2026-09-18T09:26:01Z",
+      "ts": 1789723561
     },
     {
       "source": "Yahoo Finance",
@@ -249,39 +277,11 @@
       "ts": 1789722900
     },
     {
-      "source": "Yahoo Finance",
-      "title": "SoftBank Boosts Credit Line to $6.5 Billion as AI Debts Mount",
-      "link": "https://finance.yahoo.com/technology/ai/articles/softbank-boosts-credit-line-6-090933320.html",
-      "published": "2026-09-18T09:09:33Z",
-      "ts": 1789722573
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "CFOs On the Move: Week ending Sept. 18",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cfos-move-week-ending-sept-090809748.html",
-      "published": "2026-09-18T09:08:09Z",
-      "ts": 1789722489
-    },
-    {
       "source": "Investing Forex",
       "title": "Here’s what BoE tightening means for EUR/GBP",
       "link": "https://www.investing.com/news/forex-news/heres-what-boe-tightening-means-for-eurgbp-4906839",
       "published": "2026-09-18 09:00:35",
       "ts": 1789722035
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Should I Convert 10% of My 401(k) to a Roth IRA Each Year to Reduce Taxes and RMDs?",
-      "link": "https://finance.yahoo.com/news/wise-convert-10-401-k-113000206.html",
-      "published": "2026-09-18T09:00:00Z",
-      "ts": 1789722000
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Citi sees EUR/JPY falling below ¥175 despite near-term rebound risk",
-      "link": "https://www.investing.com/news/forex-news/citi-sees-eurjpy-falling-below-175-despite-nearterm-rebound-risk-93CH-4906818",
-      "published": "2026-09-18 08:37:50",
-      "ts": 1789720670
     }
   ]
 }
