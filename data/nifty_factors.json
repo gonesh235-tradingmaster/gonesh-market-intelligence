@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-19T05:51:30.934636+00:00",
+  "updated_utc": "2026-09-19T06:00:14.744303+00:00",
   "source": "Yahoo Finance",
   "us_markets": {
     "sp500": {
@@ -49,8 +49,8 @@
       "previous_close": 4.96,
       "change": 0.04,
       "change_percent": 0.75,
-      "day_high": 5.01,
-      "day_low": 4.97,
+      "day_high": null,
+      "day_low": null,
       "currency": "USD",
       "market_state": ""
     }
