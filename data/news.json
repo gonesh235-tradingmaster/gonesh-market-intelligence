@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-19T11:48:18.733006+00:00",
+  "updated_utc": "2026-09-19T11:58:19.644553+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bastion wins conditional OCC approval for national trust bank charter",
+      "link": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 19 Sep 2026 11:47:29 +0000",
+      "ts": 1789818449
+    },
     {
       "source": "MarketWatch",
       "title": "Stocks face a growing list of threats — so why are investors staying so calm?",
@@ -172,13 +179,6 @@
       "ts": 1789743991
     },
     {
-      "source": "Cointelegraph",
-      "title": "Banks double on EU MiCA crypto provider list as share hits 23%",
-      "link": "https://cointelegraph.com/news/banks-double-eu-mica-crypto-register-esma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 18 Sep 2026 14:04:43 +0000",
-      "ts": 1789740283
-    },
-    {
       "source": "Investing Crypto",
       "title": "Why is Bitcoin US Dollar stock climbing today?",
       "link": "https://www.investing.com/news/cryptocurrency-news/why-is-bitcoin-us-dollar-stock-climbing-today-93CH-4907428",
@@ -221,11 +221,32 @@
       "ts": 1789730100
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Sam Altman, Elon Musk and Dario Amodei want AI slowed as tech stocks tumble. Is your retirement fund overexposed?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/sam-altman-elon-musk-dario-104500837.html",
+      "published": "2026-09-18T10:45:00Z",
+      "ts": 1789728300
+    },
+    {
       "source": "CoinDesk",
       "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
       "link": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
       "published": "Fri, 18 Sep 2026 10:33:05 +0000",
       "ts": 1789727585
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nasdaq Futures Pare Gains as Treasury Yields Climb",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-pare-gains-treasury-103117849.html",
+      "published": "2026-09-18T10:31:17Z",
+      "ts": 1789727477
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bitcoin bettors give even odds of a slide to $75,000 this month",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-bettors-even-odds-slide-103100332.html",
+      "published": "2026-09-18T10:31:00Z",
+      "ts": 1789727460
     },
     {
       "source": "Yahoo Finance",
@@ -236,10 +257,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Micron Is Still 22% Below Its All-Time High Heading Into Earnings -- Buying Opportunity or Warning Sign?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-still-22-below-time-101000583.html",
-      "published": "2026-09-18T10:10:00Z",
-      "ts": 1789726200
+      "title": "💬 Money Quote: Howie Buffett Is Used to Learning on the Job",
+      "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-18-2026/card/-money-quote-howie-buffett-is-used-to-learning-on-the-job-zZ7fFEQQWjdg0Ih1yNVz?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-09-18T10:26:19Z",
+      "ts": 1789727179
     },
     {
       "source": "CoinDesk",
@@ -250,20 +271,6 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "3 Financial Stocks Berkshire Hathaway Owns That I'd Buy Before Buying Berkshire Itself",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-financial-stocks-berkshire-hathaway-100500715.html",
-      "published": "2026-09-18T10:05:00Z",
-      "ts": 1789725900
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Best CD rates today, Friday, September 18, 2026: Up to 4.40% APY return available with a 2-year CD",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-september-18-2026-up-to-440-apy-return-available-with-a-2-year-cd-100000224.html",
-      "published": "2026-09-18T10:00:00Z",
-      "ts": 1789725600
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "From Florida to Nevada, retirees are fleeing to no-tax states in search of financial 'heaven.' They don't always find it",
       "link": "https://finance.yahoo.com/real-estate/articles/florida-nevada-retirees-fleeing-no-100000560.html",
       "published": "2026-09-18T10:00:00Z",
@@ -271,17 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "SEI’s Record Revenue, Earnings Fuel Future Growth, Rising Shares",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sei-record-revenue-earnings-fuel-095850945.html",
-      "published": "2026-09-18T09:58:50Z",
-      "ts": 1789725530
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AMD Up 155% YTD on Record Revenue, AI Demand",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-155-ytd-record-revenue-095032401.html",
-      "published": "2026-09-18T09:50:32Z",
-      "ts": 1789725032
+      "title": "Best CD rates today, Friday, September 18, 2026: Up to 4.40% APY return available with a 2-year CD",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-september-18-2026-up-to-440-apy-return-available-with-a-2-year-cd-100000224.html",
+      "published": "2026-09-18T10:00:00Z",
+      "ts": 1789725600
     }
   ]
 }
