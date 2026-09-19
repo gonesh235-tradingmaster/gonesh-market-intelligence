@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-19T20:09:43.645980+00:00",
+  "updated_utc": "2026-09-19T20:23:24.440989+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "SpaceX Stock Has Gone Nowhere Since Its First Day of Trading",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-gone-nowhere-since-195701417.html",
+      "published": "2026-09-19T19:57:01Z",
+      "ts": 1789847821
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Ferguson (FERG) Keeps Beating a Housing Market That Refuses to Cooperate",
+      "link": "https://finance.yahoo.com/real-estate/articles/ferguson-ferg-keeps-beating-housing-195513837.html",
+      "published": "2026-09-19T19:55:13Z",
+      "ts": 1789847713
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Agilent (A) Wants Pathology Labs To Go Digital, 540 Slides At A Time",
+      "link": "https://finance.yahoo.com/healthcare/articles/agilent-wants-pathology-labs-digital-195217186.html",
+      "published": "2026-09-19T19:52:17Z",
+      "ts": 1789847537
+    },
     {
       "source": "Yahoo Finance",
       "title": "eGain (EGAN): B. Riley and Roth Capital Both Cut Targets as AI Growth Struggles to Offset Legacy Declines",
@@ -30,27 +51,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-oil-behind-193509467.html",
       "published": "2026-09-19T19:35:09Z",
       "ts": 1789846509
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Main Street Capital Stock a Buy, Sell, or Hold With Shares 15% Below Their 52-Week High?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/main-street-capital-stock-buy-193500520.html",
-      "published": "2026-09-19T19:35:00Z",
-      "ts": 1789846500
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Says “Buy Reddit” (RDDT)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buy-reddit-193324887.html",
-      "published": "2026-09-19T19:33:24Z",
-      "ts": 1789846404
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "CoreWeave (CRWV) Is Charging More for AI Compute, and Customers Keep Paying",
-      "link": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-charging-more-ai-193252050.html",
-      "published": "2026-09-19T19:32:52Z",
-      "ts": 1789846372
     },
     {
       "source": "Cointelegraph",
