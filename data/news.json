@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-19T15:16:33.277764+00:00",
+  "updated_utc": "2026-09-19T15:28:58.770877+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Want to land more job interviews? Stop letting AI write your résumé.",
+      "link": "https://www.marketwatch.com/story/are-ai-written-resumes-more-likely-to-get-you-a-job-the-answer-may-surprise-you-ae408827?mod=mw_rss_topstories",
+      "published": "Sat, 19 Sep 2026 15:20:00 GMT",
+      "ts": 1789831200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "Sat, 19 Sep 2026 15:15:00 GMT",
+      "ts": 1789830900
+    },
     {
       "source": "MarketWatch",
       "title": "How to create a ‘forever paycheck’ without paying for an annuity",
@@ -16,13 +30,6 @@
       "link": "https://finance.yahoo.com/economy/policy/articles/american-airlines-ceo-sends-strong-150700724.html",
       "published": "2026-09-19T15:07:00Z",
       "ts": 1789830420
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The Stock Market's Biggest Companies Are Losing Their Grip. Here's the ETF I'd Buy If History Repeats.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-markets-biggest-companies-losing-150500940.html",
-      "published": "2026-09-19T15:05:00Z",
-      "ts": 1789830300
     },
     {
       "source": "MarketWatch",
@@ -60,13 +67,6 @@
       "ts": 1789827780
     },
     {
-      "source": "MarketWatch",
-      "title": "Most workers would take a pay cut for job security right now: ‘I can’t deal with this stress anymore’",
-      "link": "https://www.marketwatch.com/story/most-workers-would-take-a-pay-cut-for-job-security-right-now-i-cant-deal-with-this-stress-anymore-284aa87a?mod=mw_rss_topstories",
-      "published": "Sat, 19 Sep 2026 14:14:00 GMT",
-      "ts": 1789827240
-    },
-    {
       "source": "CoinDesk",
       "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
       "link": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
@@ -95,13 +95,6 @@
       "ts": 1789823791
     },
     {
-      "source": "MarketWatch",
-      "title": "Warsh’s Fed shows it’s serious about taming inflation. Why Wall Street now believes it.",
-      "link": "https://www.marketwatch.com/story/warshs-fed-shows-its-serious-about-taming-inflation-why-wall-street-now-believes-it-55dc5af5?mod=mw_rss_topstories",
-      "published": "Sat, 19 Sep 2026 13:00:00 GMT",
-      "ts": 1789822800
-    },
-    {
       "source": "Yahoo Finance",
       "title": "Aflac’s (AFL) Net Earnings Jumped 37.7%, Yet Adjusted Earnings Actually Fell",
       "link": "https://finance.yahoo.com/markets/stocks/articles/aflac-afl-net-earnings-jumped-124547627.html",
@@ -121,6 +114,13 @@
       "link": "https://finance.yahoo.com/technology/articles/coherent-cohr-squeezes-key-optical-123508124.html",
       "published": "2026-09-19T12:35:08Z",
       "ts": 1789821308
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Gallagher’s (AJG) Colorado Deal Is Another Brick in a Very Big Wall",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gallagher-ajg-colorado-deal-another-123050148.html",
+      "published": "2026-09-19T12:30:50Z",
+      "ts": 1789821050
     },
     {
       "source": "CoinDesk",
