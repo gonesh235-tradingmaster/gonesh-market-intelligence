@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-09-19T12:57:25.876120+00:00",
+  "updated_utc": "2026-09-19T13:12:32.864916+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Warsh’s Fed shows it’s serious about taming inflation. Why Wall Street now believes it.",
+      "link": "https://www.marketwatch.com/story/warshs-fed-shows-its-serious-about-taming-inflation-why-wall-street-now-believes-it-55dc5af5?mod=mw_rss_topstories",
+      "published": "Sat, 19 Sep 2026 13:00:00 GMT",
+      "ts": 1789822800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Amgen or Merck: Which Drugmaker Has the Stronger Dividend Growth Story?",
+      "link": "https://finance.yahoo.com/healthcare/articles/amgen-merck-drugmaker-stronger-dividend-125538920.html",
+      "published": "2026-09-19T12:55:38Z",
+      "ts": 1789822538
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "John Ternus's First iPhone Launch Prompted a Bank of America Price Target Cut. Is Apple Stock a Buy?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/john-ternuss-first-iphone-launch-125000640.html",
+      "published": "2026-09-19T12:50:00Z",
+      "ts": 1789822200
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Aflac’s (AFL) Net Earnings Jumped 37.7%, Yet Adjusted Earnings Actually Fell",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aflac-afl-net-earnings-jumped-124547627.html",
+      "published": "2026-09-19T12:45:47Z",
+      "ts": 1789821947
+    },
     {
       "source": "Yahoo Finance",
       "title": "Cencora (COR) Raised Guidance and Bought Back $1B. What’s the Catch?",
@@ -19,10 +47,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "What History Reveals About Investing Through a Stock Market Crash",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/history-reveals-investing-stock-market-123500917.html",
-      "published": "2026-09-19T12:35:00Z",
-      "ts": 1789821300
+      "title": "Gallagher’s (AJG) Colorado Deal Is Another Brick in a Very Big Wall",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gallagher-ajg-colorado-deal-another-123050148.html",
+      "published": "2026-09-19T12:30:50Z",
+      "ts": 1789821050
     },
     {
       "source": "MarketWatch",
@@ -30,6 +58,13 @@
       "link": "https://www.marketwatch.com/story/the-old-new-thing-cisco-and-retro-tech-are-back-and-forming-the-ai-buildouts-backbone-cdffc0b7?mod=mw_rss_topstories",
       "published": "Sat, 19 Sep 2026 12:30:00 GMT",
       "ts": 1789821000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Week Ahead: Keeping An Eye Out For Change",
+      "link": "https://www.investors.com/research/investing-action-plan/stock-market-nasdaq-sp-500-analysis-meta-platforms-earnings/?src=A00220&yptr=yahoo",
+      "published": "2026-09-19T12:29:27Z",
+      "ts": 1789820967
     },
     {
       "source": "CoinDesk",
@@ -135,13 +170,6 @@
       "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
       "published": "Fri, 18 Sep 2026 23:30:00 GMT",
       "ts": 1789774200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 23:00:00 GMT",
-      "ts": 1789772400
     },
     {
       "source": "Investing Crypto",
@@ -254,34 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-head-for-weekly-decline-as-postfed-rally-soothes-duration-fears-4906685",
       "published": "2026-09-18 12:16:35",
       "ts": 1789733795
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Bernstein’s Defense of GE Vernova Doesn’t Answer the Valuation Question",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bernstein-defense-ge-vernova-doesn-112047964.html",
-      "published": "2026-09-18T11:20:47Z",
-      "ts": 1789730447
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "What Is XRP Used For? Payments, Collateral, and Now Stripe’s AI Agents",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-used-payments-collateral-now-111748239.html",
-      "published": "2026-09-18T11:17:48Z",
-      "ts": 1789730268
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "US equity funds post fourth weekly outflow on inflation worries, rate concerns",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-funds-post-fourth-111638705.html",
-      "published": "2026-09-18T11:16:38Z",
-      "ts": 1789730198
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Silver price today, Friday, September 18, 2026: Silver prices recover quickly, hitting weekly high today",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-friday-september-18-2026-silver-prices-recover-quickly-hitting-weekly-high-today-110854090.html",
-      "published": "2026-09-18T11:08:54Z",
-      "ts": 1789729734
     }
   ]
 }
