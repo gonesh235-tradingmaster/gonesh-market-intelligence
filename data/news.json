@@ -1,21 +1,21 @@
 {
-  "updated_utc": "2026-09-19T15:40:19.202815+00:00",
+  "updated_utc": "2026-09-19T15:49:33.299871+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Anthropic IPO: 1 Key Lesson Investors Can Learn From SpaceX",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-1-key-lesson-153000984.html",
+      "published": "2026-09-19T15:30:00Z",
+      "ts": 1789831800
+    },
     {
       "source": "Yahoo Finance",
       "title": "Star Bulk Carriers Director Pappas Buys 74,400 Shares for $2.1 Million. Is This a Sign the Shipping Bull Market Will Continue?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/star-bulk-carriers-director-pappas-152301004.html",
       "published": "2026-09-19T15:23:01Z",
       "ts": 1789831381
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Casella Waste Director Michael Burke Sells 1,100 Shares for $105,000",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/casella-waste-director-michael-burke-152001811.html",
-      "published": "2026-09-19T15:20:01Z",
-      "ts": 1789831201
     },
     {
       "source": "MarketWatch",
