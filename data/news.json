@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-19T11:38:49.942871+00:00",
+  "updated_utc": "2026-09-19T11:48:18.733006+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -235,6 +235,13 @@
       "ts": 1789727400
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Micron Is Still 22% Below Its All-Time High Heading Into Earnings -- Buying Opportunity or Warning Sign?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-still-22-below-time-101000583.html",
+      "published": "2026-09-18T10:10:00Z",
+      "ts": 1789726200
+    },
+    {
       "source": "CoinDesk",
       "title": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
       "link": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
@@ -247,13 +254,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/3-financial-stocks-berkshire-hathaway-100500715.html",
       "published": "2026-09-18T10:05:00Z",
       "ts": 1789725900
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The rich got richer in 2025. The poorest households? Not so much",
-      "link": "https://finance.yahoo.com/economy/articles/rich-got-richer-2025-poorest-100240948.html",
-      "published": "2026-09-18T10:02:40Z",
-      "ts": 1789725760
     },
     {
       "source": "Yahoo Finance",
