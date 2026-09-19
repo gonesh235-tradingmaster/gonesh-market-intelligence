@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-19T09:42:54.140959+00:00",
+  "updated_utc": "2026-09-19T09:52:10.122720+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -256,6 +256,13 @@
       "ts": 1789720670
     },
     {
+      "source": "Yahoo Finance",
+      "title": "China’s Fuel Exports Surge as Global Diesel Shortage Deepens",
+      "link": "https://finance.yahoo.com/energy/articles/china-fuel-exports-surge-global-083000060.html",
+      "published": "2026-09-18T08:30:00Z",
+      "ts": 1789720200
+    },
+    {
       "source": "Investing Forex",
       "title": "UBS sees EUR/USD long opportunity on central bank dynamics",
       "link": "https://www.investing.com/news/forex-news/ubs-sees-eurusd-long-opportunity-on-central-bank-dynamics-93CH-4906809",
@@ -271,17 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Tyson Foods Stock Underperforming the Nasdaq?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tyson-foods-stock-underperforming-nasdaq-070706294.html",
-      "published": "2026-09-18T07:07:06Z",
-      "ts": 1789715226
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "I Have $1.7M Invested With an Advisor and Pay a 1% Fee. Is That Too Much?",
-      "link": "https://finance.yahoo.com/news/1-7m-invested-advisor-pay-120000978.html",
-      "published": "2026-09-18T07:00:00Z",
-      "ts": 1789714800
+      "title": "BYD, CATL, Xiaomi executives may join Xi's US visit, sources say",
+      "link": "https://finance.yahoo.com/economy/policy/articles/byd-catl-xiaomi-executives-may-072150010.html",
+      "published": "2026-09-18T07:21:50Z",
+      "ts": 1789716110
     }
   ]
 }
