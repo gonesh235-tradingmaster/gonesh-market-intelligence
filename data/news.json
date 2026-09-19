@@ -1,28 +1,35 @@
 {
-  "updated_utc": "2026-09-19T12:33:58.041168+00:00",
+  "updated_utc": "2026-09-19T12:47:42.395938+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Cencora (COR) Raised Guidance and Bought Back $1B. What’s the Catch?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cencora-cor-raised-guidance-bought-123837104.html",
+      "published": "2026-09-19T12:38:37Z",
+      "ts": 1789821517
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Coherent (COHR) Squeezes Key Optical Network Gear Into a Plug-In Module",
+      "link": "https://finance.yahoo.com/technology/articles/coherent-cohr-squeezes-key-optical-123508124.html",
+      "published": "2026-09-19T12:35:08Z",
+      "ts": 1789821308
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "What History Reveals About Investing Through a Stock Market Crash",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/history-reveals-investing-stock-market-123500917.html",
+      "published": "2026-09-19T12:35:00Z",
+      "ts": 1789821300
+    },
     {
       "source": "MarketWatch",
       "title": "The old new thing: Cisco and retro tech are back and forming the AI buildout’s backbone",
       "link": "https://www.marketwatch.com/story/the-old-new-thing-cisco-and-retro-tech-are-back-and-forming-the-ai-buildouts-backbone-cdffc0b7?mod=mw_rss_topstories",
       "published": "Sat, 19 Sep 2026 12:30:00 GMT",
       "ts": 1789821000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Zscaler CEO Jay Chaudhry Sells 2,852 Shares for $550,000",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zscaler-ceo-jay-chaudhry-sells-122001501.html",
-      "published": "2026-09-19T12:20:01Z",
-      "ts": 1789820401
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Ray Dalio Just Explained Why He's Cautious on AI Stocks. Here's What He Said.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ray-dalio-just-explained-why-121700908.html",
-      "published": "2026-09-19T12:17:00Z",
-      "ts": 1789820220
     },
     {
       "source": "CoinDesk",
@@ -250,38 +257,31 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "‘The Genie’s Out of the Bottle’ on AI Risks, Creating a Buying Opportunity in CrowdStrike Stock",
-      "link": "https://finance.yahoo.com/technology/ai/articles/genie-bottle-ai-risks-creating-105741054.html",
-      "published": "2026-09-18T10:57:41Z",
-      "ts": 1789729061
+      "title": "Bernstein’s Defense of GE Vernova Doesn’t Answer the Valuation Question",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bernstein-defense-ge-vernova-doesn-112047964.html",
+      "published": "2026-09-18T11:20:47Z",
+      "ts": 1789730447
     },
     {
       "source": "Yahoo Finance",
-      "title": "These 7 simple ‘financial fitness’ tasks could save you serious coin — and you can get them each done in under an hour",
-      "link": "https://finance.yahoo.com/markets/articles/7-simple-financial-fitness-tasks-105500342.html",
-      "published": "2026-09-18T10:55:00Z",
-      "ts": 1789728900
+      "title": "What Is XRP Used For? Payments, Collateral, and Now Stripe’s AI Agents",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-used-payments-collateral-now-111748239.html",
+      "published": "2026-09-18T11:17:48Z",
+      "ts": 1789730268
     },
     {
       "source": "Yahoo Finance",
-      "title": "How Is Principal Financial's Stock Performance Compared to Other Financial Stocks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/principal-financials-stock-performance-compared-105257714.html",
-      "published": "2026-09-18T10:52:57Z",
-      "ts": 1789728777
+      "title": "US equity funds post fourth weekly outflow on inflation worries, rate concerns",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-funds-post-fourth-111638705.html",
+      "published": "2026-09-18T11:16:38Z",
+      "ts": 1789730198
     },
     {
       "source": "Yahoo Finance",
-      "title": "Gold price today, Friday, September 18, 2026: Gold hits weekly high as inflation concerns fade",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-september-18-2026-gold-hits-weekly-high-as-inflation-concerns-fade-104807567.html",
-      "published": "2026-09-18T10:48:07Z",
-      "ts": 1789728487
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Sam Altman, Elon Musk and Dario Amodei want AI slowed as tech stocks tumble. Is your retirement fund overexposed?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/sam-altman-elon-musk-dario-104500837.html",
-      "published": "2026-09-18T10:45:00Z",
-      "ts": 1789728300
+      "title": "Silver price today, Friday, September 18, 2026: Silver prices recover quickly, hitting weekly high today",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-friday-september-18-2026-silver-prices-recover-quickly-hitting-weekly-high-today-110854090.html",
+      "published": "2026-09-18T11:08:54Z",
+      "ts": 1789729734
     }
   ]
 }
