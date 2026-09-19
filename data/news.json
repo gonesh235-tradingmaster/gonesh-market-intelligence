@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-19T11:15:37.481570+00:00",
+  "updated_utc": "2026-09-19T11:27:31.881329+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -243,8 +243,22 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Shadow AI use booms, finds new Deloitte survey",
+      "link": "https://finance.yahoo.com/technology/ai/articles/shadow-ai-booms-finds-deloitte-100000360.html",
+      "published": "2026-09-18T10:00:00Z",
+      "ts": 1789725600
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "From Florida to Nevada, retirees are fleeing to no-tax states in search of financial 'heaven.' They don't always find it",
       "link": "https://finance.yahoo.com/real-estate/articles/florida-nevada-retirees-fleeing-no-100000560.html",
+      "published": "2026-09-18T10:00:00Z",
+      "ts": 1789725600
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Merit Financial Adds Former Commonwealth Advisor Overseeing $888M",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/merit-financial-adds-former-commonwealth-100000974.html",
       "published": "2026-09-18T10:00:00Z",
       "ts": 1789725600
     },
@@ -268,20 +282,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/india-secondaries-market-hitting-inflection-094400255.html",
       "published": "2026-09-18T09:44:00Z",
       "ts": 1789724640
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Highgate and Eternam acquire Zafolia Hotel Athens in Greece",
-      "link": "https://finance.yahoo.com/real-estate/articles/highgate-eternam-acquire-zafolia-hotel-094239787.html",
-      "published": "2026-09-18T09:42:39Z",
-      "ts": 1789724559
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Verizon the Year's Best Telecom Stock?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/verizon-years-best-telecom-stock-093500316.html",
-      "published": "2026-09-18T09:35:00Z",
-      "ts": 1789724100
     }
   ]
 }
