@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-19T14:43:30.639657+00:00",
+  "updated_utc": "2026-09-19T14:51:57.094642+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "published": "Sat, 19 Sep 2026 14:46:00 GMT",
+      "ts": 1789829160
+    },
     {
       "source": "MarketWatch",
       "title": "Maybe the snowbirds are right? One state dominates this list of best places to retire.",
@@ -12,17 +19,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "These 6 Massive Dividend Yields May Be Too Good to Be True",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/6-massive-dividend-yields-may-143453903.html",
+      "published": "2026-09-19T14:34:53Z",
+      "ts": 1789828493
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "CVS division completes Chapter 11 bankruptcy liquidation",
       "link": "https://finance.yahoo.com/healthcare/articles/cvs-division-completes-chapter-11-150700440.html",
       "published": "2026-09-19T14:33:06Z",
       "ts": 1789828386
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Upstart, Affirm, and SoFi All Lend to the Same Borrowers. Only One of Them Funds With Deposits.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/upstart-affirm-sofi-lend-same-143200816.html",
-      "published": "2026-09-19T14:32:00Z",
-      "ts": 1789828320
     },
     {
       "source": "MarketWatch",
@@ -133,13 +140,6 @@
       "source": "MarketWatch",
       "title": "Starbucks’s Snoopy cups and McDonald’s SpongeBob toys are commanding huge markups on eBay",
       "link": "https://www.marketwatch.com/story/starbuckss-snoopy-cups-and-mcdonalds-spongebob-toys-are-commanding-huge-markups-on-ebay-ed3e514d?mod=mw_rss_topstories",
-      "published": "Sat, 19 Sep 2026 12:00:00 GMT",
-      "ts": 1789819200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I just started dating someone I really like, but he’s moving to Mexico for six months. Should I spend the money to visit him?",
-      "link": "https://www.marketwatch.com/story/i-just-started-dating-someone-i-really-like-but-hes-moving-to-mexico-for-six-months-should-i-spend-the-money-to-visit-him-be4f8c8b?mod=mw_rss_topstories",
       "published": "Sat, 19 Sep 2026 12:00:00 GMT",
       "ts": 1789819200
     },
