@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-19T15:00:53.084200+00:00",
+  "updated_utc": "2026-09-19T15:16:33.277764+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "How to create a ‘forever paycheck’ without paying for an annuity",
+      "link": "https://www.marketwatch.com/story/how-to-create-a-forever-paycheck-without-paying-for-an-annuity-e5d171d3?mod=mw_rss_topstories",
+      "published": "Sat, 19 Sep 2026 15:14:00 GMT",
+      "ts": 1789830840
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "American Airlines CEO sends strong warning about airfare prices",
+      "link": "https://finance.yahoo.com/economy/policy/articles/american-airlines-ceo-sends-strong-150700724.html",
+      "published": "2026-09-19T15:07:00Z",
+      "ts": 1789830420
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The Stock Market's Biggest Companies Are Losing Their Grip. Here's the ETF I'd Buy If History Repeats.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-markets-biggest-companies-losing-150500940.html",
+      "published": "2026-09-19T15:05:00Z",
+      "ts": 1789830300
+    },
     {
       "source": "MarketWatch",
       "title": "15 stocks that have grown dividends the most — and nearly all have beaten the S&P 500",
@@ -11,10 +32,10 @@
       "ts": 1789829820
     },
     {
-      "source": "Yahoo Finance",
+      "source": "MarketWatch",
       "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-      "link": "https://finance.yahoo.com/healthcare/articles/m-50s-mother-died-alzheimer-233000741.html",
-      "published": "2026-09-19T14:46:00Z",
+      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "published": "Sat, 19 Sep 2026 14:46:00 GMT",
       "ts": 1789829160
     },
     {
@@ -23,13 +44,6 @@
       "link": "https://www.marketwatch.com/story/maybe-the-snowbirds-are-right-one-state-dominates-this-list-of-best-places-to-retire-ab506160?mod=mw_rss_topstories",
       "published": "Sat, 19 Sep 2026 14:40:00 GMT",
       "ts": 1789828800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "What 1 Popular Retirement Rule Says You Should Have Saved by Age 67",
-      "link": "https://finance.yahoo.com/markets/articles/1-popular-retirement-rule-says-143500280.html",
-      "published": "2026-09-19T14:35:00Z",
-      "ts": 1789828500
     },
     {
       "source": "MarketWatch",
@@ -107,13 +121,6 @@
       "link": "https://finance.yahoo.com/technology/articles/coherent-cohr-squeezes-key-optical-123508124.html",
       "published": "2026-09-19T12:35:08Z",
       "ts": 1789821308
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The old new thing: Cisco and retro tech are back and forming the AI buildout’s backbone",
-      "link": "https://www.marketwatch.com/story/the-old-new-thing-cisco-and-retro-tech-are-back-and-forming-the-ai-buildouts-backbone-cdffc0b7?mod=mw_rss_topstories",
-      "published": "Sat, 19 Sep 2026 12:30:00 GMT",
-      "ts": 1789821000
     },
     {
       "source": "CoinDesk",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-head-for-weekly-decline-as-postfed-rally-soothes-duration-fears-4906685",
       "published": "2026-09-18 12:16:35",
       "ts": 1789733795
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "CT3 to Participate as Speaker at CoinFerenceX Singapore 2026",
-      "link": "https://www.investing.com/news/cryptocurrency-news/ct3-to-participate-as-speaker-at-coinferencex-singapore-2026-4906900",
-      "published": "2026-09-18 09:30:34",
-      "ts": 1789723834
     }
   ]
 }
