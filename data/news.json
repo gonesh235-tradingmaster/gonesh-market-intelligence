@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-19T14:07:23.592290+00:00",
+  "updated_utc": "2026-09-19T14:21:08.047564+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Most workers would take a pay cut for job security right now: ‘I can’t deal with this stress anymore’",
+      "link": "https://www.marketwatch.com/story/most-workers-would-take-a-pay-cut-for-job-security-right-now-i-cant-deal-with-this-stress-anymore-284aa87a?mod=mw_rss_topstories",
+      "published": "Sat, 19 Sep 2026 14:14:00 GMT",
+      "ts": 1789827240
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "IBM Has Raised Its Dividend for 31 Years. Inflation Is Still Winning",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-raised-dividend-31-years-140251592.html",
+      "published": "2026-09-19T14:02:51Z",
+      "ts": 1789826571
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Texas Data Centers ‘Dug Their Own Grave,’ Gov Says. At 63, a Rancher Can Lease His Land and Give Social Security More Time to Grow.",
+      "link": "https://finance.yahoo.com/real-estate/articles/texas-data-centers-dug-own-140139976.html",
+      "published": "2026-09-19T14:01:39Z",
+      "ts": 1789826499
+    },
     {
       "source": "CoinDesk",
       "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
@@ -16,20 +37,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
       "published": "Sat, 19 Sep 2026 13:39:15 +0000",
       "ts": 1789825155
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Arm Holdings Still a Hidden Winner of the AI Chip Race?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/arm-holdings-still-hidden-winner-133700100.html",
-      "published": "2026-09-19T13:37:00Z",
-      "ts": 1789825020
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "MarsCoin Trader Turns $2.4K Into $680K Without Selling a Single Token: Here’s How",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/marscoin-trader-turns-2-4k-133506209.html",
-      "published": "2026-09-19T13:35:06Z",
-      "ts": 1789824906
     },
     {
       "source": "Yahoo Finance",
@@ -177,13 +184,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-bullish-trade-4908042",
       "published": "2026-09-19 02:45:02",
       "ts": 1789785902
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 23:30:00 GMT",
-      "ts": 1789774200
     },
     {
       "source": "Investing Crypto",
