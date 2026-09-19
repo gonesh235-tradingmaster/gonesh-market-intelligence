@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-19T07:57:54.176725+00:00",
+  "updated_utc": "2026-09-19T08:14:25.325303+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
+      "link": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 19 Sep 2026 07:50:58 +0000",
+      "ts": 1789804258
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin hits $82,178 resistance with MFI 100: Live levels",
@@ -200,13 +207,6 @@
       "ts": 1789735801
     },
     {
-      "source": "Cointelegraph",
-      "title": "Ethereum Institutional signals support for Ethlabs’ motion to reduce Ethereum block times",
-      "link": "https://cointelegraph.com/news/ethereum-institutional-support-ethlabs-reduce-ethereum-block-times?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 18 Sep 2026 12:40:04 +0000",
-      "ts": 1789735204
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. Treasury curve flattens as long-end yields ease off multi-year peaks",
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-head-for-weekly-decline-as-postfed-rally-soothes-duration-fears-4906685",
@@ -277,11 +277,11 @@
       "ts": 1789711104
     },
     {
-      "source": "Investing Crypto",
-      "title": "EOS Climbs 12% In Bullish Trade",
-      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-in-bullish-trade-4906656",
-      "published": "2026-09-18 03:36:04",
-      "ts": 1789702564
+      "source": "Yahoo Finance",
+      "title": "Selling Your RIA As a Retirement Strategy? Mind the Terms",
+      "link": "https://finance.yahoo.com/small-business/articles/selling-ria-retirement-strategy-mind-040200124.html",
+      "published": "2026-09-18T04:02:00Z",
+      "ts": 1789704120
     }
   ]
 }
