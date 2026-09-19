@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-19T03:01:55.590614+00:00",
+  "updated_utc": "2026-09-19T03:18:19.860556+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Cardano Climbs 10% In Bullish Trade",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-bullish-trade-4908042",
+      "published": "2026-09-19 02:45:02",
+      "ts": 1789785902
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin jumps above $81k as short squeeze offsets rate and regulatory pressure",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-jumps-above-81k-as-short-squeeze-offsets-rate-and-regulatory-pressure-4908041",
+      "published": "2026-09-19 02:41:38",
+      "ts": 1789785698
+    },
     {
       "source": "MarketWatch",
       "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
@@ -263,25 +277,11 @@
       "ts": 1789702564
     },
     {
-      "source": "Investing Crypto",
-      "title": "Cardano Climbs 10% In Bullish Trade",
-      "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-bullish-trade-4906628",
-      "published": "2026-09-18 02:27:02",
-      "ts": 1789698422
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin extends recovery from Clarity setback, gains capped by Fed hawkishness",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-as-markets-digest-fed-rate-hike-meast-tensions-4904892",
-      "published": "2026-09-17 21:19:11",
-      "ts": 1789679951
-    },
-    {
       "source": "Yahoo Finance",
-      "title": "Crane Company (CR) Plans a $240M Pump Deal. Can Aftermarket Earnings Justify the Price?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/crane-company-cr-plans-240m-211448559.html",
-      "published": "2026-09-17T21:14:48Z",
-      "ts": 1789679688
+      "title": "AI Power Stocks Rally After Generac's Deal For Amazon Data Centers",
+      "link": "https://www.investors.com/news/generac-stock-recharged-amazon-deal-unlocks-data-center-opportunity/?src=A00220&yptr=yahoo",
+      "published": "2026-09-17T21:21:04Z",
+      "ts": 1789680064
     }
   ]
 }
