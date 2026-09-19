@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-19T10:31:01.944946+00:00",
+  "updated_utc": "2026-09-19T10:42:24.266282+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -250,10 +250,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Align Technology Sees Invisalign Growth Runway Despite Consumer Headwinds",
-      "link": "https://finance.yahoo.com/healthcare/articles/align-technology-sees-invisalign-growth-090207578.html",
-      "published": "2026-09-18T09:02:07Z",
-      "ts": 1789722127
+      "title": "SoftBank Boosts Credit Line to $6.5 Billion as AI Debts Mount",
+      "link": "https://finance.yahoo.com/technology/ai/articles/softbank-boosts-credit-line-6-090933320.html",
+      "published": "2026-09-18T09:09:33Z",
+      "ts": 1789722573
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "CFOs On the Move: Week ending Sept. 18",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cfos-move-week-ending-sept-090809748.html",
+      "published": "2026-09-18T09:08:09Z",
+      "ts": 1789722489
     },
     {
       "source": "Investing Forex",
@@ -268,13 +275,6 @@
       "link": "https://finance.yahoo.com/news/wise-convert-10-401-k-113000206.html",
       "published": "2026-09-18T09:00:00Z",
       "ts": 1789722000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "PKF Littlejohn appoints new regulatory consulting partner in UK",
-      "link": "https://finance.yahoo.com/economy/policy/articles/pkf-littlejohn-appoints-regulatory-consulting-085925649.html",
-      "published": "2026-09-18T08:59:25Z",
-      "ts": 1789721965
     },
     {
       "source": "Investing Forex",
