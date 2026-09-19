@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-19T18:02:30.884983+00:00",
+  "updated_utc": "2026-09-19T18:20:47.414516+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Dividends vs. an Annuity: Which Turns $590,000 Into More Monthly Income for Life?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dividends-vs-annuity-turns-590-181214858.html",
+      "published": "2026-09-19T18:12:14Z",
+      "ts": 1789841534
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "BJ’s Wholesale Club (BJ) Formalizes Investment-Grade Financial Policy",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bj-wholesale-club-bj-formalizes-180906005.html",
+      "published": "2026-09-19T18:09:06Z",
+      "ts": 1789841346
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The RealReal (REAL) Bets on Glendale to Capture Growing Vintage Demand",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/realreal-real-bets-glendale-capture-180003520.html",
+      "published": "2026-09-19T18:00:03Z",
+      "ts": 1789840803
+    },
     {
       "source": "MarketWatch",
       "title": "The future of retirement? Work until you die.",
@@ -12,17 +33,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Anthropic Reportedly Delays IPO; OpenAI Expects Massive Cash Burn",
+      "link": "https://www.investors.com/news/technology/anthropic-ipo-delayed-openai-expects-massive-cash-burn/?src=A00220&yptr=yahoo",
+      "published": "2026-09-19T17:48:41Z",
+      "ts": 1789840121
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Willis Lease Finance (WLFC) Expands Fleet with New Aircraft and Engine Acquisition",
       "link": "https://finance.yahoo.com/markets/stocks/articles/willis-lease-finance-wlfc-expands-174813287.html",
       "published": "2026-09-19T17:48:13Z",
       "ts": 1789840093
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The Unexpected Rival Threatening to Shake Up CoreWeave's Market",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/unexpected-rival-threatening-shake-coreweaves-174700738.html",
-      "published": "2026-09-19T17:47:00Z",
-      "ts": 1789840020
     },
     {
       "source": "Yahoo Finance",
@@ -44,27 +65,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/delivery-outlook-shows-tesla-tsla-171443015.html",
       "published": "2026-09-19T17:14:43Z",
       "ts": 1789838083
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Cisco (CSCO) Leans on Splunk to Broaden Its Share of Enterprise AI Spending. It Faces a Big Test",
-      "link": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-leans-splunk-broaden-171200277.html",
-      "published": "2026-09-19T17:12:00Z",
-      "ts": 1789837920
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Micron (MU) Unveils Breakthrough Memory Product. It Says Much About the Memory Market",
-      "link": "https://finance.yahoo.com/technology/articles/micron-mu-unveils-breakthrough-memory-171152232.html",
-      "published": "2026-09-19T17:11:52Z",
-      "ts": 1789837912
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Lucid (LCID) Rises After Bolt Partnership, But Cash Burn Remains a Concern",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-lcid-rises-bolt-partnership-165233221.html",
-      "published": "2026-09-19T16:52:33Z",
-      "ts": 1789836753
     },
     {
       "source": "MarketWatch",
