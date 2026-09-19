@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-19T11:27:31.881329+00:00",
+  "updated_utc": "2026-09-19T11:38:49.942871+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Stocks face a growing list of threats — so why are investors staying so calm?",
+      "link": "https://www.marketwatch.com/story/stocks-face-a-growing-list-of-threats-so-why-are-investors-staying-so-calm-a6acd7e5?mod=mw_rss_topstories",
+      "published": "Sat, 19 Sep 2026 11:30:00 GMT",
+      "ts": 1789817400
+    },
     {
       "source": "MarketWatch",
       "title": "AI leaders want to ‘pace the frontier’ as part of a safety slowdown. But how?",
@@ -100,13 +107,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 21:00:00 +0000",
       "ts": 1789765200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Stocks are failing the ‘breadth’ test, but options traders still see reason to buy",
-      "link": "https://www.marketwatch.com/story/stocks-are-failing-the-breadth-test-but-options-traders-still-see-reason-to-buy-ef78ef14?mod=mw_rss_topstories",
-      "published": "Fri, 18 Sep 2026 20:48:00 GMT",
-      "ts": 1789764480
     },
     {
       "source": "Investing Forex",
@@ -228,11 +228,32 @@
       "ts": 1789727585
     },
     {
+      "source": "Yahoo Finance",
+      "title": "A $5,300 hospital bill arrived 5 years after her husband's death — she may not owe a single dollar",
+      "link": "https://finance.yahoo.com/healthcare/articles/5-300-hospital-bill-arrived-103000949.html",
+      "published": "2026-09-18T10:30:00Z",
+      "ts": 1789727400
+    },
+    {
       "source": "CoinDesk",
       "title": "Bitcoin weathers September storm as rate hikes and Clarity act setback test bulls",
       "link": "https://www.coindesk.com/markets/2026/09/18/bitcoin-weathers-september-storm-as-rate-hikes-and-clarity-act-setback-test-bulls",
       "published": "Fri, 18 Sep 2026 10:07:33 +0000",
       "ts": 1789726053
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "3 Financial Stocks Berkshire Hathaway Owns That I'd Buy Before Buying Berkshire Itself",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-financial-stocks-berkshire-hathaway-100500715.html",
+      "published": "2026-09-18T10:05:00Z",
+      "ts": 1789725900
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The rich got richer in 2025. The poorest households? Not so much",
+      "link": "https://finance.yahoo.com/economy/articles/rich-got-richer-2025-poorest-100240948.html",
+      "published": "2026-09-18T10:02:40Z",
+      "ts": 1789725760
     },
     {
       "source": "Yahoo Finance",
@@ -243,22 +264,8 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Shadow AI use booms, finds new Deloitte survey",
-      "link": "https://finance.yahoo.com/technology/ai/articles/shadow-ai-booms-finds-deloitte-100000360.html",
-      "published": "2026-09-18T10:00:00Z",
-      "ts": 1789725600
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "From Florida to Nevada, retirees are fleeing to no-tax states in search of financial 'heaven.' They don't always find it",
       "link": "https://finance.yahoo.com/real-estate/articles/florida-nevada-retirees-fleeing-no-100000560.html",
-      "published": "2026-09-18T10:00:00Z",
-      "ts": 1789725600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Merit Financial Adds Former Commonwealth Advisor Overseeing $888M",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/merit-financial-adds-former-commonwealth-100000974.html",
       "published": "2026-09-18T10:00:00Z",
       "ts": 1789725600
     },
@@ -275,13 +282,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/amd-155-ytd-record-revenue-095032401.html",
       "published": "2026-09-18T09:50:32Z",
       "ts": 1789725032
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is India’s secondaries market hitting an inflection point?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/india-secondaries-market-hitting-inflection-094400255.html",
-      "published": "2026-09-18T09:44:00Z",
-      "ts": 1789724640
     }
   ]
 }
