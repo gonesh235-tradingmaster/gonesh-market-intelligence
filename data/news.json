@@ -1,8 +1,43 @@
 {
-  "updated_utc": "2026-09-19T19:47:33.254049+00:00",
+  "updated_utc": "2026-09-19T19:56:18.015917+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Notes Oil Is Behind Pressure on Casey’s (CASY) and Texas Roadhouse (TXRH)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-oil-behind-193509467.html",
+      "published": "2026-09-19T19:35:09Z",
+      "ts": 1789846509
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is Main Street Capital Stock a Buy, Sell, or Hold With Shares 15% Below Their 52-Week High?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/main-street-capital-stock-buy-193500520.html",
+      "published": "2026-09-19T19:35:00Z",
+      "ts": 1789846500
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Says “Buy Reddit” (RDDT)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buy-reddit-193324887.html",
+      "published": "2026-09-19T19:33:24Z",
+      "ts": 1789846404
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "CoreWeave (CRWV) Is Charging More for AI Compute, and Customers Keep Paying",
+      "link": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-charging-more-ai-193252050.html",
+      "published": "2026-09-19T19:32:52Z",
+      "ts": 1789846372
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Suggests Against Holding Dominion (D) Through the NextEra (NEE) Share Conversion",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-against-holding-192955385.html",
+      "published": "2026-09-19T19:29:55Z",
+      "ts": 1789846195
+    },
     {
       "source": "Yahoo Finance",
       "title": "STMicroelectronics (STM) Wants Every Car Watching Its Driver, and Cheaply",
@@ -18,32 +53,11 @@
       "ts": 1789845915
     },
     {
-      "source": "Yahoo Finance",
-      "title": "AbbVie's Migraine Franchise Scored a Big Win. Is This Dividend King a No-Brainer Buy Right Now?",
-      "link": "https://finance.yahoo.com/healthcare/articles/abbvies-migraine-franchise-scored-big-192000630.html",
-      "published": "2026-09-19T19:20:00Z",
-      "ts": 1789845600
-    },
-    {
       "source": "Cointelegraph",
       "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
       "link": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 19 Sep 2026 19:14:38 +0000",
       "ts": 1789845278
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Fifth Third’s (FITB) Comerica Merger Is Done, Now Comes The Payoff",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fifth-third-fitb-comerica-merger-190743312.html",
-      "published": "2026-09-19T19:07:43Z",
-      "ts": 1789844863
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Atlassian (TEAM) Just Turned Jira Into an AI Coding Command Center",
-      "link": "https://finance.yahoo.com/technology/ai/articles/atlassian-team-just-turned-jira-190413386.html",
-      "published": "2026-09-19T19:04:13Z",
-      "ts": 1789844653
     },
     {
       "source": "Investing Crypto",
@@ -58,20 +72,6 @@
       "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
       "published": "Sat, 19 Sep 2026 18:57:00 GMT",
       "ts": 1789844220
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Franco-Nevada’s (FNV) Record Quarter Hides A Two-Year Question Mark",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/franco-nevada-fnv-record-quarter-185639565.html",
-      "published": "2026-09-19T18:56:39Z",
-      "ts": 1789844199
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nasdaq (NDAQ) Just Made It Harder For Crypto Criminals To Hide",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/nasdaq-ndaq-just-made-harder-185116666.html",
-      "published": "2026-09-19T18:51:16Z",
-      "ts": 1789843876
     },
     {
       "source": "MarketWatch",
