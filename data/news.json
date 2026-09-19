@@ -1,21 +1,28 @@
 {
-  "updated_utc": "2026-09-19T16:39:45.921362+00:00",
+  "updated_utc": "2026-09-19T16:49:57.837304+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "What happens if you never buy a house? What renters are gaining — and giving up.",
+      "link": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
+      "published": "Sat, 19 Sep 2026 16:45:00 GMT",
+      "ts": 1789836300
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "She Paid Her Daughter $2,500 a Month to Care for Her at Home for Two Years. Without a Signed Contract, Medicaid Treated All $60,000 of It as a Gift",
+      "link": "https://finance.yahoo.com/healthcare/articles/she-paid-her-daughter-2-162614512.html",
+      "published": "2026-09-19T16:26:14Z",
+      "ts": 1789835174
+    },
     {
       "source": "Yahoo Finance",
       "title": "Better Artificial Intelligence Stock: Aehr Test Systems vs. KLA Corporation",
       "link": "https://finance.yahoo.com/markets/stocks/articles/better-artificial-intelligence-stock-aehr-162316240.html",
       "published": "2026-09-19T16:23:16Z",
       "ts": 1789834996
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Celsius Executives Have Been Buying the Stock. Should Investors Join Them?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/celsius-executives-buying-stock-investors-162000571.html",
-      "published": "2026-09-19T16:20:00Z",
-      "ts": 1789834800
     },
     {
       "source": "MarketWatch",
@@ -107,13 +114,6 @@
       "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
       "published": "Sat, 19 Sep 2026 15:15:00 GMT",
       "ts": 1789830900
-    },
-    {
-      "source": "MarketWatch",
-      "title": "How to create a ‘forever paycheck’ without paying for an annuity",
-      "link": "https://www.marketwatch.com/story/how-to-create-a-forever-paycheck-without-paying-for-an-annuity-e5d171d3?mod=mw_rss_topstories",
-      "published": "Sat, 19 Sep 2026 15:14:00 GMT",
-      "ts": 1789830840
     },
     {
       "source": "CoinDesk",
