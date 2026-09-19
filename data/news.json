@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-19T16:27:38.766718+00:00",
+  "updated_utc": "2026-09-19T16:39:45.921362+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Better Artificial Intelligence Stock: Aehr Test Systems vs. KLA Corporation",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/better-artificial-intelligence-stock-aehr-162316240.html",
+      "published": "2026-09-19T16:23:16Z",
+      "ts": 1789834996
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Celsius Executives Have Been Buying the Stock. Should Investors Join Them?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/celsius-executives-buying-stock-investors-162000571.html",
+      "published": "2026-09-19T16:20:00Z",
+      "ts": 1789834800
+    },
     {
       "source": "MarketWatch",
       "title": "It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
@@ -18,25 +32,18 @@
       "ts": 1789834527
     },
     {
+      "source": "Yahoo Finance",
+      "title": "‘Don't quit. Keep your job': Expert says Social Security will 'go away' — and the thing to protect isn't your 401(k)",
+      "link": "https://finance.yahoo.com/economy/policy/articles/dont-quit-keep-job-expert-161500293.html",
+      "published": "2026-09-19T16:15:00Z",
+      "ts": 1789834500
+    },
+    {
       "source": "MarketWatch",
       "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
       "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
       "published": "Sat, 19 Sep 2026 16:15:00 GMT",
       "ts": 1789834500
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "They Retired at 62 With $650,000 Between Two IRAs and Lived on His Pension for 11 Years. At 73 Their First RMDs Came to $42,000, on Top of the Pension",
-      "link": "https://finance.yahoo.com/markets/articles/retired-62-650-000-between-160903592.html",
-      "published": "2026-09-19T16:09:03Z",
-      "ts": 1789834143
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Berkshire Hathaway Stock a Better Buy Than an S&P 500 Index Fund?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-stock-better-buy-160500962.html",
-      "published": "2026-09-19T16:05:00Z",
-      "ts": 1789833900
     },
     {
       "source": "CoinDesk",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/why-is-bitcoin-us-dollar-stock-climbing-today-93CH-4907428",
       "published": "2026-09-18 13:06:16",
       "ts": 1789736776
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. Treasury curve flattens as long-end yields ease off multi-year peaks",
-      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-head-for-weekly-decline-as-postfed-rally-soothes-duration-fears-4906685",
-      "published": "2026-09-18 12:16:35",
-      "ts": 1789733795
     }
   ]
 }
