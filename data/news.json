@@ -1,28 +1,28 @@
 {
-  "updated_utc": "2026-09-19T13:12:32.864916+00:00",
+  "updated_utc": "2026-09-19T13:26:31.688847+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "History Says This Investment Strategy Can Build a $1 Million Portfolio. Here's How.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-investment-strategy-build-131400477.html",
+      "published": "2026-09-19T13:14:00Z",
+      "ts": 1789823640
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Motorola Solutions Eyes Defense, Drone Security Growth as Silvus Scales",
+      "link": "https://finance.yahoo.com/technology/articles/motorola-solutions-eyes-defense-drone-130200808.html",
+      "published": "2026-09-19T13:02:00Z",
+      "ts": 1789822920
+    },
     {
       "source": "MarketWatch",
       "title": "Warsh’s Fed shows it’s serious about taming inflation. Why Wall Street now believes it.",
       "link": "https://www.marketwatch.com/story/warshs-fed-shows-its-serious-about-taming-inflation-why-wall-street-now-believes-it-55dc5af5?mod=mw_rss_topstories",
       "published": "Sat, 19 Sep 2026 13:00:00 GMT",
       "ts": 1789822800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Amgen or Merck: Which Drugmaker Has the Stronger Dividend Growth Story?",
-      "link": "https://finance.yahoo.com/healthcare/articles/amgen-merck-drugmaker-stronger-dividend-125538920.html",
-      "published": "2026-09-19T12:55:38Z",
-      "ts": 1789822538
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "John Ternus's First iPhone Launch Prompted a Bank of America Price Target Cut. Is Apple Stock a Buy?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/john-ternuss-first-iphone-launch-125000640.html",
-      "published": "2026-09-19T12:50:00Z",
-      "ts": 1789822200
     },
     {
       "source": "Yahoo Finance",
