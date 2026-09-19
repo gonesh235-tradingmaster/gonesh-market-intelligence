@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-19T03:43:57.679218+00:00",
+  "updated_utc": "2026-09-19T03:53:33.272203+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Climbs 10% In Rally",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-10-in-rally-4908047",
+      "published": "2026-09-19 03:38:02",
+      "ts": 1789789082
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin jumps above $81k as short squeeze offsets rate and regulatory pressure",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-in-bullish-trade-4906656",
       "published": "2026-09-18 03:36:04",
       "ts": 1789702564
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer on Broadcom (AVGO): “The Stock May Be Too Cheap to Ignore”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-broadcom-avgo-stock-214237143.html",
-      "published": "2026-09-17T21:42:37Z",
-      "ts": 1789681357
     }
   ]
 }
