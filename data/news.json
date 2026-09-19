@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-19T10:18:09.791542+00:00",
+  "updated_utc": "2026-09-19T10:31:01.944946+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -249,6 +249,13 @@
       "ts": 1789722900
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Align Technology Sees Invisalign Growth Runway Despite Consumer Headwinds",
+      "link": "https://finance.yahoo.com/healthcare/articles/align-technology-sees-invisalign-growth-090207578.html",
+      "published": "2026-09-18T09:02:07Z",
+      "ts": 1789722127
+    },
+    {
       "source": "Investing Forex",
       "title": "Here’s what BoE tightening means for EUR/GBP",
       "link": "https://www.investing.com/news/forex-news/heres-what-boe-tightening-means-for-eurgbp-4906839",
@@ -264,10 +271,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Prediction: This Will Be Palantir's Stock Price 1 Year From Now (Hint: It's a Bigger Move Than You Think)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantirs-stock-price-1-085000224.html",
-      "published": "2026-09-18T08:50:00Z",
-      "ts": 1789721400
+      "title": "PKF Littlejohn appoints new regulatory consulting partner in UK",
+      "link": "https://finance.yahoo.com/economy/policy/articles/pkf-littlejohn-appoints-regulatory-consulting-085925649.html",
+      "published": "2026-09-18T08:59:25Z",
+      "ts": 1789721965
     },
     {
       "source": "Investing Forex",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/citi-sees-eurjpy-falling-below-175-despite-nearterm-rebound-risk-93CH-4906818",
       "published": "2026-09-18 08:37:50",
       "ts": 1789720670
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "China’s Fuel Exports Surge as Global Diesel Shortage Deepens",
-      "link": "https://finance.yahoo.com/energy/articles/china-fuel-exports-surge-global-083000060.html",
-      "published": "2026-09-18T08:30:00Z",
-      "ts": 1789720200
     }
   ]
 }
