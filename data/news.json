@@ -1,21 +1,21 @@
 {
-  "updated_utc": "2026-09-19T03:18:19.860556+00:00",
+  "updated_utc": "2026-09-19T03:31:41.795975+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin jumps above $81k as short squeeze offsets rate and regulatory pressure",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-jumps-above-81k-as-short-squeeze-offsets-rate-and-regulatory-pressure-4908041",
+      "published": "2026-09-19 03:19:14",
+      "ts": 1789787954
+    },
     {
       "source": "Investing Crypto",
       "title": "Cardano Climbs 10% In Bullish Trade",
       "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-bullish-trade-4908042",
       "published": "2026-09-19 02:45:02",
       "ts": 1789785902
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin jumps above $81k as short squeeze offsets rate and regulatory pressure",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-jumps-above-81k-as-short-squeeze-offsets-rate-and-regulatory-pressure-4908041",
-      "published": "2026-09-19 02:41:38",
-      "ts": 1789785698
     },
     {
       "source": "MarketWatch",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "AI Power Stocks Rally After Generac's Deal For Amazon Data Centers",
-      "link": "https://www.investors.com/news/generac-stock-recharged-amazon-deal-unlocks-data-center-opportunity/?src=A00220&yptr=yahoo",
-      "published": "2026-09-17T21:21:04Z",
-      "ts": 1789680064
+      "title": "Hub Group (HUBG) Expects an Operating Loss. Can Pricing Catch Up with Freight Costs?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hub-group-hubg-expects-operating-212854510.html",
+      "published": "2026-09-17T21:28:54Z",
+      "ts": 1789680534
     }
   ]
 }
