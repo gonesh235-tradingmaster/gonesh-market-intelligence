@@ -1,21 +1,42 @@
 {
-  "updated_utc": "2026-09-19T19:28:09.177837+00:00",
+  "updated_utc": "2026-09-19T19:38:18.444929+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "STMicroelectronics (STM) Wants Every Car Watching Its Driver, and Cheaply",
+      "link": "https://finance.yahoo.com/technology/articles/stmicroelectronics-stm-wants-every-car-192912047.html",
+      "published": "2026-09-19T19:29:12Z",
+      "ts": 1789846152
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Cerebras (CBRS) Plants A 165 MW Flag In Finland While Still Losing Money",
+      "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-cbrs-plants-165-mw-192515264.html",
+      "published": "2026-09-19T19:25:15Z",
+      "ts": 1789845915
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "AbbVie's Migraine Franchise Scored a Big Win. Is This Dividend King a No-Brainer Buy Right Now?",
+      "link": "https://finance.yahoo.com/healthcare/articles/abbvies-migraine-franchise-scored-big-192000630.html",
+      "published": "2026-09-19T19:20:00Z",
+      "ts": 1789845600
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Fifth Third’s (FITB) Comerica Merger Is Done, Now Comes The Payoff",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fifth-third-fitb-comerica-merger-190743312.html",
+      "published": "2026-09-19T19:07:43Z",
+      "ts": 1789844863
+    },
     {
       "source": "Yahoo Finance",
       "title": "Atlassian (TEAM) Just Turned Jira Into an AI Coding Command Center",
       "link": "https://finance.yahoo.com/technology/ai/articles/atlassian-team-just-turned-jira-190413386.html",
       "published": "2026-09-19T19:04:13Z",
       "ts": 1789844653
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Bank of Nova Scotia Sees Commercial Growth as Digital, Fee Strategy Gains Traction",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-nova-scotia-sees-commercial-190202813.html",
-      "published": "2026-09-19T19:02:02Z",
-      "ts": 1789844522
     },
     {
       "source": "Investing Crypto",
@@ -46,32 +67,11 @@
       "ts": 1789843876
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Garmin’s (GRMN) New Autopilot Signals Where Growth Is Headed",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/garmin-grmn-autopilot-signals-where-184731033.html",
-      "published": "2026-09-19T18:47:31Z",
-      "ts": 1789843651
-    },
-    {
       "source": "MarketWatch",
       "title": "90% of retirees are making this miscalculation with their savings",
       "link": "https://www.marketwatch.com/story/90-of-retirees-are-making-this-miscalculation-with-their-savings-feb9db79?mod=mw_rss_topstories",
       "published": "Sat, 19 Sep 2026 18:40:00 GMT",
       "ts": 1789843200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Corteva (CTVA) Bets On A Belgian Partner For Crop Protection’s Next Act",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/corteva-ctva-bets-belgian-partner-183747198.html",
-      "published": "2026-09-19T18:37:47Z",
-      "ts": 1789843067
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Suggests Avoiding Redwire (RDW) In A Rate Tightening Cycle",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-avoiding-redwire-183604424.html",
-      "published": "2026-09-19T18:36:04Z",
-      "ts": 1789842964
     },
     {
       "source": "Cointelegraph",
