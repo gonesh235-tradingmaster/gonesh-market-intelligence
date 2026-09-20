@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T02:22:08.288326+00:00",
+  "updated_utc": "2026-09-20T02:34:27.511094+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -194,6 +194,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "How Atlassian Stock Shook Off 'SaaSpocalypse' AI Fears For A Big Rally",
+      "link": "https://www.investors.com/research/the-new-america/atlassian-stock-saaspocalypse-ai-rally/?src=A00220&yptr=yahoo",
+      "published": "2026-09-18T20:12:39Z",
+      "ts": 1789762359
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Netflix Stock Downgraded To Sell As Viewer Engagement Wanes",
       "link": "https://www.investors.com/news/technology/netflix-stock-downgraded-sell-viewer-engagement-wanes/?src=A00220&yptr=yahoo",
       "published": "2026-09-18T20:08:45Z",
@@ -226,13 +233,6 @@
       "link": "https://cointelegraph.com/news/coinbase-files-to-bring-single-stock-perpetual-futures-to-us-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 19:53:54 +0000",
       "ts": 1789761234
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dollar Erases Early Gains on Weak US Economic News",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-erases-early-gains-weak-193353447.html",
-      "published": "2026-09-18T19:33:53Z",
-      "ts": 1789760033
     },
     {
       "source": "Cointelegraph",
