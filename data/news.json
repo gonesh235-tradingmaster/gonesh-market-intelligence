@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-20T23:38:49.781700+00:00",
+  "updated_utc": "2026-09-20T23:47:44.519486+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Analog Devices (ADI) Bets $1.35 Billion on Chips that Let Machines Think for Themselves",
+      "link": "https://finance.yahoo.com/technology/ai/articles/analog-devices-adi-bets-1-233705093.html",
+      "published": "2026-09-20T23:37:05Z",
+      "ts": 1789947425
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Casey’s (CASY) Beats on Profit, but a Soft Sales Number Sends the Stock Tumbling",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/casey-casy-beats-profit-soft-233311591.html",
+      "published": "2026-09-20T23:33:11Z",
+      "ts": 1789947191
+    },
     {
       "source": "Yahoo Finance",
       "title": "Signet Jewelers (SIG) Swings to a Profit and Signs a Credit Deal Worth $1 Billion",
@@ -30,20 +44,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/chewy-chwy-beats-profit-even-231901389.html",
       "published": "2026-09-20T23:19:01Z",
       "ts": 1789946341
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
-      "published": "2026-09-20T23:18:55Z",
-      "ts": 1789946335
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Independence Realty Trust (IRT) and Centerspace Combine into an $8.1 Billion Apartment Giant",
-      "link": "https://finance.yahoo.com/real-estate/articles/independence-realty-trust-irt-centerspace-231510521.html",
-      "published": "2026-09-20T23:15:10Z",
-      "ts": 1789946110
     },
     {
       "source": "Investing Crypto",
