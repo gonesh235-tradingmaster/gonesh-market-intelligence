@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-20T12:17:45.758623+00:00",
+  "updated_utc": "2026-09-20T12:35:32.311480+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Midterm voters are overwhelmingly worried about the national debt. But only small fixes are expected this year.",
+      "link": "https://www.marketwatch.com/story/midterm-voters-are-overwhelmingly-worried-about-the-national-debt-but-only-small-fixes-are-expected-this-year-758d364e?mod=mw_rss_topstories",
+      "published": "Sun, 20 Sep 2026 12:31:00 GMT",
+      "ts": 1789907460
+    },
     {
       "source": "MarketWatch",
       "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
@@ -130,13 +137,6 @@
       "ts": 1789842120
     },
     {
-      "source": "MarketWatch",
-      "title": "The future of retirement? Work until you die.",
-      "link": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
-      "published": "Sat, 19 Sep 2026 17:53:00 GMT",
-      "ts": 1789840380
-    },
-    {
       "source": "Cointelegraph",
       "title": "VanEck criticizes Metaplanet over executive dilution despite compensation cuts",
       "link": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -194,6 +194,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Air Products (APD) Is Doubling Down on the Gases Inside Chip Fabs",
+      "link": "https://finance.yahoo.com/technology/articles/air-products-apd-doubling-down-111348272.html",
+      "published": "2026-09-19T11:13:48Z",
+      "ts": 1789816428
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "This new bill could save Social Security in America — and boost your monthly check. Is it time to kick your heels back?",
       "link": "https://finance.yahoo.com/economy/policy/articles/bill-could-save-social-security-110500151.html",
       "published": "2026-09-19T11:05:00Z",
@@ -226,13 +233,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-rcl-1-25b-104710556.html",
       "published": "2026-09-19T10:47:10Z",
       "ts": 1789814830
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Republic Services (RSG) Is Winning On Price While Volumes Slip",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/republic-services-rsg-winning-price-104333739.html",
-      "published": "2026-09-19T10:43:33Z",
-      "ts": 1789814613
     },
     {
       "source": "Cointelegraph",
