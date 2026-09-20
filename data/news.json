@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T14:12:28.433654+00:00",
+  "updated_utc": "2026-09-20T14:25:27.499639+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -9,6 +9,13 @@
       "link": "https://www.marketwatch.com/story/starbuckss-snoopy-cups-and-mcdonalds-spongebob-toys-are-commanding-huge-markups-on-ebay-ed3e514d?mod=mw_rss_topstories",
       "published": "Sun, 20 Sep 2026 14:08:00 GMT",
       "ts": 1789913280
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Multi-Asset Trading Venue Monochrome Exchange Announces IEO of Its Native Token, $MCR",
+      "link": "https://www.investing.com/news/cryptocurrency-news/multiasset-trading-venue-monochrome-exchange-announces-ieo-of-its-native-token-mcr-4908176",
+      "published": "2026-09-20 14:00:37",
+      "ts": 1789912837
     },
     {
       "source": "MarketWatch",
@@ -166,6 +173,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Aflac’s (AFL) Net Earnings Jumped 37.7%, Yet Adjusted Earnings Actually Fell",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aflac-afl-net-earnings-jumped-124547627.html",
+      "published": "2026-09-19T12:45:47Z",
+      "ts": 1789821947
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Cencora (COR) Raised Guidance and Bought Back $1B. What’s the Catch?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/cencora-cor-raised-guidance-bought-123837104.html",
       "published": "2026-09-19T12:38:37Z",
@@ -198,13 +212,6 @@
       "link": "https://finance.yahoo.com/economy/policy/articles/mitt-romney-warned-billionaire-tax-122500287.html",
       "published": "2026-09-19T12:25:00Z",
       "ts": 1789820700
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Meta Stock Could Hit $800 This Year -- And It All Begins on Sept. 23",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-could-hit-800-122139390.html",
-      "published": "2026-09-19T12:21:39Z",
-      "ts": 1789820499
     },
     {
       "source": "CoinDesk",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
       "published": "2026-09-18 21:49:51",
       "ts": 1789768191
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Yen set for worst week since Oct 2025 as BoJ’s hike seen as not aggressive enough",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-yen-slides-despite-boj-rate-hike-4906678",
-      "published": "2026-09-18 20:05:38",
-      "ts": 1789761938
     }
   ]
 }
