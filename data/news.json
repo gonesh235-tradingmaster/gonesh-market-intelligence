@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-20T00:55:47.480447+00:00",
+  "updated_utc": "2026-09-20T01:08:14.111231+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "published": "Sun, 20 Sep 2026 01:03:00 GMT",
+      "ts": 1789866180
+    },
     {
       "source": "Cointelegraph",
       "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
@@ -79,13 +86,6 @@
       "link": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 19 Sep 2026 16:15:27 +0000",
       "ts": 1789834527
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "published": "Sat, 19 Sep 2026 16:15:00 GMT",
-      "ts": 1789834500
     },
     {
       "source": "CoinDesk",
@@ -208,6 +208,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "FleetCor, CEO agree to pay $100 million over hidden fuel-card fees",
+      "link": "https://finance.yahoo.com/small-business/articles/fleetcor-ceo-agree-pay-100-185319968.html",
+      "published": "2026-09-18T18:53:19Z",
+      "ts": 1789757599
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Costco expands ultra-fast delivery through DoorDash, Uber",
       "link": "https://finance.yahoo.com/small-business/articles/costco-expands-ultra-fast-delivery-185042149.html",
       "published": "2026-09-18T18:50:42Z",
@@ -222,13 +229,6 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Everyone's Talking About Treasury Yields: Is MUB or VGIT a Better Investment for Your Portfolio?",
-      "link": "https://finance.yahoo.com/markets/options/articles/everyones-talking-treasury-yields-mub-183801814.html",
-      "published": "2026-09-18T18:38:01Z",
-      "ts": 1789756681
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "The U.S. Government Is Preparing to Offload Over 9 Million GlobalFoundries Shares. How You Should Play GFS Stock in Response.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/u-government-preparing-offload-over-183612647.html",
       "published": "2026-09-18T18:36:12Z",
@@ -236,17 +236,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Applied Digital Co-Founder's Stake in the Company Drops by Nearly 50,000 Shares Worth $1.3 Million",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-co-founders-stake-183529332.html",
+      "published": "2026-09-18T18:35:29Z",
+      "ts": 1789756529
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "SailPoint’s (SAIL) Falcon Next-Gen SIEM Arrangement Fits Its Broader Identity Security Push",
       "link": "https://finance.yahoo.com/technology/ai/articles/sailpoint-sail-falcon-next-gen-183101460.html",
       "published": "2026-09-18T18:31:01Z",
       "ts": 1789756261
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is CenterPoint Energy Underperforming the Nasdaq?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/centerpoint-energy-underperforming-nasdaq-182622146.html",
-      "published": "2026-09-18T18:26:22Z",
-      "ts": 1789755982
     },
     {
       "source": "Investing Forex",
