@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T00:42:15.474575+00:00",
+  "updated_utc": "2026-09-20T00:55:47.480447+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -208,6 +208,34 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Costco expands ultra-fast delivery through DoorDash, Uber",
+      "link": "https://finance.yahoo.com/small-business/articles/costco-expands-ultra-fast-delivery-185042149.html",
+      "published": "2026-09-18T18:50:42Z",
+      "ts": 1789757442
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Tower Semiconductor Just Scored a New Bullish Rating. What to Know.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tower-semiconductor-just-scored-bullish-184106083.html",
+      "published": "2026-09-18T18:41:06Z",
+      "ts": 1789756866
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Everyone's Talking About Treasury Yields: Is MUB or VGIT a Better Investment for Your Portfolio?",
+      "link": "https://finance.yahoo.com/markets/options/articles/everyones-talking-treasury-yields-mub-183801814.html",
+      "published": "2026-09-18T18:38:01Z",
+      "ts": 1789756681
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The U.S. Government Is Preparing to Offload Over 9 Million GlobalFoundries Shares. How You Should Play GFS Stock in Response.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/u-government-preparing-offload-over-183612647.html",
+      "published": "2026-09-18T18:36:12Z",
+      "ts": 1789756572
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "SailPoint’s (SAIL) Falcon Next-Gen SIEM Arrangement Fits Its Broader Identity Security Push",
       "link": "https://finance.yahoo.com/technology/ai/articles/sailpoint-sail-falcon-next-gen-183101460.html",
       "published": "2026-09-18T18:31:01Z",
@@ -219,41 +247,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/centerpoint-energy-underperforming-nasdaq-182622146.html",
       "published": "2026-09-18T18:26:22Z",
       "ts": 1789755982
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Wells Fargo Just Downgraded Netflix Stock. Here's Why.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-just-downgraded-netflix-182315862.html",
-      "published": "2026-09-18T18:23:15Z",
-      "ts": 1789755795
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Volkswagen plunges as Porsche drives €10 billion hit",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/volkswagen-plunges-porsche-drives-10-182239753.html",
-      "published": "2026-09-18T18:22:39Z",
-      "ts": 1789755759
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Fed keeps the door open for more rate hikes as Schmid warns there's 'work to do'",
-      "link": "https://finance.yahoo.com/economy/policy/article/fed-keeps-the-door-open-for-more-rate-hikes-as-schmid-warns-theres-work-to-do-182214817.html",
-      "published": "2026-09-18T18:22:14Z",
-      "ts": 1789755734
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is First Solar Stock Underperforming the Nasdaq?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/first-solar-stock-underperforming-nasdaq-182115801.html",
-      "published": "2026-09-18T18:21:15Z",
-      "ts": 1789755675
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Calls Intel (INTC) the Best Stock in Show and Micron (MU) No. 2",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-intel-intc-181522000.html",
-      "published": "2026-09-18T18:15:22Z",
-      "ts": 1789755322
     },
     {
       "source": "Investing Forex",
@@ -282,6 +275,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/why-is-bitcoin-us-dollar-stock-climbing-today-93CH-4907428",
       "published": "2026-09-18 13:06:16",
       "ts": 1789736776
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. Treasury curve flattens as long-end yields ease off multi-year peaks",
+      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-head-for-weekly-decline-as-postfed-rally-soothes-duration-fears-4906685",
+      "published": "2026-09-18 12:16:35",
+      "ts": 1789733795
     }
   ]
 }
