@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T02:07:02.284871+00:00",
+  "updated_utc": "2026-09-20T02:22:08.288326+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -193,11 +193,32 @@
       "ts": 1789765200
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Netflix Stock Downgraded To Sell As Viewer Engagement Wanes",
+      "link": "https://www.investors.com/news/technology/netflix-stock-downgraded-sell-viewer-engagement-wanes/?src=A00220&yptr=yahoo",
+      "published": "2026-09-18T20:08:45Z",
+      "ts": 1789762125
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "This Biotech Surged 50% On Positive Data In March. Now, It's Completely Gone.",
+      "link": "https://www.investors.com/news/technology/xenon-pharmaceuticals-azetukalner-side-effects-biotech-stock/?src=A00220&yptr=yahoo",
+      "published": "2026-09-18T20:08:44Z",
+      "ts": 1789762124
+    },
+    {
       "source": "Investing Forex",
       "title": "Yen set for worst week since Oct 2025 as BoJ’s hike seen as not aggressive enough",
       "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-yen-slides-despite-boj-rate-hike-4906678",
       "published": "2026-09-18 20:05:38",
       "ts": 1789761938
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Breakout Watch: Savvy Investors Get Wired Up For This Nvidia, Amazon Partner",
+      "link": "https://www.investors.com/research/ibd-stock-analysis/f5-stock-near-breakout-as-top-funds-buy-into-nvidia-amazon-partner/?src=A00220&yptr=yahoo",
+      "published": "2026-09-18T20:00:58Z",
+      "ts": 1789761658
     },
     {
       "source": "Cointelegraph",
@@ -212,41 +233,6 @@
       "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-erases-early-gains-weak-193353447.html",
       "published": "2026-09-18T19:33:53Z",
       "ts": 1789760033
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "On Holding's Kylian Mbappé bet 'a direct challenge to Nike and Adidas': Analyst",
-      "link": "https://finance.yahoo.com/markets/stocks/article/on-holdings-kylian-mbappe-bet-a-direct-challenge-to-nike-and-adidas-analyst-193202945.html",
-      "published": "2026-09-18T19:32:02Z",
-      "ts": 1789759922
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Coinbase Leads Crypto Stocks Higher as Bitcoin Crosses $80,000",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/coinbase-leads-crypto-stocks-higher-193117793.html",
-      "published": "2026-09-18T19:31:17Z",
-      "ts": 1789759877
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Cybersecurity Stock Fortinet Forms Rare Pattern, Flirts With Buy Point",
-      "link": "https://www.investors.com/stock-lists/ibd-big-cap-20/fortinet-ftnt-stock-cybersecurity-openai/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T19:24:44Z",
-      "ts": 1789759484
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "'Diesel Season' Is Starting. There's No Escaping Record Prices.",
-      "link": "https://www.investors.com/news/diesel-prices-hit-record-high-no-escaping-record-prices/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T19:18:34Z",
-      "ts": 1789759114
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "New Highs, Ahoy! These Shipping Stocks Are In Buy Zones",
-      "link": "https://www.investors.com/stock-lists/new-highs/new-highs-ahoy-these-shipping-stocks-are-in-buy-zones/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T19:17:57Z",
-      "ts": 1789759077
     },
     {
       "source": "Cointelegraph",
@@ -282,6 +268,20 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/why-is-bitcoin-us-dollar-stock-climbing-today-93CH-4907428",
       "published": "2026-09-18 13:06:16",
       "ts": 1789736776
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. Treasury curve flattens as long-end yields ease off multi-year peaks",
+      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-head-for-weekly-decline-as-postfed-rally-soothes-duration-fears-4906685",
+      "published": "2026-09-18 12:16:35",
+      "ts": 1789733795
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "CT3 to Participate as Speaker at CoinFerenceX Singapore 2026",
+      "link": "https://www.investing.com/news/cryptocurrency-news/ct3-to-participate-as-speaker-at-coinferencex-singapore-2026-4906900",
+      "published": "2026-09-18 09:30:34",
+      "ts": 1789723834
     }
   ]
 }
