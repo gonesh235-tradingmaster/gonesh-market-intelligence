@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T03:50:15.598284+00:00",
+  "updated_utc": "2026-09-20T03:59:05.502605+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -187,6 +187,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Daily ETF Flows: SPMO's AUM Surges",
+      "link": "https://finance.yahoo.com/markets/options/articles/daily-etf-flows-spmos-aum-210026978.html",
+      "published": "2026-09-18T21:00:26Z",
+      "ts": 1789765226
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "ETF League Tables: Schwab Registers Hefty Inflows",
       "link": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-schwab-registers-210004452.html",
       "published": "2026-09-18T21:00:04Z",
@@ -226,13 +233,6 @@
       "link": "https://www.investors.com/news/technology/chip-stocks-hit-ceiling-macom-technology-solutions-mtsi/?src=A00220&yptr=yahoo",
       "published": "2026-09-18T20:33:38Z",
       "ts": 1789763618
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "This Analyst Just Downgraded Array Technologies. Here's Why.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-downgraded-array-technologies-202037892.html",
-      "published": "2026-09-18T20:20:37Z",
-      "ts": 1789762837
     },
     {
       "source": "Investing Forex",
