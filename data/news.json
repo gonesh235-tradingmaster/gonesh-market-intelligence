@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T03:38:51.715958+00:00",
+  "updated_utc": "2026-09-20T03:50:15.598284+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -186,11 +186,32 @@
       "ts": 1789768191
     },
     {
+      "source": "Yahoo Finance",
+      "title": "ETF League Tables: Schwab Registers Hefty Inflows",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-schwab-registers-210004452.html",
+      "published": "2026-09-18T21:00:04Z",
+      "ts": 1789765204
+    },
+    {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 21:00:00 +0000",
       "ts": 1789765200
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Social Security Check at 62 vs. 70: How Much Can You Get?",
+      "link": "https://finance.yahoo.com/small-business/articles/social-security-check-62-vs-210000443.html",
+      "published": "2026-09-18T21:00:00Z",
+      "ts": 1789765200
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-amd-micron-sandisk/?src=A00220&yptr=yahoo",
+      "published": "2026-09-18T20:57:21Z",
+      "ts": 1789765041
     },
     {
       "source": "Yahoo Finance",
@@ -212,27 +233,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-downgraded-array-technologies-202037892.html",
       "published": "2026-09-18T20:20:37Z",
       "ts": 1789762837
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "How Atlassian Stock Shook Off 'SaaSpocalypse' AI Fears For A Big Rally",
-      "link": "https://www.investors.com/research/the-new-america/atlassian-stock-saaspocalypse-ai-rally/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T20:12:39Z",
-      "ts": 1789762359
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Netflix Stock Downgraded To Sell As Viewer Engagement Wanes",
-      "link": "https://www.investors.com/news/technology/netflix-stock-downgraded-sell-viewer-engagement-wanes/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T20:08:45Z",
-      "ts": 1789762125
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "This Biotech Surged 50% On Positive Data In March. Now, It's Completely Gone.",
-      "link": "https://www.investors.com/news/technology/xenon-pharmaceuticals-azetukalner-side-effects-biotech-stock/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T20:08:44Z",
-      "ts": 1789762124
     },
     {
       "source": "Investing Forex",
