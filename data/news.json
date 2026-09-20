@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T06:03:48.724967+00:00",
+  "updated_utc": "2026-09-20T06:24:32.398643+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -187,8 +187,22 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Tesla, Inc. (TSLA) Eyes Europe’s Electric Truck Boom With Semi Expansion",
+      "link": "https://finance.yahoo.com/technology/articles/tesla-inc-tsla-eyes-europe-224919901.html",
+      "published": "2026-09-18T22:49:19Z",
+      "ts": 1789771759
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Wheat Faces Pressure on Friday",
       "link": "https://finance.yahoo.com/markets/commodities/articles/wheat-faces-pressure-friday-222923465.html",
+      "published": "2026-09-18T22:29:23Z",
+      "ts": 1789770563
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Corn Faces Pressure into the Weekend",
+      "link": "https://finance.yahoo.com/news/corn-faces-pressure-weekend-222923016.html",
       "published": "2026-09-18T22:29:23Z",
       "ts": 1789770563
     },
@@ -205,20 +219,6 @@
       "link": "https://finance.yahoo.com/markets/crypto/articles/sec-greenlights-tokenized-stocks-caveats-220732726.html",
       "published": "2026-09-18T22:07:32Z",
       "ts": 1789769252
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Weekly Wrap: Bitcoin Climbs Back Above $80,000",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-climbs-back-220100164.html",
-      "published": "2026-09-18T22:01:00Z",
-      "ts": 1789768860
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Social Security at 62 vs. 65: What Is the Break Even Point?",
-      "link": "https://finance.yahoo.com/markets/articles/social-security-62-vs-65-220000653.html",
-      "published": "2026-09-18T22:00:00Z",
-      "ts": 1789768800
     },
     {
       "source": "Investing Crypto",
