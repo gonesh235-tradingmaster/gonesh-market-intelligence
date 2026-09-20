@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T13:38:15.540657+00:00",
+  "updated_utc": "2026-09-20T13:48:47.067101+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -173,6 +173,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Bill Ackman's Pershing Square IPO Breaks Out",
+      "link": "https://www.investors.com/news/bill-ackman-pershing-square-ipo-stock-setting-up/?src=A00220&yptr=yahoo",
+      "published": "2026-09-19T12:00:59Z",
+      "ts": 1789819259
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Robinhood Soars, SpaceX Orbits Entry: Five Stocks Near Buy Points",
       "link": "https://www.investors.com/news/robinhood-stock-spacex-stocks-near-buy-points/?src=A00220&yptr=yahoo",
       "published": "2026-09-19T12:00:39Z",
@@ -208,10 +215,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Nestlé Loses the Keys to Its Russian Business",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nestl-loses-keys-russian-business-115500444.html",
-      "published": "2026-09-19T11:55:00Z",
-      "ts": 1789818900
+      "title": "Mark Cuban spent $125,000 on a lifetime American Airlines pass after a drunk dial — here's why the math worked",
+      "link": "https://finance.yahoo.com/markets/articles/mark-cuban-spent-125-000-120000383.html",
+      "published": "2026-09-19T12:00:00Z",
+      "ts": 1789819200
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day",
+      "link": "https://finance.yahoo.com/markets/article/bitcoin-is-back-at-80000-as-rest-of-crypto-joins-the-rally-chart-of-the-day-115955499.html",
+      "published": "2026-09-19T11:59:55Z",
+      "ts": 1789819195
     },
     {
       "source": "Cointelegraph",
@@ -219,20 +233,6 @@
       "link": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 19 Sep 2026 11:51:00 +0000",
       "ts": 1789818660
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "‘I screwed up’: Larry Fink lost $100M in a single quarter, got pushed out, and built BlackRock on top of the wreckage",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/screwed-larry-fink-lost-100m-114500926.html",
-      "published": "2026-09-19T11:45:00Z",
-      "ts": 1789818300
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "5 smart things wealthy baby boomers do with their money that guarantees them a comfy lifestyle. How to copy them",
-      "link": "https://finance.yahoo.com/markets/articles/5-smart-things-wealthy-baby-114500034.html",
-      "published": "2026-09-19T11:45:00Z",
-      "ts": 1789818300
     },
     {
       "source": "Cointelegraph",
