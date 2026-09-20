@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T16:53:32.832294+00:00",
+  "updated_utc": "2026-09-20T17:04:01.317235+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -9,6 +9,13 @@
       "link": "https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html",
       "published": "2026-09-20T16:47:00Z",
       "ts": 1789922820
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bloom Energy (BE) Unveils a New Power Play for the AI Boom",
+      "link": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-unveils-power-play-164510735.html",
+      "published": "2026-09-20T16:45:10Z",
+      "ts": 1789922710
     },
     {
       "source": "Yahoo Finance",
@@ -51,13 +58,6 @@
       "link": "https://finance.yahoo.com/energy/articles/transocean-rig-scores-80-million-162459514.html",
       "published": "2026-09-20T16:24:59Z",
       "ts": 1789921499
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "California Resources (CRC) Sells Uinta Assets for $90 Million",
-      "link": "https://finance.yahoo.com/energy/articles/california-resources-crc-sells-uinta-162106302.html",
-      "published": "2026-09-20T16:21:06Z",
-      "ts": 1789921266
     },
     {
       "source": "Investing Crypto",
