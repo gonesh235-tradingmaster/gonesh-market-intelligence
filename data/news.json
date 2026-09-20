@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-20T10:30:11.242979+00:00",
+  "updated_utc": "2026-09-20T10:42:33.090555+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Falls 11% In Rout",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-11-in-rout-4908157",
+      "published": "2026-09-20 10:17:05",
+      "ts": 1789899425
+    },
     {
       "source": "Cointelegraph",
       "title": "Grayscale’s Zcash ETF files for 3-for-1 forward share split",
@@ -166,6 +173,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Marketing Discipline Pays Off as GDEV Improves Operating Cash Flow",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/marketing-discipline-pays-off-gdev-082304068.html",
+      "published": "2026-09-19T08:23:04Z",
+      "ts": 1789806184
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "ResMed Inc. (RMD)’s Sleep Apnea Leadership Supports Growth Despite Rising Competitive Pressures",
       "link": "https://finance.yahoo.com/healthcare/articles/resmed-inc-rmd-sleep-apnea-081836880.html",
       "published": "2026-09-19T08:18:36Z",
@@ -198,13 +212,6 @@
       "link": "https://finance.yahoo.com/energy/articles/nextera-nee-preserve-earnings-dividend-080154663.html",
       "published": "2026-09-19T08:01:54Z",
       "ts": 1789804914
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Meta (META)’s Stilla.ai Deal Could Turn Business Agent Into a New Monetization Engine",
-      "link": "https://finance.yahoo.com/technology/ai/articles/meta-meta-stilla-ai-deal-075756581.html",
-      "published": "2026-09-19T07:57:56Z",
-      "ts": 1789804676
     },
     {
       "source": "Cointelegraph",
@@ -275,13 +282,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
       "published": "Fri, 18 Sep 2026 15:16:37 +0000",
       "ts": 1789744597
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
-      "link": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
-      "published": "Fri, 18 Sep 2026 15:06:31 +0000",
-      "ts": 1789743991
     }
   ]
 }
