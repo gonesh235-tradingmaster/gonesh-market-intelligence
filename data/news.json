@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T04:43:42.122604+00:00",
+  "updated_utc": "2026-09-20T04:54:07.352233+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -179,6 +179,13 @@
       "ts": 1789785902
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Social Security at 62 vs. 65: What Is the Break Even Point?",
+      "link": "https://finance.yahoo.com/markets/articles/social-security-62-vs-65-220000653.html",
+      "published": "2026-09-18T22:00:00Z",
+      "ts": 1789768800
+    },
+    {
       "source": "Investing Crypto",
       "title": "Bitcoin jumps, tops $80k for first time since Sept 7 & turns positive for the week",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
@@ -226,13 +233,6 @@
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-amd-micron-sandisk/?src=A00220&yptr=yahoo",
       "published": "2026-09-18T20:57:21Z",
       "ts": 1789765041
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stocks Finish Mostly Higher as Crude Prices Fall",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-finish-mostly-higher-crude-203728012.html",
-      "published": "2026-09-18T20:37:28Z",
-      "ts": 1789763848
     },
     {
       "source": "Investing Forex",
