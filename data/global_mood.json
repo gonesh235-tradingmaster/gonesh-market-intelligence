@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-19T23:59:32.296993+00:00",
+  "updated_utc": "2026-09-20T00:24:35.746254+00:00",
   "source": "Computed from NIFTY + BTC",
   "score": 10,
   "label": "NEUTRAL",
@@ -12,7 +12,7 @@
     },
     {
       "asset": "BTC",
-      "score": -2,
+      "score": -3,
       "weight": 0.5
     }
   ]

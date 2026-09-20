@@ -1,57 +1,8 @@
 {
-  "updated_utc": "2026-09-19T23:59:32.266977+00:00",
+  "updated_utc": "2026-09-20T00:24:35.714667+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
-    {
-      "source": "Yahoo Finance",
-      "title": "I Think IBM Stock Will Be Higher in 5 Years. I Still Wouldn't Buy It Today.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/think-ibm-stock-higher-5-234301197.html",
-      "published": "2026-09-19T23:43:01Z",
-      "ts": 1789861381
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Energy Giants Are Betting Billions on a World of Longer Oil Routes",
-      "link": "https://finance.yahoo.com/energy/articles/energy-giants-betting-billions-world-230000196.html",
-      "published": "2026-09-19T23:00:00Z",
-      "ts": 1789858800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nashville’s Traffic Nightmare Is Now a $9.2B Ferrovial (FER)-Led Project",
-      "link": "https://finance.yahoo.com/real-estate/articles/nashville-traffic-nightmare-now-9-202041295.html",
-      "published": "2026-09-19T20:20:41Z",
-      "ts": 1789849241
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "IDEXX (IDXX) Bets an AI Scribe Can Sell More Pet Diagnostics",
-      "link": "https://finance.yahoo.com/technology/ai/articles/idexx-idxx-bets-ai-scribe-201730587.html",
-      "published": "2026-09-19T20:17:30Z",
-      "ts": 1789849050
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Prudential (PRU) Is Leaving Emerging Markets, And This $185M Sale Proves It",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/prudential-pru-leaving-emerging-markets-201350497.html",
-      "published": "2026-09-19T20:13:50Z",
-      "ts": 1789848830
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Interactive Brokers (IBKR) Turns Every Revenue Dollar Into 77 Cents of Pretax Profit",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-ibkr-turns-every-200932877.html",
-      "published": "2026-09-19T20:09:32Z",
-      "ts": 1789848572
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Ferguson (FERG) Keeps Beating a Housing Market That Refuses to Cooperate",
-      "link": "https://finance.yahoo.com/real-estate/articles/ferguson-ferg-keeps-beating-housing-195513837.html",
-      "published": "2026-09-19T19:55:13Z",
-      "ts": 1789847713
-    },
     {
       "source": "Cointelegraph",
       "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
@@ -254,6 +205,55 @@
       "link": "https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 19:06:30 +0000",
       "ts": 1789758390
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Fed keeps the door open for more rate hikes as Schmid warns there's 'work to do'",
+      "link": "https://finance.yahoo.com/economy/policy/article/fed-keeps-the-door-open-for-more-rate-hikes-as-schmid-warns-theres-work-to-do-182214817.html",
+      "published": "2026-09-18T18:22:14Z",
+      "ts": 1789755734
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is First Solar Stock Underperforming the Nasdaq?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/first-solar-stock-underperforming-nasdaq-182115801.html",
+      "published": "2026-09-18T18:21:15Z",
+      "ts": 1789755675
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Calls Intel (INTC) the Best Stock in Show and Micron (MU) No. 2",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-intel-intc-181522000.html",
+      "published": "2026-09-18T18:15:22Z",
+      "ts": 1789755322
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Volkswagen Slashes Profit Outlook as China Slump and Porsche Writedown Bite",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/volkswagen-slashes-profit-outlook-china-181000583.html",
+      "published": "2026-09-18T18:10:00Z",
+      "ts": 1789755000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Corning Stock: The $2 Billion Dilution Scare Is Fading. Here’s What Matters Now.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/corning-stock-2-billion-dilution-180923077.html",
+      "published": "2026-09-18T18:09:23Z",
+      "ts": 1789754963
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Fed Hike Jolts Gold Before Oil Retreat Fuels a Sharp Rebound",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/fed-hike-jolts-gold-oil-175938582.html",
+      "published": "2026-09-18T17:59:38Z",
+      "ts": 1789754378
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "A $25 Billion Reason to Buy CoreWeave Stock",
+      "link": "https://finance.yahoo.com/technology/ai/articles/25-billion-reason-buy-coreweave-174856481.html",
+      "published": "2026-09-18T17:48:56Z",
+      "ts": 1789753736
     },
     {
       "source": "Investing Forex",
