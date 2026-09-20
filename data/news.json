@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T02:34:27.511094+00:00",
+  "updated_utc": "2026-09-20T02:46:19.374081+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -194,6 +194,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "This Analyst Just Downgraded Array Technologies. Here's Why.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-downgraded-array-technologies-202037892.html",
+      "published": "2026-09-18T20:20:37Z",
+      "ts": 1789762837
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "How Atlassian Stock Shook Off 'SaaSpocalypse' AI Fears For A Big Rally",
       "link": "https://www.investors.com/research/the-new-america/atlassian-stock-saaspocalypse-ai-rally/?src=A00220&yptr=yahoo",
       "published": "2026-09-18T20:12:39Z",
@@ -219,13 +226,6 @@
       "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-yen-slides-despite-boj-rate-hike-4906678",
       "published": "2026-09-18 20:05:38",
       "ts": 1789761938
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Breakout Watch: Savvy Investors Get Wired Up For This Nvidia, Amazon Partner",
-      "link": "https://www.investors.com/research/ibd-stock-analysis/f5-stock-near-breakout-as-top-funds-buy-into-nvidia-amazon-partner/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T20:00:58Z",
-      "ts": 1789761658
     },
     {
       "source": "Cointelegraph",
