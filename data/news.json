@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-20T12:35:32.311480+00:00",
+  "updated_utc": "2026-09-20T12:49:23.466044+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+      "published": "Sun, 20 Sep 2026 12:46:00 GMT",
+      "ts": 1789908360
+    },
     {
       "source": "MarketWatch",
       "title": "Midterm voters are overwhelmingly worried about the national debt. But only small fixes are expected this year.",
@@ -86,13 +93,6 @@
       "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
       "published": "Sun, 20 Sep 2026 01:45:00 GMT",
       "ts": 1789868700
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-      "published": "Sun, 20 Sep 2026 01:30:00 GMT",
-      "ts": 1789867800
     },
     {
       "source": "Yahoo Finance",
@@ -194,6 +194,34 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "‘I screwed up’: Larry Fink lost $100M in a single quarter, got pushed out, and built BlackRock on top of the wreckage",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/screwed-larry-fink-lost-100m-114500926.html",
+      "published": "2026-09-19T11:45:00Z",
+      "ts": 1789818300
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "5 smart things wealthy baby boomers do with their money that guarantees them a comfy lifestyle. How to copy them",
+      "link": "https://finance.yahoo.com/markets/articles/5-smart-things-wealthy-baby-114500034.html",
+      "published": "2026-09-19T11:45:00Z",
+      "ts": 1789818300
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Mom plans to give brother early inheritance for his 3 kids' college — childfree sibling says it's not fair",
+      "link": "https://finance.yahoo.com/small-business/articles/mom-plans-brother-early-inheritance-113000096.html",
+      "published": "2026-09-19T11:30:00Z",
+      "ts": 1789817400
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "At 60 I have nothing for retirement and no plan except Social Security. Now that I've been laid off, how can I survive?",
+      "link": "https://finance.yahoo.com/small-business/articles/60-nothing-retirement-no-plan-112500522.html",
+      "published": "2026-09-19T11:25:00Z",
+      "ts": 1789817100
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Air Products (APD) Is Doubling Down on the Gases Inside Chip Fabs",
       "link": "https://finance.yahoo.com/technology/articles/air-products-apd-doubling-down-111348272.html",
       "published": "2026-09-19T11:13:48Z",
@@ -205,34 +233,6 @@
       "link": "https://finance.yahoo.com/economy/policy/articles/bill-could-save-social-security-110500151.html",
       "published": "2026-09-19T11:05:00Z",
       "ts": 1789815900
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Targa Resources (TRGP) Set a Record Quarter and Then Raised the Bar",
-      "link": "https://finance.yahoo.com/energy/articles/targa-resources-trgp-set-record-110433301.html",
-      "published": "2026-09-19T11:04:33Z",
-      "ts": 1789815873
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Ferrari (RACE) Signs Rakuten While 2027 Is Already Spoken For",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ferrari-race-signs-rakuten-while-110100680.html",
-      "published": "2026-09-19T11:01:00Z",
-      "ts": 1789815660
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Simon Property (SPG) Group Raised Its Outlook Again",
-      "link": "https://finance.yahoo.com/real-estate/articles/simon-property-spg-group-raised-105326029.html",
-      "published": "2026-09-19T10:53:26Z",
-      "ts": 1789815206
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Royal Caribbean’s (RCL) $1.25B Debt Deal Hides A Bigger Story",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-rcl-1-25b-104710556.html",
-      "published": "2026-09-19T10:47:10Z",
-      "ts": 1789814830
     },
     {
       "source": "Cointelegraph",
