@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-20T05:20:01.694001+00:00",
+  "updated_utc": "2026-09-20T05:32:21.920051+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin holds above $80,000 as ETF inflows revive institutional demand",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-80000-as-etf-inflows-revive-institutional-demand-4908141",
+      "published": "2026-09-20 05:06:36",
+      "ts": 1789880796
+    },
     {
       "source": "MarketWatch",
       "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
@@ -180,6 +187,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Wheat Faces Pressure on Friday",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/wheat-faces-pressure-friday-222923465.html",
+      "published": "2026-09-18T22:29:23Z",
+      "ts": 1789770563
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Why DataMEDS’ Acquisition Does Not Seem to Be Very Bullish for MEDS Stock at This Point",
       "link": "https://finance.yahoo.com/healthcare/articles/why-datameds-acquisition-does-not-221116776.html",
       "published": "2026-09-18T22:11:16Z",
@@ -212,13 +226,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
       "published": "2026-09-18 21:49:51",
       "ts": 1789768191
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Sir Lynton Crosby, CT Group Executive Chairman, on the Case for Capitalism",
-      "link": "https://finance.yahoo.com/economy/policy/articles/sir-lynton-crosby-ct-group-210625339.html",
-      "published": "2026-09-18T21:06:25Z",
-      "ts": 1789765585
     },
     {
       "source": "Cointelegraph",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/why-is-bitcoin-us-dollar-stock-climbing-today-93CH-4907428",
       "published": "2026-09-18 13:06:16",
       "ts": 1789736776
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. Treasury curve flattens as long-end yields ease off multi-year peaks",
-      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-head-for-weekly-decline-as-postfed-rally-soothes-duration-fears-4906685",
-      "published": "2026-09-18 12:16:35",
-      "ts": 1789733795
     }
   ]
 }
