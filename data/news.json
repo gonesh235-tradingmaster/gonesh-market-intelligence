@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-20T15:53:44.261807+00:00",
+  "updated_utc": "2026-09-20T16:05:03.996193+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Prediction: The Best-Performing Big Bank Stock of the Next 2 Years Is Not JPMorgan Chase",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-best-performing-big-bank-155000750.html",
+      "published": "2026-09-20T15:50:00Z",
+      "ts": 1789919400
+    },
     {
       "source": "Yahoo Finance",
       "title": "Morgan Stanley Sees Marathon Petroleum (MPC) Breaking into New Highs",
@@ -23,13 +30,6 @@
       "link": "https://finance.yahoo.com/energy/articles/morgan-stanley-sees-more-fuel-153825351.html",
       "published": "2026-09-20T15:38:25Z",
       "ts": 1789918705
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Joby Aviation Stock Is Down 54% This Year. Here's Why I'd Buy It Before 2027.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/joby-aviation-stock-down-54-153500236.html",
-      "published": "2026-09-20T15:35:00Z",
-      "ts": 1789918500
     },
     {
       "source": "Yahoo Finance",
