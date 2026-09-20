@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T07:51:53.310145+00:00",
+  "updated_utc": "2026-09-20T08:01:03.323070+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -187,6 +187,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Is McCormick Stock Underperforming the Dow?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mccormick-stock-underperforming-dow-024214391.html",
+      "published": "2026-09-19T02:42:14Z",
+      "ts": 1789785734
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Jim Cramer Shared What CrowdStrike Holdings, Inc. (NASDAQ:CRWD)’s CEO Told Him About AI “Doomsaying”",
       "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-shared-crowdstrike-holdings-232242655.html",
       "published": "2026-09-18T23:22:42Z",
@@ -219,13 +226,6 @@
       "link": "https://finance.yahoo.com/energy/articles/jim-cramer-wished-d-worked-231818524.html",
       "published": "2026-09-18T23:18:18Z",
       "ts": 1789773498
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Allegiant Travel Company (ALGT) Stock Has Upside as Sun Country Merger Synergies Build",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/allegiant-travel-company-algt-stock-231730256.html",
-      "published": "2026-09-18T23:17:30Z",
-      "ts": 1789773450
     },
     {
       "source": "Investing Crypto",
