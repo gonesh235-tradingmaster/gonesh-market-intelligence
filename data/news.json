@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-20T18:33:00.267884+00:00",
+  "updated_utc": "2026-09-20T18:45:19.471850+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Trip.com (TCOM) Books RMB5.2 Billion Penalty. Can Overseas Growth Offset Domestic Pressure?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trip-com-tcom-books-rmb5-183136873.html",
+      "published": "2026-09-20T18:31:36Z",
+      "ts": 1789929096
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Forgent Power (FPS) Reports $3B Backlog. Can Manufacturing Keep Up?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/forgent-power-fps-reports-3b-183008960.html",
+      "published": "2026-09-20T18:30:08Z",
+      "ts": 1789929008
+    },
     {
       "source": "Yahoo Finance",
       "title": "RF Industries (RFIL) Reports Stronger Profits. Can New Orders Sustain the Improved Product Mix?",
@@ -44,20 +58,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-unveils-power-play-164510735.html",
       "published": "2026-09-20T16:45:10Z",
       "ts": 1789922710
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Exxon (XOM) Eyes a Return to Venezuela After Nearly Two Decades Away",
-      "link": "https://finance.yahoo.com/energy/articles/exxon-xom-eyes-return-venezuela-164059135.html",
-      "published": "2026-09-20T16:40:59Z",
-      "ts": 1789922459
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "BMO Sees Phillips 66 (PSX) Breaking into New Highs",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bmo-sees-phillips-66-psx-163523482.html",
-      "published": "2026-09-20T16:35:23Z",
-      "ts": 1789922123
     },
     {
       "source": "MarketWatch",
