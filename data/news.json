@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T08:44:34.651189+00:00",
+  "updated_utc": "2026-09-20T08:53:46.230340+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -159,6 +159,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Intel Corporation (INTC)’s Terafab Partnership Could Give Its AI Foundry Ambitions a Major Boost",
+      "link": "https://finance.yahoo.com/technology/ai/articles/intel-corporation-intc-terafab-partnership-081341477.html",
+      "published": "2026-09-19T08:13:41Z",
+      "ts": 1789805621
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Is Affirm Holdings, Inc. (AFRM) Stock a Buy After Goldman Sachs Raised Its Price Target?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/affirm-holdings-inc-afrm-stock-080841812.html",
       "published": "2026-09-19T08:08:41Z",
@@ -226,13 +233,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/mccormick-stock-underperforming-dow-024214391.html",
       "published": "2026-09-19T02:42:14Z",
       "ts": 1789785734
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Shared What CrowdStrike Holdings, Inc. (NASDAQ:CRWD)’s CEO Told Him About AI “Doomsaying”",
-      "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-shared-crowdstrike-holdings-232242655.html",
-      "published": "2026-09-18T23:22:42Z",
-      "ts": 1789773762
     },
     {
       "source": "Investing Crypto",
