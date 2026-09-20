@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-09-20T19:05:23.446277+00:00",
+  "updated_utc": "2026-09-20T19:17:44.317744+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin trapped between $78K support and $82K resistance: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
+      "published": "2026-09-20 19:02:10",
+      "ts": 1789930930
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Diesel at $6.48 per gallon pushes truck drivers to spend $3,500 a week on fuel, forcing some to quit",
+      "link": "https://finance.yahoo.com/energy/articles/diesel-6-48-per-gallon-190000006.html",
+      "published": "2026-09-20T19:00:00Z",
+      "ts": 1789930800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Lindblad Expeditions (LIND) Buys White Desert Control. Can Antarctic Land Travel Lift Returns?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lindblad-expeditions-lind-buys-white-185653752.html",
+      "published": "2026-09-20T18:56:53Z",
+      "ts": 1789930613
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Vera Bradley (VRA) Returns to Operating Profit. Can the Recovery Outlast Tariff Refunds?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vera-bradley-vra-returns-operating-185154105.html",
+      "published": "2026-09-20T18:51:54Z",
+      "ts": 1789930314
+    },
     {
       "source": "Yahoo Finance",
       "title": "SPX Technologies (SPXC) Buys FIS Water for $410M. Can Water Management Lift Cooling Returns?",
@@ -23,27 +51,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/trip-com-tcom-books-rmb5-183136873.html",
       "published": "2026-09-20T18:31:36Z",
       "ts": 1789929096
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Forgent Power (FPS) Reports $3B Backlog. Can Manufacturing Keep Up?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/forgent-power-fps-reports-3b-183008960.html",
-      "published": "2026-09-20T18:30:08Z",
-      "ts": 1789929008
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "RF Industries (RFIL) Reports Stronger Profits. Can New Orders Sustain the Improved Product Mix?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rf-industries-rfil-reports-stronger-174049668.html",
-      "published": "2026-09-20T17:40:49Z",
-      "ts": 1789926049
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Sempra (SRE) Adds a 20-Year LNG Agreement. How Much Commercial Risk Does it Remove?",
-      "link": "https://finance.yahoo.com/energy/articles/sempra-sre-adds-20-lng-173718056.html",
-      "published": "2026-09-20T17:37:18Z",
-      "ts": 1789925838
     },
     {
       "source": "MarketWatch",
@@ -170,13 +177,6 @@
       "link": "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 20 Sep 2026 07:51:24 +0000",
       "ts": 1789890684
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin trapped between $78.5K-$82K in breakout standoff: Live",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
-      "published": "2026-09-20 07:02:23",
-      "ts": 1789887743
     },
     {
       "source": "Yahoo Finance",
