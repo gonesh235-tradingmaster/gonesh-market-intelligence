@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-20T17:40:56.568159+00:00",
+  "updated_utc": "2026-09-20T17:50:19.492628+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Sempra (SRE) Adds a 20-Year LNG Agreement. How Much Commercial Risk Does it Remove?",
+      "link": "https://finance.yahoo.com/energy/articles/sempra-sre-adds-20-lng-173718056.html",
+      "published": "2026-09-20T17:37:18Z",
+      "ts": 1789925838
+    },
     {
       "source": "Yahoo Finance",
       "title": "Nvidia CEO has a blunt message for Americans fearing AI",
@@ -58,13 +65,6 @@
       "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
       "published": "Sun, 20 Sep 2026 16:30:00 GMT",
       "ts": 1789921800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Definium’s LSD Pill Clears a Second Anxiety Trial, and the Psychedelics Sector Is Watching",
-      "link": "https://finance.yahoo.com/healthcare/articles/definium-lsd-pill-clears-second-162842492.html",
-      "published": "2026-09-20T16:28:42Z",
-      "ts": 1789921722
     },
     {
       "source": "Investing Crypto",
