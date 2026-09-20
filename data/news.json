@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T06:24:32.398643+00:00",
+  "updated_utc": "2026-09-20T06:40:59.221789+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -187,6 +187,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Jim Cramer Says His Palantir Technologies Inc. (NASDAQ:PLTR) Price Target Is $250",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-palantir-technologies-230154955.html",
+      "published": "2026-09-18T23:01:54Z",
+      "ts": 1789772514
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "IBM Once Held Nvidia's Spot as Tech's Biggest Name. The Stock Just Crashed 25%. Here's the Comeback Case.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-once-held-nvidias-spot-230002527.html",
+      "published": "2026-09-18T23:00:02Z",
+      "ts": 1789772402
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Tesla, Inc. (TSLA) Eyes Europe’s Electric Truck Boom With Semi Expansion",
       "link": "https://finance.yahoo.com/technology/articles/tesla-inc-tsla-eyes-europe-224919901.html",
       "published": "2026-09-18T22:49:19Z",
@@ -212,13 +226,6 @@
       "link": "https://finance.yahoo.com/healthcare/articles/why-datameds-acquisition-does-not-221116776.html",
       "published": "2026-09-18T22:11:16Z",
       "ts": 1789769476
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The SEC Greenlights Tokenized Stocks... With Caveats",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/sec-greenlights-tokenized-stocks-caveats-220732726.html",
-      "published": "2026-09-18T22:07:32Z",
-      "ts": 1789769252
     },
     {
       "source": "Investing Crypto",
@@ -275,13 +282,6 @@
       "link": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
       "published": "Fri, 18 Sep 2026 15:06:31 +0000",
       "ts": 1789743991
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Why is Bitcoin US Dollar stock climbing today?",
-      "link": "https://www.investing.com/news/cryptocurrency-news/why-is-bitcoin-us-dollar-stock-climbing-today-93CH-4907428",
-      "published": "2026-09-18 13:06:16",
-      "ts": 1789736776
     }
   ]
 }
