@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-20T13:13:03.646992+00:00",
+  "updated_utc": "2026-09-20T13:26:30.016383+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+      "published": "Sun, 20 Sep 2026 13:16:00 GMT",
+      "ts": 1789910160
+    },
     {
       "source": "MarketWatch",
       "title": "Record diesel prices are exposing pain points in the stock market and economy",
@@ -130,13 +137,6 @@
       "ts": 1789843200
     },
     {
-      "source": "MarketWatch",
-      "title": "90% of retirees are making this miscalculation with their savings",
-      "link": "https://www.marketwatch.com/story/90-of-retirees-are-making-this-miscalculation-with-their-savings-feb9db79?mod=mw_rss_topstories",
-      "published": "Sat, 19 Sep 2026 18:40:00 GMT",
-      "ts": 1789843200
-    },
-    {
       "source": "Cointelegraph",
       "title": "VanEck criticizes Metaplanet over executive dilution despite compensation cuts",
       "link": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -187,6 +187,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Mark Cuban spent $125,000 on a lifetime American Airlines pass after a drunk dial — here's why the math worked",
+      "link": "https://finance.yahoo.com/markets/articles/mark-cuban-spent-125-000-120000383.html",
+      "published": "2026-09-19T12:00:00Z",
+      "ts": 1789819200
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "YardFlow lands over 200-site yard automation deal",
+      "link": "https://finance.yahoo.com/technology/articles/yardflow-lands-over-200-yard-120000605.html",
+      "published": "2026-09-19T12:00:00Z",
+      "ts": 1789819200
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Nestlé Loses the Keys to Its Russian Business",
       "link": "https://finance.yahoo.com/markets/stocks/articles/nestl-loses-keys-russian-business-115500444.html",
       "published": "2026-09-19T11:55:00Z",
@@ -201,15 +215,15 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "5 smart things wealthy baby boomers do with their money that guarantees them a comfy lifestyle. How to copy them",
-      "link": "https://finance.yahoo.com/markets/articles/5-smart-things-wealthy-baby-114500034.html",
+      "title": "‘I screwed up’: Larry Fink lost $100M in a single quarter, got pushed out, and built BlackRock on top of the wreckage",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/screwed-larry-fink-lost-100m-114500926.html",
       "published": "2026-09-19T11:45:00Z",
       "ts": 1789818300
     },
     {
       "source": "Yahoo Finance",
-      "title": "‘I screwed up’: Larry Fink lost $100M in a single quarter, got pushed out, and built BlackRock on top of the wreckage",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/screwed-larry-fink-lost-100m-114500926.html",
+      "title": "5 smart things wealthy baby boomers do with their money that guarantees them a comfy lifestyle. How to copy them",
+      "link": "https://finance.yahoo.com/markets/articles/5-smart-things-wealthy-baby-114500034.html",
       "published": "2026-09-19T11:45:00Z",
       "ts": 1789818300
     },
@@ -219,20 +233,6 @@
       "link": "https://finance.yahoo.com/small-business/articles/mom-plans-brother-early-inheritance-113000096.html",
       "published": "2026-09-19T11:30:00Z",
       "ts": 1789817400
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "At 60 I have nothing for retirement and no plan except Social Security. Now that I've been laid off, how can I survive?",
-      "link": "https://finance.yahoo.com/small-business/articles/60-nothing-retirement-no-plan-112500522.html",
-      "published": "2026-09-19T11:25:00Z",
-      "ts": 1789817100
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Air Products (APD) Is Doubling Down on the Gases Inside Chip Fabs",
-      "link": "https://finance.yahoo.com/technology/articles/air-products-apd-doubling-down-111348272.html",
-      "published": "2026-09-19T11:13:48Z",
-      "ts": 1789816428
     },
     {
       "source": "Cointelegraph",
