@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T14:47:20.067252+00:00",
+  "updated_utc": "2026-09-20T14:56:10.738811+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -173,6 +173,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Lawyers say your $5,000 debt doesn't disappear when the company you owe goes out of business — here's why",
+      "link": "https://finance.yahoo.com/small-business/articles/lawyers-5-000-debt-doesnt-133000085.html",
+      "published": "2026-09-19T13:30:00Z",
+      "ts": 1789824600
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Is Best Buy Stock Outperforming the Dow?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/best-buy-stock-outperforming-dow-132723594.html",
       "published": "2026-09-19T13:27:23Z",
@@ -198,13 +205,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/dave-ramsey-told-1-caller-130002244.html",
       "published": "2026-09-19T13:00:02Z",
       "ts": 1789822802
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Aflac’s (AFL) Net Earnings Jumped 37.7%, Yet Adjusted Earnings Actually Fell",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aflac-afl-net-earnings-jumped-124547627.html",
-      "published": "2026-09-19T12:45:47Z",
-      "ts": 1789821947
     },
     {
       "source": "CoinDesk",
