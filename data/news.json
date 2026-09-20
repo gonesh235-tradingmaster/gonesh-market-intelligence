@@ -1,21 +1,42 @@
 {
-  "updated_utc": "2026-09-20T16:20:37.677796+00:00",
+  "updated_utc": "2026-09-20T16:33:09.396789+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+      "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+      "published": "Sun, 20 Sep 2026 16:30:00 GMT",
+      "ts": 1789921800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "California Resources (CRC) Sells Uinta Assets for $90 Million",
+      "link": "https://finance.yahoo.com/energy/articles/california-resources-crc-sells-uinta-162106302.html",
+      "published": "2026-09-20T16:21:06Z",
+      "ts": 1789921266
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Musk Says NVIDIA (NVDA) AI Chips Are Headed to Space With SpaceX (SPCX) Next Year",
+      "link": "https://finance.yahoo.com/technology/ai/articles/musk-says-nvidia-nvda-ai-162008359.html",
+      "published": "2026-09-20T16:20:08Z",
+      "ts": 1789921208
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "3 Reasons CRISPR Therapeutics Stock Is Still a Buy After a Rocky 2026",
+      "link": "https://finance.yahoo.com/healthcare/articles/3-reasons-crispr-therapeutics-stock-161500018.html",
+      "published": "2026-09-20T16:15:00Z",
+      "ts": 1789920900
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin slips 1% but above $80,000 as ETF inflows revive institutional demand",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-80000-as-etf-inflows-revive-institutional-demand-4908141",
       "published": "2026-09-20 16:08:07",
       "ts": 1789920487
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The Family Gave Away Half of Dad’s $200,000 and Used the Other Half to Pay the Nursing Home Through the Penalty. Medicaid Allowed It, and the Strategy Has a Name",
-      "link": "https://finance.yahoo.com/healthcare/articles/family-gave-away-half-dad-160748251.html",
-      "published": "2026-09-20T16:07:48Z",
-      "ts": 1789920468
     },
     {
       "source": "Yahoo Finance",
@@ -44,20 +65,6 @@
       "link": "https://finance.yahoo.com/energy/articles/morgan-stanley-sees-more-fuel-153825351.html",
       "published": "2026-09-20T15:38:25Z",
       "ts": 1789918705
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "NextEra (NEE) and Dominion (D) Unveil a Bigger Pitch for Virginia",
-      "link": "https://finance.yahoo.com/energy/articles/nextera-nee-dominion-d-unveil-153356972.html",
-      "published": "2026-09-20T15:33:56Z",
-      "ts": 1789918436
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "BMO Capital Bets on a Rebound for Enbridge (ENB)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bmo-capital-bets-rebound-enbridge-152940861.html",
-      "published": "2026-09-20T15:29:40Z",
-      "ts": 1789918180
     },
     {
       "source": "MarketWatch",
@@ -121,13 +128,6 @@
       "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
       "published": "Sun, 20 Sep 2026 12:46:00 GMT",
       "ts": 1789908360
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Midterm voters are overwhelmingly worried about the national debt. But only small fixes are expected this year.",
-      "link": "https://www.marketwatch.com/story/midterm-voters-are-overwhelmingly-worried-about-the-national-debt-but-only-small-fixes-are-expected-this-year-758d364e?mod=mw_rss_topstories",
-      "published": "Sun, 20 Sep 2026 12:31:00 GMT",
-      "ts": 1789907460
     },
     {
       "source": "Cointelegraph",
