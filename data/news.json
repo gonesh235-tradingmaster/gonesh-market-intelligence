@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T14:25:27.499639+00:00",
+  "updated_utc": "2026-09-20T14:37:37.737525+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -173,6 +173,27 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "The Bond Market is Back. Here’s What TLT Bagholders Need to Know.",
+      "link": "https://finance.yahoo.com/markets/options/articles/bond-market-back-tlt-bagholders-131502737.html",
+      "published": "2026-09-19T13:15:02Z",
+      "ts": 1789823702
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Wall Street’s Favorite Safe Haven Could Be In Trouble. How Investors Should Play Gold Here.",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/wall-street-favorite-safe-haven-130003037.html",
+      "published": "2026-09-19T13:00:03Z",
+      "ts": 1789822803
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dave Ramsey Told 1 Caller, ‘Hold on to the Cash. We’re Not Gonna Pay Off the House,’ But 5 Months Later Told Another to Pay It Off That Night. Here’s Why.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dave-ramsey-told-1-caller-130002244.html",
+      "published": "2026-09-19T13:00:02Z",
+      "ts": 1789822802
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Aflac’s (AFL) Net Earnings Jumped 37.7%, Yet Adjusted Earnings Actually Fell",
       "link": "https://finance.yahoo.com/markets/stocks/articles/aflac-afl-net-earnings-jumped-124547627.html",
       "published": "2026-09-19T12:45:47Z",
@@ -184,34 +205,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/cencora-cor-raised-guidance-bought-123837104.html",
       "published": "2026-09-19T12:38:37Z",
       "ts": 1789821517
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Coherent (COHR) Squeezes Key Optical Network Gear Into a Plug-In Module",
-      "link": "https://finance.yahoo.com/technology/articles/coherent-cohr-squeezes-key-optical-123508124.html",
-      "published": "2026-09-19T12:35:08Z",
-      "ts": 1789821308
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Gallagher’s (AJG) Colorado Deal Is Another Brick in a Very Big Wall",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/gallagher-ajg-colorado-deal-another-123050148.html",
-      "published": "2026-09-19T12:30:50Z",
-      "ts": 1789821050
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Week Ahead: Keeping An Eye Out For Change",
-      "link": "https://www.investors.com/research/investing-action-plan/stock-market-nasdaq-sp-500-analysis-meta-platforms-earnings/?src=A00220&yptr=yahoo",
-      "published": "2026-09-19T12:29:27Z",
-      "ts": 1789820967
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mitt Romney warned a billionaire tax triggers demand for 2 assets — now California decides. Get in before the super-rich",
-      "link": "https://finance.yahoo.com/economy/policy/articles/mitt-romney-warned-billionaire-tax-122500287.html",
-      "published": "2026-09-19T12:25:00Z",
-      "ts": 1789820700
     },
     {
       "source": "CoinDesk",
@@ -282,6 +275,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
       "published": "2026-09-18 21:49:51",
       "ts": 1789768191
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Yen set for worst week since Oct 2025 as BoJ’s hike seen as not aggressive enough",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-yen-slides-despite-boj-rate-hike-4906678",
+      "published": "2026-09-18 20:05:38",
+      "ts": 1789761938
     }
   ]
 }
