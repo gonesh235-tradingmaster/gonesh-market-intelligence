@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T04:15:56.855953+00:00",
+  "updated_utc": "2026-09-20T04:30:32.797956+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -187,6 +187,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Sir Lynton Crosby, CT Group Executive Chairman, on the Case for Capitalism",
+      "link": "https://finance.yahoo.com/economy/policy/articles/sir-lynton-crosby-ct-group-210625339.html",
+      "published": "2026-09-18T21:06:25Z",
+      "ts": 1789765585
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Daily ETF Flows: SPMO's AUM Surges",
       "link": "https://finance.yahoo.com/markets/options/articles/daily-etf-flows-spmos-aum-210026978.html",
       "published": "2026-09-18T21:00:26Z",
@@ -226,13 +233,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-finish-mostly-higher-crude-203728012.html",
       "published": "2026-09-18T20:37:28Z",
       "ts": 1789763848
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Chip Stocks Break Through Ceiling As Sector Rebounds. Macom Is A Standout.",
-      "link": "https://www.investors.com/news/technology/chip-stocks-hit-ceiling-macom-technology-solutions-mtsi/?src=A00220&yptr=yahoo",
-      "published": "2026-09-18T20:33:38Z",
-      "ts": 1789763618
     },
     {
       "source": "Investing Forex",
