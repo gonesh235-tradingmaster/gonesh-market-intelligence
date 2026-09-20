@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T09:05:01.442783+00:00",
+  "updated_utc": "2026-09-20T09:19:52.391030+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -159,6 +159,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Marketing Discipline Pays Off as GDEV Improves Operating Cash Flow",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/marketing-discipline-pays-off-gdev-082304068.html",
+      "published": "2026-09-19T08:23:04Z",
+      "ts": 1789806184
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "ResMed Inc. (RMD)’s Sleep Apnea Leadership Supports Growth Despite Rising Competitive Pressures",
+      "link": "https://finance.yahoo.com/healthcare/articles/resmed-inc-rmd-sleep-apnea-081836880.html",
+      "published": "2026-09-19T08:18:36Z",
+      "ts": 1789805916
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Intel Corporation (INTC)’s Terafab Partnership Could Give Its AI Foundry Ambitions a Major Boost",
       "link": "https://finance.yahoo.com/technology/ai/articles/intel-corporation-intc-terafab-partnership-081341477.html",
       "published": "2026-09-19T08:13:41Z",
@@ -170,13 +184,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/affirm-holdings-inc-afrm-stock-080841812.html",
       "published": "2026-09-19T08:08:41Z",
       "ts": 1789805321
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Can Accenture (ACN) Turn Its AI Strategy Into Sustainable Growth?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/accenture-acn-turn-ai-strategy-080629365.html",
-      "published": "2026-09-19T08:06:29Z",
-      "ts": 1789805189
     },
     {
       "source": "Yahoo Finance",
@@ -226,13 +233,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-bullish-trade-4908042",
       "published": "2026-09-19 02:45:02",
       "ts": 1789785902
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is McCormick Stock Underperforming the Dow?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mccormick-stock-underperforming-dow-024214391.html",
-      "published": "2026-09-19T02:42:14Z",
-      "ts": 1789785734
     },
     {
       "source": "Investing Crypto",
