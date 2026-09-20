@@ -1,14 +1,21 @@
 {
-  "updated_utc": "2026-09-20T15:23:07.527876+00:00",
+  "updated_utc": "2026-09-20T15:34:51.151615+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
       "source": "Yahoo Finance",
-      "title": "You Can Soon Get Pre-IPO Exposure on Binance Wallet, But There's A Catch",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/soon-pre-ipo-exposure-binance-151028238.html",
-      "published": "2026-09-20T15:10:28Z",
-      "ts": 1789917028
+      "title": "The Caterpillar Correction Shouldn't Last Much Longer",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-correction-shouldnt-last-much-152000520.html",
+      "published": "2026-09-20T15:20:00Z",
+      "ts": 1789917600
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "UBS Sees Phillips 66 (PSX) Blazing Past its Record High",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ubs-sees-phillips-66-psx-151252128.html",
+      "published": "2026-09-20T15:12:52Z",
+      "ts": 1789917172
     },
     {
       "source": "Yahoo Finance",
@@ -16,6 +23,13 @@
       "link": "https://finance.yahoo.com/energy/articles/baker-hughes-bkr-raises-2026-150954006.html",
       "published": "2026-09-20T15:09:54Z",
       "ts": 1789916994
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Marathon Petroleum (MPC) Could Smash its All-Time High, UBS Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-mpc-could-smash-150634017.html",
+      "published": "2026-09-20T15:06:34Z",
+      "ts": 1789916794
     },
     {
       "source": "MarketWatch",
@@ -200,13 +214,6 @@
       "ts": 1789826845
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Investing Based on Past Performance in 2026 Almost Guarantees a Bad Outcome. Do This Instead.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investing-based-past-performance-2026-140002456.html",
-      "published": "2026-09-19T14:00:02Z",
-      "ts": 1789826402
-    },
-    {
       "source": "CoinDesk",
       "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
       "link": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
@@ -219,13 +226,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
       "published": "Sat, 19 Sep 2026 13:39:15 +0000",
       "ts": 1789825155
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Lawyers say your $5,000 debt doesn't disappear when the company you owe goes out of business — here's why",
-      "link": "https://finance.yahoo.com/small-business/articles/lawyers-5-000-debt-doesnt-133000085.html",
-      "published": "2026-09-19T13:30:00Z",
-      "ts": 1789824600
     },
     {
       "source": "CoinDesk",
