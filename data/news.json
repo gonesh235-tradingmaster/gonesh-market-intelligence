@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T13:26:30.016383+00:00",
+  "updated_utc": "2026-09-20T13:38:15.540657+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -172,6 +172,20 @@
       "ts": 1789820037
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Robinhood Soars, SpaceX Orbits Entry: Five Stocks Near Buy Points",
+      "link": "https://www.investors.com/news/robinhood-stock-spacex-stocks-near-buy-points/?src=A00220&yptr=yahoo",
+      "published": "2026-09-19T12:00:39Z",
+      "ts": 1789819239
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "A Pause on Advanced AI Is Wishful Thinking, But Adobe Stock Is a Buy Anyway",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pause-advanced-ai-wishful-thinking-120002470.html",
+      "published": "2026-09-19T12:00:02Z",
+      "ts": 1789819202
+    },
+    {
       "source": "CoinDesk",
       "title": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
       "link": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
@@ -183,13 +197,6 @@
       "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
       "link": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
       "published": "Sat, 19 Sep 2026 12:00:00 +0000",
-      "ts": 1789819200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mark Cuban spent $125,000 on a lifetime American Airlines pass after a drunk dial — here's why the math worked",
-      "link": "https://finance.yahoo.com/markets/articles/mark-cuban-spent-125-000-120000383.html",
-      "published": "2026-09-19T12:00:00Z",
       "ts": 1789819200
     },
     {
@@ -226,13 +233,6 @@
       "link": "https://finance.yahoo.com/markets/articles/5-smart-things-wealthy-baby-114500034.html",
       "published": "2026-09-19T11:45:00Z",
       "ts": 1789818300
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mom plans to give brother early inheritance for his 3 kids' college — childfree sibling says it's not fair",
-      "link": "https://finance.yahoo.com/small-business/articles/mom-plans-brother-early-inheritance-113000096.html",
-      "published": "2026-09-19T11:30:00Z",
-      "ts": 1789817400
     },
     {
       "source": "Cointelegraph",
