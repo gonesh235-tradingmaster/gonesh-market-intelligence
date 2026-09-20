@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T06:40:59.221789+00:00",
+  "updated_utc": "2026-09-20T06:53:34.380840+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -187,6 +187,34 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Strategy (MSTR) Surges 16% on Growing Digital Asset Adoption — A New Catalyst Looms Next Week",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-surges-16-growing-230649452.html",
+      "published": "2026-09-18T23:06:49Z",
+      "ts": 1789772809
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Stock Used This Stock As An Indicator Of Investor Sentiment Towards AI",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-stock-used-stock-indicator-230633041.html",
+      "published": "2026-09-18T23:06:33Z",
+      "ts": 1789772793
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Said The Strength In Oracle (ORCL)’s Shares Was A “Positive Sign”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-strength-oracle-230622055.html",
+      "published": "2026-09-18T23:06:22Z",
+      "ts": 1789772782
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "NVIDIA Vs Intel Corporation (NASDAQ:INTC): Here’s The One Jim Cramer Likes",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-intel-corporation-nasdaq-230352152.html",
+      "published": "2026-09-18T23:03:52Z",
+      "ts": 1789772632
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Jim Cramer Says His Palantir Technologies Inc. (NASDAQ:PLTR) Price Target Is $250",
       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-palantir-technologies-230154955.html",
       "published": "2026-09-18T23:01:54Z",
@@ -198,34 +226,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-once-held-nvidias-spot-230002527.html",
       "published": "2026-09-18T23:00:02Z",
       "ts": 1789772402
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Tesla, Inc. (TSLA) Eyes Europe’s Electric Truck Boom With Semi Expansion",
-      "link": "https://finance.yahoo.com/technology/articles/tesla-inc-tsla-eyes-europe-224919901.html",
-      "published": "2026-09-18T22:49:19Z",
-      "ts": 1789771759
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Wheat Faces Pressure on Friday",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/wheat-faces-pressure-friday-222923465.html",
-      "published": "2026-09-18T22:29:23Z",
-      "ts": 1789770563
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Corn Faces Pressure into the Weekend",
-      "link": "https://finance.yahoo.com/news/corn-faces-pressure-weekend-222923016.html",
-      "published": "2026-09-18T22:29:23Z",
-      "ts": 1789770563
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why DataMEDS’ Acquisition Does Not Seem to Be Very Bullish for MEDS Stock at This Point",
-      "link": "https://finance.yahoo.com/healthcare/articles/why-datameds-acquisition-does-not-221116776.html",
-      "published": "2026-09-18T22:11:16Z",
-      "ts": 1789769476
     },
     {
       "source": "Investing Crypto",
