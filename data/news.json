@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T12:49:23.466044+00:00",
+  "updated_utc": "2026-09-20T12:58:38.609079+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -186,6 +186,13 @@
       "ts": 1789819200
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Nestlé Loses the Keys to Its Russian Business",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nestl-loses-keys-russian-business-115500444.html",
+      "published": "2026-09-19T11:55:00Z",
+      "ts": 1789818900
+    },
+    {
       "source": "Cointelegraph",
       "title": "Bastion wins conditional OCC approval for national trust bank charter",
       "link": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -194,15 +201,15 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "‘I screwed up’: Larry Fink lost $100M in a single quarter, got pushed out, and built BlackRock on top of the wreckage",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/screwed-larry-fink-lost-100m-114500926.html",
+      "title": "5 smart things wealthy baby boomers do with their money that guarantees them a comfy lifestyle. How to copy them",
+      "link": "https://finance.yahoo.com/markets/articles/5-smart-things-wealthy-baby-114500034.html",
       "published": "2026-09-19T11:45:00Z",
       "ts": 1789818300
     },
     {
       "source": "Yahoo Finance",
-      "title": "5 smart things wealthy baby boomers do with their money that guarantees them a comfy lifestyle. How to copy them",
-      "link": "https://finance.yahoo.com/markets/articles/5-smart-things-wealthy-baby-114500034.html",
+      "title": "‘I screwed up’: Larry Fink lost $100M in a single quarter, got pushed out, and built BlackRock on top of the wreckage",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/screwed-larry-fink-lost-100m-114500926.html",
       "published": "2026-09-19T11:45:00Z",
       "ts": 1789818300
     },
@@ -226,13 +233,6 @@
       "link": "https://finance.yahoo.com/technology/articles/air-products-apd-doubling-down-111348272.html",
       "published": "2026-09-19T11:13:48Z",
       "ts": 1789816428
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "This new bill could save Social Security in America — and boost your monthly check. Is it time to kick your heels back?",
-      "link": "https://finance.yahoo.com/economy/policy/articles/bill-could-save-social-security-110500151.html",
-      "published": "2026-09-19T11:05:00Z",
-      "ts": 1789815900
     },
     {
       "source": "Cointelegraph",
