@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T02:56:01.743070+00:00",
+  "updated_utc": "2026-09-20T03:09:54.998839+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -194,6 +194,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Stocks Finish Mostly Higher as Crude Prices Fall",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-finish-mostly-higher-crude-203728012.html",
+      "published": "2026-09-18T20:37:28Z",
+      "ts": 1789763848
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Chip Stocks Break Through Ceiling As Sector Rebounds. Macom Is A Standout.",
       "link": "https://www.investors.com/news/technology/chip-stocks-hit-ceiling-macom-technology-solutions-mtsi/?src=A00220&yptr=yahoo",
       "published": "2026-09-18T20:33:38Z",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/why-is-bitcoin-us-dollar-stock-climbing-today-93CH-4907428",
       "published": "2026-09-18 13:06:16",
       "ts": 1789736776
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. Treasury curve flattens as long-end yields ease off multi-year peaks",
-      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-head-for-weekly-decline-as-postfed-rally-soothes-duration-fears-4906685",
-      "published": "2026-09-18 12:16:35",
-      "ts": 1789733795
     }
   ]
 }
