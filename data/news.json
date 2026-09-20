@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-20T16:44:33.951459+00:00",
+  "updated_utc": "2026-09-20T16:53:32.832294+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Chevron CEO sends a strong message on oil price and the economy",
+      "link": "https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html",
+      "published": "2026-09-20T16:47:00Z",
+      "ts": 1789922820
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Exxon (XOM) Eyes a Return to Venezuela After Nearly Two Decades Away",
+      "link": "https://finance.yahoo.com/energy/articles/exxon-xom-eyes-return-venezuela-164059135.html",
+      "published": "2026-09-20T16:40:59Z",
+      "ts": 1789922459
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "BMO Sees Phillips 66 (PSX) Breaking into New Highs",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bmo-sees-phillips-66-psx-163523482.html",
+      "published": "2026-09-20T16:35:23Z",
+      "ts": 1789922123
+    },
     {
       "source": "Yahoo Finance",
       "title": "Centrus Energy (LEU) Lands New HALEU Deal with Antares",
@@ -26,13 +47,6 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "I'm Watching PG&E Closely, but Here's Why I Haven't Bought the Dip",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/im-watching-pg-e-closely-162500840.html",
-      "published": "2026-09-20T16:25:00Z",
-      "ts": 1789921500
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Transocean (RIG) Scores an $80 Million Deepwater Contract in Africa",
       "link": "https://finance.yahoo.com/energy/articles/transocean-rig-scores-80-million-162459514.html",
       "published": "2026-09-20T16:24:59Z",
@@ -46,25 +60,11 @@
       "ts": 1789921266
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Musk Says NVIDIA (NVDA) AI Chips Are Headed to Space With SpaceX (SPCX) Next Year",
-      "link": "https://finance.yahoo.com/technology/ai/articles/musk-says-nvidia-nvda-ai-162008359.html",
-      "published": "2026-09-20T16:20:08Z",
-      "ts": 1789921208
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin slips 1% but above $80,000 as ETF inflows revive institutional demand",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-80000-as-etf-inflows-revive-institutional-demand-4908141",
       "published": "2026-09-20 16:08:07",
       "ts": 1789920487
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Targa Resources (TRGP) Gets a Fresh Vote of Confidence from TD Cowen",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/targa-resources-trgp-gets-fresh-155123097.html",
-      "published": "2026-09-20T15:51:23Z",
-      "ts": 1789919483
     },
     {
       "source": "MarketWatch",
