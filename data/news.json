@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T14:37:37.737525+00:00",
+  "updated_utc": "2026-09-20T14:47:20.067252+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -173,6 +173,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Is Best Buy Stock Outperforming the Dow?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/best-buy-stock-outperforming-dow-132723594.html",
+      "published": "2026-09-19T13:27:23Z",
+      "ts": 1789824443
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "The Bond Market is Back. Here’s What TLT Bagholders Need to Know.",
       "link": "https://finance.yahoo.com/markets/options/articles/bond-market-back-tlt-bagholders-131502737.html",
       "published": "2026-09-19T13:15:02Z",
@@ -198,13 +205,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/aflac-afl-net-earnings-jumped-124547627.html",
       "published": "2026-09-19T12:45:47Z",
       "ts": 1789821947
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Cencora (COR) Raised Guidance and Bought Back $1B. What’s the Catch?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cencora-cor-raised-guidance-bought-123837104.html",
-      "published": "2026-09-19T12:38:37Z",
-      "ts": 1789821517
     },
     {
       "source": "CoinDesk",
