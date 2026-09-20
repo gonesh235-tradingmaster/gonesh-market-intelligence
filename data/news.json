@@ -1,14 +1,28 @@
 {
-  "updated_utc": "2026-09-20T01:22:03.649015+00:00",
+  "updated_utc": "2026-09-20T01:33:30.787606+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+      "published": "Sun, 20 Sep 2026 01:30:00 GMT",
+      "ts": 1789867800
+    },
     {
       "source": "MarketWatch",
       "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
       "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
       "published": "Sun, 20 Sep 2026 01:03:00 GMT",
       "ts": 1789866180
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "80-year-old discount fashion chain closing 120 stores",
+      "link": "https://finance.yahoo.com/small-business/articles/tj-maxx-rival-closing-120-181700076.html",
+      "published": "2026-09-19T23:02:22Z",
+      "ts": 1789858942
     },
     {
       "source": "Cointelegraph",
@@ -72,13 +86,6 @@
       "link": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
       "published": "Sat, 19 Sep 2026 16:45:00 GMT",
       "ts": 1789836300
-    },
-    {
-      "source": "MarketWatch",
-      "title": "It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
-      "link": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
-      "published": "Sat, 19 Sep 2026 16:19:00 GMT",
-      "ts": 1789834740
     },
     {
       "source": "Cointelegraph",
@@ -200,6 +207,34 @@
       "ts": 1789761234
     },
     {
+      "source": "Yahoo Finance",
+      "title": "New Highs, Ahoy! These Shipping Stocks Are In Buy Zones",
+      "link": "https://www.investors.com/stock-lists/new-highs/new-highs-ahoy-these-shipping-stocks-are-in-buy-zones/?src=A00220&yptr=yahoo",
+      "published": "2026-09-18T19:17:57Z",
+      "ts": 1789759077
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Crude Prices Retreat on Hopes Middle East Energy Exports to Recover",
+      "link": "https://finance.yahoo.com/energy/articles/crude-prices-retreat-hopes-middle-191455317.html",
+      "published": "2026-09-18T19:14:55Z",
+      "ts": 1789758895
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nat-Gas Prices Rebound on Pre-Weekend Short Covering",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-rebound-pre-191320941.html",
+      "published": "2026-09-18T19:13:20Z",
+      "ts": 1789758800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "JOBY Stock Alert: What to Know as Joby Aviation Completes Cross Country Flight",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/joby-stock-alert-know-joby-190935277.html",
+      "published": "2026-09-18T19:09:35Z",
+      "ts": 1789758575
+    },
+    {
       "source": "Cointelegraph",
       "title": "Binance launches 24/7 FX perps with weekend pricing system",
       "link": "https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -219,34 +254,6 @@
       "link": "https://finance.yahoo.com/real-estate/articles/ask-4-questions-written-realtors-190000139.html",
       "published": "2026-09-18T19:00:00Z",
       "ts": 1789758000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "FleetCor, CEO agree to pay $100 million over hidden fuel-card fees",
-      "link": "https://finance.yahoo.com/small-business/articles/fleetcor-ceo-agree-pay-100-185319968.html",
-      "published": "2026-09-18T18:53:19Z",
-      "ts": 1789757599
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Costco expands ultra-fast delivery through DoorDash, Uber",
-      "link": "https://finance.yahoo.com/small-business/articles/costco-expands-ultra-fast-delivery-185042149.html",
-      "published": "2026-09-18T18:50:42Z",
-      "ts": 1789757442
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Zipline’s Valuation Could Nearly Triple as Drone Delivery Rules Remain Unsettled",
-      "link": "https://finance.yahoo.com/technology/articles/zipline-valuation-could-nearly-triple-184133555.html",
-      "published": "2026-09-18T18:41:33Z",
-      "ts": 1789756893
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Tower Semiconductor Just Scored a New Bullish Rating. What to Know.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tower-semiconductor-just-scored-bullish-184106083.html",
-      "published": "2026-09-18T18:41:06Z",
-      "ts": 1789756866
     },
     {
       "source": "Investing Forex",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/why-is-bitcoin-us-dollar-stock-climbing-today-93CH-4907428",
       "published": "2026-09-18 13:06:16",
       "ts": 1789736776
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. Treasury curve flattens as long-end yields ease off multi-year peaks",
-      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-head-for-weekly-decline-as-postfed-rally-soothes-duration-fears-4906685",
-      "published": "2026-09-18 12:16:35",
-      "ts": 1789733795
     }
   ]
 }
