@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-20T01:44:38.744527+00:00",
+  "updated_utc": "2026-09-20T01:54:35.981933+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "Sun, 20 Sep 2026 01:45:00 GMT",
+      "ts": 1789868700
+    },
     {
       "source": "MarketWatch",
       "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
@@ -79,13 +86,6 @@
       "link": "https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories",
       "published": "Sat, 19 Sep 2026 17:21:00 GMT",
       "ts": 1789838460
-    },
-    {
-      "source": "MarketWatch",
-      "title": "What happens if you never buy a house? What renters are gaining — and giving up.",
-      "link": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
-      "published": "Sat, 19 Sep 2026 16:45:00 GMT",
-      "ts": 1789836300
     },
     {
       "source": "Cointelegraph",
@@ -208,31 +208,45 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Dollar Erases Early Gains on Weak US Economic News",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-erases-early-gains-weak-193353447.html",
+      "published": "2026-09-18T19:33:53Z",
+      "ts": 1789760033
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "On Holding's Kylian Mbappé bet 'a direct challenge to Nike and Adidas': Analyst",
+      "link": "https://finance.yahoo.com/markets/stocks/article/on-holdings-kylian-mbappe-bet-a-direct-challenge-to-nike-and-adidas-analyst-193202945.html",
+      "published": "2026-09-18T19:32:02Z",
+      "ts": 1789759922
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Coinbase Leads Crypto Stocks Higher as Bitcoin Crosses $80,000",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/coinbase-leads-crypto-stocks-higher-193117793.html",
+      "published": "2026-09-18T19:31:17Z",
+      "ts": 1789759877
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Cybersecurity Stock Fortinet Forms Rare Pattern, Flirts With Buy Point",
+      "link": "https://www.investors.com/stock-lists/ibd-big-cap-20/fortinet-ftnt-stock-cybersecurity-openai/?src=A00220&yptr=yahoo",
+      "published": "2026-09-18T19:24:44Z",
+      "ts": 1789759484
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "'Diesel Season' Is Starting. There's No Escaping Record Prices.",
+      "link": "https://www.investors.com/news/diesel-prices-hit-record-high-no-escaping-record-prices/?src=A00220&yptr=yahoo",
+      "published": "2026-09-18T19:18:34Z",
+      "ts": 1789759114
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "New Highs, Ahoy! These Shipping Stocks Are In Buy Zones",
       "link": "https://www.investors.com/stock-lists/new-highs/new-highs-ahoy-these-shipping-stocks-are-in-buy-zones/?src=A00220&yptr=yahoo",
       "published": "2026-09-18T19:17:57Z",
       "ts": 1789759077
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Crude Prices Retreat on Hopes Middle East Energy Exports to Recover",
-      "link": "https://finance.yahoo.com/energy/articles/crude-prices-retreat-hopes-middle-191455317.html",
-      "published": "2026-09-18T19:14:55Z",
-      "ts": 1789758895
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nat-Gas Prices Rebound on Pre-Weekend Short Covering",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-rebound-pre-191320941.html",
-      "published": "2026-09-18T19:13:20Z",
-      "ts": 1789758800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "JOBY Stock Alert: What to Know as Joby Aviation Completes Cross Country Flight",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/joby-stock-alert-know-joby-190935277.html",
-      "published": "2026-09-18T19:09:35Z",
-      "ts": 1789758575
     },
     {
       "source": "Cointelegraph",
@@ -240,20 +254,6 @@
       "link": "https://cointelegraph.com/news/binance-expands-tradfi-push-with-247-foreign-exchange-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 18 Sep 2026 19:06:30 +0000",
       "ts": 1789758390
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "XENE Stock Plummets as Xenon Pharmaceuticals Pauses Drug Trial",
-      "link": "https://finance.yahoo.com/healthcare/articles/xene-stock-plummets-xenon-pharmaceuticals-190004522.html",
-      "published": "2026-09-18T19:00:04Z",
-      "ts": 1789758004
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Ask these 4 questions — written by Realtors — when choosing a mortgage lender",
-      "link": "https://finance.yahoo.com/real-estate/articles/ask-4-questions-written-realtors-190000139.html",
-      "published": "2026-09-18T19:00:00Z",
-      "ts": 1789758000
     },
     {
       "source": "Investing Forex",
