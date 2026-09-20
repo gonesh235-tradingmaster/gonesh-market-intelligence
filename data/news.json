@@ -1,21 +1,21 @@
 {
-  "updated_utc": "2026-09-20T17:50:19.492628+00:00",
+  "updated_utc": "2026-09-20T17:59:22.182239+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "RF Industries (RFIL) Reports Stronger Profits. Can New Orders Sustain the Improved Product Mix?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rf-industries-rfil-reports-stronger-174049668.html",
+      "published": "2026-09-20T17:40:49Z",
+      "ts": 1789926049
+    },
     {
       "source": "Yahoo Finance",
       "title": "Sempra (SRE) Adds a 20-Year LNG Agreement. How Much Commercial Risk Does it Remove?",
       "link": "https://finance.yahoo.com/energy/articles/sempra-sre-adds-20-lng-173718056.html",
       "published": "2026-09-20T17:37:18Z",
       "ts": 1789925838
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nvidia CEO has a blunt message for Americans fearing AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-blunt-message-americans-173300093.html",
-      "published": "2026-09-20T17:33:00Z",
-      "ts": 1789925580
     },
     {
       "source": "MarketWatch",
@@ -30,6 +30,13 @@
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
       "published": "2026-09-20T17:04:35Z",
       "ts": 1789923875
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Chevron CEO sends a strong message on oil price and the economy",
+      "link": "https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html",
+      "published": "2026-09-20T16:47:00Z",
+      "ts": 1789922820
     },
     {
       "source": "Yahoo Finance",
@@ -51,13 +58,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/bmo-sees-phillips-66-psx-163523482.html",
       "published": "2026-09-20T16:35:23Z",
       "ts": 1789922123
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Centrus Energy (LEU) Lands New HALEU Deal with Antares",
-      "link": "https://finance.yahoo.com/energy/articles/centrus-energy-leu-lands-haleu-163159900.html",
-      "published": "2026-09-20T16:31:59Z",
-      "ts": 1789921919
     },
     {
       "source": "MarketWatch",
