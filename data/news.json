@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T11:39:51.120540+00:00",
+  "updated_utc": "2026-09-20T11:49:18.035144+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -173,6 +173,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Simon Property (SPG) Group Raised Its Outlook Again",
+      "link": "https://finance.yahoo.com/real-estate/articles/simon-property-spg-group-raised-105326029.html",
+      "published": "2026-09-19T10:53:26Z",
+      "ts": 1789815206
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Royal Caribbean’s (RCL) $1.25B Debt Deal Hides A Bigger Story",
       "link": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-rcl-1-25b-104710556.html",
       "published": "2026-09-19T10:47:10Z",
@@ -205,13 +212,6 @@
       "link": "https://finance.yahoo.com/markets/articles/americans-lose-2-400-ghost-103000327.html",
       "published": "2026-09-19T10:30:00Z",
       "ts": 1789813800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Wheaton’s (WPM) Profits Nearly Doubled While Its Cash Pile Shrank To $100M",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/wheaton-wpm-profits-nearly-doubled-102712259.html",
-      "published": "2026-09-19T10:27:12Z",
-      "ts": 1789813632
     },
     {
       "source": "Cointelegraph",
