@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-21T03:48:04.516412+00:00",
+  "updated_utc": "2026-09-21T03:58:34.226839+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin’s price has cleared a key hurdle that has historically preceded major bull runs",
+      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-s-price-has-cleared-a-key-hurdle-that-has-historically-preceded-major-bull-runs",
+      "published": "Mon, 21 Sep 2026 03:56:23 +0000",
+      "ts": 1789962983
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asia FX muted with U.S.-China summit in focus, dollar ticks higher",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
+      "published": "2026-09-21 03:52:17",
+      "ts": 1789962737
+    },
     {
       "source": "MarketWatch",
       "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
@@ -173,6 +187,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Amodei, Altman, and Musk Called for an AI Slowdown. Here’s Why It’s a Warning Sign for ASML Shareholders.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amodei-altman-musk-called-ai-173002836.html",
+      "published": "2026-09-19T17:30:02Z",
+      "ts": 1789839002
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Delivery Outlook Shows Tesla (TSLA)’s Core Business Under Pressure. Its Next Growth Engine Must Deliver",
       "link": "https://finance.yahoo.com/markets/stocks/articles/delivery-outlook-shows-tesla-tsla-171443015.html",
       "published": "2026-09-19T17:14:43Z",
@@ -221,13 +242,6 @@
       "ts": 1789833600
     },
     {
-      "source": "Yahoo Finance",
-      "title": "IonQ's Options Are the Cheapest They've Been All Year. Here's the Trade That Takes Advantage.",
-      "link": "https://finance.yahoo.com/markets/options/articles/ionqs-options-cheapest-theyve-heres-155811959.html",
-      "published": "2026-09-19T15:58:11Z",
-      "ts": 1789833491
-    },
-    {
       "source": "CoinDesk",
       "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
       "link": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
@@ -249,13 +263,6 @@
       "ts": 1789820037
     },
     {
-      "source": "CoinDesk",
-      "title": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
-      "link": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
-      "published": "Sat, 19 Sep 2026 12:00:00 +0000",
-      "ts": 1789819200
-    },
-    {
       "source": "Investing Crypto",
       "title": "EOS Climbs 10% In Rally",
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-10-in-rally-4908047",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-bullish-trade-4908042",
       "published": "2026-09-19 02:45:02",
       "ts": 1789785902
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin jumps, tops $80k for first time since Sept 7 & turns positive for the week",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
-      "published": "2026-09-18 21:49:51",
-      "ts": 1789768191
     }
   ]
 }
