@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-09-21T15:55:50.614505+00:00",
+  "updated_utc": "2026-09-21T16:09:23.181179+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto's Fairshake repeats history with $30 million to oppose Sherrod Brown Senate bid",
+      "link": "https://www.coindesk.com/news-analysis/2026/09/21/crypto-s-fairshake-repeats-history-with-usd30-million-to-oppose-sherrod-brown-senate-bid",
+      "published": "Mon, 21 Sep 2026 16:01:36 +0000",
+      "ts": 1790006496
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "NOWPayments Releases Cross-Chain Payout Data Revealing Key Performance Benchmarks Across TRON, BNB Chain, and Solana",
+      "link": "https://www.investing.com/news/cryptocurrency-news/nowpayments-releases-crosschain-payout-data-revealing-key-performance-benchmarks-across-tron-bnb-chain-and-solana-4909411",
+      "published": "2026-09-21 16:00:37",
+      "ts": 1790006437
+    },
+    {
+      "source": "MarketWatch",
+      "title": "AMD hits a major milestone as AI stocks blaze higher",
+      "link": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 15:58:00 GMT",
+      "ts": 1790006280
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Neocloud Nscale, Rival Of CoreWeave And Nebius, Files For IPO",
+      "link": "https://www.investors.com/news/technology/nscale-rival-of-coreweave-nebius-files-for-ipo/?src=A00220&yptr=yahoo",
+      "published": "2026-09-21T15:47:59Z",
+      "ts": 1790005679
+    },
     {
       "source": "MarketWatch",
       "title": "This is the ‘most underappreciated’ driver for Microsoft’s business, according to one analyst",
@@ -74,32 +102,11 @@
       "ts": 1790003297
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Up As Alphabet Shines, Tech Fund Offers Entry; Oil Dips On Iran Hopes (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T15:07:46Z",
-      "ts": 1790003266
-    },
-    {
-      "source": "MarketWatch",
-      "title": "AMD hits a major milestone as AI stocks blaze higher",
-      "link": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 15:07:00 GMT",
-      "ts": 1790003220
-    },
-    {
       "source": "CoinDesk",
       "title": "ECB plans to buy tokenized bonds with its own funds",
       "link": "https://www.coindesk.com/policy/2026/09/21/ecb-announces-it-will-invest-in-tokenized-securities-via-new-pontes-platform",
       "published": "Mon, 21 Sep 2026 15:00:47 +0000",
       "ts": 1790002847
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Despite Sale, Baron Capital Maintains Outlook on Ventas (VTR)",
-      "link": "https://finance.yahoo.com/real-estate/articles/despite-sale-baron-capital-maintains-145801862.html",
-      "published": "2026-09-21T14:58:01Z",
-      "ts": 1790002681
     },
     {
       "source": "MarketWatch",
@@ -221,13 +228,6 @@
       "ts": 1789990571
     },
     {
-      "source": "CoinDesk",
-      "title": "Perp futures linked to 'bitcoin VIX' debut on Hyperliquid",
-      "link": "https://www.coindesk.com/markets/2026/09/21/perp-futures-linked-to-bitcoin-vix-debut-on-hyperliquid",
-      "published": "Mon, 21 Sep 2026 11:30:00 +0000",
-      "ts": 1789990200
-    },
-    {
       "source": "Cointelegraph",
       "title": "ECB launches Pontes to settle tokenized assets without stablecoins",
       "link": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -256,13 +256,6 @@
       "ts": 1789987407
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin surges past $84k: Key technical levels to watch for BTC now",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-84k-key-technical-levels-to-watch-for-btc-now-93CH-4908598",
-      "published": "2026-09-21 10:22:12",
-      "ts": 1789986132
-    },
-    {
       "source": "Cointelegraph",
       "title": "BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week",
       "link": "https://cointelegraph.com/markets/btc-price-nears-eight-month-high-above-85k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -282,6 +275,13 @@
       "link": "https://www.investing.com/news/forex-news/goldman-sees-hungary-inflation-target-cut-as-positive-for-forint-93CH-4908570",
       "published": "2026-09-21 10:09:50",
       "ts": 1789985390
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "X sues Bitcoin account operators over alleged $278K payout fraud",
+      "link": "https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 21 Sep 2026 09:35:25 +0000",
+      "ts": 1789983325
     }
   ]
 }
