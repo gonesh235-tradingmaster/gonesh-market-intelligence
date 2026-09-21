@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-21T16:39:47.773997+00:00",
+  "updated_utc": "2026-09-21T16:52:09.941356+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 21 Sep 2026 16:39:40 +0000",
+      "ts": 1790008780
+    },
     {
       "source": "MarketWatch",
       "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
@@ -30,6 +37,13 @@
       "link": "https://finance.yahoo.com/markets/article/amd-stock-soars-to-new-record-as-semiconductors-bounce-chart-of-the-day-161627271.html",
       "published": "2026-09-21T16:16:27Z",
       "ts": 1790007387
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "CBP importer crackdown puts thousands of cross-border freight shipments at risk",
+      "link": "https://finance.yahoo.com/economy/policy/articles/cbp-importer-crackdown-puts-thousands-161317046.html",
+      "published": "2026-09-21T16:13:17Z",
+      "ts": 1790007197
     },
     {
       "source": "MarketWatch",
@@ -268,20 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/eurusd-outlook-heres-where-ing-sees-the-pair-heading-93CH-4908572",
       "published": "2026-09-21 10:10:48",
       "ts": 1789985448
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Goldman sees Hungary inflation target cut as positive for forint",
-      "link": "https://www.investing.com/news/forex-news/goldman-sees-hungary-inflation-target-cut-as-positive-for-forint-93CH-4908570",
-      "published": "2026-09-21 10:09:50",
-      "ts": 1789985390
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "X sues Bitcoin account operators over alleged $278K payout fraud",
-      "link": "https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 09:35:25 +0000",
-      "ts": 1789983325
     }
   ]
 }
