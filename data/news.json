@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-21T09:43:42.302882+00:00",
+  "updated_utc": "2026-09-21T09:54:32.384932+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Same Conference, Same Day, Same Bet: Chevron and ExxonMobil Double Down on LNG",
+      "link": "https://finance.yahoo.com/energy/articles/same-conference-same-day-same-094121233.html",
+      "published": "2026-09-21T09:41:21Z",
+      "ts": 1789983681
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "X sues Bitcoin account operators over alleged $278K payout fraud",
+      "link": "https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 21 Sep 2026 09:35:25 +0000",
+      "ts": 1789983325
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin jumps above $84k as tokenized-stock move boosts crypto sentiment",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-toward-82k-as-tokenizedstock-move-boosts-crypto-sentiment-4908305",
+      "published": "2026-09-21 09:32:16",
+      "ts": 1789983136
+    },
     {
       "source": "Yahoo Finance",
       "title": "Sam Altman dropped out of Stanford to build an app almost nobody used — it still sold for $43.4 million",
@@ -103,17 +124,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin rockets above $83,500 as falling oil lifts risk assets",
+      "title": "Live updates: Bitcoin hits $85,000 as short liquidations hit $300 million in an hour",
       "link": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
       "published": "Mon, 21 Sep 2026 08:39:26 +0000",
       "ts": 1789979966
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer on Hub Group (HUBG): “Got to Wait Till Oil Calms Down”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-hub-group-hubg-080851735.html",
-      "published": "2026-09-21T08:08:51Z",
-      "ts": 1789978131
     },
     {
       "source": "Yahoo Finance",
@@ -149,13 +163,6 @@
       "link": "https://cointelegraph.com/news/bank-korea-won-settlement-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 21 Sep 2026 06:41:23 +0000",
       "ts": 1789972883
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin climbs toward $82k as tokenized-stock move boosts crypto sentiment",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-toward-82k-as-tokenizedstock-move-boosts-crypto-sentiment-4908305",
-      "published": "2026-09-21 06:39:48",
-      "ts": 1789972788
     },
     {
       "source": "CoinDesk",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/multiasset-trading-venue-monochrome-exchange-announces-ieo-of-its-native-token-mcr-4908176",
       "published": "2026-09-20 14:00:37",
       "ts": 1789912837
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Trump says US will form ‘AI Force’ and appoint AI czar: Reports",
-      "link": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 20 Sep 2026 12:00:52 +0000",
-      "ts": 1789905652
     }
   ]
 }
