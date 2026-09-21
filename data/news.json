@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-21T03:34:22.064661+00:00",
+  "updated_utc": "2026-09-21T03:48:04.516412+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -173,6 +173,27 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Delivery Outlook Shows Tesla (TSLA)’s Core Business Under Pressure. Its Next Growth Engine Must Deliver",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/delivery-outlook-shows-tesla-tsla-171443015.html",
+      "published": "2026-09-19T17:14:43Z",
+      "ts": 1789838083
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Cisco (CSCO) Leans on Splunk to Broaden Its Share of Enterprise AI Spending. It Faces a Big Test",
+      "link": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-leans-splunk-broaden-171200277.html",
+      "published": "2026-09-19T17:12:00Z",
+      "ts": 1789837920
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Micron (MU) Unveils Breakthrough Memory Product. It Says Much About the Memory Market",
+      "link": "https://finance.yahoo.com/technology/articles/micron-mu-unveils-breakthrough-memory-171152232.html",
+      "published": "2026-09-19T17:11:52Z",
+      "ts": 1789837912
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Lucid (LCID) Rises After Bolt Partnership, But Cash Burn Remains a Concern",
       "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-lcid-rises-bolt-partnership-165233221.html",
       "published": "2026-09-19T16:52:33Z",
@@ -205,27 +226,6 @@
       "link": "https://finance.yahoo.com/markets/options/articles/ionqs-options-cheapest-theyve-heres-155811959.html",
       "published": "2026-09-19T15:58:11Z",
       "ts": 1789833491
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Marvell (MRVL) and GlobalFoundries (GFS) Rise on Expanded Deal: What Investors Should Know",
-      "link": "https://finance.yahoo.com/technology/articles/marvell-mrvl-globalfoundries-gfs-rise-155724895.html",
-      "published": "2026-09-19T15:57:24Z",
-      "ts": 1789833444
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "PicS N.V. (PICS) Delivers Credit Portfolio Momentum and Q2 Outperformance Across the Board",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pics-n-v-pics-delivers-155428079.html",
-      "published": "2026-09-19T15:54:28Z",
-      "ts": 1789833268
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Netflix (NFLX) Gets a Bullish $110 Target: What’s Driving the Outlook?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-gets-bullish-110-155252131.html",
-      "published": "2026-09-19T15:52:52Z",
-      "ts": 1789833172
     },
     {
       "source": "CoinDesk",
