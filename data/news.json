@@ -1,8 +1,50 @@
 {
-  "updated_utc": "2026-09-21T11:24:49.598984+00:00",
+  "updated_utc": "2026-09-21T11:39:24.445643+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's 44% gain in third quarter teases full-blown crypto bull run",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run",
+      "published": "Mon, 21 Sep 2026 11:36:11 +0000",
+      "ts": 1789990571
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Perp futures linked to 'bitcoin VIX' debut on Hyperliquid",
+      "link": "https://www.coindesk.com/markets/2026/09/21/perp-futures-linked-to-bitcoin-vix-debut-on-hyperliquid",
+      "published": "Mon, 21 Sep 2026 11:30:00 +0000",
+      "ts": 1789990200
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "‘I just want out’: Billionaire Jeffrey Gundlach says you should have ‘almost nothing’ in AI stocks — what to buy instead",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/just-want-billionaire-jeffrey-gundlach-113000010.html",
+      "published": "2026-09-21T11:30:00Z",
+      "ts": 1789990200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why one Warren Buffett–inspired fund manager is betting big on Chinese stocks",
+      "link": "https://www.marketwatch.com/story/why-one-buffett-inspired-fund-manager-is-betting-big-on-chinese-stocks-b7b8a51e?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 11:30:00 GMT",
+      "ts": 1789990200
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "ECB launches Pontes to settle tokenized assets without stablecoins",
+      "link": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 21 Sep 2026 11:27:00 +0000",
+      "ts": 1789990020
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "“Our Targets Haven’t Changed”: Broadcom’s CEO Pushes Back on the AI Slowdown Scare",
+      "link": "https://finance.yahoo.com/technology/ai/articles/targets-haven-t-changed-broadcom-112507800.html",
+      "published": "2026-09-21T11:25:07Z",
+      "ts": 1789989907
+    },
     {
       "source": "CoinDesk",
       "title": "ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money",
@@ -16,6 +58,13 @@
       "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 11:15:00 GMT",
       "ts": 1789989300
+    },
+    {
+      "source": "Investing Forex",
+      "title": "As lines grow at banks, Cuba tiptoes away from communism but stability seems distant",
+      "link": "https://www.investing.com/news/forex-news/as-lines-grow-at-banks-cuba-tiptoes-away-from-communism-but-stability-seems-distant-4908748",
+      "published": "2026-09-21 11:06:38",
+      "ts": 1789988798
     },
     {
       "source": "Yahoo Finance",
@@ -39,13 +88,6 @@
       "ts": 1789988400
     },
     {
-      "source": "MarketWatch",
-      "title": "Why one Buffett-inspired fund manager is betting big on Chinese stocks",
-      "link": "https://www.marketwatch.com/story/why-one-buffett-inspired-fund-manager-is-betting-big-on-chinese-stocks-b7b8a51e?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 10:57:00 GMT",
-      "ts": 1789988220
-    },
-    {
       "source": "Cointelegraph",
       "title": "NEAR jumps nearly 80% in a week as Intents volume nears $30B",
       "link": "https://cointelegraph.com/markets/near-price-surge-intents-zcash-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -65,20 +107,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/crypto-stocks-rise-premarket-as-bitcoin-hits-over-sevenmonth-high-4908587",
       "published": "2026-09-21 10:43:27",
       "ts": 1789987407
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Morning Bid: Summiteering",
-      "link": "https://finance.yahoo.com/economy/policy/articles/morning-bid-summiteering-104146934.html",
-      "published": "2026-09-21T10:41:46Z",
-      "ts": 1789987306
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "‘Bull crap’: Why Dave Ramsey says moving to conservative bond investments in old age is mathematically stupid",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bull-crap-why-dave-ramsey-103500321.html",
-      "published": "2026-09-21T10:35:00Z",
-      "ts": 1789986900
     },
     {
       "source": "CoinDesk",
@@ -254,34 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
       "published": "2026-09-21 07:12:04",
       "ts": 1789974724
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bank of Korea launches 24-hour won settlement pilot for foreign investors",
-      "link": "https://cointelegraph.com/news/bank-korea-won-settlement-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 06:41:23 +0000",
-      "ts": 1789972883
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kalshi faces ‘fake crypto volume’ allegations as critic flags identical $5,500 trades",
-      "link": "https://www.coindesk.com/markets/2026/09/21/kalshi-s-crypto-chief-responds-to-fake-crypto-volume-allegations-as-critic-flags-identical-usd5-500-trades",
-      "published": "Mon, 21 Sep 2026 06:20:47 +0000",
-      "ts": 1789971647
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 04:44:48 +0000",
-      "ts": 1789965888
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin reclaims 50-week moving average as analysts eye end of bear market",
-      "link": "https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 04:29:59 +0000",
-      "ts": 1789964999
     }
   ]
 }
