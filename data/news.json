@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-21T05:29:35.316628+00:00",
+  "updated_utc": "2026-09-21T05:43:49.057073+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -201,6 +201,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Corteva (CTVA) Bets On A Belgian Partner For Crop Protection’s Next Act",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/corteva-ctva-bets-belgian-partner-183747198.html",
+      "published": "2026-09-19T18:37:47Z",
+      "ts": 1789843067
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Suggests Avoiding Redwire (RDW) In A Rate Tightening Cycle",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-avoiding-redwire-183604424.html",
+      "published": "2026-09-19T18:36:04Z",
+      "ts": 1789842964
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Sempra (SRE) Just Locked In Two Decades of LNG Demand",
       "link": "https://finance.yahoo.com/energy/articles/sempra-sre-just-locked-two-183448167.html",
       "published": "2026-09-19T18:34:48Z",
@@ -226,20 +240,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/purecycle-pct-expands-purefive-regulatory-182105336.html",
       "published": "2026-09-19T18:21:05Z",
       "ts": 1789842065
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "BJ’s Wholesale Club (BJ) Formalizes Investment-Grade Financial Policy",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bj-wholesale-club-bj-formalizes-180906005.html",
-      "published": "2026-09-19T18:09:06Z",
-      "ts": 1789841346
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The RealReal (REAL) Bets on Glendale to Capture Growing Vintage Demand",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/realreal-real-bets-glendale-capture-180003520.html",
-      "published": "2026-09-19T18:00:03Z",
-      "ts": 1789840803
     },
     {
       "source": "CoinDesk",
