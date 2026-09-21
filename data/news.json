@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-21T03:58:34.226839+00:00",
+  "updated_utc": "2026-09-21T04:15:22.624729+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic",
+      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic",
+      "published": "Mon, 21 Sep 2026 04:03:43 +0000",
+      "ts": 1789963423
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin’s price has cleared a key hurdle that has historically preceded major bull runs",
@@ -187,6 +194,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "How Does This $40.3 Million Birwood Heights Financing Arrangement Benefit Marcus & Millichap’s (MMI)",
+      "link": "https://finance.yahoo.com/real-estate/articles/does-40-3-million-birwood-173911914.html",
+      "published": "2026-09-19T17:39:11Z",
+      "ts": 1789839551
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Amodei, Altman, and Musk Called for an AI Slowdown. Here’s Why It’s a Warning Sign for ASML Shareholders.",
       "link": "https://finance.yahoo.com/technology/ai/articles/amodei-altman-musk-called-ai-173002836.html",
       "published": "2026-09-19T17:30:02Z",
@@ -228,13 +242,6 @@
       "ts": 1789834800
     },
     {
-      "source": "Yahoo Finance",
-      "title": "‘Don't quit. Keep your job': Expert says Social Security will 'go away' — and the thing to protect isn't your 401(k)",
-      "link": "https://finance.yahoo.com/economy/policy/articles/dont-quit-keep-job-expert-161500293.html",
-      "published": "2026-09-19T16:15:00Z",
-      "ts": 1789834500
-    },
-    {
       "source": "CoinDesk",
       "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
       "link": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
@@ -254,13 +261,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
       "published": "Sat, 19 Sep 2026 13:39:15 +0000",
       "ts": 1789825155
-    },
-    {
-      "source": "CoinDesk",
-      "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
-      "link": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
-      "published": "Sat, 19 Sep 2026 12:13:57 +0000",
-      "ts": 1789820037
     },
     {
       "source": "Investing Crypto",
