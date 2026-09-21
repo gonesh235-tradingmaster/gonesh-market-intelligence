@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-21T08:34:03.367154+00:00",
+  "updated_utc": "2026-09-21T08:47:13.763409+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin rockets above $83,500 as falling oil lifts risk assets",
+      "link": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
+      "published": "Mon, 21 Sep 2026 08:39:26 +0000",
+      "ts": 1789979966
+    },
     {
       "source": "Investing Forex",
       "title": "Euro zone yields ease as markets await of ECB’s Lagarde speech",
@@ -270,16 +277,9 @@
       "ts": 1789833600
     },
     {
-      "source": "CoinDesk",
-      "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
-      "link": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
-      "published": "Sat, 19 Sep 2026 14:00:00 +0000",
-      "ts": 1789826400
-    },
-    {
       "source": "Yahoo Finance",
-      "title": "Best CD rates today, Saturday, September 19, 2026: Lock in up to 4.40% APY with a 2-year CD",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-september-19-2026-lock-in-up-to-440-apy-with-a-2-year-cd-100000984.html",
+      "title": "Mortgage and refinance interest rates today, Saturday, September 19, 2026: Mortgage rates move lower to start the weekend",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-september-19-2026-mortgage-rates-move-lower-to-start-the-weekend-100000254.html",
       "published": "2026-09-19T10:00:00Z",
       "ts": 1789812000
     }
