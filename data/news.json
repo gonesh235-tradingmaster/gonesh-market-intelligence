@@ -1,21 +1,84 @@
 {
-  "updated_utc": "2026-09-21T12:00:31.335286+00:00",
+  "updated_utc": "2026-09-21T12:21:16.513857+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
-      "source": "Yahoo Finance",
-      "title": "Wealth manager Allspring considers sale – report",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wealth-manager-allspring-considers-sale-115442395.html",
-      "published": "2026-09-21T11:54:42Z",
-      "ts": 1789991682
+      "source": "CoinDesk",
+      "title": "Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails",
+      "link": "https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails",
+      "published": "Mon, 21 Sep 2026 12:17:48 +0000",
+      "ts": 1789993068
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
+      "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 12:15:00 GMT",
+      "ts": 1789992900
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy returns to bitcoin buys, adding $75 million of BTC last week",
+      "link": "https://www.coindesk.com/markets/2026/09/21/strategy-returns-to-bitcoin-buys-adding-usd75-million-of-btc-last-week",
+      "published": "Mon, 21 Sep 2026 12:08:02 +0000",
+      "ts": 1789992482
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. Treasury yields ease on crude pull-back ;  rate hike bets stay",
+      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-ease-as-markets-await-of-ecbs-lagarde-speech-4908370",
+      "published": "2026-09-21 12:07:57",
+      "ts": 1789992477
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s goals for 2030",
+      "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 12:06:00 GMT",
+      "ts": 1789992360
     },
     {
       "source": "Yahoo Finance",
-      "title": "Credo Technology Crashed for 3 Months: This Wall Street Pro Says It’s About to Double",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-crashed-3-months-115135647.html",
-      "published": "2026-09-21T11:51:35Z",
-      "ts": 1789991495
+      "title": "The Stock Market Looks More Expensive Than Ever Before Based on Certain Measures, and Warren Buffett's Timeless Advice Has Never Been More Valuable",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-looks-more-expensive-120500895.html",
+      "published": "2026-09-21T12:05:00Z",
+      "ts": 1789992300
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Should You Buy Netflix Stock Before Oct. 20?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-netflix-stock-oct-20-120428201.html",
+      "published": "2026-09-21T12:04:28Z",
+      "ts": 1789992268
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Strategy buys 950 bitcoin, repurchases STRC shares in weekly update",
+      "link": "https://www.investing.com/news/cryptocurrency-news/strategy-buys-950-bitcoin-repurchases-strc-shares-in-weekly-update-432SI-4908941",
+      "published": "2026-09-21 12:04:02",
+      "ts": 1789992242
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Rallies 450 Points As Oil Prices, Treasury Yields Fall; Nvidia Extends Gains (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
+      "published": "2026-09-21T11:59:26Z",
+      "ts": 1789991966
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Kevin O'Leary sold his software company for $4.2 billion, so why did he only walk away with about $11 million?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kevin-oleary-sold-software-company-115500725.html",
+      "published": "2026-09-21T11:55:00Z",
+      "ts": 1789991700
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nscale, Rival Of CoreWeave And Nebius, Files For IPO",
+      "link": "https://www.investors.com/news/technology/nscale-rival-of-coreweave-nebius-files-for-ipo/?src=A00220&yptr=yahoo",
+      "published": "2026-09-21T11:53:06Z",
+      "ts": 1789991586
     },
     {
       "source": "Yahoo Finance",
@@ -39,13 +102,6 @@
       "ts": 1789991214
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Nscale, Rival Of CoreWeave And Nebius, Files For IPO",
-      "link": "https://www.investors.com/news/technology/nscale-rival-of-coreweave-nebius-files-for-ipo/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T11:42:26Z",
-      "ts": 1789990946
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin's 44% gain in third quarter teases full-blown crypto bull run",
       "link": "https://www.coindesk.com/daybook-us/2026/09/21/bitcoin-s-44-gain-in-third-quarter-teases-full-blown-crypto-bull-run",
@@ -53,24 +109,10 @@
       "ts": 1789990571
     },
     {
-      "source": "Yahoo Finance",
-      "title": "“Who Can Imagine What Action One Might Take”: Musk’s Latest Non-Answer Sends Tesla and SpaceX Higher",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/imagine-action-one-might-musk-113510252.html",
-      "published": "2026-09-21T11:35:10Z",
-      "ts": 1789990510
-    },
-    {
       "source": "CoinDesk",
       "title": "Perp futures linked to 'bitcoin VIX' debut on Hyperliquid",
       "link": "https://www.coindesk.com/markets/2026/09/21/perp-futures-linked-to-bitcoin-vix-debut-on-hyperliquid",
       "published": "Mon, 21 Sep 2026 11:30:00 +0000",
-      "ts": 1789990200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "‘I just want out’: Billionaire Jeffrey Gundlach says you should have ‘almost nothing’ in AI stocks — what to buy instead",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/just-want-billionaire-jeffrey-gundlach-113000010.html",
-      "published": "2026-09-21T11:30:00Z",
       "ts": 1789990200
     },
     {
@@ -228,20 +270,6 @@
       "ts": 1789981962
     },
     {
-      "source": "MarketWatch",
-      "title": "Kylie Jenner sells California mansion for $5 million below asking",
-      "link": "https://www.marketwatch.com/story/kylie-jenner-sells-california-mansion-for-5-million-below-asking-a6f2bb38?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 09:05:00 GMT",
-      "ts": 1789981500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Steven Spielberg lists longtime L.A. equestrian ranch for $30 million",
-      "link": "https://www.marketwatch.com/story/steven-spielberg-lists-longtime-l-a-equestrian-ranch-for-30-million-2209cbb4?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 09:03:00 GMT",
-      "ts": 1789981380
-    },
-    {
       "source": "Investing Forex",
       "title": "Deutsche Bank sees dollar decline continuing on FX outlook",
       "link": "https://www.investing.com/news/forex-news/deutsche-bank-sees-dollar-decline-continuing-on-fx-outlook-93CH-4908448",
@@ -249,39 +277,11 @@
       "ts": 1789980970
     },
     {
-      "source": "CoinDesk",
-      "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
-      "link": "https://www.coindesk.com/business/2026/09/21/hana-bank-issues-south-korea-s-first-digital-bond-using-euroclear-s-blockchain",
-      "published": "Mon, 21 Sep 2026 08:49:59 +0000",
-      "ts": 1789980599
-    },
-    {
       "source": "Investing Forex",
       "title": "UBS sees limited yen gains despite Bank of Japan rate hike",
       "link": "https://www.investing.com/news/forex-news/ubs-sees-limited-yen-gains-despite-bank-of-japan-rate-hike-93CH-4908446",
       "published": "2026-09-21 08:48:42",
       "ts": 1789980522
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin hits $85,000 as short liquidations hit $300 million in an hour",
-      "link": "https://www.coindesk.com/business/2026/09/21/live-updates-bitcoin-rises-above-usd82-000-as-falling-oil-lifts-risk-assets",
-      "published": "Mon, 21 Sep 2026 08:39:26 +0000",
-      "ts": 1789979966
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as oil falls, anticipation builds for Trump-Xi summit",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
-      "published": "2026-09-21T08:02:14Z",
-      "ts": 1789977734
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Euro zone yields ease as markets await of ECB’s Lagarde speech",
-      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-ease-as-markets-await-of-ecbs-lagarde-speech-4908370",
-      "published": "2026-09-21 07:47:15",
-      "ts": 1789976835
     }
   ]
 }
