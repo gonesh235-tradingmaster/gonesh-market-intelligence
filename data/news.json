@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-21T06:33:25.275545+00:00",
+  "updated_utc": "2026-09-21T06:51:47.227817+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bank of Korea launches 24-hour won settlement pilot for foreign investors",
+      "link": "https://cointelegraph.com/news/bank-korea-won-settlement-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 21 Sep 2026 06:41:23 +0000",
+      "ts": 1789972883
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin climbs toward $82k as tokenized-stock move boosts crypto sentiment",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-toward-82k-as-tokenizedstock-move-boosts-crypto-sentiment-4908305",
+      "published": "2026-09-21 06:39:48",
+      "ts": 1789972788
+    },
     {
       "source": "CoinDesk",
       "title": "Kalshi faces ‘fake crypto volume’ allegations as critic flags identical $5,500 trades",
@@ -47,7 +61,7 @@
     },
     {
       "source": "Investing Forex",
-      "title": "Asia FX muted with U.S.-China summit in focus, dollar ticks higher",
+      "title": "Dollar ticks higher with Trump-Xi summit on the horizon",
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
       "published": "2026-09-21 03:52:17",
       "ts": 1789962737
@@ -193,18 +207,39 @@
       "ts": 1789895667
     },
     {
-      "source": "Cointelegraph",
-      "title": "Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal",
-      "link": "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 20 Sep 2026 07:51:24 +0000",
-      "ts": 1789890684
-    },
-    {
       "source": "Yahoo Finance",
       "title": "80-year-old discount fashion chain closing 120 stores",
       "link": "https://finance.yahoo.com/small-business/articles/tj-maxx-rival-closing-120-181700076.html",
       "published": "2026-09-19T23:02:22Z",
       "ts": 1789858942
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Says “Buy Reddit” (RDDT)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buy-reddit-193324887.html",
+      "published": "2026-09-19T19:33:24Z",
+      "ts": 1789846404
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "CoreWeave (CRWV) Is Charging More for AI Compute, and Customers Keep Paying",
+      "link": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-charging-more-ai-193252050.html",
+      "published": "2026-09-19T19:32:52Z",
+      "ts": 1789846372
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Here’s Another Little-Known Firm Jensen Huang’s Nvidia Is Quietly Backing",
+      "link": "https://finance.yahoo.com/technology/ai/articles/another-little-known-firm-jensen-193002873.html",
+      "published": "2026-09-19T19:30:02Z",
+      "ts": 1789846202
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Suggests Against Holding Dominion (D) Through the NextEra (NEE) Share Conversion",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-against-holding-192955385.html",
+      "published": "2026-09-19T19:29:55Z",
+      "ts": 1789846195
     },
     {
       "source": "Yahoo Finance",
@@ -219,34 +254,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-cbrs-plants-165-mw-192515264.html",
       "published": "2026-09-19T19:25:15Z",
       "ts": 1789845915
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Fifth Third’s (FITB) Comerica Merger Is Done, Now Comes The Payoff",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fifth-third-fitb-comerica-merger-190743312.html",
-      "published": "2026-09-19T19:07:43Z",
-      "ts": 1789844863
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Atlassian (TEAM) Just Turned Jira Into an AI Coding Command Center",
-      "link": "https://finance.yahoo.com/technology/ai/articles/atlassian-team-just-turned-jira-190413386.html",
-      "published": "2026-09-19T19:04:13Z",
-      "ts": 1789844653
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Franco-Nevada’s (FNV) Record Quarter Hides A Two-Year Question Mark",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/franco-nevada-fnv-record-quarter-185639565.html",
-      "published": "2026-09-19T18:56:39Z",
-      "ts": 1789844199
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nasdaq (NDAQ) Just Made It Harder For Crypto Criminals To Hide",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/nasdaq-ndaq-just-made-harder-185116666.html",
-      "published": "2026-09-19T18:51:16Z",
-      "ts": 1789843876
     },
     {
       "source": "CoinDesk",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-jumps-above-81k-as-short-squeeze-offsets-rate-and-regulatory-pressure-4908041",
       "published": "2026-09-19 03:19:14",
       "ts": 1789787954
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Cardano Climbs 10% In Bullish Trade",
-      "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-bullish-trade-4908042",
-      "published": "2026-09-19 02:45:02",
-      "ts": 1789785902
     }
   ]
 }
