@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-21T16:52:09.941356+00:00",
+  "updated_utc": "2026-09-21T17:01:39.776922+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Bitcoin Clears 50-Week Hurdle as Traders Eye New Bull Market: Analyst",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-clears-50-week-hurdle-164400579.html",
+      "published": "2026-09-21T16:44:00Z",
+      "ts": 1790009040
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’",
@@ -39,25 +46,11 @@
       "ts": 1790007387
     },
     {
-      "source": "Yahoo Finance",
-      "title": "CBP importer crackdown puts thousands of cross-border freight shipments at risk",
-      "link": "https://finance.yahoo.com/economy/policy/articles/cbp-importer-crackdown-puts-thousands-161317046.html",
-      "published": "2026-09-21T16:13:17Z",
-      "ts": 1790007197
-    },
-    {
       "source": "MarketWatch",
       "title": "Meta’s stock is enjoying its best month in more than two years thanks to the company’s hot new AI assistant",
       "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 16:12:00 GMT",
       "ts": 1790007120
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Up As Boeing, Nvidia Pop; Bessent Touts This China AI Move (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T16:09:43Z",
-      "ts": 1790006983
     },
     {
       "source": "CoinDesk",
@@ -282,6 +275,13 @@
       "link": "https://www.investing.com/news/forex-news/eurusd-outlook-heres-where-ing-sees-the-pair-heading-93CH-4908572",
       "published": "2026-09-21 10:10:48",
       "ts": 1789985448
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Goldman sees Hungary inflation target cut as positive for forint",
+      "link": "https://www.investing.com/news/forex-news/goldman-sees-hungary-inflation-target-cut-as-positive-for-forint-93CH-4908570",
+      "published": "2026-09-21 10:09:50",
+      "ts": 1789985390
     }
   ]
 }
