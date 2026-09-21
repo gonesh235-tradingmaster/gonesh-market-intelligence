@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-21T08:18:50.987132+00:00",
+  "updated_utc": "2026-09-21T08:34:03.367154+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -222,6 +222,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Oracle (ORCL) Cloud Revenue Jumps 121% and its Backlog Hits $664 Billion. Can it Actually Deliver?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-cloud-revenue-jumps-045435586.html",
+      "published": "2026-09-20T04:54:35Z",
+      "ts": 1789880075
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Re-Energized EV Market Grapples With Growing Drain on Profitability",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/energized-ev-market-grapples-growing-040100779.html",
+      "published": "2026-09-20T04:01:00Z",
+      "ts": 1789876860
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Can Max Turn AI Adoption into Continued Growth for ServiceTitan (TTAN) Stock?",
       "link": "https://finance.yahoo.com/technology/ai/articles/max-turn-ai-adoption-continued-020418395.html",
       "published": "2026-09-20T02:04:18Z",
@@ -249,27 +263,6 @@
       "ts": 1789858800
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Nashville’s Traffic Nightmare Is Now a $9.2B Ferrovial (FER)-Led Project",
-      "link": "https://finance.yahoo.com/real-estate/articles/nashville-traffic-nightmare-now-9-202041295.html",
-      "published": "2026-09-19T20:20:41Z",
-      "ts": 1789849241
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "IDEXX (IDXX) Bets an AI Scribe Can Sell More Pet Diagnostics",
-      "link": "https://finance.yahoo.com/technology/ai/articles/idexx-idxx-bets-ai-scribe-201730587.html",
-      "published": "2026-09-19T20:17:30Z",
-      "ts": 1789849050
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Prudential (PRU) Is Leaving Emerging Markets, And This $185M Sale Proves It",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/prudential-pru-leaving-emerging-markets-201350497.html",
-      "published": "2026-09-19T20:13:50Z",
-      "ts": 1789848830
-    },
-    {
       "source": "CoinDesk",
       "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
       "link": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
@@ -282,6 +275,13 @@
       "link": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
       "published": "Sat, 19 Sep 2026 14:00:00 +0000",
       "ts": 1789826400
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Best CD rates today, Saturday, September 19, 2026: Lock in up to 4.40% APY with a 2-year CD",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-september-19-2026-lock-in-up-to-440-apy-with-a-2-year-cd-100000984.html",
+      "published": "2026-09-19T10:00:00Z",
+      "ts": 1789812000
     }
   ]
 }
