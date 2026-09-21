@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-21T22:32:46.073839+00:00",
+  "updated_utc": "2026-09-21T22:44:14.943388+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "CloudTech Powers Institutional-Grade Digital Asset Trading for Australian Investors Through Integral Technology",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cloudtech-powers-institutionalgrade-digital-asset-trading-for-australian-investors-through-integral-technology-4909726",
+      "published": "2026-09-21 22:30:35",
+      "ts": 1790029835
+    },
     {
       "source": "MarketWatch",
       "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
@@ -226,13 +233,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/litecoin-climbs-10-as-investors-gain-confidence-4909060",
       "published": "2026-09-21 12:40:00",
       "ts": 1789994400
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Cardano Climbs 10% In a Green Day",
-      "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-a-green-day-4908996",
-      "published": "2026-09-21 12:26:02",
-      "ts": 1789993562
     },
     {
       "source": "CoinDesk",
