@@ -1,19 +1,40 @@
 {
-  "updated_utc": "2026-09-21T10:06:37.891182+00:00",
+  "updated_utc": "2026-09-21T10:22:40.406683+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
-      "source": "Yahoo Finance",
-      "title": "Best CD rates today, Monday, September 21, 2026: Lock in up to 4.40% APY",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-21-2026-lock-in-up-to-440-apy-100000956.html",
-      "published": "2026-09-21T10:00:00Z",
-      "ts": 1789984800
+      "source": "MarketWatch",
+      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
+      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 10:16:00 GMT",
+      "ts": 1789985760
+    },
+    {
+      "source": "CoinDesk",
+      "title": "X sues its own users for running a fake bitcoin news bot farm",
+      "link": "https://www.coindesk.com/markets/2026/09/21/x-sues-its-won-users-for-running-a-fake-bitcoin-news-bot-farm",
+      "published": "Mon, 21 Sep 2026 10:15:44 +0000",
+      "ts": 1789985744
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Corporate earnings are growing much faster than the economy. What Goldman strategists say about bubble concerns.",
+      "link": "https://www.marketwatch.com/story/corporate-earnings-are-growing-much-faster-than-the-economy-what-goldman-strategists-say-about-bubble-concerns-1f625fb3?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 10:13:00 GMT",
+      "ts": 1789985580
     },
     {
       "source": "Yahoo Finance",
-      "title": "HELOC and home equity loan rates today, Monday, September 21, 2026: A 33-basis-point differential",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-21-2026-a-33-basis-point-differential-100000210.html",
+      "title": "Tesla faces major trial for alleged bias against Black workers, after years of lawsuits",
+      "link": "https://finance.yahoo.com/news/tesla-faces-major-trial-alleged-100649614.html",
+      "published": "2026-09-21T10:06:49Z",
+      "ts": 1789985209
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Best CD rates today, Monday, September 21, 2026: Lock in up to 4.40% APY",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-21-2026-lock-in-up-to-440-apy-100000956.html",
       "published": "2026-09-21T10:00:00Z",
       "ts": 1789984800
     },
@@ -26,15 +47,15 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Best high-yield savings interest rates today, Monday, September 21, 2026: Earn up to 4.10% APY",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-september-21-2026-earn-up-to-410-apy-100000921.html",
+      "title": "HELOC and home equity loan rates today, Monday, September 21, 2026: A 33-basis-point differential",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-21-2026-a-33-basis-point-differential-100000210.html",
       "published": "2026-09-21T10:00:00Z",
       "ts": 1789984800
     },
     {
       "source": "Yahoo Finance",
-      "title": "Mortgage and refinance interest rates today, Monday, September 21, 2026: Refinance rates mostly lower",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-21-2026-refinance-rates-mostly-lower-100000495.html",
+      "title": "Best high-yield savings interest rates today, Monday, September 21, 2026: Earn up to 4.10% APY",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-september-21-2026-earn-up-to-410-apy-100000921.html",
       "published": "2026-09-21T10:00:00Z",
       "ts": 1789984800
     },
@@ -242,25 +263,11 @@
       "ts": 1789925400
     },
     {
-      "source": "MarketWatch",
-      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
-      "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
-      "published": "Sun, 20 Sep 2026 16:30:00 GMT",
-      "ts": 1789921800
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin slips 1% but above $80,000 as ETF inflows revive institutional demand",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-80000-as-etf-inflows-revive-institutional-demand-4908141",
       "published": "2026-09-20 16:08:07",
       "ts": 1789920487
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-      "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
-      "published": "Sun, 20 Sep 2026 15:00:00 GMT",
-      "ts": 1789916400
     },
     {
       "source": "CoinDesk",
@@ -275,13 +282,6 @@
       "link": "https://finance.yahoo.com/small-business/articles/key-christmas-retailer-files-chapter-140700474.html",
       "published": "2026-09-20T14:07:00Z",
       "ts": 1789913220
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Multi-Asset Trading Venue Monochrome Exchange Announces IEO of Its Native Token, $MCR",
-      "link": "https://www.investing.com/news/cryptocurrency-news/multiasset-trading-venue-monochrome-exchange-announces-ieo-of-its-native-token-mcr-4908176",
-      "published": "2026-09-20 14:00:37",
-      "ts": 1789912837
     }
   ]
 }
