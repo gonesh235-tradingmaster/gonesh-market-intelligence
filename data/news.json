@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-21T21:17:27.240877+00:00",
+  "updated_utc": "2026-09-21T21:30:59.416133+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "As the S&P 500 nears a new record high, there are signs of weakness below the surface",
+      "link": "https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 21:17:00 GMT",
+      "ts": 1790025420
+    },
     {
       "source": "MarketWatch",
       "title": "These beaten-down stocks could bounce back in January, if history is any guide",
@@ -56,13 +63,6 @@
       "source": "MarketWatch",
       "title": "AMD hits a major milestone as AI stocks blaze higher",
       "link": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 20:19:00 GMT",
-      "ts": 1790021940
-    },
-    {
-      "source": "MarketWatch",
-      "title": "As the S&P 500 nears a new record high, there are cracks below the surface",
-      "link": "https://www.marketwatch.com/story/as-the-s-p-500-nears-a-new-record-high-there-are-cracks-below-the-surface-6df3e90d?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 20:19:00 GMT",
       "ts": 1790021940
     },
