@@ -1,14 +1,49 @@
 {
-  "updated_utc": "2026-09-21T14:27:31.043917+00:00",
+  "updated_utc": "2026-09-21T14:41:52.658165+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "My husband and I are in our 50s and have no kids. We have $2 million. Do we need a will?",
+      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 14:30:00 GMT",
+      "ts": 1790001000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Work from home? Here are 5 ways to save money on remote work expenses.",
+      "link": "https://finance.yahoo.com/personal-finance/banking/article/how-to-save-money-working-from-home-142616852.html",
+      "published": "2026-09-21T14:26:16Z",
+      "ts": 1790000776
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Heineken, Stonegate coy on report of pubs deal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/heineken-stonegate-coy-report-pubs-142550092.html",
+      "published": "2026-09-21T14:25:50Z",
+      "ts": 1790000750
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Rivian’s  Remarkable Three Month Stock Collapse",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-remarkable-three-month-stock-142429024.html",
+      "published": "2026-09-21T14:24:29Z",
+      "ts": 1790000669
+    },
     {
       "source": "MarketWatch",
       "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
       "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 14:20:00 GMT",
       "ts": 1790000400
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bloom Energy (BE) Surges as AI Hyperscalers Adopt Solid Oxide Fuel Cells",
+      "link": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-surges-ai-hyperscalers-141646925.html",
+      "published": "2026-09-21T14:16:46Z",
+      "ts": 1790000206
     },
     {
       "source": "Yahoo Finance",
@@ -19,10 +54,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "RWE to develop 400MW battery system at Moerdijk power station",
-      "link": "https://finance.yahoo.com/energy/articles/rwe-develop-400mw-battery-system-140949443.html",
-      "published": "2026-09-21T14:09:49Z",
-      "ts": 1789999789
+      "title": "SiTime Corporation (SITM) Surged on Strong AI data center demand",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sitime-corporation-sitm-surged-strong-141359726.html",
+      "published": "2026-09-21T14:13:59Z",
+      "ts": 1790000039
     },
     {
       "source": "Yahoo Finance",
@@ -30,34 +65,6 @@
       "link": "https://finance.yahoo.com/technology/article/oura-publicly-files-for-initial-public-offering-looks-to-raise-22-billion-140523751.html",
       "published": "2026-09-21T14:05:23Z",
       "ts": 1789999523
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Bitcoin Hits $85,000 and Nears 8-Month High. Is the Crypto Bull Market Finally Here?",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-hits-85-000-nears-140501744.html",
-      "published": "2026-09-21T14:05:01Z",
-      "ts": 1789999501
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Here’s What Lifted BrightSpring Health Services (BTSG)",
-      "link": "https://finance.yahoo.com/healthcare/articles/lifted-brightspring-health-services-btsg-140139645.html",
-      "published": "2026-09-21T14:01:39Z",
-      "ts": 1789999299
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AI build-out Strengthens Credo Technology Group Holding Ltd (CRDO)",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-build-strengthens-credo-technology-135854858.html",
-      "published": "2026-09-21T13:58:54Z",
-      "ts": 1789999134
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Applied Optoelectronics (AAOI): Hyperscaler Capex Surge Fuels Unprecedented Demand for Optical Infrastructure",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-hyperscaler-capex-135615291.html",
-      "published": "2026-09-21T13:56:15Z",
-      "ts": 1789998975
     },
     {
       "source": "Investing Crypto",
@@ -247,13 +254,6 @@
       "link": "https://cointelegraph.com/markets/btc-price-nears-eight-month-high-above-85k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 21 Sep 2026 10:15:51 +0000",
       "ts": 1789985751
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Corporate earnings are growing much faster than the economy. What Goldman strategists say about bubble concerns.",
-      "link": "https://www.marketwatch.com/story/corporate-earnings-are-growing-much-faster-than-the-economy-what-goldman-strategists-say-about-bubble-concerns-1f625fb3?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 10:13:00 GMT",
-      "ts": 1789985580
     },
     {
       "source": "Investing Forex",
