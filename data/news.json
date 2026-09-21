@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-21T09:29:30.405426+00:00",
+  "updated_utc": "2026-09-21T09:43:42.302882+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Sam Altman dropped out of Stanford to build an app almost nobody used — it still sold for $43.4 million",
+      "link": "https://finance.yahoo.com/technology/articles/sam-altman-dropped-stanford-build-093000834.html",
+      "published": "2026-09-21T09:30:00Z",
+      "ts": 1789983000
+    },
     {
       "source": "Investing Forex",
       "title": "Sterling today: Pound edges lower as oil, Fed hike bets underpin dollar",
@@ -121,13 +128,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-ease-as-markets-await-of-ecbs-lagarde-speech-4908370",
       "published": "2026-09-21 07:47:15",
       "ts": 1789976835
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Nvidia's CEO Huang says there's a ‘0% chance’ AI ends the world — 4 AI giants are sued over an alleged pact to slow it",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidias-ceo-huang-says-theres-073500742.html",
-      "published": "2026-09-21T07:35:00Z",
-      "ts": 1789976100
     },
     {
       "source": "Cointelegraph",
