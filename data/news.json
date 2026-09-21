@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-21T00:37:45.070129+00:00",
+  "updated_utc": "2026-09-21T00:52:00.692178+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -180,6 +180,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "1 Year Into the Microsoft Deal, IREN Is Delivering and a Rally May Follow Soon",
+      "link": "https://finance.yahoo.com/technology/ai/articles/1-microsoft-deal-iren-delivering-142734921.html",
+      "published": "2026-09-19T14:27:34Z",
+      "ts": 1789828054
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is This A $20 Million Reason to Buy Infleqtion Stock Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/20-million-reason-buy-infleqtion-140725770.html",
+      "published": "2026-09-19T14:07:25Z",
+      "ts": 1789826845
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Investing Based on Past Performance in 2026 Almost Guarantees a Bad Outcome. Do This Instead.",
       "link": "https://finance.yahoo.com/markets/stocks/articles/investing-based-past-performance-2026-140002456.html",
       "published": "2026-09-19T14:00:02Z",
@@ -219,13 +233,6 @@
       "link": "https://finance.yahoo.com/markets/options/articles/bond-market-back-tlt-bagholders-131502737.html",
       "published": "2026-09-19T13:15:02Z",
       "ts": 1789823702
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dave Ramsey Told 1 Caller, ‘Hold on to the Cash. We’re Not Gonna Pay Off the House,’ But 5 Months Later Told Another to Pay It Off That Night. Here’s Why.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dave-ramsey-told-1-caller-130002244.html",
-      "published": "2026-09-19T13:00:02Z",
-      "ts": 1789822802
     },
     {
       "source": "CoinDesk",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-775k-as-markets-look-past-clarity-setback-4906734",
       "published": "2026-09-18 21:49:51",
       "ts": 1789768191
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Yen set for worst week since Oct 2025 as BoJ’s hike seen as not aggressive enough",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-yen-slides-despite-boj-rate-hike-4906678",
-      "published": "2026-09-18 20:05:38",
-      "ts": 1789761938
     }
   ]
 }
