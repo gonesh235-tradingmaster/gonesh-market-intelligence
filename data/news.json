@@ -1,14 +1,42 @@
 {
-  "updated_utc": "2026-09-21T21:52:46.386550+00:00",
+  "updated_utc": "2026-09-21T22:03:11.753959+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
+      "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 22:01:00 GMT",
+      "ts": 1790028060
+    },
+    {
+      "source": "MarketWatch",
+      "title": "AT&T’s stock looks like the smartest bet in the wireless sector, analyst says",
+      "link": "https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 21:57:00 GMT",
+      "ts": 1790027820
+    },
     {
       "source": "MarketWatch",
       "title": "Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now",
       "link": "https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 21:47:00 GMT",
       "ts": 1790027220
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "XRP Climbs 10% In a Green Day",
+      "link": "https://www.investing.com/news/cryptocurrency-news/xrp-climbs-10-in-a-green-day-4909700",
+      "published": "2026-09-21 21:39:05",
+      "ts": 1790026745
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin surges to over 7-month high as tokenized-stock move lifts crypto sentiment",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-toward-82k-as-tokenizedstock-move-boosts-crypto-sentiment-4908305",
+      "published": "2026-09-21 21:37:00",
+      "ts": 1790026620
     },
     {
       "source": "MarketWatch",
@@ -65,20 +93,6 @@
       "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 20:23:00 GMT",
       "ts": 1790022180
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Amazon and Shopify make starkly different moves in the brewing battle over AI shopping",
-      "link": "https://www.marketwatch.com/story/amazon-and-shopify-make-starkly-different-moves-in-the-brewing-battle-over-ai-shopping-4e00618b?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 20:22:00 GMT",
-      "ts": 1790022120
-    },
-    {
-      "source": "MarketWatch",
-      "title": "AMD hits a major milestone as AI stocks blaze higher",
-      "link": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 20:19:00 GMT",
-      "ts": 1790021940
     },
     {
       "source": "Cointelegraph",
@@ -186,13 +200,6 @@
       "ts": 1790001105
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin rallies above $85k as tokenized-stock move boosts crypto sentiment",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-toward-82k-as-tokenizedstock-move-boosts-crypto-sentiment-4908305",
-      "published": "2026-09-21 13:39:10",
-      "ts": 1789997950
-    },
-    {
       "source": "Cointelegraph",
       "title": "Kyle Samani predicts SOL flippening, claims ‘no one’ uses ETH",
       "link": "https://cointelegraph.com/magazine/kyle-samani-predicts-sol-flippening-claims-no-one-uses-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -240,13 +247,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-ease-as-markets-await-of-ecbs-lagarde-speech-4908370",
       "published": "2026-09-21 12:07:57",
       "ts": 1789992477
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Strategy buys 950 bitcoin, repurchases STRC shares in weekly update",
-      "link": "https://www.investing.com/news/cryptocurrency-news/strategy-buys-950-bitcoin-repurchases-strc-shares-in-weekly-update-432SI-4908941",
-      "published": "2026-09-21 12:04:02",
-      "ts": 1789992242
     },
     {
       "source": "Investing Forex",
