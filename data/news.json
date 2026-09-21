@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-21T06:09:50.186683+00:00",
+  "updated_utc": "2026-09-21T06:33:25.275545+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Kalshi faces ‘fake crypto volume’ allegations as critic flags identical $5,500 trades",
+      "link": "https://www.coindesk.com/markets/2026/09/21/kalshi-s-crypto-chief-responds-to-fake-crypto-volume-allegations-as-critic-flags-identical-usd5-500-trades",
+      "published": "Mon, 21 Sep 2026 06:20:47 +0000",
+      "ts": 1789971647
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -201,45 +208,45 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "STMicroelectronics (STM) Wants Every Car Watching Its Driver, and Cheaply",
+      "link": "https://finance.yahoo.com/technology/articles/stmicroelectronics-stm-wants-every-car-192912047.html",
+      "published": "2026-09-19T19:29:12Z",
+      "ts": 1789846152
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Cerebras (CBRS) Plants A 165 MW Flag In Finland While Still Losing Money",
+      "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-cbrs-plants-165-mw-192515264.html",
+      "published": "2026-09-19T19:25:15Z",
+      "ts": 1789845915
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Fifth Third’s (FITB) Comerica Merger Is Done, Now Comes The Payoff",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fifth-third-fitb-comerica-merger-190743312.html",
+      "published": "2026-09-19T19:07:43Z",
+      "ts": 1789844863
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Atlassian (TEAM) Just Turned Jira Into an AI Coding Command Center",
+      "link": "https://finance.yahoo.com/technology/ai/articles/atlassian-team-just-turned-jira-190413386.html",
+      "published": "2026-09-19T19:04:13Z",
+      "ts": 1789844653
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Franco-Nevada’s (FNV) Record Quarter Hides A Two-Year Question Mark",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/franco-nevada-fnv-record-quarter-185639565.html",
+      "published": "2026-09-19T18:56:39Z",
+      "ts": 1789844199
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Nasdaq (NDAQ) Just Made It Harder For Crypto Criminals To Hide",
       "link": "https://finance.yahoo.com/markets/crypto/articles/nasdaq-ndaq-just-made-harder-185116666.html",
       "published": "2026-09-19T18:51:16Z",
       "ts": 1789843876
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Garmin’s (GRMN) New Autopilot Signals Where Growth Is Headed",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/garmin-grmn-autopilot-signals-where-184731033.html",
-      "published": "2026-09-19T18:47:31Z",
-      "ts": 1789843651
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Corteva (CTVA) Bets On A Belgian Partner For Crop Protection’s Next Act",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/corteva-ctva-bets-belgian-partner-183747198.html",
-      "published": "2026-09-19T18:37:47Z",
-      "ts": 1789843067
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Suggests Avoiding Redwire (RDW) In A Rate Tightening Cycle",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-avoiding-redwire-183604424.html",
-      "published": "2026-09-19T18:36:04Z",
-      "ts": 1789842964
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Sempra (SRE) Just Locked In Two Decades of LNG Demand",
-      "link": "https://finance.yahoo.com/energy/articles/sempra-sre-just-locked-two-183448167.html",
-      "published": "2026-09-19T18:34:48Z",
-      "ts": 1789842888
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AMETEK’s (AME) $5B Deal Bets Big On A Hot Streak",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ametek-ame-5b-deal-bets-183135450.html",
-      "published": "2026-09-19T18:31:35Z",
-      "ts": 1789842695
     },
     {
       "source": "CoinDesk",
@@ -254,13 +261,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
       "published": "Sat, 19 Sep 2026 14:00:00 +0000",
       "ts": 1789826400
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
-      "link": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
-      "published": "Sat, 19 Sep 2026 13:39:15 +0000",
-      "ts": 1789825155
     },
     {
       "source": "Investing Crypto",
