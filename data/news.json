@@ -1,14 +1,35 @@
 {
-  "updated_utc": "2026-09-21T10:22:40.406683+00:00",
+  "updated_utc": "2026-09-21T10:35:22.188900+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin hits $85,000 as short squeeze forces out $648 million of bearish bets",
+      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-hits-usd85-000-as-short-squeeze-forces-out-usd648-million-of-bearish-bets",
+      "published": "Mon, 21 Sep 2026 10:30:00 +0000",
+      "ts": 1789986600
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Crypto stocks rise premarket as Bitcoin hits over seven-month high",
+      "link": "https://www.investing.com/news/cryptocurrency-news/crypto-stocks-rise-premarket-as-bitcoin-hits-over-sevenmonth-high-4908587",
+      "published": "2026-09-21 10:16:07",
+      "ts": 1789985767
+    },
     {
       "source": "MarketWatch",
       "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
       "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 10:16:00 GMT",
       "ts": 1789985760
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/markets/btc-price-nears-eight-month-high-above-85k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 21 Sep 2026 10:15:51 +0000",
+      "ts": 1789985751
     },
     {
       "source": "CoinDesk",
@@ -25,11 +46,25 @@
       "ts": 1789985580
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Tesla faces major trial for alleged bias against Black workers, after years of lawsuits",
-      "link": "https://finance.yahoo.com/news/tesla-faces-major-trial-alleged-100649614.html",
-      "published": "2026-09-21T10:06:49Z",
-      "ts": 1789985209
+      "source": "Investing Forex",
+      "title": "EUR/USD outlook: Here’s where ING sees the pair heading",
+      "link": "https://www.investing.com/news/forex-news/eurusd-outlook-heres-where-ing-sees-the-pair-heading-93CH-4908572",
+      "published": "2026-09-21 10:10:48",
+      "ts": 1789985448
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Goldman sees Hungary inflation target cut as positive for forint",
+      "link": "https://www.investing.com/news/forex-news/goldman-sees-hungary-inflation-target-cut-as-positive-for-forint-93CH-4908570",
+      "published": "2026-09-21 10:09:50",
+      "ts": 1789985390
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Climbs 15% In Rally",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-15-in-rally-4908544",
+      "published": "2026-09-21 10:03:02",
+      "ts": 1789984982
     },
     {
       "source": "Yahoo Finance",
@@ -49,6 +84,13 @@
       "source": "Yahoo Finance",
       "title": "HELOC and home equity loan rates today, Monday, September 21, 2026: A 33-basis-point differential",
       "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-21-2026-a-33-basis-point-differential-100000210.html",
+      "published": "2026-09-21T10:00:00Z",
+      "ts": 1789984800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Mortgage and refinance interest rates today, Monday, September 21, 2026: Refinance rates mostly lower",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-21-2026-refinance-rates-mostly-lower-100000495.html",
       "published": "2026-09-21T10:00:00Z",
       "ts": 1789984800
     },
@@ -240,48 +282,6 @@
       "link": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 21 Sep 2026 01:42:53 +0000",
       "ts": 1789954973
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest",
-      "link": "https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 20 Sep 2026 23:37:39 +0000",
-      "ts": 1789947459
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin trapped between $78K support and $82K resistance: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-76k81k-rectangle-live-breakout-levels-93CH-4898873",
-      "published": "2026-09-20 19:02:10",
-      "ts": 1789930930
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
-      "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
-      "published": "Sun, 20 Sep 2026 17:30:00 GMT",
-      "ts": 1789925400
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin slips 1% but above $80,000 as ETF inflows revive institutional demand",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-80000-as-etf-inflows-revive-institutional-demand-4908141",
-      "published": "2026-09-20 16:08:07",
-      "ts": 1789920487
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation",
-      "link": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
-      "published": "Sun, 20 Sep 2026 14:54:48 +0000",
-      "ts": 1789916088
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Key Christmas retailer files for Chapter 11 bankrutpcy",
-      "link": "https://finance.yahoo.com/small-business/articles/key-christmas-retailer-files-chapter-140700474.html",
-      "published": "2026-09-20T14:07:00Z",
-      "ts": 1789913220
     }
   ]
 }
