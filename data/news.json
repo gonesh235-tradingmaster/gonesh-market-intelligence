@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-21T04:31:27.572430+00:00",
+  "updated_utc": "2026-09-21T04:46:20.473800+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin reclaims 50-week moving average: Is the bear market over?",
+      "link": "https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 21 Sep 2026 04:29:59 +0000",
+      "ts": 1789964999
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Hana Bank taps Euroclear blockchain for $100M bond issuance: Report",
+      "link": "https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 21 Sep 2026 04:27:32 +0000",
+      "ts": 1789964852
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic",
@@ -186,11 +200,18 @@
       "ts": 1789845480
     },
     {
-      "source": "Cointelegraph",
-      "title": "Kalshi joins Coinbase with own filing for US stock perpetual futures",
-      "link": "https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 19 Sep 2026 18:40:00 +0000",
-      "ts": 1789843200
+      "source": "Yahoo Finance",
+      "title": "The RealReal (REAL) Bets on Glendale to Capture Growing Vintage Demand",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/realreal-real-bets-glendale-capture-180003520.html",
+      "published": "2026-09-19T18:00:03Z",
+      "ts": 1789840803
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Anthropic Reportedly Delays IPO; OpenAI Expects Massive Cash Burn",
+      "link": "https://www.investors.com/news/technology/anthropic-ipo-delayed-openai-expects-massive-cash-burn/?src=A00220&yptr=yahoo",
+      "published": "2026-09-19T17:48:41Z",
+      "ts": 1789840121
     },
     {
       "source": "Yahoo Finance",
@@ -219,27 +240,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/delivery-outlook-shows-tesla-tsla-171443015.html",
       "published": "2026-09-19T17:14:43Z",
       "ts": 1789838083
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Cisco (CSCO) Leans on Splunk to Broaden Its Share of Enterprise AI Spending. It Faces a Big Test",
-      "link": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-leans-splunk-broaden-171200277.html",
-      "published": "2026-09-19T17:12:00Z",
-      "ts": 1789837920
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Micron (MU) Unveils Breakthrough Memory Product. It Says Much About the Memory Market",
-      "link": "https://finance.yahoo.com/technology/articles/micron-mu-unveils-breakthrough-memory-171152232.html",
-      "published": "2026-09-19T17:11:52Z",
-      "ts": 1789837912
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "VanEck criticizes Metaplanet over executive dilution despite compensation cuts",
-      "link": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 19 Sep 2026 16:20:00 +0000",
-      "ts": 1789834800
     },
     {
       "source": "CoinDesk",
