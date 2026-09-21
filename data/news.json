@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-21T21:42:26.481539+00:00",
+  "updated_utc": "2026-09-21T21:52:46.386550+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now",
+      "link": "https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 21:47:00 GMT",
+      "ts": 1790027220
+    },
     {
       "source": "MarketWatch",
       "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
@@ -70,13 +77,6 @@
       "source": "MarketWatch",
       "title": "AMD hits a major milestone as AI stocks blaze higher",
       "link": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 20:19:00 GMT",
-      "ts": 1790021940
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Moderna will reveal the data for its mRNA cancer vaccine next month. Here’s why it matters.",
-      "link": "https://www.marketwatch.com/story/moderna-will-reveal-the-data-for-its-mrna-cancer-vaccine-next-month-heres-why-it-matters-4470a558?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 20:19:00 GMT",
       "ts": 1790021940
     },

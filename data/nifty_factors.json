@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-21T21:42:24.885690+00:00",
+  "updated_utc": "2026-09-21T21:52:44.452405+00:00",
   "source": "Yahoo Finance",
   "us_markets": {
     "sp500": {
@@ -88,9 +88,9 @@
     }
   },
   "dxy": {
-    "value": 100.42,
+    "value": 100.41,
     "previous_close": 100.31,
-    "change": 0.11,
+    "change": 0.1,
     "change_percent": 0.1,
     "day_high": 100.45,
     "day_low": 100.18,
