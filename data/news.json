@@ -1,14 +1,42 @@
 {
-  "updated_utc": "2026-09-21T17:16:15.611255+00:00",
+  "updated_utc": "2026-09-21T17:28:35.400584+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Canadian dollar under pressure as oil retreats and US rate outlook supports greenb",
+      "link": "https://www.investing.com/news/forex-news/canadian-dollar-under-pressure-as-oil-retreats-and-us-rate-outlook-supports-greenb-4909475",
+      "published": "2026-09-21 17:16:09",
+      "ts": 1790010969
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The future of retirement? Work until you die.",
+      "link": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 17:16:00 GMT",
+      "ts": 1790010960
+    },
     {
       "source": "MarketWatch",
       "title": "A happier retirement contains these 3 elements",
       "link": "https://www.marketwatch.com/story/a-happier-retirement-contains-these-3-elements-9aa99c9a?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 17:12:00 GMT",
       "ts": 1790010720
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Brazil to use Uruguay's surplus of beef export quota to China, Lula says",
+      "link": "https://finance.yahoo.com/economy/policy/articles/brazil-uruguays-surplus-beef-export-171153710.html",
+      "published": "2026-09-21T17:11:53Z",
+      "ts": 1790010713
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "SoftBank Borrows Even More Money for OpenAI",
+      "link": "https://finance.yahoo.com/technology/ai/articles/softbank-borrows-even-more-money-170902930.html",
+      "published": "2026-09-21T17:09:02Z",
+      "ts": 1790010542
     },
     {
       "source": "Yahoo Finance",
@@ -32,13 +60,6 @@
       "ts": 1790009792
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Bitcoin Clears 50-Week Hurdle as Traders Eye New Bull Market: Analyst",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-clears-50-week-hurdle-164400579.html",
-      "published": "2026-09-21T16:44:00Z",
-      "ts": 1790009040
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’",
       "link": "https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -51,13 +72,6 @@
       "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 16:30:00 GMT",
       "ts": 1790008200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AI Leader AMD Breaks Out Past New Buy Point With This Bullish Signal",
-      "link": "https://www.investors.com/research/amd-stock-advanced-micro-devices/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T16:26:46Z",
-      "ts": 1790008006
     },
     {
       "source": "MarketWatch",
@@ -114,13 +128,6 @@
       "link": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 15:22:00 GMT",
       "ts": 1790004120
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I just started dating someone I really like, but he’s moving to Mexico for six months. Should I spend the money to visit him?",
-      "link": "https://www.marketwatch.com/story/i-just-started-dating-someone-i-really-like-but-hes-moving-to-mexico-for-six-months-should-i-spend-the-money-to-visit-him-be4f8c8b?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 15:19:00 GMT",
-      "ts": 1790003940
     },
     {
       "source": "Cointelegraph",
@@ -275,13 +282,6 @@
       "link": "https://cointelegraph.com/markets/btc-price-nears-eight-month-high-above-85k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 21 Sep 2026 10:15:51 +0000",
       "ts": 1789985751
-    },
-    {
-      "source": "Investing Forex",
-      "title": "EUR/USD outlook: Here’s where ING sees the pair heading",
-      "link": "https://www.investing.com/news/forex-news/eurusd-outlook-heres-where-ing-sees-the-pair-heading-93CH-4908572",
-      "published": "2026-09-21 10:10:48",
-      "ts": 1789985448
     }
   ]
 }
