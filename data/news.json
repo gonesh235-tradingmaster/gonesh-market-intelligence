@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-21T16:09:23.181179+00:00",
+  "updated_utc": "2026-09-21T16:25:32.858901+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Meta’s stock is enjoying its best month in more than two years thanks to the company’s hot new AI assistant",
+      "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 16:12:00 GMT",
+      "ts": 1790007120
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Up As Boeing, Nvidia Pop; Bessent Touts This China AI Move (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
+      "published": "2026-09-21T16:09:43Z",
+      "ts": 1790006983
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto's Fairshake repeats history with $30 million to oppose Sherrod Brown Senate bid",
@@ -81,13 +95,6 @@
       "ts": 1790003940
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Corteva (CTVA) Bets On A Belgian Partner For Crop Protection’s Next Act – Corrected",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/corteva-ctva-bets-belgian-partner-183747198.html",
-      "published": "2026-09-21T15:12:47Z",
-      "ts": 1790003567
-    },
-    {
       "source": "MarketWatch",
       "title": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
       "link": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
@@ -121,13 +128,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/21/banks-overseas-crypto-hubs-gain-from-clarity-act-s-senate-defeat-critics-say",
       "published": "Mon, 21 Sep 2026 14:53:52 +0000",
       "ts": 1790002432
-    },
-    {
-      "source": "MarketWatch",
-      "title": "AT&T’s stock looks like the smartest bet in the wireless sector, analyst says",
-      "link": "https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 14:39:00 GMT",
-      "ts": 1790001540
     },
     {
       "source": "Yahoo Finance",
