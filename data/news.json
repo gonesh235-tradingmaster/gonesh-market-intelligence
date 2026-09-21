@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-21T05:43:49.057073+00:00",
+  "updated_utc": "2026-09-21T05:54:42.965595+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -12,7 +12,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Bitcoin reclaims 50-week moving average: Is the bear market over?",
+      "title": "Bitcoin reclaims 50-week moving average as analysts eye end of bear market",
       "link": "https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 21 Sep 2026 04:29:59 +0000",
       "ts": 1789964999
@@ -201,6 +201,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Garmin’s (GRMN) New Autopilot Signals Where Growth Is Headed",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/garmin-grmn-autopilot-signals-where-184731033.html",
+      "published": "2026-09-19T18:47:31Z",
+      "ts": 1789843651
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Corteva (CTVA) Bets On A Belgian Partner For Crop Protection’s Next Act",
       "link": "https://finance.yahoo.com/markets/stocks/articles/corteva-ctva-bets-belgian-partner-183747198.html",
       "published": "2026-09-19T18:37:47Z",
@@ -233,13 +240,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/mediatek-stepping-competition-against-qualcomm-183002481.html",
       "published": "2026-09-19T18:30:02Z",
       "ts": 1789842602
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "PureCycle (PCT) Expands PureFive Use as Regulatory Tailwinds Meet Execution Risk",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/purecycle-pct-expands-purefive-regulatory-182105336.html",
-      "published": "2026-09-19T18:21:05Z",
-      "ts": 1789842065
     },
     {
       "source": "CoinDesk",
