@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-21T03:00:59.941206+00:00",
+  "updated_utc": "2026-09-21T03:18:58.396206+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -172,6 +172,13 @@
       "ts": 1789843200
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Lucid (LCID) Rises After Bolt Partnership, But Cash Burn Remains a Concern",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-lcid-rises-bolt-partnership-165233221.html",
+      "published": "2026-09-19T16:52:33Z",
+      "ts": 1789836753
+    },
+    {
       "source": "Cointelegraph",
       "title": "VanEck criticizes Metaplanet over executive dilution despite compensation cuts",
       "link": "https://cointelegraph.com/news/vaneck-labels-metaplanet-compensation-bad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -219,13 +226,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-gets-bullish-110-155252131.html",
       "published": "2026-09-19T15:52:52Z",
       "ts": 1789833172
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "No Degree, No Problem: Why the Job Market Is Booming for Americans Without College Degrees",
-      "link": "https://finance.yahoo.com/economy/articles/no-degree-no-problem-why-153002314.html",
-      "published": "2026-09-19T15:30:02Z",
-      "ts": 1789831802
     },
     {
       "source": "CoinDesk",
