@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-21T08:47:13.763409+00:00",
+  "updated_utc": "2026-09-21T08:57:36.443314+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
+      "link": "https://www.coindesk.com/business/2026/09/21/hana-bank-issues-south-korea-s-first-digital-bond-using-euroclear-s-blockchain",
+      "published": "Mon, 21 Sep 2026 08:49:59 +0000",
+      "ts": 1789980599
+    },
     {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin rockets above $83,500 as falling oil lifts risk assets",
@@ -268,13 +275,6 @@
       "link": "https://finance.yahoo.com/energy/articles/energy-giants-betting-billions-world-230000196.html",
       "published": "2026-09-19T23:00:00Z",
       "ts": 1789858800
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
-      "published": "Sat, 19 Sep 2026 16:00:00 +0000",
-      "ts": 1789833600
     },
     {
       "source": "Yahoo Finance",
