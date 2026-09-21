@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-21T07:49:33.304637+00:00",
+  "updated_utc": "2026-09-21T07:59:30.229590+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Euro zone yields ease as markets await of ECB’s Lagarde speech",
+      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-ease-as-markets-await-of-ecbs-lagarde-speech-4908370",
+      "published": "2026-09-21 07:47:15",
+      "ts": 1789976835
+    },
     {
       "source": "Cointelegraph",
       "title": "ZetaChain holders approve plan to wind down L1, move ZETA to Solana",
@@ -215,10 +222,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Radiant Logistics (RLGT): Citizens Turns Bullish on a Quarter the Full Year Doesn’t Back Up",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/radiant-logistics-rlgt-citizens-turns-014812401.html",
+      "published": "2026-09-20T01:48:12Z",
+      "ts": 1789868892
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "80-year-old discount fashion chain closing 120 stores",
       "link": "https://finance.yahoo.com/small-business/articles/tj-maxx-rival-closing-120-181700076.html",
       "published": "2026-09-19T23:02:22Z",
       "ts": 1789858942
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Energy Giants Are Betting Billions on a World of Longer Oil Routes",
+      "link": "https://finance.yahoo.com/energy/articles/energy-giants-betting-billions-world-230000196.html",
+      "published": "2026-09-19T23:00:00Z",
+      "ts": 1789858800
     },
     {
       "source": "Yahoo Finance",
@@ -249,20 +270,6 @@
       "ts": 1789848572
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Ferguson (FERG) Keeps Beating a Housing Market That Refuses to Cooperate",
-      "link": "https://finance.yahoo.com/real-estate/articles/ferguson-ferg-keeps-beating-housing-195513837.html",
-      "published": "2026-09-19T19:55:13Z",
-      "ts": 1789847713
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Agilent (A) Wants Pathology Labs To Go Digital, 540 Slides At A Time",
-      "link": "https://finance.yahoo.com/healthcare/articles/agilent-wants-pathology-labs-digital-195217186.html",
-      "published": "2026-09-19T19:52:17Z",
-      "ts": 1789847537
-    },
-    {
       "source": "CoinDesk",
       "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
       "link": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
@@ -275,13 +282,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
       "published": "Sat, 19 Sep 2026 14:00:00 +0000",
       "ts": 1789826400
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "EOS Climbs 10% In Rally",
-      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-10-in-rally-4908047",
-      "published": "2026-09-19 03:38:02",
-      "ts": 1789789082
     }
   ]
 }
