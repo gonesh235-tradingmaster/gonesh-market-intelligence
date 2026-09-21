@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-21T04:58:34.625067+00:00",
+  "updated_utc": "2026-09-21T05:14:58.868597+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -201,6 +201,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "PureCycle (PCT) Expands PureFive Use as Regulatory Tailwinds Meet Execution Risk",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/purecycle-pct-expands-purefive-regulatory-182105336.html",
+      "published": "2026-09-19T18:21:05Z",
+      "ts": 1789842065
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "BJ’s Wholesale Club (BJ) Formalizes Investment-Grade Financial Policy",
       "link": "https://finance.yahoo.com/markets/stocks/articles/bj-wholesale-club-bj-formalizes-180906005.html",
       "published": "2026-09-19T18:09:06Z",
@@ -233,13 +240,6 @@
       "link": "https://finance.yahoo.com/real-estate/articles/does-40-3-million-birwood-173911914.html",
       "published": "2026-09-19T17:39:11Z",
       "ts": 1789839551
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Amodei, Altman, and Musk Called for an AI Slowdown. Here’s Why It’s a Warning Sign for ASML Shareholders.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/amodei-altman-musk-called-ai-173002836.html",
-      "published": "2026-09-19T17:30:02Z",
-      "ts": 1789839002
     },
     {
       "source": "CoinDesk",
