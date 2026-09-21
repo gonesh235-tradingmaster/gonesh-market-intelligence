@@ -1,14 +1,42 @@
 {
-  "updated_utc": "2026-09-21T12:50:01.939070+00:00",
+  "updated_utc": "2026-09-21T12:59:48.729965+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
+      "source": "MarketWatch",
+      "title": "Record diesel prices are exposing pain points in the stock market and economy",
+      "link": "https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 12:50:00 GMT",
+      "ts": 1789995000
+    },
+    {
       "source": "Yahoo Finance",
-      "title": "Prediction: Robinhood Will Launch Tokenized Stock Trading in the U.S. Before the End of 2027",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-robinhood-launch-tokenized-stock-123702180.html",
-      "published": "2026-09-21T12:37:02Z",
-      "ts": 1789994222
+      "title": "Interview: Revolut chief banking officer Sid Jajodia on growth, margins and  IPO plans",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/interview-revolut-chief-banking-officer-124943682.html",
+      "published": "2026-09-21T12:49:43Z",
+      "ts": 1789994983
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Barilla to shake-up domestic pasta production",
+      "link": "https://finance.yahoo.com/small-business/articles/barilla-shake-domestic-pasta-production-124922948.html",
+      "published": "2026-09-21T12:49:22Z",
+      "ts": 1789994962
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Litecoin Climbs 10% As Investors Gain Confidence",
+      "link": "https://www.investing.com/news/cryptocurrency-news/litecoin-climbs-10-as-investors-gain-confidence-4909060",
+      "published": "2026-09-21 12:40:00",
+      "ts": 1789994400
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "SanDisk Corp’s (SNDK) Impact on Small/Mid Cap Returns",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-corp-sndk-impact-small-123955859.html",
+      "published": "2026-09-21T12:39:55Z",
+      "ts": 1789994395
     },
     {
       "source": "Yahoo Finance",
@@ -16,13 +44,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/veeco-instruments-veco-results-far-123608566.html",
       "published": "2026-09-21T12:36:08Z",
       "ts": 1789994168
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Should You Buy Micron Before Sept. 30?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-micron-sept-30-123500072.html",
-      "published": "2026-09-21T12:35:00Z",
-      "ts": 1789994100
     },
     {
       "source": "Yahoo Finance",
@@ -51,13 +72,6 @@
       "link": "https://finance.yahoo.com/real-estate/articles/11-texas-condo-owners-pay-123000155.html",
       "published": "2026-09-21T12:30:00Z",
       "ts": 1789993800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Tokenized Equities and AI Disruption Threaten Broadridge Financial Solutions’ (BR) Market Share",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tokenized-equities-ai-disruption-threaten-122633931.html",
-      "published": "2026-09-21T12:26:33Z",
-      "ts": 1789993593
     },
     {
       "source": "Investing Crypto",
@@ -268,20 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
       "published": "2026-09-21 09:21:56",
       "ts": 1789982516
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My husband and I are in our 50s and have no kids. We have $2 million. Do we need a will?",
-      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 09:15:00 GMT",
-      "ts": 1789982100
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto enjoys bullish bounce post-Fed rate hike: Crypto Week Ahead",
-      "link": "https://www.coindesk.com/markets/2026/09/21/crypto-week-ahead",
-      "published": "Mon, 21 Sep 2026 09:12:42 +0000",
-      "ts": 1789981962
     }
   ]
 }
