@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-21T07:35:49.625372+00:00",
+  "updated_utc": "2026-09-21T07:49:33.304637+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "ZetaChain holders approve plan to wind down L1, move ZETA to Solana",
+      "link": "https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 21 Sep 2026 07:31:47 +0000",
+      "ts": 1789975907
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin tests double top at $82,179 with MFI maxed: Live levels",
@@ -205,13 +212,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-11-in-rout-4908157",
       "published": "2026-09-20 10:17:05",
       "ts": 1789899425
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Grayscale’s Zcash ETF files for 3-for-1 forward share split",
-      "link": "https://cointelegraph.com/news/grayscales-zcash-etf-files-for-3-for-1-forward-share-split?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 20 Sep 2026 09:14:27 +0000",
-      "ts": 1789895667
     },
     {
       "source": "Yahoo Finance",
