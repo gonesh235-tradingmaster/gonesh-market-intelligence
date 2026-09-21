@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-21T20:30:27.024167+00:00",
+  "updated_utc": "2026-09-21T20:42:22.890142+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
+      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
+      "published": "Mon, 21 Sep 2026 20:39:39 +0000",
+      "ts": 1790023179
+    },
     {
       "source": "MarketWatch",
       "title": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s strategy",
@@ -219,13 +226,6 @@
       "link": "https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails",
       "published": "Mon, 21 Sep 2026 12:17:48 +0000",
       "ts": 1789993068
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Strategy returns to bitcoin buys, adding $75 million of BTC last week",
-      "link": "https://www.coindesk.com/markets/2026/09/21/strategy-returns-to-bitcoin-buys-adding-usd75-million-of-btc-last-week",
-      "published": "Mon, 21 Sep 2026 12:08:02 +0000",
-      "ts": 1789992482
     },
     {
       "source": "Investing Forex",
