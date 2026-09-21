@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-21T02:09:56.254340+00:00",
+  "updated_utc": "2026-09-21T02:25:39.355957+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -187,6 +187,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Marvell (MRVL) and GlobalFoundries (GFS) Rise on Expanded Deal: What Investors Should Know",
+      "link": "https://finance.yahoo.com/technology/articles/marvell-mrvl-globalfoundries-gfs-rise-155724895.html",
+      "published": "2026-09-19T15:57:24Z",
+      "ts": 1789833444
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "PicS N.V. (PICS) Delivers Credit Portfolio Momentum and Q2 Outperformance Across the Board",
       "link": "https://finance.yahoo.com/markets/stocks/articles/pics-n-v-pics-delivers-155428079.html",
       "published": "2026-09-19T15:54:28Z",
@@ -219,13 +226,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/1-microsoft-deal-iren-delivering-142734921.html",
       "published": "2026-09-19T14:27:34Z",
       "ts": 1789828054
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is This A $20 Million Reason to Buy Infleqtion Stock Now?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/20-million-reason-buy-infleqtion-140725770.html",
-      "published": "2026-09-19T14:07:25Z",
-      "ts": 1789826845
     },
     {
       "source": "CoinDesk",
