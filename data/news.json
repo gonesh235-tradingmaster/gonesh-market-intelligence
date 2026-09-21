@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-21T17:28:35.400584+00:00",
+  "updated_utc": "2026-09-21T17:40:54.246695+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Halliburton Signs Deals to Expand Venezuela Energy Presence",
+      "link": "https://finance.yahoo.com/energy/articles/halliburton-signs-deals-expand-venezuela-172503667.html",
+      "published": "2026-09-21T17:25:03Z",
+      "ts": 1790011503
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
+      "link": "https://www.investors.com/news/technology/chip-stocks-amd-stock-four-new-names-join-sox-index/?src=A00220&yptr=yahoo",
+      "published": "2026-09-21T17:19:56Z",
+      "ts": 1790011196
+    },
     {
       "source": "Investing Forex",
       "title": "Canadian dollar under pressure as oil retreats and US rate outlook supports greenb",
@@ -51,13 +65,6 @@
       "link": "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 21 Sep 2026 16:56:53 +0000",
       "ts": 1790009813
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Craneware Gets a Painful Growth Reset",
-      "link": "https://finance.yahoo.com/healthcare/articles/craneware-gets-painful-growth-reset-165632082.html",
-      "published": "2026-09-21T16:56:32Z",
-      "ts": 1790009792
     },
     {
       "source": "Cointelegraph",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/crypto-stocks-rise-premarket-as-bitcoin-hits-over-sevenmonth-high-4908587",
       "published": "2026-09-21 10:43:27",
       "ts": 1789987407
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BTC price nears eight-month high above $85K: Five things to know in Bitcoin this week",
-      "link": "https://cointelegraph.com/markets/btc-price-nears-eight-month-high-above-85k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 10:15:51 +0000",
-      "ts": 1789985751
     }
   ]
 }
