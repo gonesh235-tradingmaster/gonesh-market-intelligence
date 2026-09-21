@@ -1,14 +1,28 @@
 {
-  "updated_utc": "2026-09-21T15:32:18.300165+00:00",
+  "updated_utc": "2026-09-21T15:45:06.867683+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
+      "source": "MarketWatch",
+      "title": "This is the ‘most underappreciated’ driver for Microsoft’s business, according to one analyst",
+      "link": "https://www.marketwatch.com/story/this-is-the-most-underappreciated-driver-for-microsoft-according-to-one-analyst-f9a5e4eb?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 15:39:00 GMT",
+      "ts": 1790005140
+    },
+    {
       "source": "Yahoo Finance",
-      "title": "Paramount settles with US states in big step towards closing Warner Bros merger, source says",
-      "link": "https://finance.yahoo.com/media-advertising/articles/paramount-settles-california-other-states-145344915.html",
-      "published": "2026-09-21T15:23:02Z",
-      "ts": 1790004182
+      "title": "Trump demands 1% rates because the US has the ‘Best Credit in the World’ — the Fed hiked rates anyway. So who’s right?",
+      "link": "https://finance.yahoo.com/economy/policy/articles/trump-demands-1-rates-because-153000828.html",
+      "published": "2026-09-21T15:30:00Z",
+      "ts": 1790004600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 15:30:00 GMT",
+      "ts": 1790004600
     },
     {
       "source": "MarketWatch",
@@ -114,20 +128,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/multiasset-trading-venue-monochrome-exchange-announces-ieo-of-its-native-token-mcr-4909333",
       "published": "2026-09-21 14:31:45",
       "ts": 1790001105
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 14:30:00 GMT",
-      "ts": 1790001000
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
-      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 14:20:00 GMT",
-      "ts": 1790000400
     },
     {
       "source": "Investing Crypto",
