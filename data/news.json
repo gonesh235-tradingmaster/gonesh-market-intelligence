@@ -1,21 +1,49 @@
 {
-  "updated_utc": "2026-09-21T17:40:54.246695+00:00",
+  "updated_utc": "2026-09-21T17:51:18.325491+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
+      "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 17:45:00 GMT",
+      "ts": 1790012700
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Behind the Ticker: Crossmark's Values-Based ETFs",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/behind-ticker-crossmarks-values-based-174055390.html",
+      "published": "2026-09-21T17:40:55Z",
+      "ts": 1790012455
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Signal Says This Software Stock Could Soon Break Out",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/signal-says-software-stock-could-173505415.html",
+      "published": "2026-09-21T17:35:05Z",
+      "ts": 1790012105
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Loren Finegold, Ed Comber Join Vinson & Elkins NY Practice, Finance & Infrastructure Growth",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/loren-finegold-ed-comber-join-173054582.html",
+      "published": "2026-09-21T17:30:54Z",
+      "ts": 1790011854
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Up, Nasdaq Roars As Micron Tests Entry; Bessent Touts China Progress (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
+      "published": "2026-09-21T17:30:11Z",
+      "ts": 1790011811
+    },
     {
       "source": "Yahoo Finance",
       "title": "Halliburton Signs Deals to Expand Venezuela Energy Presence",
       "link": "https://finance.yahoo.com/energy/articles/halliburton-signs-deals-expand-venezuela-172503667.html",
       "published": "2026-09-21T17:25:03Z",
       "ts": 1790011503
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Chip Stocks Rise As Four New Names Join SOX Index. AMD Breaks Out.",
-      "link": "https://www.investors.com/news/technology/chip-stocks-amd-stock-four-new-names-join-sox-index/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T17:19:56Z",
-      "ts": 1790011196
     },
     {
       "source": "Investing Forex",
@@ -39,27 +67,6 @@
       "ts": 1790010720
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Brazil to use Uruguay's surplus of beef export quota to China, Lula says",
-      "link": "https://finance.yahoo.com/economy/policy/articles/brazil-uruguays-surplus-beef-export-171153710.html",
-      "published": "2026-09-21T17:11:53Z",
-      "ts": 1790010713
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "SoftBank Borrows Even More Money for OpenAI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/softbank-borrows-even-more-money-170902930.html",
-      "published": "2026-09-21T17:09:02Z",
-      "ts": 1790010542
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Drug developer ADARx seeks $1.74 billion valuation in US IPO",
-      "link": "https://finance.yahoo.com/healthcare/articles/drug-developer-adarx-seeks-1-170042280.html",
-      "published": "2026-09-21T17:00:42Z",
-      "ts": 1790010042
-    },
-    {
       "source": "Cointelegraph",
       "title": "Circle launches Bitcoin-backed USDC borrowing for institutional clients",
       "link": "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -79,13 +86,6 @@
       "link": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 16:30:00 GMT",
       "ts": 1790008200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Meta’s stock is enjoying its best month in more than two years thanks to the company’s hot new AI assistant",
-      "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 16:12:00 GMT",
-      "ts": 1790007120
     },
     {
       "source": "CoinDesk",
