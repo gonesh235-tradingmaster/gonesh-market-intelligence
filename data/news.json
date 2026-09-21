@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-21T10:47:07.125888+00:00",
+  "updated_utc": "2026-09-21T10:55:57.491937+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Crypto stocks rise premarket as Bitcoin hits over seven-month high",
+      "link": "https://www.investing.com/news/cryptocurrency-news/crypto-stocks-rise-premarket-as-bitcoin-hits-over-sevenmonth-high-4908587",
+      "published": "2026-09-21 10:43:27",
+      "ts": 1789987407
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Morning Bid: Summiteering",
+      "link": "https://finance.yahoo.com/economy/policy/articles/morning-bid-summiteering-104146934.html",
+      "published": "2026-09-21T10:41:46Z",
+      "ts": 1789987306
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "‘Bull crap’: Why Dave Ramsey says moving to conservative bond investments in old age is mathematically stupid",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bull-crap-why-dave-ramsey-103500321.html",
+      "published": "2026-09-21T10:35:00Z",
+      "ts": 1789986900
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin hits $85,000 as short squeeze forces out $648 million of bearish bets",
@@ -12,10 +33,10 @@
     },
     {
       "source": "Investing Crypto",
-      "title": "Crypto stocks rise premarket as Bitcoin hits over seven-month high",
-      "link": "https://www.investing.com/news/cryptocurrency-news/crypto-stocks-rise-premarket-as-bitcoin-hits-over-sevenmonth-high-4908587",
-      "published": "2026-09-21 10:16:07",
-      "ts": 1789985767
+      "title": "Bitcoin surges past $84k: Key technical levels to watch for BTC now",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-84k-key-technical-levels-to-watch-for-btc-now-93CH-4908598",
+      "published": "2026-09-21 10:22:12",
+      "ts": 1789986132
     },
     {
       "source": "MarketWatch",
@@ -68,15 +89,8 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Best CD rates today, Monday, September 21, 2026: Lock in up to 4.40% APY",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-21-2026-lock-in-up-to-440-apy-100000956.html",
-      "published": "2026-09-21T10:00:00Z",
-      "ts": 1789984800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Trump and Xi dine with AI titans and Meta takes the stage: What to watch this week",
-      "link": "https://finance.yahoo.com/markets/article/trump-and-xi-dine-with-ai-titans-and-meta-takes-the-stage-what-to-watch-this-week-100000383.html",
+      "title": "Mortgage and refinance interest rates today, Monday, September 21, 2026: Refinance rates mostly lower",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-21-2026-refinance-rates-mostly-lower-100000495.html",
       "published": "2026-09-21T10:00:00Z",
       "ts": 1789984800
     },
@@ -91,13 +105,6 @@
       "source": "Yahoo Finance",
       "title": "Best high-yield savings interest rates today, Monday, September 21, 2026: Earn up to 4.10% APY",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-september-21-2026-earn-up-to-410-apy-100000921.html",
-      "published": "2026-09-21T10:00:00Z",
-      "ts": 1789984800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mortgage and refinance interest rates today, Monday, September 21, 2026: Refinance rates mostly lower",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-21-2026-refinance-rates-mostly-lower-100000495.html",
       "published": "2026-09-21T10:00:00Z",
       "ts": 1789984800
     },
@@ -275,13 +282,6 @@
       "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 02:40:00 GMT",
       "ts": 1789958400
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "North Korean fake recruiters infect 30K devices, steal $10.7M in crypto",
-      "link": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 01:42:53 +0000",
-      "ts": 1789954973
     }
   ]
 }
