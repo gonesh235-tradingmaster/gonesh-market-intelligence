@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-21T04:46:20.473800+00:00",
+  "updated_utc": "2026-09-21T04:58:34.625067+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 21 Sep 2026 04:44:48 +0000",
+      "ts": 1789965888
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin reclaims 50-week moving average: Is the bear market over?",
@@ -193,11 +200,11 @@
       "ts": 1789858942
     },
     {
-      "source": "Cointelegraph",
-      "title": "REX launches 2x leveraged ETF tied to Bitcoin treasury firm Strive",
-      "link": "https://cointelegraph.com/news/rex-launches-2x-leveraged-etf-tied-to-bitcoin-treasury-firm-strive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 19 Sep 2026 19:18:00 +0000",
-      "ts": 1789845480
+      "source": "Yahoo Finance",
+      "title": "BJ’s Wholesale Club (BJ) Formalizes Investment-Grade Financial Policy",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bj-wholesale-club-bj-formalizes-180906005.html",
+      "published": "2026-09-19T18:09:06Z",
+      "ts": 1789841346
     },
     {
       "source": "Yahoo Finance",
@@ -233,13 +240,6 @@
       "link": "https://finance.yahoo.com/technology/ai/articles/amodei-altman-musk-called-ai-173002836.html",
       "published": "2026-09-19T17:30:02Z",
       "ts": 1789839002
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Delivery Outlook Shows Tesla (TSLA)’s Core Business Under Pressure. Its Next Growth Engine Must Deliver",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/delivery-outlook-shows-tesla-tsla-171443015.html",
-      "published": "2026-09-19T17:14:43Z",
-      "ts": 1789838083
     },
     {
       "source": "CoinDesk",
