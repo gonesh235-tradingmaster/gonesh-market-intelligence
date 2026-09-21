@@ -1,14 +1,56 @@
 {
-  "updated_utc": "2026-09-21T08:57:36.443314+00:00",
+  "updated_utc": "2026-09-21T09:13:53.311057+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto enjoys bullish bounce post-Fed rate hike: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/09/21/crypto-week-ahead",
+      "published": "Mon, 21 Sep 2026 09:12:42 +0000",
+      "ts": 1789981962
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Kylie Jenner sells California mansion for $5 million below asking",
+      "link": "https://www.marketwatch.com/story/kylie-jenner-sells-california-mansion-for-5-million-below-asking-a6f2bb38?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 09:05:00 GMT",
+      "ts": 1789981500
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Steven Spielberg lists longtime L.A. equestrian ranch for $30 million",
+      "link": "https://www.marketwatch.com/story/steven-spielberg-lists-longtime-l-a-equestrian-ranch-for-30-million-2209cbb4?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 09:03:00 GMT",
+      "ts": 1789981380
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Novo Nordisk stock tumbles as Ozempic maker sets out 2030 goals",
+      "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 08:58:00 GMT",
+      "ts": 1789981080
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Deutsche Bank sees dollar decline continuing on FX outlook",
+      "link": "https://www.investing.com/news/forex-news/deutsche-bank-sees-dollar-decline-continuing-on-fx-outlook-93CH-4908448",
+      "published": "2026-09-21 08:56:10",
+      "ts": 1789980970
+    },
     {
       "source": "CoinDesk",
       "title": "Hana Bank issues South Korea’s first digital bond using Euroclear’s blockchain",
       "link": "https://www.coindesk.com/business/2026/09/21/hana-bank-issues-south-korea-s-first-digital-bond-using-euroclear-s-blockchain",
       "published": "Mon, 21 Sep 2026 08:49:59 +0000",
       "ts": 1789980599
+    },
+    {
+      "source": "Investing Forex",
+      "title": "UBS sees limited yen gains despite Bank of Japan rate hike",
+      "link": "https://www.investing.com/news/forex-news/ubs-sees-limited-yen-gains-despite-bank-of-japan-rate-hike-93CH-4908446",
+      "published": "2026-09-21 08:48:42",
+      "ts": 1789980522
     },
     {
       "source": "CoinDesk",
@@ -18,11 +60,32 @@
       "ts": 1789979966
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer on Hub Group (HUBG): “Got to Wait Till Oil Calms Down”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-hub-group-hubg-080851735.html",
+      "published": "2026-09-21T08:08:51Z",
+      "ts": 1789978131
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as oil falls, anticipation builds for Trump-Xi summit",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
+      "published": "2026-09-21T08:02:14Z",
+      "ts": 1789977734
+    },
+    {
       "source": "Investing Forex",
       "title": "Euro zone yields ease as markets await of ECB’s Lagarde speech",
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-ease-as-markets-await-of-ecbs-lagarde-speech-4908370",
       "published": "2026-09-21 07:47:15",
       "ts": 1789976835
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nvidia's CEO Huang says there's a ‘0% chance’ AI ends the world — 4 AI giants are sued over an alleged pact to slow it",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidias-ceo-huang-says-theres-073500742.html",
+      "published": "2026-09-21T07:35:00Z",
+      "ts": 1789976100
     },
     {
       "source": "Cointelegraph",
@@ -58,6 +121,27 @@
       "link": "https://www.coindesk.com/markets/2026/09/21/kalshi-s-crypto-chief-responds-to-fake-crypto-volume-allegations-as-critic-flags-identical-usd5-500-trades",
       "published": "Mon, 21 Sep 2026 06:20:47 +0000",
       "ts": 1789971647
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "H World (HTHT) Cleared Its $2B Promise Early, Then Topped It",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/h-world-htht-cleared-2b-054407002.html",
+      "published": "2026-09-21T05:44:07Z",
+      "ts": 1789969447
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Most Qorvo (QRVO) Bondholders Said Yes, but Skyworks (SWKS) Is Still Waiting",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/most-qorvo-qrvo-bondholders-said-053624051.html",
+      "published": "2026-09-21T05:36:24Z",
+      "ts": 1789968984
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "A Cyber Intelligence Veteran Now Runs Masco’s (MAS) AI Agenda",
+      "link": "https://finance.yahoo.com/technology/ai/articles/cyber-intelligence-veteran-now-runs-053054700.html",
+      "published": "2026-09-21T05:30:54Z",
+      "ts": 1789968654
     },
     {
       "source": "Cointelegraph",
@@ -186,27 +270,6 @@
       "ts": 1789912837
     },
     {
-      "source": "MarketWatch",
-      "title": "China is chasing SpaceX and setting its sights on the global space economy",
-      "link": "https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories",
-      "published": "Sun, 20 Sep 2026 13:53:00 GMT",
-      "ts": 1789912380
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
-      "published": "Sun, 20 Sep 2026 13:16:00 GMT",
-      "ts": 1789910160
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Record diesel prices are exposing pain points in the stock market and economy",
-      "link": "https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories",
-      "published": "Sun, 20 Sep 2026 13:00:00 GMT",
-      "ts": 1789909200
-    },
-    {
       "source": "Cointelegraph",
       "title": "Trump says US will form ‘AI Force’ and appoint AI czar: Reports",
       "link": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -219,69 +282,6 @@
       "link": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
       "published": "Sun, 20 Sep 2026 12:00:00 +0000",
       "ts": 1789905600
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto traders braced for a total wipeout this week but Bitcoin had other plans",
-      "link": "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans",
-      "published": "Sun, 20 Sep 2026 12:00:00 +0000",
-      "ts": 1789905600
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "EOS Falls 11% In Rout",
-      "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-11-in-rout-4908157",
-      "published": "2026-09-20 10:17:05",
-      "ts": 1789899425
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Oracle (ORCL) Cloud Revenue Jumps 121% and its Backlog Hits $664 Billion. Can it Actually Deliver?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-cloud-revenue-jumps-045435586.html",
-      "published": "2026-09-20T04:54:35Z",
-      "ts": 1789880075
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Re-Energized EV Market Grapples With Growing Drain on Profitability",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/energized-ev-market-grapples-growing-040100779.html",
-      "published": "2026-09-20T04:01:00Z",
-      "ts": 1789876860
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Can Max Turn AI Adoption into Continued Growth for ServiceTitan (TTAN) Stock?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/max-turn-ai-adoption-continued-020418395.html",
-      "published": "2026-09-20T02:04:18Z",
-      "ts": 1789869858
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Radiant Logistics (RLGT): Citizens Turns Bullish on a Quarter the Full Year Doesn’t Back Up",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/radiant-logistics-rlgt-citizens-turns-014812401.html",
-      "published": "2026-09-20T01:48:12Z",
-      "ts": 1789868892
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "80-year-old discount fashion chain closing 120 stores",
-      "link": "https://finance.yahoo.com/small-business/articles/tj-maxx-rival-closing-120-181700076.html",
-      "published": "2026-09-19T23:02:22Z",
-      "ts": 1789858942
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Energy Giants Are Betting Billions on a World of Longer Oil Routes",
-      "link": "https://finance.yahoo.com/energy/articles/energy-giants-betting-billions-world-230000196.html",
-      "published": "2026-09-19T23:00:00Z",
-      "ts": 1789858800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mortgage and refinance interest rates today, Saturday, September 19, 2026: Mortgage rates move lower to start the weekend",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-september-19-2026-mortgage-rates-move-lower-to-start-the-weekend-100000254.html",
-      "published": "2026-09-19T10:00:00Z",
-      "ts": 1789812000
     }
   ]
 }
