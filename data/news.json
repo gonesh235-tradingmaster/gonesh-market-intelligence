@@ -1,8 +1,43 @@
 {
-  "updated_utc": "2026-09-21T11:09:37.258094+00:00",
+  "updated_utc": "2026-09-21T11:24:49.598984+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money",
+      "link": "https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money",
+      "published": "Mon, 21 Sep 2026 11:18:55 +0000",
+      "ts": 1789989535
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
+      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 11:15:00 GMT",
+      "ts": 1789989300
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "5 easy ways US boomers become poor in retirement (after having a fairly fat nest egg) — are you making these mistakes?",
+      "link": "https://finance.yahoo.com/markets/articles/5-easy-ways-us-boomers-110500674.html",
+      "published": "2026-09-21T11:05:00Z",
+      "ts": 1789988700
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Peter Schiff's father sold $4.2 million in books claiming income tax is illegal. He died in federal prison",
+      "link": "https://finance.yahoo.com/economy/policy/articles/peter-schiffs-father-sold-4-110000968.html",
+      "published": "2026-09-21T11:00:00Z",
+      "ts": 1789988400
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Another aspect of Montgomery: it might make human brokers more valuable",
+      "link": "https://finance.yahoo.com/small-business/articles/another-aspect-montgomery-might-human-110000308.html",
+      "published": "2026-09-21T11:00:00Z",
+      "ts": 1789988400
+    },
     {
       "source": "MarketWatch",
       "title": "Why one Buffett-inspired fund manager is betting big on Chinese stocks",
@@ -109,20 +144,6 @@
       "ts": 1789984982
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Best CD rates today, Monday, September 21, 2026: Lock in up to 4.40% APY",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-21-2026-lock-in-up-to-440-apy-100000956.html",
-      "published": "2026-09-21T10:00:00Z",
-      "ts": 1789984800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Trump and Xi dine with AI titans and Meta takes the stage: What to watch this week",
-      "link": "https://finance.yahoo.com/markets/article/trump-and-xi-dine-with-ai-titans-and-meta-takes-the-stage-what-to-watch-this-week-100000383.html",
-      "published": "2026-09-21T10:00:00Z",
-      "ts": 1789984800
-    },
-    {
       "source": "Cointelegraph",
       "title": "X sues Bitcoin account operators over alleged $278K payout fraud",
       "link": "https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -214,13 +235,6 @@
       "ts": 1789979966
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as oil falls, anticipation builds for Trump-Xi summit",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
-      "published": "2026-09-21T08:02:14Z",
-      "ts": 1789977734
-    },
-    {
       "source": "Investing Forex",
       "title": "Euro zone yields ease as markets await of ECB’s Lagarde speech",
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-ease-as-markets-await-of-ecbs-lagarde-speech-4908370",
@@ -268,20 +282,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 21 Sep 2026 04:29:59 +0000",
       "ts": 1789964999
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Hana Bank taps Euroclear blockchain for $100M bond issuance: Report",
-      "link": "https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 04:27:32 +0000",
-      "ts": 1789964852
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic",
-      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic",
-      "published": "Mon, 21 Sep 2026 04:03:43 +0000",
-      "ts": 1789963423
     }
   ]
 }
