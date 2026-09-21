@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-21T02:39:48.363157+00:00",
+  "updated_utc": "2026-09-21T02:51:48.808424+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 02:40:00 GMT",
+      "ts": 1789958400
+    },
     {
       "source": "Cointelegraph",
       "title": "North Korean fake recruiters infect 30K devices, steal $10.7M in crypto",
@@ -79,13 +86,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/multiasset-trading-venue-monochrome-exchange-announces-ieo-of-its-native-token-mcr-4908176",
       "published": "2026-09-20 14:00:37",
       "ts": 1789912837
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-      "published": "Sun, 20 Sep 2026 14:00:00 GMT",
-      "ts": 1789912800
     },
     {
       "source": "MarketWatch",
@@ -179,6 +179,13 @@
       "ts": 1789834800
     },
     {
+      "source": "Yahoo Finance",
+      "title": "‘Don't quit. Keep your job': Expert says Social Security will 'go away' — and the thing to protect isn't your 401(k)",
+      "link": "https://finance.yahoo.com/economy/policy/articles/dont-quit-keep-job-expert-161500293.html",
+      "published": "2026-09-19T16:15:00Z",
+      "ts": 1789834500
+    },
+    {
       "source": "CoinDesk",
       "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
       "link": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
@@ -219,13 +226,6 @@
       "link": "https://finance.yahoo.com/economy/articles/no-degree-no-problem-why-153002314.html",
       "published": "2026-09-19T15:30:02Z",
       "ts": 1789831802
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Before You Conclude the AI Era Won’t End Like the Dot-Com Era Did, Check Out These 2 Charts",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/conclude-ai-era-won-t-150002323.html",
-      "published": "2026-09-19T15:00:02Z",
-      "ts": 1789830002
     },
     {
       "source": "CoinDesk",
