@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-21T19:29:52.926610+00:00",
+  "updated_utc": "2026-09-21T19:42:33.253213+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "link": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "published": "Mon, 21 Sep 2026 19:30:00 GMT",
+      "ts": 1790019000
+    },
     {
       "source": "MarketWatch",
       "title": "The hottest part of the AI trade could be turning into its biggest weakness",
@@ -86,13 +93,6 @@
       "link": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
       "published": "Mon, 21 Sep 2026 17:16:00 GMT",
       "ts": 1790010960
-    },
-    {
-      "source": "MarketWatch",
-      "title": "A happier retirement contains these 3 elements",
-      "link": "https://www.marketwatch.com/story/a-happier-retirement-contains-these-3-elements-9aa99c9a?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 17:12:00 GMT",
-      "ts": 1790010720
     },
     {
       "source": "Cointelegraph",
