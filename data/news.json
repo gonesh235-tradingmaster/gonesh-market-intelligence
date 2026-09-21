@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-21T07:21:27.706582+00:00",
+  "updated_utc": "2026-09-21T07:35:49.625372+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin tests double top at $82,179 with MFI maxed: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
+      "published": "2026-09-21 07:12:04",
+      "ts": 1789974724
+    },
     {
       "source": "Cointelegraph",
       "title": "Bank of Korea launches 24-hour won settlement pilot for foreign investors",
@@ -215,6 +222,20 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Nashville’s Traffic Nightmare Is Now a $9.2B Ferrovial (FER)-Led Project",
+      "link": "https://finance.yahoo.com/real-estate/articles/nashville-traffic-nightmare-now-9-202041295.html",
+      "published": "2026-09-19T20:20:41Z",
+      "ts": 1789849241
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "IDEXX (IDXX) Bets an AI Scribe Can Sell More Pet Diagnostics",
+      "link": "https://finance.yahoo.com/technology/ai/articles/idexx-idxx-bets-ai-scribe-201730587.html",
+      "published": "2026-09-19T20:17:30Z",
+      "ts": 1789849050
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Prudential (PRU) Is Leaving Emerging Markets, And This $185M Sale Proves It",
       "link": "https://finance.yahoo.com/markets/stocks/articles/prudential-pru-leaving-emerging-markets-201350497.html",
       "published": "2026-09-19T20:13:50Z",
@@ -242,20 +263,6 @@
       "ts": 1789847537
     },
     {
-      "source": "Yahoo Finance",
-      "title": "eGain (EGAN): B. Riley and Roth Capital Both Cut Targets as AI Growth Struggles to Offset Legacy Declines",
-      "link": "https://finance.yahoo.com/technology/ai/articles/egain-egan-b-riley-roth-194936520.html",
-      "published": "2026-09-19T19:49:36Z",
-      "ts": 1789847376
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Infosys (INFY) Lands a Brake Maker as Growth Stays in Low Gear",
-      "link": "https://finance.yahoo.com/technology/ai/articles/infosys-infy-lands-brake-maker-194747627.html",
-      "published": "2026-09-19T19:47:47Z",
-      "ts": 1789847267
-    },
-    {
       "source": "CoinDesk",
       "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
       "link": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-10-in-rally-4908047",
       "published": "2026-09-19 03:38:02",
       "ts": 1789789082
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin jumps above $81k as short squeeze offsets rate and regulatory pressure",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-jumps-above-81k-as-short-squeeze-offsets-rate-and-regulatory-pressure-4908041",
-      "published": "2026-09-19 03:19:14",
-      "ts": 1789787954
     }
   ]
 }
