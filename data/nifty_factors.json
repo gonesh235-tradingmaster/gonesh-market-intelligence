@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-21T00:51:58.910471+00:00",
+  "updated_utc": "2026-09-21T01:01:54.471879+00:00",
   "source": "Yahoo Finance",
   "us_markets": {
     "sp500": {
@@ -57,30 +57,30 @@
   },
   "commodities": {
     "brent": {
-      "value": 98.17,
+      "value": 98.18,
       "previous_close": 108.75,
-      "change": -10.58,
-      "change_percent": -9.73,
+      "change": -10.57,
+      "change_percent": -9.72,
       "day_high": 100.26,
       "day_low": 98.0,
       "currency": "USD",
       "market_state": ""
     },
     "wti": {
-      "value": 94.61,
+      "value": 94.72,
       "previous_close": 105.83,
-      "change": -11.22,
-      "change_percent": -10.6,
+      "change": -11.11,
+      "change_percent": -10.5,
       "day_high": 97.22,
       "day_low": 94.33,
       "currency": "USD",
       "market_state": ""
     },
     "gold": {
-      "value": 4408.7,
+      "value": 4404.0,
       "previous_close": 4332.8,
-      "change": 75.9,
-      "change_percent": 1.75,
+      "change": 71.2,
+      "change_percent": 1.64,
       "day_high": 4420.2,
       "day_low": 4396.4,
       "currency": "USD",
@@ -91,7 +91,7 @@
     "value": 100.22,
     "previous_close": 99.65,
     "change": 0.57,
-    "change_percent": 0.57,
+    "change_percent": 0.58,
     "day_high": 100.3,
     "day_low": 100.2,
     "currency": "USD",
