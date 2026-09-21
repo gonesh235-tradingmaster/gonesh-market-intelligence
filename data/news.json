@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-21T00:15:45.851047+00:00",
+  "updated_utc": "2026-09-21T00:37:45.070129+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -179,6 +179,13 @@
       "ts": 1789833600
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Investing Based on Past Performance in 2026 Almost Guarantees a Bad Outcome. Do This Instead.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investing-based-past-performance-2026-140002456.html",
+      "published": "2026-09-19T14:00:02Z",
+      "ts": 1789826402
+    },
+    {
       "source": "CoinDesk",
       "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
       "link": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
@@ -212,13 +219,6 @@
       "link": "https://finance.yahoo.com/markets/options/articles/bond-market-back-tlt-bagholders-131502737.html",
       "published": "2026-09-19T13:15:02Z",
       "ts": 1789823702
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Wall Street’s Favorite Safe Haven Could Be In Trouble. How Investors Should Play Gold Here.",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/wall-street-favorite-safe-haven-130003037.html",
-      "published": "2026-09-19T13:00:03Z",
-      "ts": 1789822803
     },
     {
       "source": "Yahoo Finance",
