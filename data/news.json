@@ -1,14 +1,42 @@
 {
-  "updated_utc": "2026-09-22T17:34:02.820987+00:00",
+  "updated_utc": "2026-09-22T17:44:45.710130+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Quantum stocks are getting hot again after a brutal summer. Can the rally last?",
+      "link": "https://www.marketwatch.com/story/quantum-stocks-are-getting-hot-again-after-a-brutal-summer-can-the-rally-last-a8244a66?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 17:42:00 GMT",
+      "ts": 1790098920
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Canada's 'Big Six' banks to launch interbank tokenized deposit initiative",
+      "link": "https://www.coindesk.com/business/2026/09/22/canada-s-big-six-banks-unite-to-launch-interbank-tokenized-deposit-initiative",
+      "published": "Tue, 22 Sep 2026 17:34:03 +0000",
+      "ts": 1790098443
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
+      "link": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-amazon-stock-amzn-key-level/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T17:26:43Z",
+      "ts": 1790098003
+    },
     {
       "source": "Yahoo Finance",
       "title": "Private markets dealmaking is starting to mirror Greater China 's K-shaped economy",
       "link": "https://finance.yahoo.com/markets/stocks/articles/private-markets-dealmaking-starting-mirror-172112209.html",
       "published": "2026-09-22T17:21:12Z",
       "ts": 1790097672
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Micron, IBD Stock Of The Day, Surges Past Early Buy Point With Earnings Ahead",
+      "link": "https://www.investors.com/research/ibd-stock-of-the-day/micron-stock-mu-buy-point-earnings/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T17:20:49Z",
+      "ts": 1790097649
     },
     {
       "source": "MarketWatch",
@@ -30,20 +58,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-breaks-above-165728910.html",
       "published": "2026-09-22T16:57:28Z",
       "ts": 1790096248
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "What credit score do you need for a balance transfer credit card?",
-      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/credit-score-needed-for-balance-transfer-card-165714139.html",
-      "published": "2026-09-22T16:57:14Z",
-      "ts": 1790096234
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Think buying a car in cash is a flex? Why millions of boomers are quietly wasting thousands in savings",
-      "link": "https://finance.yahoo.com/markets/articles/think-buying-car-cash-flex-165500324.html",
-      "published": "2026-09-22T16:55:00Z",
-      "ts": 1790096100
     },
     {
       "source": "MarketWatch",
@@ -100,13 +114,6 @@
       "link": "https://www.marketwatch.com/story/this-glp-1-drug-helped-people-maintain-their-weight-loss-in-a-clinical-trial-even-for-those-taking-it-once-a-month-f70929b5?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 15:46:00 GMT",
       "ts": 1790091960
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘She gave a neighbor $2,000’: Social Security overpaid my mother, 82, by $20,000. What else is hiding in her finances?",
-      "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 15:45:00 GMT",
-      "ts": 1790091900
     },
     {
       "source": "Cointelegraph",
@@ -212,13 +219,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/22/bitcoin-recovers-from-asian-session-lows-as-falling-oil-price-supports-risk-appetite",
       "published": "Tue, 22 Sep 2026 10:59:03 +0000",
       "ts": 1790074743
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin trades near $86,000 as U.S. stocks post small gains",
-      "link": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
-      "published": "Tue, 22 Sep 2026 10:20:12 +0000",
-      "ts": 1790072412
     },
     {
       "source": "Investing Forex",
