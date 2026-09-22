@@ -1,14 +1,28 @@
 {
-  "updated_utc": "2026-09-22T14:43:28.188104+00:00",
+  "updated_utc": "2026-09-22T14:56:22.555655+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Trump Accounts could help lower-income families most. Few have signed up.",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/trump-accounts-could-help-lower-income-families-most-few-have-signed-up-143843357.html",
+      "published": "2026-09-22T14:38:43Z",
+      "ts": 1790087923
+    },
     {
       "source": "CoinDesk",
       "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
       "link": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
       "published": "Tue, 22 Sep 2026 14:32:59 +0000",
       "ts": 1790087579
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "How SoFi Is Turning Its Consumer App Into A Stablecoin Proving Ground",
+      "link": "https://www.investors.com/news/technology/sofi-stock-mastercard-ma-stock-stablecoin-network/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T14:29:31Z",
+      "ts": 1790087371
     },
     {
       "source": "Yahoo Finance",
@@ -44,20 +58,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/subscription-pivot-scba-replacement-cycle-142237408.html",
       "published": "2026-09-22T14:22:37Z",
       "ts": 1790086957
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Slips, Oil Stocks Fall On U.S.-Iran Hopes; Homebuilders, Retailers Shine (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T14:19:29Z",
-      "ts": 1790086769
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AI infrastructure Boom Fuels Texas Instruments’ (TXN) Rally",
-      "link": "https://finance.yahoo.com/technology/articles/ai-infrastructure-boom-fuels-texas-141812824.html",
-      "published": "2026-09-22T14:18:12Z",
-      "ts": 1790086692
     },
     {
       "source": "MarketWatch",
