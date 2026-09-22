@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-22T17:22:27.811569+00:00",
+  "updated_utc": "2026-09-22T17:34:02.820987+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Private markets dealmaking is starting to mirror Greater China 's K-shaped economy",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/private-markets-dealmaking-starting-mirror-172112209.html",
+      "published": "2026-09-22T17:21:12Z",
+      "ts": 1790097672
+    },
     {
       "source": "MarketWatch",
       "title": "How to avoid the ‘widow tax’ and other financial headaches if your spouse dies",
@@ -37,20 +44,6 @@
       "link": "https://finance.yahoo.com/markets/articles/think-buying-car-cash-flex-165500324.html",
       "published": "2026-09-22T16:55:00Z",
       "ts": 1790096100
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Fed's Barkin says economy may be firming, inflation not limited to energy, tariff shocks",
-      "link": "https://finance.yahoo.com/economy/policy/articles/feds-barkin-says-economy-may-165255863.html",
-      "published": "2026-09-22T16:52:55Z",
-      "ts": 1790095975
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "CME Group to Launch Bitcoin Cash and Uniswap Futures",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/cme-group-launch-bitcoin-cash-165200159.html",
-      "published": "2026-09-22T16:52:00Z",
-      "ts": 1790095920
     },
     {
       "source": "MarketWatch",
@@ -247,6 +240,13 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-hawkish-fed-talk-lifts-dollar-broadly-4910096",
       "published": "2026-09-22 09:01:07",
       "ts": 1790067667
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock market today: Dow slips, Nasdaq and S&P 500 drift higher as oil pares losses after Trump's UN address",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+      "published": "2026-09-22T08:06:25Z",
+      "ts": 1790064385
     },
     {
       "source": "Investing Crypto",
