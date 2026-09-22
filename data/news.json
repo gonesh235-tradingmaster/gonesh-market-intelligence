@@ -1,14 +1,35 @@
 {
-  "updated_utc": "2026-09-22T17:54:13.995871+00:00",
+  "updated_utc": "2026-09-22T18:07:31.042780+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Defending against dangerous AI should be a national priority — and we need more AI to do it",
+      "link": "https://www.marketwatch.com/story/defending-against-dangerous-ai-should-be-a-national-priority-and-we-need-more-ai-to-do-it-049e1c88?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 17:52:00 GMT",
+      "ts": 1790099520
+    },
     {
       "source": "MarketWatch",
       "title": "Quantum stocks are getting hot again after a brutal summer. Can the rally last?",
       "link": "https://www.marketwatch.com/story/quantum-stocks-are-getting-hot-again-after-a-brutal-summer-can-the-rally-last-a8244a66?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 17:42:00 GMT",
       "ts": 1790098920
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Skids As Trump Threatens Iran; Medical Diagnostics Plays Swoon (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T17:38:31Z",
+      "ts": 1790098711
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Paramount Settlement Triggers WBD Breakout. How It Compares To Past Media Mergers.",
+      "link": "https://www.investors.com/news/paramount-skydance-warner-bros-discovery-disney-fox-netflix-media-mergers/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T17:36:09Z",
+      "ts": 1790098569
     },
     {
       "source": "CoinDesk",
@@ -19,24 +40,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
-      "link": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-amazon-stock-amzn-key-level/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T17:26:43Z",
-      "ts": 1790098003
+      "title": "Herc Holdings Inc. (HRI) Was Gabelli Focused Growth and Income Fund’s Top Q2 Contributor",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/herc-holdings-inc-hri-gabelli-173214130.html",
+      "published": "2026-09-22T17:32:14Z",
+      "ts": 1790098334
     },
     {
       "source": "Yahoo Finance",
-      "title": "Private markets dealmaking is starting to mirror Greater China 's K-shaped economy",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/private-markets-dealmaking-starting-mirror-172112209.html",
-      "published": "2026-09-22T17:21:12Z",
-      "ts": 1790097672
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Micron, IBD Stock Of The Day, Surges Past Early Buy Point With Earnings Ahead",
-      "link": "https://www.investors.com/research/ibd-stock-of-the-day/micron-stock-mu-buy-point-earnings/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T17:20:49Z",
-      "ts": 1790097649
+      "title": "XPLR Infrastructure LP (XIFR) Was a Top Contributor for Gabelli Focused Growth and Income Fund",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/xplr-infrastructure-lp-xifr-top-173202389.html",
+      "published": "2026-09-22T17:32:02Z",
+      "ts": 1790098322
     },
     {
       "source": "MarketWatch",
@@ -51,13 +65,6 @@
       "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 17:00:00 GMT",
       "ts": 1790096400
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Rocket Lab Stock Breaks Above Key Trendline",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-breaks-above-165728910.html",
-      "published": "2026-09-22T16:57:28Z",
-      "ts": 1790096248
     },
     {
       "source": "MarketWatch",
@@ -107,13 +114,6 @@
       "link": "https://www.marketwatch.com/story/sandisks-stock-is-rising-why-one-analyst-says-ai-could-help-it-reach-new-heights-5541ded8?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 15:48:00 GMT",
       "ts": 1790092080
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This GLP-1 drug helped people maintain their weight loss in a clinical trial — even for those taking it once a month",
-      "link": "https://www.marketwatch.com/story/this-glp-1-drug-helped-people-maintain-their-weight-loss-in-a-clinical-trial-even-for-those-taking-it-once-a-month-f70929b5?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 15:46:00 GMT",
-      "ts": 1790091960
     },
     {
       "source": "Cointelegraph",
@@ -221,6 +221,13 @@
       "ts": 1790074743
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Mortgage and refinance rates today, Tuesday, September 22, 2026: Rates move lower, but 30-year still over 7%",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-tuesday-september-22-2026-rates-move-lower-but-30-year-still-over-7-100000503.html",
+      "published": "2026-09-22T10:00:00Z",
+      "ts": 1790071200
+    },
+    {
       "source": "Investing Forex",
       "title": "Dollar holds on hawkish Fed pricing while yen languishes despite Tokyo support",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
@@ -243,7 +250,7 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stock market today: Dow slips, Nasdaq and S&P 500 drift higher as oil pares losses after Trump's UN address",
+      "title": "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
       "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
       "published": "2026-09-22T08:06:25Z",
       "ts": 1790064385
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/xrp-climbs-10-in-a-green-day-4909700",
       "published": "2026-09-21 21:39:05",
       "ts": 1790026745
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin surges to over 7-month high as tokenized-stock move lifts crypto sentiment",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-toward-82k-as-tokenizedstock-move-boosts-crypto-sentiment-4908305",
-      "published": "2026-09-21 21:37:00",
-      "ts": 1790026620
     }
   ]
 }
