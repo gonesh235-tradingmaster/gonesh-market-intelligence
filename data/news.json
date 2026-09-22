@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-22T07:33:00.485523+00:00",
+  "updated_utc": "2026-09-22T07:46:05.986973+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Spot bitcoin ETFs attracted nearly $1 billion on Monday, the 9th largest inflow ever",
+      "link": "https://www.coindesk.com/markets/2026/09/22/spot-bitcoin-etfs-attracted-nearly-usd1-billion-on-monday-the-9th-largest-inflow-ever",
+      "published": "Tue, 22 Sep 2026 07:40:41 +0000",
+      "ts": 1790062841
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs flirt with $1B as inflows hit 2026 high",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 07:33:37 +0000",
+      "ts": 1790062417
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin overbought at $87K high, mean-reversion risk: Live levels",
@@ -207,13 +221,6 @@
       "ts": 1790017720
     },
     {
-      "source": "Cointelegraph",
-      "title": "Ondo lets institutions convert stocks directly into tokenized shares",
-      "link": "https://cointelegraph.com/news/ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 18:35:43 +0000",
-      "ts": 1790015743
-    },
-    {
       "source": "Investing Forex",
       "title": "Canadian dollar under pressure as oil retreats and US rate outlook supports greenb",
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-under-pressure-as-oil-retreats-and-us-rate-outlook-supports-greenb-4909475",
@@ -240,13 +247,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/cryptopawn-launches-protocol-integration-allowing-authorized-ai-agents-to-participate-in-cryptobacked-loan-transactions-4909397",
       "published": "2026-09-21 15:30:38",
       "ts": 1790004638
-    },
-    {
-      "source": "CoinDesk",
-      "title": "ECB plans to buy tokenized bonds with its own funds",
-      "link": "https://www.coindesk.com/policy/2026/09/21/ecb-announces-it-will-invest-in-tokenized-securities-via-new-pontes-platform",
-      "published": "Mon, 21 Sep 2026 15:00:47 +0000",
-      "ts": 1790002847
     },
     {
       "source": "Yahoo Finance",
