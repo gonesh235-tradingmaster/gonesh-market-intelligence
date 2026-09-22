@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-22T18:07:31.042780+00:00",
+  "updated_utc": "2026-09-22T18:26:43.877124+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Climbs 12% As Investors Gain Confidence",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-as-investors-gain-confidence-4911434",
+      "published": "2026-09-22 18:03:00",
+      "ts": 1790100180
+    },
     {
       "source": "MarketWatch",
       "title": "Defending against dangerous AI should be a national priority — and we need more AI to do it",
@@ -18,39 +25,11 @@
       "ts": 1790098920
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Skids As Trump Threatens Iran; Medical Diagnostics Plays Swoon (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T17:38:31Z",
-      "ts": 1790098711
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Paramount Settlement Triggers WBD Breakout. How It Compares To Past Media Mergers.",
-      "link": "https://www.investors.com/news/paramount-skydance-warner-bros-discovery-disney-fox-netflix-media-mergers/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T17:36:09Z",
-      "ts": 1790098569
-    },
-    {
       "source": "CoinDesk",
       "title": "Canada's 'Big Six' banks to launch interbank tokenized deposit initiative",
       "link": "https://www.coindesk.com/business/2026/09/22/canada-s-big-six-banks-unite-to-launch-interbank-tokenized-deposit-initiative",
       "published": "Tue, 22 Sep 2026 17:34:03 +0000",
       "ts": 1790098443
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Herc Holdings Inc. (HRI) Was Gabelli Focused Growth and Income Fund’s Top Q2 Contributor",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/herc-holdings-inc-hri-gabelli-173214130.html",
-      "published": "2026-09-22T17:32:14Z",
-      "ts": 1790098334
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "XPLR Infrastructure LP (XIFR) Was a Top Contributor for Gabelli Focused Growth and Income Fund",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/xplr-infrastructure-lp-xifr-top-173202389.html",
-      "published": "2026-09-22T17:32:02Z",
-      "ts": 1790098322
     },
     {
       "source": "MarketWatch",
@@ -165,6 +144,13 @@
       "ts": 1790082745
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Kalshi asks CFTC to allow margin trading on prediction markets",
+      "link": "https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html",
+      "published": "2026-09-22T12:39:18Z",
+      "ts": 1790080758
+    },
+    {
       "source": "CoinDesk",
       "title": "Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows",
       "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
@@ -221,13 +207,6 @@
       "ts": 1790074743
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Mortgage and refinance rates today, Tuesday, September 22, 2026: Rates move lower, but 30-year still over 7%",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-tuesday-september-22-2026-rates-move-lower-but-30-year-still-over-7-100000503.html",
-      "published": "2026-09-22T10:00:00Z",
-      "ts": 1790071200
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar holds on hawkish Fed pricing while yen languishes despite Tokyo support",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
@@ -247,13 +226,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-hawkish-fed-talk-lifts-dollar-broadly-4910096",
       "published": "2026-09-22 09:01:07",
       "ts": 1790067667
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: Dow slips, Nasdaq drifts higher as oil falls, AI trade powers market",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
-      "published": "2026-09-22T08:06:25Z",
-      "ts": 1790064385
     },
     {
       "source": "Investing Crypto",
@@ -282,6 +254,34 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/xrp-climbs-10-in-a-green-day-4909700",
       "published": "2026-09-21 21:39:05",
       "ts": 1790026745
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin surges to over 7-month high as tokenized-stock move lifts crypto sentiment",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-toward-82k-as-tokenizedstock-move-boosts-crypto-sentiment-4908305",
+      "published": "2026-09-21 21:37:00",
+      "ts": 1790026620
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar rises to nearly 8-week high, euro in focus after German political setback",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
+      "published": "2026-09-21 21:01:45",
+      "ts": 1790024505
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
+      "link": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html",
+      "published": "2026-09-21T18:17:21Z",
+      "ts": 1790014641
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Canadian dollar under pressure as oil retreats and US rate outlook supports greenb",
+      "link": "https://www.investing.com/news/forex-news/canadian-dollar-under-pressure-as-oil-retreats-and-us-rate-outlook-supports-greenb-4909475",
+      "published": "2026-09-21 17:16:09",
+      "ts": 1790010969
     }
   ]
 }
