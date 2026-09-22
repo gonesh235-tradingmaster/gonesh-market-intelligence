@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-22T07:19:13.121525+00:00",
+  "updated_utc": "2026-09-22T07:33:00.485523+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin overbought at $87K high, mean-reversion risk: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
+      "published": "2026-09-22 07:11:43",
+      "ts": 1790061103
+    },
     {
       "source": "Cointelegraph",
       "title": "Animoca puts Currenc merger on ice, delaying its Nasdaq debut",
@@ -191,13 +198,6 @@
       "link": "https://cointelegraph.com/news/saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 21 Sep 2026 20:37:15 +0000",
       "ts": 1790023035
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin parabolic at $86K with RSI at 83: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
-      "published": "2026-09-21 19:19:36",
-      "ts": 1790018376
     },
     {
       "source": "CoinDesk",
