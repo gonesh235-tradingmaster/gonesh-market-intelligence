@@ -1,8 +1,43 @@
 {
-  "updated_utc": "2026-09-22T10:11:39.411807+00:00",
+  "updated_utc": "2026-09-22T10:27:55.166840+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Oil falls as Iran signals possible hormuz reopening, bitcoin holds near $86,000",
+      "link": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
+      "published": "Tue, 22 Sep 2026 10:20:12 +0000",
+      "ts": 1790072412
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "FDA Approves Fayuvi. What Does It Mean for Ultragenyx (RARE)’s 2027 Profitability Target?",
+      "link": "https://finance.yahoo.com/healthcare/articles/fda-approves-fayuvi-does-mean-101851628.html",
+      "published": "2026-09-22T10:18:51Z",
+      "ts": 1790072331
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
+      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 10:15:00 GMT",
+      "ts": 1790072100
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Twist Bioscience (TWST) Expands AI Drug Discovery Exposure With Lilly TuneLab Partnership",
+      "link": "https://finance.yahoo.com/technology/ai/articles/twist-bioscience-twst-expands-ai-100850469.html",
+      "published": "2026-09-22T10:08:50Z",
+      "ts": 1790071730
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "As Trump and Xi meet, investors play both sides of AI divide",
+      "link": "https://finance.yahoo.com/technology/ai/articles/trump-xi-meet-investors-play-085656582.html",
+      "published": "2026-09-22T10:08:40Z",
+      "ts": 1790071720
+    },
     {
       "source": "CoinDesk",
       "title": "Binance probed by U.S. federal prosecutors for sanctions violations: Bloomberg",
@@ -14,8 +49,15 @@
       "source": "Yahoo Finance",
       "title": "Corporate bond buyers get picky with flood of AI debt",
       "link": "https://finance.yahoo.com/markets/options/articles/corporate-bond-buyers-picky-flood-100410778.html",
-      "published": "2026-09-22T10:04:10Z",
-      "ts": 1790071450
+      "published": "2026-09-22T10:07:40Z",
+      "ts": 1790071660
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stellantis (STLA) Reportedly Eyes $1.16 Billion France Van Investment",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stellantis-stla-reportedly-eyes-1-100646836.html",
+      "published": "2026-09-22T10:06:46Z",
+      "ts": 1790071606
     },
     {
       "source": "Cointelegraph",
@@ -23,27 +65,6 @@
       "link": "https://cointelegraph.com/markets/crypto-metric-signals-altseason-as-bitcoin-market-cap-share-stalls-below-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 10:00:43 +0000",
       "ts": 1790071243
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mortgage and refinance interest rates today, Tuesday, September 22, 2026: Rates move lower, but 30-year still over 7%",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-september-22-2026-rates-move-lower-but-30-year-still-over-7-100000503.html",
-      "published": "2026-09-22T10:00:00Z",
-      "ts": 1790071200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mark Cuban says healthcare companies are sued daily, usually lose and are 'too big to care.' He has a better solution",
-      "link": "https://finance.yahoo.com/healthcare/articles/mark-cuban-says-healthcare-companies-100000881.html",
-      "published": "2026-09-22T10:00:00Z",
-      "ts": 1790071200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Best CD rates today, Tuesday, September 22, 2026: Lock in up to 4.40% APY",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-september-22-2026-lock-in-up-to-440-apy-100000744.html",
-      "published": "2026-09-22T10:00:00Z",
-      "ts": 1790071200
     },
     {
       "source": "Cointelegraph",
@@ -242,13 +263,6 @@
       "ts": 1790027820
     },
     {
-      "source": "MarketWatch",
-      "title": "Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now",
-      "link": "https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 21:47:00 GMT",
-      "ts": 1790027220
-    },
-    {
       "source": "Investing Crypto",
       "title": "XRP Climbs 10% In a Green Day",
       "link": "https://www.investing.com/news/cryptocurrency-news/xrp-climbs-10-in-a-green-day-4909700",
@@ -268,20 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
       "published": "2026-09-21 21:01:45",
       "ts": 1790024505
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
-      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
-      "published": "Mon, 21 Sep 2026 20:39:39 +0000",
-      "ts": 1790023179
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Canadian dollar under pressure as oil retreats and US rate outlook supports greenb",
-      "link": "https://www.investing.com/news/forex-news/canadian-dollar-under-pressure-as-oil-retreats-and-us-rate-outlook-supports-greenb-4909475",
-      "published": "2026-09-21 17:16:09",
-      "ts": 1790010969
     }
   ]
 }
