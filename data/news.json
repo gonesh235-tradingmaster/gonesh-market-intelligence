@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-22T07:57:07.371776+00:00",
+  "updated_utc": "2026-09-22T08:11:24.577179+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Euro area debt bourses face risk drag from Paris debt trajectory",
+      "link": "https://www.investing.com/news/forex-news/euro-area-debt-bourses-face-risk-drag-from-paris-debt-trajectory-4910015",
+      "published": "2026-09-22 08:04:44",
+      "ts": 1790064284
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar firms, yen weakens on intervention risks",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
+      "published": "2026-09-22 07:54:58",
+      "ts": 1790063698
+    },
     {
       "source": "CoinDesk",
       "title": "Spot bitcoin ETFs attracted nearly $1 billion on Monday, the 9th largest inflow ever",
@@ -100,13 +114,6 @@
       "link": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 04:02:00 GMT",
       "ts": 1790049720
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar steadies, yen pressured by policy gap",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
-      "published": "2026-09-22 04:01:54",
-      "ts": 1790049714
     },
     {
       "source": "Cointelegraph",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/as-lines-grow-at-banks-cuba-tiptoes-away-from-communism-but-stability-seems-distant-4908748",
       "published": "2026-09-21 11:06:38",
       "ts": 1789988798
-    },
-    {
-      "source": "Investing Forex",
-      "title": "EUR/USD outlook: Here’s where ING sees the pair heading",
-      "link": "https://www.investing.com/news/forex-news/eurusd-outlook-heres-where-ing-sees-the-pair-heading-93CH-4908572",
-      "published": "2026-09-21 10:10:48",
-      "ts": 1789985448
     }
   ]
 }
