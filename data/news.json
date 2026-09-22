@@ -1,14 +1,49 @@
 {
-  "updated_utc": "2026-09-22T10:52:55.530504+00:00",
+  "updated_utc": "2026-09-22T11:03:26.622276+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin recovers from Asian-session lows as falling oil price supports risk appetite",
+      "link": "https://www.coindesk.com/markets/2026/09/22/bitcoin-recovers-from-asian-session-lows-as-falling-oil-price-supports-risk-appetite",
+      "published": "Tue, 22 Sep 2026 10:59:03 +0000",
+      "ts": 1790074743
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How this market-beating fund is constantly shifting to keep up with the AI trade",
+      "link": "https://www.marketwatch.com/story/how-this-market-beating-fund-is-constantly-shifting-to-keep-up-with-the-ai-trade-cf8536e0?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 10:59:00 GMT",
+      "ts": 1790074740
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now",
+      "link": "https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 10:51:00 GMT",
+      "ts": 1790074260
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Home Depot CFO issues chilling alarm over ‘frozen’ US housing market — crucial metric plunges to historic low",
+      "link": "https://finance.yahoo.com/real-estate/articles/home-depot-cfo-issues-chilling-104500209.html",
+      "published": "2026-09-22T10:45:00Z",
+      "ts": 1790073900
+    },
     {
       "source": "Yahoo Finance",
       "title": "Gold price today, Tuesday, September 22, 2026: Gold prices holding as Chinese gold imports set record",
       "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-september-22-2026-gold-prices-holding-as-chinese-gold-imports-set-record-104326063.html",
       "published": "2026-09-22T10:43:26Z",
       "ts": 1790073806
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Morning Bid: As oil swoons, AI recharges",
+      "link": "https://finance.yahoo.com/news/morning-bid-oil-swoons-ai-103925671.html",
+      "published": "2026-09-22T10:39:25Z",
+      "ts": 1790073565
     },
     {
       "source": "Yahoo Finance",
@@ -39,25 +74,11 @@
       "ts": 1790072331
     },
     {
-      "source": "Yahoo Finance",
-      "title": "1 in 5 Americans thinks sports betting is an ‘investment’ — but the data says something different",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/1-5-americans-thinks-sports-101500032.html",
-      "published": "2026-09-22T10:15:00Z",
-      "ts": 1790072100
-    },
-    {
       "source": "MarketWatch",
       "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
       "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 10:15:00 GMT",
       "ts": 1790072100
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Twist Bioscience (TWST) Expands AI Drug Discovery Exposure With Lilly TuneLab Partnership",
-      "link": "https://finance.yahoo.com/technology/ai/articles/twist-bioscience-twst-expands-ai-100850469.html",
-      "published": "2026-09-22T10:08:50Z",
-      "ts": 1790071730
     },
     {
       "source": "CoinDesk",
@@ -235,13 +256,6 @@
       "ts": 1790051591
     },
     {
-      "source": "CoinDesk",
-      "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
-      "link": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
-      "published": "Tue, 22 Sep 2026 04:15:45 +0000",
-      "ts": 1790050545
-    },
-    {
       "source": "MarketWatch",
       "title": "Princeton’s 15-year run as the nation’s top college is over. MIT is now No. 1.",
       "link": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories",
@@ -254,20 +268,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/cloudtech-powers-institutionalgrade-digital-asset-trading-for-australian-investors-through-integral-technology-4909726",
       "published": "2026-09-21 22:30:35",
       "ts": 1790029835
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
-      "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 22:01:00 GMT",
-      "ts": 1790028060
-    },
-    {
-      "source": "MarketWatch",
-      "title": "AT&T’s stock looks like the smartest bet in the wireless sector, analyst says",
-      "link": "https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 21:57:00 GMT",
-      "ts": 1790027820
     },
     {
       "source": "Investing Crypto",
