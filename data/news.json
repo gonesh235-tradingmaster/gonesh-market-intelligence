@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-22T16:44:39.563803+00:00",
+  "updated_utc": "2026-09-22T16:55:27.422975+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "McDonald's has 1 shot to turn around its dreadful year",
+      "link": "https://finance.yahoo.com/markets/stocks/article/mcdonalds-has-1-shot-to-turn-around-its-dreadful-year-164554149.html",
+      "published": "2026-09-22T16:45:54Z",
+      "ts": 1790095554
+    },
     {
       "source": "MarketWatch",
       "title": "Want to retire with more money? Leave the country for work early in your career.",
@@ -12,31 +19,38 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Crane Co. (CR) Was Among Gabelli’s Top Q2 Performers",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-crane-co-cr-among-163509000.html",
-      "published": "2026-09-22T16:35:09Z",
-      "ts": 1790094909
+      "title": "Why Gabelli Global Growth Fund Added Advanced Micro Devices (AMD) in Q2",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-gabelli-global-growth-fund-141047976.html",
+      "published": "2026-09-22T16:39:47Z",
+      "ts": 1790095187
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Gorman-Rupp Co. (GRC) Was a Top Performer for Gabelli in Q2",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-gorman-rupp-co-grc-163458570.html",
-      "published": "2026-09-22T16:34:58Z",
-      "ts": 1790094898
+      "title": "Why Gabelli Global Growth Fund Added Micron Technology (MU) in Q2",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-gabelli-global-growth-fund-141037360.html",
+      "published": "2026-09-22T16:39:37Z",
+      "ts": 1790095177
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Shopify Stock, Twilio Are Rising On Meta's Muse Rollout",
-      "link": "https://www.investors.com/news/technology/shopify-stock-shop-twilio-stock-twlo-meta-muse/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T16:31:20Z",
-      "ts": 1790094680
+      "title": "Why RPC (RES) Was a Q2 Detractor for Gabelli Small Cap Growth Fund",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-rpc-res-q2-detractor-163646235.html",
+      "published": "2026-09-22T16:36:46Z",
+      "ts": 1790095006
     },
     {
       "source": "Yahoo Finance",
-      "title": "Berkshire Hathaway Raises Stake In This Ramshackle Homebuilder",
-      "link": "https://www.investors.com/news/berkshire-hathaway-lennar-homebuilders/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T16:30:09Z",
-      "ts": 1790094609
+      "title": "Why Dana (DAN) Was a Q2 Detractor for Gabelli Small Cap Growth Fund",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-dana-dan-q2-detractor-163615111.html",
+      "published": "2026-09-22T16:36:15Z",
+      "ts": 1790094975
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why Graco (GGG) Was a Q2 Detractor for Gabelli Small Cap Growth Fund",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-graco-ggg-q2-detractor-163529754.html",
+      "published": "2026-09-22T16:35:29Z",
+      "ts": 1790094929
     },
     {
       "source": "MarketWatch",
@@ -51,13 +65,6 @@
       "link": "https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 16:21:44 +0000",
       "ts": 1790094104
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Skids As Trump Threatens Iran; Apple Nears Buy Point (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T16:17:39Z",
-      "ts": 1790093859
     },
     {
       "source": "MarketWatch",
@@ -247,13 +254,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-hawkish-fed-talk-lifts-dollar-broadly-4910096",
       "published": "2026-09-22 09:01:07",
       "ts": 1790067667
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: Dow slips, Nasdaq and S&P 500 drift higher as oil pares losses after Trump's UN address",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
-      "published": "2026-09-22T08:06:25Z",
-      "ts": 1790064385
     },
     {
       "source": "Investing Crypto",
