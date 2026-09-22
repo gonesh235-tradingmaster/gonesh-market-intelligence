@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-22T06:12:43.645872+00:00",
+  "updated_utc": "2026-09-22T06:33:26.268457+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Whitehats move 52 bitcoin from the Coldcard hack to a recovery trust",
+      "link": "https://www.coindesk.com/markets/2026/09/22/whitehats-move-52-bitcoin-from-the-coldcard-hack-to-a-recovery-trust",
+      "published": "Tue, 22 Sep 2026 06:27:28 +0000",
+      "ts": 1790058448
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin surges past $85k as Strategy buys more coins",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
+      "published": "2026-09-22 06:17:42",
+      "ts": 1790057862
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -235,13 +249,6 @@
       "ts": 1790002847
     },
     {
-      "source": "CoinDesk",
-      "title": "Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act",
-      "link": "https://www.coindesk.com/policy/2026/09/21/banks-overseas-crypto-hubs-gain-from-clarity-act-s-senate-defeat-critics-say",
-      "published": "Mon, 21 Sep 2026 14:53:52 +0000",
-      "ts": 1790002432
-    },
-    {
       "source": "Yahoo Finance",
       "title": "Bank of America says buy tumbling shares of aviation giant",
       "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
@@ -254,13 +261,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/multiasset-trading-venue-monochrome-exchange-announces-ieo-of-its-native-token-mcr-4909333",
       "published": "2026-09-21 14:31:45",
       "ts": 1790001105
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Litecoin Climbs 10% As Investors Gain Confidence",
-      "link": "https://www.investing.com/news/cryptocurrency-news/litecoin-climbs-10-as-investors-gain-confidence-4909060",
-      "published": "2026-09-21 12:40:00",
-      "ts": 1789994400
     },
     {
       "source": "Investing Forex",
