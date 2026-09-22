@@ -1,14 +1,42 @@
 {
-  "updated_utc": "2026-09-22T16:14:08.229727+00:00",
+  "updated_utc": "2026-09-22T16:30:19.012093+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Could Meta’s viral Muse app be the company’s ChatGPT moment?",
+      "link": "https://www.marketwatch.com/story/could-metas-viral-muse-app-be-the-companys-chatgpt-moment-8e7075aa?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 16:24:00 GMT",
+      "ts": 1790094240
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Zcash gets first European ETP following US ETF launch",
+      "link": "https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 16:21:44 +0000",
+      "ts": 1790094104
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
+      "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 16:15:00 GMT",
+      "ts": 1790093700
+    },
     {
       "source": "Yahoo Finance",
       "title": "Microsoft Scores Positive Reviews On AI Momentum",
       "link": "https://www.investors.com/news/technology/microsoft-stock-positive-reviews-ai-momentum/?src=A00220&yptr=yahoo",
       "published": "2026-09-22T16:06:04Z",
       "ts": 1790093164
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price seeks $86K as new support after oil dips below $90",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-seeks-86k-as-new-support-after-oil-dips-below-90?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 16:01:55 +0000",
+      "ts": 1790092915
     },
     {
       "source": "Yahoo Finance",
@@ -130,25 +158,11 @@
       "ts": 1790083800
     },
     {
-      "source": "MarketWatch",
-      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 13:15:00 GMT",
-      "ts": 1790082900
-    },
-    {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 13:12:25 +0000",
       "ts": 1790082745
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
-      "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 12:53:00 GMT",
-      "ts": 1790081580
     },
     {
       "source": "CoinDesk",
@@ -212,20 +226,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
       "published": "Tue, 22 Sep 2026 10:20:12 +0000",
       "ts": 1790072412
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto metric signals altseason as Bitcoin market-cap share stalls below 60%",
-      "link": "https://cointelegraph.com/markets/crypto-metric-signals-altseason-as-bitcoin-market-cap-share-stalls-below-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 10:00:43 +0000",
-      "ts": 1790071243
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally",
-      "link": "https://cointelegraph.com/markets/crypto-market-cap-3-trillion-bitcoin-altcoins-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 09:58:26 +0000",
-      "ts": 1790071106
     },
     {
       "source": "Investing Forex",
