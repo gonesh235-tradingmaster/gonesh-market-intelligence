@@ -1,14 +1,28 @@
 {
-  "updated_utc": "2026-09-22T17:08:06.474013+00:00",
+  "updated_utc": "2026-09-22T17:22:27.811569+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "How to avoid the ‘widow tax’ and other financial headaches if your spouse dies",
+      "link": "https://www.marketwatch.com/story/how-to-avoid-the-widow-tax-and-other-financial-headaches-if-your-spouse-dies-e51f2af6?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 17:09:00 GMT",
+      "ts": 1790096940
+    },
     {
       "source": "MarketWatch",
       "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
       "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 17:00:00 GMT",
       "ts": 1790096400
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Rocket Lab Stock Breaks Above Key Trendline",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-breaks-above-165728910.html",
+      "published": "2026-09-22T16:57:28Z",
+      "ts": 1790096248
     },
     {
       "source": "Yahoo Finance",
@@ -37,20 +51,6 @@
       "link": "https://finance.yahoo.com/markets/crypto/articles/cme-group-launch-bitcoin-cash-165200159.html",
       "published": "2026-09-22T16:52:00Z",
       "ts": 1790095920
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "MillerKnoll, Inc. Q1 2027 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/millerknoll-inc-q1-2027-earnings-165135862.html",
-      "published": "2026-09-22T16:51:35Z",
-      "ts": 1790095895
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Coinbase to Allow U.S. Retail Investors Buy IPO Shares",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/coinbase-allow-u-retail-investors-165100177.html",
-      "published": "2026-09-22T16:51:00Z",
-      "ts": 1790095860
     },
     {
       "source": "MarketWatch",
@@ -114,13 +114,6 @@
       "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 15:45:00 GMT",
       "ts": 1790091900
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Tax-free bond yields are in a sweet spot. Get in before it’s too late.",
-      "link": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 15:39:00 GMT",
-      "ts": 1790091540
     },
     {
       "source": "Cointelegraph",
@@ -282,6 +275,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/xrp-climbs-10-in-a-green-day-4909700",
       "published": "2026-09-21 21:39:05",
       "ts": 1790026745
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin surges to over 7-month high as tokenized-stock move lifts crypto sentiment",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-toward-82k-as-tokenizedstock-move-boosts-crypto-sentiment-4908305",
+      "published": "2026-09-21 21:37:00",
+      "ts": 1790026620
     }
   ]
 }
