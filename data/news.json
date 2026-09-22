@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-22T11:03:26.622276+00:00",
+  "updated_utc": "2026-09-22T11:19:53.675289+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 11:15:00 GMT",
+      "ts": 1790075700
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance buys $100 million Circle stake in five-year USDC promotion deal",
+      "link": "https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal",
+      "published": "Tue, 22 Sep 2026 11:07:23 +0000",
+      "ts": 1790075243
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "92% of grandparents give financial help to grandkids — and it's draining their retirement savings",
+      "link": "https://finance.yahoo.com/small-business/articles/92-grandparents-financial-help-grandkids-110000432.html",
+      "published": "2026-09-22T11:00:00Z",
+      "ts": 1790074800
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin recovers from Asian-session lows as falling oil price supports risk appetite",
@@ -33,6 +54,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "BWX Technologies (BWXT) Wins $4 Million Y-12 Design Contract. Could Construction Follow?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-bwxt-wins-4-104356882.html",
+      "published": "2026-09-22T10:43:56Z",
+      "ts": 1790073836
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Gold price today, Tuesday, September 22, 2026: Gold prices holding as Chinese gold imports set record",
       "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-september-22-2026-gold-prices-holding-as-chinese-gold-imports-set-record-104326063.html",
       "published": "2026-09-22T10:43:26Z",
@@ -46,32 +74,11 @@
       "ts": 1790073565
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Airlines are cutting capacity again amid $1B surge in Q4 fuel costs — here's what that means for travelers",
-      "link": "https://finance.yahoo.com/economy/articles/airlines-cutting-capacity-again-amid-103000279.html",
-      "published": "2026-09-22T10:30:00Z",
-      "ts": 1790073000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Roivant (ROIV): $9 Billion Sales Potential Faces a Commercialization Test",
-      "link": "https://finance.yahoo.com/healthcare/articles/roivant-roiv-9-billion-sales-102730498.html",
-      "published": "2026-09-22T10:27:30Z",
-      "ts": 1790072850
-    },
-    {
       "source": "CoinDesk",
       "title": "Live updates: Oil falls as Iran signals possible hormuz reopening, bitcoin holds near $86,000",
       "link": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
       "published": "Tue, 22 Sep 2026 10:20:12 +0000",
       "ts": 1790072412
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "FDA Approves Fayuvi. What Does It Mean for Ultragenyx (RARE)’s 2027 Profitability Target?",
-      "link": "https://finance.yahoo.com/healthcare/articles/fda-approves-fayuvi-does-mean-101851628.html",
-      "published": "2026-09-22T10:18:51Z",
-      "ts": 1790072331
     },
     {
       "source": "MarketWatch",
@@ -172,6 +179,13 @@
       "ts": 1790067540
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Stock market today: Nasdaq, Dow and S&P 500 little changed as AI trade powers market",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+      "published": "2026-09-22T08:06:25Z",
+      "ts": 1790064385
+    },
+    {
       "source": "Cointelegraph",
       "title": "Crypto’s wild boom-and-bust cycles are fading, Solstice CEO says",
       "link": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -247,20 +261,6 @@
       "link": "https://www.investing.com/news/forex-news/chinese-yuan-hits-312-year-high-on-strong-pboc-fixing-4909861",
       "published": "2026-09-22 04:50:00",
       "ts": 1790052600
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
-      "link": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000",
-      "published": "Tue, 22 Sep 2026 04:33:11 +0000",
-      "ts": 1790051591
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Princeton’s 15-year run as the nation’s top college is over. MIT is now No. 1.",
-      "link": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 04:02:00 GMT",
-      "ts": 1790049720
     },
     {
       "source": "Investing Crypto",
