@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-09-22T14:27:40.063920+00:00",
+  "updated_utc": "2026-09-22T14:43:28.188104+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
+      "link": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
+      "published": "Tue, 22 Sep 2026 14:32:59 +0000",
+      "ts": 1790087579
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "GameStop stock jumps as CEO Ryan Cohen buys $26 million in shares",
+      "link": "https://finance.yahoo.com/markets/article/gamestop-stock-jumps-as-ceo-ryan-cohen-buys-26-million-in-shares-142827905.html",
+      "published": "2026-09-22T14:28:27Z",
+      "ts": 1790087307
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "This Fund Trimmed Murphy USA (MUSA) Amid Fuel Margin Strengths",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fund-trimmed-murphy-usa-musa-142800363.html",
+      "published": "2026-09-22T14:28:00Z",
+      "ts": 1790087280
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Strong Results Lifted CTS Corporation (CTS) in Q2",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/strong-results-lifted-cts-corporation-142559440.html",
+      "published": "2026-09-22T14:25:59Z",
+      "ts": 1790087159
+    },
     {
       "source": "MarketWatch",
       "title": "My plan to pay off $7,500 in credit-card debt can work for you",
@@ -12,24 +40,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Gabelli Global Growth Fund Added Micron Technology (MU) in Q2",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-gabelli-global-growth-fund-141037360.html",
-      "published": "2026-09-22T14:10:37Z",
-      "ts": 1790086237
+      "title": "Subscription Pivot and SCBA Replacement Cycle Set to Drive MSA Safety’s (MSA) Margin Expansion",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/subscription-pivot-scba-replacement-cycle-142237408.html",
+      "published": "2026-09-22T14:22:37Z",
+      "ts": 1790086957
     },
     {
       "source": "Yahoo Finance",
-      "title": "Fed's Williams says rate-control toolkit is working well",
-      "link": "https://finance.yahoo.com/economy/policy/articles/feds-williams-says-rate-control-140742644.html",
-      "published": "2026-09-22T14:07:42Z",
-      "ts": 1790086062
+      "title": "Stock Market Today: Dow Slips, Oil Stocks Fall On U.S.-Iran Hopes; Homebuilders, Retailers Shine (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T14:19:29Z",
+      "ts": 1790086769
     },
     {
       "source": "Yahoo Finance",
-      "title": "Minot Light’s Bullish Stance on Rockwell Medical (RMTI)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/minot-light-bullish-stance-rockwell-140627170.html",
-      "published": "2026-09-22T14:06:27Z",
-      "ts": 1790085987
+      "title": "AI infrastructure Boom Fuels Texas Instruments’ (TXN) Rally",
+      "link": "https://finance.yahoo.com/technology/articles/ai-infrastructure-boom-fuels-texas-141812824.html",
+      "published": "2026-09-22T14:18:12Z",
+      "ts": 1790086692
     },
     {
       "source": "MarketWatch",
@@ -37,13 +65,6 @@
       "link": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 14:00:00 GMT",
       "ts": 1790085600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "5 Questions With: Boston Questrom’s Leadership Team",
-      "link": "https://finance.yahoo.com/small-business/articles/5-questions-boston-questrom-leadership-135859908.html",
-      "published": "2026-09-22T13:58:59Z",
-      "ts": 1790085539
     },
     {
       "source": "Investing Crypto",
@@ -200,13 +221,6 @@
       "ts": 1790071106
     },
     {
-      "source": "CoinDesk",
-      "title": "Animoca Brands delays IPO plans, suspends merger talks with Currenc",
-      "link": "https://www.coindesk.com/business/2026/09/22/animoca-brands-delays-ipo-plans-suspends-merger-talks-with-currenc",
-      "published": "Tue, 22 Sep 2026 09:47:15 +0000",
-      "ts": 1790070435
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar holds on hawkish Fed pricing while yen languishes despite Tokyo support",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
@@ -242,13 +256,6 @@
       "ts": 1790067667
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: Nasdaq, S&P 500 drift higher as oil retreats, AI trade powers market",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
-      "published": "2026-09-22T08:06:25Z",
-      "ts": 1790064385
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin overbought at $87K high, mean-reversion risk: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/xrp-climbs-10-in-a-green-day-4909700",
       "published": "2026-09-21 21:39:05",
       "ts": 1790026745
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin surges to over 7-month high as tokenized-stock move lifts crypto sentiment",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-toward-82k-as-tokenizedstock-move-boosts-crypto-sentiment-4908305",
-      "published": "2026-09-21 21:37:00",
-      "ts": 1790026620
     }
   ]
 }
