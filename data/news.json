@@ -1,14 +1,49 @@
 {
-  "updated_utc": "2026-09-22T12:45:17.598955+00:00",
+  "updated_utc": "2026-09-22T12:58:27.847296+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
+      "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 12:53:00 GMT",
+      "ts": 1790081580
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Princeton’s 15-year run as the nation’s top-ranked university is over. MIT is now No. 1.",
+      "link": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 12:43:00 GMT",
+      "ts": 1790080980
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "'Crypto winter is over,' says analyst as bitcoin tops $86,000: Chart of the Day",
+      "link": "https://finance.yahoo.com/markets/article/crypto-winter-is-over-says-analyst-as-bitcoin-tops-86000-chart-of-the-day-124006079.html",
+      "published": "2026-09-22T12:40:06Z",
+      "ts": 1790080806
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Xpeng’s Tech-Licensing Expansion Meets a Core Auto Business Still Losing Money",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/xpeng-tech-licensing-expansion-meets-123610355.html",
+      "published": "2026-09-22T12:36:10Z",
+      "ts": 1790080570
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows",
       "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
       "published": "Tue, 22 Sep 2026 12:32:15 +0000",
       "ts": 1790080335
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "'SICK conspiracy': Trump dismisses calls to rein in AI as his sons cash in on AI-linked defence and tech investments",
+      "link": "https://finance.yahoo.com/technology/ai/articles/sick-conspiracy-trump-dismisses-calls-123000393.html",
+      "published": "2026-09-22T12:30:00Z",
+      "ts": 1790080200
     },
     {
       "source": "Yahoo Finance",
@@ -30,27 +65,6 @@
       "link": "https://www.marketwatch.com/story/wall-street-and-ai-ruined-your-diversified-portfolio-f1255373?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 12:24:00 GMT",
       "ts": 1790079840
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Multifamily REITs Are Finally Showing Signs of Recovery — Why Baron Increased UDR (UDR)",
-      "link": "https://finance.yahoo.com/real-estate/articles/multifamily-reits-finally-showing-signs-122342590.html",
-      "published": "2026-09-22T12:23:42Z",
-      "ts": 1790079822
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Saudi Arabia Reportedly Restarts East-West Pipeline",
-      "link": "https://finance.yahoo.com/energy/articles/saudi-arabia-reportedly-restarts-east-122302773.html",
-      "published": "2026-09-22T12:23:02Z",
-      "ts": 1790079782
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Viking Therapeutics Skyrockets On Obesity Drug Data. Eli Lilly, Novo Fall.",
-      "link": "https://www.investors.com/news/technology/viking-therapeutics-stock-skyrockets-obesity-drug-data-roche-eli-lilly-novo-fall/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T12:20:29Z",
-      "ts": 1790079629
     },
     {
       "source": "Cointelegraph",
@@ -110,7 +124,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Oil could top $150 a barrel if supplies further tighten, Bank of America warns",
+      "title": "Oil could top $150 a barrel if supplies tighten further, Bank of America warns",
       "link": "https://www.marketwatch.com/story/oil-could-top-150-a-barrel-if-supplies-further-tighten-bank-of-america-warns-2fcd5bd3?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 11:26:00 GMT",
       "ts": 1790076360
@@ -144,25 +158,11 @@
       "ts": 1790074743
     },
     {
-      "source": "MarketWatch",
-      "title": "Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now",
-      "link": "https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 10:51:00 GMT",
-      "ts": 1790074260
-    },
-    {
       "source": "CoinDesk",
       "title": "Live updates: Oil falls as Iran signals possible Hormuz reopening, bitcoin holds near $86,000",
       "link": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
       "published": "Tue, 22 Sep 2026 10:20:12 +0000",
       "ts": 1790072412
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
-      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 10:15:00 GMT",
-      "ts": 1790072100
     },
     {
       "source": "CoinDesk",
