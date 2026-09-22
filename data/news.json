@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-22T13:50:46.264074+00:00",
+  "updated_utc": "2026-09-22T13:56:54.508437+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck",
+      "link": "https://finance.yahoo.com/markets/article/treasury-yields-ease-oil-falls-as-trump-xi-meeting-looms-alphacheck-134137146.html",
+      "published": "2026-09-22T13:41:37Z",
+      "ts": 1790084497
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Farmhouse holds 15.709 Bitcoin with $347K in unrealized gains",
+      "link": "https://www.investing.com/news/cryptocurrency-news/farmhouse-holds-15709-bitcoin-with-347k-in-unrealized-gains-432SI-4911044",
+      "published": "2026-09-22 13:38:01",
+      "ts": 1790084281
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Palo Alto Networks unveils AI-powered cybersecurity service using Claude, GPT models",
+      "link": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-unveils-ai-133647470.html",
+      "published": "2026-09-22T13:36:47Z",
+      "ts": 1790084207
+    },
     {
       "source": "Cointelegraph",
       "title": "Big Questions: Does Satoshi actually own 1.1 million Bitcoin?",
@@ -32,13 +53,6 @@
       "ts": 1790082957
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Kalshi Seeks To Offer Margin Trading On Its Platform",
-      "link": "https://finance.yahoo.com/markets/options/articles/kalshi-seeks-offer-margin-trading-131500335.html",
-      "published": "2026-09-22T13:15:00Z",
-      "ts": 1790082900
-    },
-    {
       "source": "MarketWatch",
       "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
       "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
@@ -51,13 +65,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 13:12:25 +0000",
       "ts": 1790082745
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Self-Storage Could Be Entering a New Growth Cycle — Baron Capital Re-Initiated Public Storage (PSA)",
-      "link": "https://finance.yahoo.com/real-estate/articles/self-storage-could-entering-growth-131101680.html",
-      "published": "2026-09-22T13:11:01Z",
-      "ts": 1790082661
     },
     {
       "source": "MarketWatch",
@@ -173,7 +180,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Oil falls as Iran signals possible Hormuz reopening, bitcoin holds near $86,000",
+      "title": "Live updates: Bitcoin trades near $86,000 as U.S. stocks post small gains",
       "link": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
       "published": "Tue, 22 Sep 2026 10:20:12 +0000",
       "ts": 1790072412
@@ -201,8 +208,8 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Muse just added billions to Meta's market cap and to Mark Zuckerberg's net worth",
-      "link": "https://finance.yahoo.com/markets/stocks/article/why-muse-just-added-billions-to-metas-market-cap-and-to-mark-zuckerbergs-net-worth-094853229.html",
+      "title": "Why Muse just added billions to Meta's market cap",
+      "link": "https://finance.yahoo.com/markets/stocks/article/why-muse-just-added-billions-to-metas-market-cap-094853229.html",
       "published": "2026-09-22T09:48:53Z",
       "ts": 1790070533
     },
@@ -221,6 +228,20 @@
       "ts": 1790069904
     },
     {
+      "source": "Investing Crypto",
+      "title": "Margex Launches $2.7M ETH Airdrop Campaign Celebrating 4 Years of Proof of Stake",
+      "link": "https://www.investing.com/news/cryptocurrency-news/margex-launches-27m-eth-airdrop-campaign-celebrating-4-years-of-proof-of-stake-4910148",
+      "published": "2026-09-22 09:31:24",
+      "ts": 1790069484
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin climbs toward $86k as Strategy buys more coins",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
+      "published": "2026-09-22 09:22:45",
+      "ts": 1790068965
+    },
+    {
       "source": "Cointelegraph",
       "title": "White hats outrun Coldcard hackers in 52-Bitcoin evacuation",
       "link": "https://cointelegraph.com/news/white-hats-coldcard-btc-exploit-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -236,10 +257,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stock market today: Nasdaq, Dow and S&P 500 little changed as AI trade powers market",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq drift higher as oil retreats, AI trade powers market",
       "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
       "published": "2026-09-22T08:06:25Z",
       "ts": 1790064385
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin overbought at $87K high, mean-reversion risk: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
+      "published": "2026-09-22 07:11:43",
+      "ts": 1790061103
     },
     {
       "source": "Investing Forex",
@@ -249,39 +277,11 @@
       "ts": 1790052600
     },
     {
-      "source": "Investing Forex",
-      "title": "Dollar rises to nearly 8-week high, euro in focus after German political setback",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
-      "published": "2026-09-21 21:01:45",
-      "ts": 1790024505
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Canadian dollar under pressure as oil retreats and US rate outlook supports greenb",
-      "link": "https://www.investing.com/news/forex-news/canadian-dollar-under-pressure-as-oil-retreats-and-us-rate-outlook-supports-greenb-4909475",
-      "published": "2026-09-21 17:16:09",
-      "ts": 1790010969
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Bank of America says buy tumbling shares of aviation giant",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
-      "published": "2026-09-21T14:37:00Z",
-      "ts": 1790001420
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. Treasury yields ease on crude pull-back ;  rate hike bets stay",
-      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-ease-as-markets-await-of-ecbs-lagarde-speech-4908370",
-      "published": "2026-09-21 12:07:57",
-      "ts": 1789992477
-    },
-    {
-      "source": "Investing Forex",
-      "title": "As lines grow at banks, Cuba tiptoes away from communism but stability seems distant",
-      "link": "https://www.investing.com/news/forex-news/as-lines-grow-at-banks-cuba-tiptoes-away-from-communism-but-stability-seems-distant-4908748",
-      "published": "2026-09-21 11:06:38",
-      "ts": 1789988798
+      "source": "Investing Crypto",
+      "title": "CloudTech Powers Institutional-Grade Digital Asset Trading for Australian Investors Through Integral Technology",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cloudtech-powers-institutionalgrade-digital-asset-trading-for-australian-investors-through-integral-technology-4909726",
+      "published": "2026-09-21 22:30:35",
+      "ts": 1790029835
     }
   ]
 }
