@@ -1,9 +1,9 @@
 {
-  "updated_utc": "2026-09-22T09:22:55.205012+00:00",
+  "updated_utc": "2026-09-22T09:35:13.014720+00:00",
   "source": "Computed from NIFTY + BTC",
   "score": 24,
   "label": "NEUTRAL",
-  "explanation": "Global mood is neutral (score +24). NIFTY: NIFTY up 0.69% • US markets up 2.73% • Crude oil falling | BTC: BTC up 2.28% in 24h • Funding elevated (1.000%) — longs overheated",
+  "explanation": "Global mood is neutral (score +24). NIFTY: NIFTY up 0.61% • US markets up 2.73% • Crude oil falling | BTC: BTC up 1.58% in 24h • Funding elevated (1.000%) — longs overheated",
   "components": [
     {
       "asset": "NIFTY",
@@ -12,7 +12,7 @@
     },
     {
       "asset": "BTC",
-      "score": 0,
+      "score": -1,
       "weight": 0.5
     }
   ]
