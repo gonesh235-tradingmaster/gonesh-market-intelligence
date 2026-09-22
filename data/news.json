@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-22T04:32:12.177680+00:00",
+  "updated_utc": "2026-09-22T04:45:18.829407+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
+      "link": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000",
+      "published": "Tue, 22 Sep 2026 04:33:11 +0000",
+      "ts": 1790051591
+    },
     {
       "source": "CoinDesk",
       "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
@@ -221,6 +228,13 @@
       "ts": 1790002432
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Bank of America says buy tumbling shares of aviation giant",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
+      "published": "2026-09-21T14:37:00Z",
+      "ts": 1790001420
+    },
+    {
       "source": "Investing Crypto",
       "title": "Multi-Asset Trading Venue Monochrome Exchange Announces IEO of Its Native Token, $MCR",
       "link": "https://www.investing.com/news/cryptocurrency-news/multiasset-trading-venue-monochrome-exchange-announces-ieo-of-its-native-token-mcr-4909333",
@@ -233,13 +247,6 @@
       "link": "https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto",
       "published": "Mon, 21 Sep 2026 13:11:15 +0000",
       "ts": 1789996275
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Treasury Secretary Scott Bessent champions dollar dominance across global markets and stablecoins",
-      "link": "https://www.coindesk.com/markets/2026/09/21/scott-bessent-champions-dollar-dominance-across-global-markets-and-stablecoins",
-      "published": "Mon, 21 Sep 2026 12:44:33 +0000",
-      "ts": 1789994673
     },
     {
       "source": "Investing Crypto",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/goldman-sees-hungary-inflation-target-cut-as-positive-for-forint-93CH-4908570",
       "published": "2026-09-21 10:09:50",
       "ts": 1789985390
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound edges lower as oil, Fed hike bets underpin dollar",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-lower-as-oil-fed-hike-bets-underpin-dollar-4908483",
-      "published": "2026-09-21 09:22:18",
-      "ts": 1789982538
     }
   ]
 }
