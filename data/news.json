@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-22T19:53:11.087126+00:00",
+  "updated_utc": "2026-09-22T20:03:29.909412+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Jet fuel is following diesel’s price jump as the Hormuz supply shock hits the skies",
+      "link": "https://www.marketwatch.com/story/jet-fuel-is-following-diesels-price-jump-as-the-hormuz-supply-shock-hits-the-skies-6fc21238?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 19:59:00 GMT",
+      "ts": 1790107140
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Canada’s six largest banks explore tokenized Canadian dollar deposits",
+      "link": "https://cointelegraph.com/news/canada-six-largest-banks-explore-tokenized-canadian-dollar-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 19:56:48 +0000",
+      "ts": 1790107008
+    },
     {
       "source": "MarketWatch",
       "title": "Nearly half of adults under 30 live with their parents. The financial fallout could last for decades.",
@@ -65,13 +79,6 @@
       "link": "https://www.marketwatch.com/story/defending-against-dangerous-ai-should-be-a-national-priority-and-we-need-more-ai-to-do-it-049e1c88?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 17:52:00 GMT",
       "ts": 1790099520
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Quantum stocks are getting hot again after a brutal summer. Can the rally last?",
-      "link": "https://www.marketwatch.com/story/quantum-stocks-are-getting-hot-again-after-a-brutal-summer-can-the-rally-last-a8244a66?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 17:42:00 GMT",
-      "ts": 1790098920
     },
     {
       "source": "CoinDesk",
@@ -191,13 +198,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/09/22/a-usd3-2-million-bitcoin-butterfly-option-trade-bets-on-usd95-000-by-the-end-of-october",
       "published": "Tue, 22 Sep 2026 11:35:43 +0000",
       "ts": 1790076943
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "ECB to put its own money into tokenized securities via new Pontes DLT",
-      "link": "https://cointelegraph.com/news/ecb-money-tokenized-securities-pontes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 11:29:35 +0000",
-      "ts": 1790076575
     },
     {
       "source": "CoinDesk",
