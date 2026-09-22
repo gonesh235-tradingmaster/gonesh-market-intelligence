@@ -1,8 +1,43 @@
 {
-  "updated_utc": "2026-09-22T12:07:48.733420+00:00",
+  "updated_utc": "2026-09-22T12:27:31.689991+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Binance takes $100M stake in Circle under expanded USDC deal",
+      "link": "https://cointelegraph.com/news/binance-stake-circle-expanded-usdc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 12:18:41 +0000",
+      "ts": 1790079521
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "5 really bad reasons to file for Social Security at 70 — are you waiting way too long to get your checks?",
+      "link": "https://finance.yahoo.com/small-business/articles/5-really-bad-reasons-file-121500906.html",
+      "published": "2026-09-22T12:15:00Z",
+      "ts": 1790079300
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Jim Cramer Praises OKTA for Tackling AI Security Threats",
+      "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-praises-okta-tackling-121305938.html",
+      "published": "2026-09-22T12:13:05Z",
+      "ts": 1790079185
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Netskope (NTSK): Eight Analysts Raised Targets on the AI Security Opportunity, But the Cash Burn Is Real",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/netskope-ntsk-eight-analysts-raised-120822344.html",
+      "published": "2026-09-22T12:08:22Z",
+      "ts": 1790078902
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Viking Therapeutics Skyrockets On Obesity Drug Data. Eli Lilly, Novo Fall.",
+      "link": "https://www.investors.com/news/technology/viking-therapeutics-stock-skyrockets-obesity-drug-data-roche-eli-lilly-novo-fall/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T12:08:20Z",
+      "ts": 1790078900
+    },
     {
       "source": "CoinDesk",
       "title": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
@@ -11,67 +46,11 @@
       "ts": 1790078755
     },
     {
-      "source": "MarketWatch",
-      "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
-      "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 12:02:00 GMT",
-      "ts": 1790078520
-    },
-    {
       "source": "Yahoo Finance",
-      "title": "VS&Co (VSXY): Wall Street Debates Whether the Turnaround Is Already Priced In",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vs-co-vsxy-wall-street-115740561.html",
-      "published": "2026-09-22T11:57:40Z",
-      "ts": 1790078260
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "MiniMed (MMED): Nine Analysts Raised Targets, But Cash Flow Still Has a Catch",
-      "link": "https://finance.yahoo.com/healthcare/articles/minimed-mmed-nine-analysts-raised-115543360.html",
-      "published": "2026-09-22T11:55:43Z",
-      "ts": 1790078143
-    },
-    {
-      "source": "MarketWatch",
-      "title": "How this market-beating fund is constantly shifting to keep up with the AI trade",
-      "link": "https://www.marketwatch.com/story/how-this-market-beating-fund-is-constantly-shifting-to-keep-up-with-the-ai-trade-cf8536e0?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 11:55:00 GMT",
-      "ts": 1790078100
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Viking Therapeutics Skyrockets On Obesity Drug Data. Eli Lilly, Novo Fall.",
-      "link": "https://www.investors.com/news/technology/viking-therapeutics-stock-skyrockets-obesity-drug-data-roche-eli-lilly-novo-fall/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T11:48:01Z",
-      "ts": 1790077681
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Financial conditions are tightening. Here’s why stock investors should pay attention.",
-      "link": "https://www.marketwatch.com/story/financial-conditions-are-tightening-heres-why-stock-investors-should-pay-attention-a7d12134?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 11:48:00 GMT",
-      "ts": 1790077680
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Prefers Brinker (EAT) Over Darden (DRI) Ahead of Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-prefers-brinker-eat-114756062.html",
-      "published": "2026-09-22T11:47:56Z",
-      "ts": 1790077676
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Bitcoin and ethereum prices today, Tuesday, September 22, 2026: Crypto prices continue to surge to prices last seen in January",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-22-2026-crypto-prices-continue-to-surge-to-prices-last-seen-in-january-114724449.html",
-      "published": "2026-09-22T11:47:24Z",
-      "ts": 1790077644
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Oil and gas PE deals tumble as new platform buyouts dry up",
-      "link": "https://finance.yahoo.com/energy/articles/oil-gas-pe-deals-tumble-113950178.html",
-      "published": "2026-09-22T11:39:50Z",
-      "ts": 1790077190
+      "title": "Favorable Supply/Demand Backdrop Positions Essex Property Trust (ESS) For Growth",
+      "link": "https://finance.yahoo.com/real-estate/articles/favorable-supply-demand-backdrop-positions-120256791.html",
+      "published": "2026-09-22T12:02:56Z",
+      "ts": 1790078576
     },
     {
       "source": "CoinDesk",
@@ -88,25 +67,11 @@
       "ts": 1790076575
     },
     {
-      "source": "MarketWatch",
-      "title": "Oil could top $150 a barrel if supplies further tighten, Bank of America warns",
-      "link": "https://www.marketwatch.com/story/oil-could-top-150-a-barrel-if-supplies-further-tighten-bank-of-america-warns-2fcd5bd3?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 11:26:00 GMT",
-      "ts": 1790076360
-    },
-    {
       "source": "Cointelegraph",
       "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
       "link": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 11:22:00 +0000",
       "ts": 1790076120
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 11:15:00 GMT",
-      "ts": 1790075700
     },
     {
       "source": "CoinDesk",
@@ -123,25 +88,11 @@
       "ts": 1790074743
     },
     {
-      "source": "MarketWatch",
-      "title": "Bitcoin hits an 8-month high — and sends a clear message about risk appetite right now",
-      "link": "https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 10:51:00 GMT",
-      "ts": 1790074260
-    },
-    {
       "source": "CoinDesk",
       "title": "Live updates: Oil falls as Iran signals possible Hormuz reopening, bitcoin holds near $86,000",
       "link": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
       "published": "Tue, 22 Sep 2026 10:20:12 +0000",
       "ts": 1790072412
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
-      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 10:15:00 GMT",
-      "ts": 1790072100
     },
     {
       "source": "CoinDesk",
@@ -186,13 +137,6 @@
       "ts": 1790069484
     },
     {
-      "source": "MarketWatch",
-      "title": "What this machine-learning model with 65% accuracy says is coming next for the 10-year Treasury",
-      "link": "https://www.marketwatch.com/story/what-this-machine-learning-model-with-65-accuracy-says-is-coming-next-for-the-10-year-treasury-55d76b8f?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 09:23:00 GMT",
-      "ts": 1790068980
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin climbs toward $86k as Strategy buys more coins",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
@@ -212,6 +156,13 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-hawkish-fed-talk-lifts-dollar-broadly-4910096",
       "published": "2026-09-22 09:01:07",
       "ts": 1790067667
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock market today: Nasdaq, Dow and S&P 500 little changed as AI trade powers market",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+      "published": "2026-09-22T08:06:25Z",
+      "ts": 1790064385
     },
     {
       "source": "Cointelegraph",
@@ -249,13 +200,6 @@
       "ts": 1790061103
     },
     {
-      "source": "Cointelegraph",
-      "title": "Animoca puts Currenc merger on ice, delaying its Nasdaq debut",
-      "link": "https://cointelegraph.com/news/animoca-currenc-merger-delaying-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 06:48:20 +0000",
-      "ts": 1790059700
-    },
-    {
       "source": "Investing Forex",
       "title": "Chinese yuan hits 3-1/2 year high on strong PBOC fixing",
       "link": "https://www.investing.com/news/forex-news/chinese-yuan-hits-312-year-high-on-strong-pboc-fixing-4909861",
@@ -282,6 +226,62 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-toward-82k-as-tokenizedstock-move-boosts-crypto-sentiment-4908305",
       "published": "2026-09-21 21:37:00",
       "ts": 1790026620
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar rises to nearly 8-week high, euro in focus after German political setback",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
+      "published": "2026-09-21 21:01:45",
+      "ts": 1790024505
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
+      "link": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html",
+      "published": "2026-09-21T18:17:21Z",
+      "ts": 1790014641
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Canadian dollar under pressure as oil retreats and US rate outlook supports greenb",
+      "link": "https://www.investing.com/news/forex-news/canadian-dollar-under-pressure-as-oil-retreats-and-us-rate-outlook-supports-greenb-4909475",
+      "published": "2026-09-21 17:16:09",
+      "ts": 1790010969
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "NOWPayments Releases Cross-Chain Payout Data Revealing Key Performance Benchmarks Across TRON, BNB Chain, and Solana",
+      "link": "https://www.investing.com/news/cryptocurrency-news/nowpayments-releases-crosschain-payout-data-revealing-key-performance-benchmarks-across-tron-bnb-chain-and-solana-4909411",
+      "published": "2026-09-21 16:00:37",
+      "ts": 1790006437
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "CryptoPawn Launches Protocol Integration Allowing Authorized AI Agents to Participate in Crypto-Backed Loan Transactions",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cryptopawn-launches-protocol-integration-allowing-authorized-ai-agents-to-participate-in-cryptobacked-loan-transactions-4909397",
+      "published": "2026-09-21 15:30:38",
+      "ts": 1790004638
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bank of America says buy tumbling shares of aviation giant",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
+      "published": "2026-09-21T14:37:00Z",
+      "ts": 1790001420
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. Treasury yields ease on crude pull-back ;  rate hike bets stay",
+      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-ease-as-markets-await-of-ecbs-lagarde-speech-4908370",
+      "published": "2026-09-21 12:07:57",
+      "ts": 1789992477
+    },
+    {
+      "source": "Investing Forex",
+      "title": "As lines grow at banks, Cuba tiptoes away from communism but stability seems distant",
+      "link": "https://www.investing.com/news/forex-news/as-lines-grow-at-banks-cuba-tiptoes-away-from-communism-but-stability-seems-distant-4908748",
+      "published": "2026-09-21 11:06:38",
+      "ts": 1789988798
     }
   ]
 }
