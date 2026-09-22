@@ -1,14 +1,35 @@
 {
-  "updated_utc": "2026-09-22T15:25:24.704057+00:00",
+  "updated_utc": "2026-09-22T15:38:20.924169+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin climbs above $86k as Strategy buys more coins",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
+      "published": "2026-09-22 15:27:04",
+      "ts": 1790090824
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Maximus’ (MMS) Tech Capabilities and Beaten-Down Valuation Point to M&A Upside",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/maximus-mms-tech-capabilities-beaten-152142153.html",
+      "published": "2026-09-22T15:21:42Z",
+      "ts": 1790090502
+    },
     {
       "source": "CoinDesk",
       "title": "Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody",
       "link": "https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody",
       "published": "Tue, 22 Sep 2026 15:21:28 +0000",
       "ts": 1790090488
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "What Makes CRA International (CRAI) an Investment Bet?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/makes-cra-international-crai-investment-151656266.html",
+      "published": "2026-09-22T15:16:56Z",
+      "ts": 1790090216
     },
     {
       "source": "Yahoo Finance",
@@ -19,31 +40,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Saudi Arabia restarts East-West oil pipeline, sources say",
+      "link": "https://finance.yahoo.com/news/saudi-arabia-restarts-east-west-100845429.html",
+      "published": "2026-09-22T15:11:43Z",
+      "ts": 1790089903
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "What Makes Berkshire Hathaway (BRK-B) a Strong Investment?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/makes-berkshire-hathaway-brk-b-151101032.html",
       "published": "2026-09-22T15:11:01Z",
       "ts": 1790089861
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "ICON Public Limited Company’s (ICLR) Shrinking Moat Warranted an Early Departure",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/icon-public-limited-company-iclr-150804481.html",
-      "published": "2026-09-22T15:08:04Z",
-      "ts": 1790089684
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Meta Muse AI may throw gas on the labor displacement problem — but it's not all doom and gloom",
-      "link": "https://finance.yahoo.com/markets/article/meta-muse-ai-may-throw-gas-on-the-labor-displacement-problem--but-its-not-all-doom-and-gloom-150747149.html",
-      "published": "2026-09-22T15:07:47Z",
-      "ts": 1790089667
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Corporate bond buyers get picky with flood of AI debt",
-      "link": "https://finance.yahoo.com/markets/options/articles/corporate-bond-buyers-picky-flood-100410778.html",
-      "published": "2026-09-22T15:06:51Z",
-      "ts": 1790089611
     },
     {
       "source": "CoinDesk",
@@ -226,13 +233,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/margex-launches-27m-eth-airdrop-campaign-celebrating-4-years-of-proof-of-stake-4910148",
       "published": "2026-09-22 09:31:24",
       "ts": 1790069484
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin climbs toward $86k as Strategy buys more coins",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
-      "published": "2026-09-22 09:22:45",
-      "ts": 1790068965
     },
     {
       "source": "Cointelegraph",
