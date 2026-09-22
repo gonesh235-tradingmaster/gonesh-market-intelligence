@@ -1,42 +1,49 @@
 {
-  "updated_utc": "2026-09-22T15:10:16.984360+00:00",
+  "updated_utc": "2026-09-22T15:25:24.704057+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
-      "source": "Yahoo Finance",
-      "title": "This Fund Trimmed Matson (MATX) on Strength",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fund-trimmed-matson-matx-strength-145040552.html",
-      "published": "2026-09-22T14:50:40Z",
-      "ts": 1790088640
+      "source": "CoinDesk",
+      "title": "Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody",
+      "link": "https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody",
+      "published": "Tue, 22 Sep 2026 15:21:28 +0000",
+      "ts": 1790090488
     },
     {
       "source": "Yahoo Finance",
-      "title": "Continued AI Disruption Concerns Weigh on CCC Intelligent Solutions Holdings (CCC)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/continued-ai-disruption-concerns-weigh-144822190.html",
-      "published": "2026-09-22T14:48:22Z",
-      "ts": 1790088502
+      "title": "Intel stock up 25% in last 5 days, on CPU demand as AI agents gain traction",
+      "link": "https://finance.yahoo.com/technology/article/intel-stock-up-25-in-last-5-days-on-cpu-demand-as-ai-agents-gain-traction-151217555.html",
+      "published": "2026-09-22T15:12:17Z",
+      "ts": 1790089937
     },
     {
       "source": "Yahoo Finance",
-      "title": "Resilient Cash Flows and Organic Drivers Position McGrath RentCorp (MGRC) for Long-Term Growth",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/resilient-cash-flows-organic-drivers-144630290.html",
-      "published": "2026-09-22T14:46:30Z",
-      "ts": 1790088390
+      "title": "What Makes Berkshire Hathaway (BRK-B) a Strong Investment?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/makes-berkshire-hathaway-brk-b-151101032.html",
+      "published": "2026-09-22T15:11:01Z",
+      "ts": 1790089861
     },
     {
       "source": "Yahoo Finance",
-      "title": "Durable Business Strengths Underpin Vontier Corp’s (VNT) Long-Term Growth Outlook",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/durable-business-strengths-underpin-vontier-144342201.html",
-      "published": "2026-09-22T14:43:42Z",
-      "ts": 1790088222
+      "title": "ICON Public Limited Company’s (ICLR) Shrinking Moat Warranted an Early Departure",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/icon-public-limited-company-iclr-150804481.html",
+      "published": "2026-09-22T15:08:04Z",
+      "ts": 1790089684
     },
     {
       "source": "Yahoo Finance",
-      "title": "Trump Accounts could help lower-income families most. Few have signed up.",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/trump-accounts-could-help-lower-income-families-most-few-have-signed-up-143843357.html",
-      "published": "2026-09-22T14:38:43Z",
-      "ts": 1790087923
+      "title": "Meta Muse AI may throw gas on the labor displacement problem — but it's not all doom and gloom",
+      "link": "https://finance.yahoo.com/markets/article/meta-muse-ai-may-throw-gas-on-the-labor-displacement-problem--but-its-not-all-doom-and-gloom-150747149.html",
+      "published": "2026-09-22T15:07:47Z",
+      "ts": 1790089667
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Corporate bond buyers get picky with flood of AI debt",
+      "link": "https://finance.yahoo.com/markets/options/articles/corporate-bond-buyers-picky-flood-100410778.html",
+      "published": "2026-09-22T15:06:51Z",
+      "ts": 1790089611
     },
     {
       "source": "CoinDesk",
@@ -193,13 +200,6 @@
       "ts": 1790072412
     },
     {
-      "source": "CoinDesk",
-      "title": "Binance probed by U.S. federal prosecutors for sanctions violations: Bloomberg",
-      "link": "https://www.coindesk.com/policy/2026/09/22/binance-probed-by-u-s-federal-prosecutors-for-sanctions-violations-bloomberg",
-      "published": "Tue, 22 Sep 2026 10:07:52 +0000",
-      "ts": 1790071672
-    },
-    {
       "source": "Cointelegraph",
       "title": "Crypto metric signals altseason as Bitcoin market-cap share stalls below 60%",
       "link": "https://cointelegraph.com/markets/crypto-metric-signals-altseason-as-bitcoin-market-cap-share-stalls-below-60?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -250,7 +250,7 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stock market today: Nasdaq, S&P 500 drift higher as oil retreats, AI trade powers market",
+      "title": "Stock market today: Dow slips, Nasdaq and S&P 500 drift higher as oil pares losses after Trump's UN address",
       "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
       "published": "2026-09-22T08:06:25Z",
       "ts": 1790064385
