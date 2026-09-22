@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-22T19:31:07.807592+00:00",
+  "updated_utc": "2026-09-22T19:43:14.278261+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -9,6 +9,13 @@
       "link": "https://www.marketwatch.com/story/trump-endorses-diesel-export-ban-a-decision-is-coming-fast-one-way-or-the-other-a49055bc?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 19:30:00 GMT",
       "ts": 1790105400
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin overbought at $86,550 with RSI 75 divergence: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
+      "published": "2026-09-22 19:18:57",
+      "ts": 1790104737
     },
     {
       "source": "MarketWatch",
@@ -226,13 +233,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-hawkish-fed-talk-lifts-dollar-broadly-4910096",
       "published": "2026-09-22 09:01:07",
       "ts": 1790067667
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin overbought at $87K high, mean-reversion risk: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
-      "published": "2026-09-22 07:11:43",
-      "ts": 1790061103
     },
     {
       "source": "Investing Forex",
