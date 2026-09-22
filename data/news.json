@@ -1,14 +1,49 @@
 {
-  "updated_utc": "2026-09-22T12:58:27.847296+00:00",
+  "updated_utc": "2026-09-22T13:15:22.284222+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "What Makes Prologis (PLD) a Strong Investment?",
+      "link": "https://finance.yahoo.com/real-estate/articles/makes-prologis-pld-strong-investment-130353173.html",
+      "published": "2026-09-22T13:03:53Z",
+      "ts": 1790082233
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Ramit Sethi warns couple earning $112K with no mortgage they'll go broke if they keep spending 108% of their income",
+      "link": "https://finance.yahoo.com/markets/articles/ramit-sethi-warns-couple-earning-130000343.html",
+      "published": "2026-09-22T13:00:00Z",
+      "ts": 1790082000
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Equinix (EQIX) Positions to Benefit from Exponential Data Growth and Early-Stage Enterprise AI",
+      "link": "https://finance.yahoo.com/technology/ai/articles/equinix-eqix-positions-benefit-exponential-125701911.html",
+      "published": "2026-09-22T12:57:01Z",
+      "ts": 1790081821
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Oil Prices, Treasury Yields Extend Losses (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T12:55:25Z",
+      "ts": 1790081725
+    },
     {
       "source": "MarketWatch",
       "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
       "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 12:53:00 GMT",
       "ts": 1790081580
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Viking Therapeutics Skyrockets On Obesity Drug Data. Eli Lilly, Novo Fall.",
+      "link": "https://www.investors.com/news/technology/viking-therapeutics-stock-skyrockets-obesity-drug-data-roche-eli-lilly-novo-fall/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T12:49:39Z",
+      "ts": 1790081379
     },
     {
       "source": "MarketWatch",
@@ -18,46 +53,11 @@
       "ts": 1790080980
     },
     {
-      "source": "Yahoo Finance",
-      "title": "'Crypto winter is over,' says analyst as bitcoin tops $86,000: Chart of the Day",
-      "link": "https://finance.yahoo.com/markets/article/crypto-winter-is-over-says-analyst-as-bitcoin-tops-86000-chart-of-the-day-124006079.html",
-      "published": "2026-09-22T12:40:06Z",
-      "ts": 1790080806
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Xpeng’s Tech-Licensing Expansion Meets a Core Auto Business Still Losing Money",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/xpeng-tech-licensing-expansion-meets-123610355.html",
-      "published": "2026-09-22T12:36:10Z",
-      "ts": 1790080570
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows",
       "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
       "published": "Tue, 22 Sep 2026 12:32:15 +0000",
       "ts": 1790080335
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "'SICK conspiracy': Trump dismisses calls to rein in AI as his sons cash in on AI-linked defence and tech investments",
-      "link": "https://finance.yahoo.com/technology/ai/articles/sick-conspiracy-trump-dismisses-calls-123000393.html",
-      "published": "2026-09-22T12:30:00Z",
-      "ts": 1790080200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Oil falls to two-week low as Gulf supply outlook improves",
-      "link": "https://finance.yahoo.com/energy/articles/oil-rises-slightly-ahead-potential-003404571.html",
-      "published": "2026-09-22T12:28:03Z",
-      "ts": 1790080083
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "3M’s CEO Says the Turnaround Is Ahead of Schedule, But PFAS Litigation Keeps Resurfacing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3m-ceo-says-turnaround-ahead-122451020.html",
-      "published": "2026-09-22T12:24:51Z",
-      "ts": 1790079891
     },
     {
       "source": "MarketWatch",
@@ -130,13 +130,6 @@
       "ts": 1790076360
     },
     {
-      "source": "Cointelegraph",
-      "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
-      "link": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 11:22:00 +0000",
-      "ts": 1790076120
-    },
-    {
       "source": "MarketWatch",
       "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
       "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
@@ -200,13 +193,6 @@
       "ts": 1790069904
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Why AMD's new $1 trillion valuation makes perfect sense",
-      "link": "https://finance.yahoo.com/markets/stocks/article/why-amds-new-1-trillion-valuation-makes-perfect-sense-093453726.html",
-      "published": "2026-09-22T09:34:53Z",
-      "ts": 1790069693
-    },
-    {
       "source": "Investing Crypto",
       "title": "Margex Launches $2.7M ETH Airdrop Campaign Celebrating 4 Years of Proof of Stake",
       "link": "https://www.investing.com/news/cryptocurrency-news/margex-launches-27m-eth-airdrop-campaign-celebrating-4-years-of-proof-of-stake-4910148",
@@ -235,6 +221,13 @@
       "ts": 1790067667
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Stock market today: Nasdaq, Dow and S&P 500 little changed as AI trade powers market",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+      "published": "2026-09-22T08:06:25Z",
+      "ts": 1790064385
+    },
+    {
       "source": "Cointelegraph",
       "title": "Crypto’s wild boom-and-bust cycles are fading, Solstice CEO says",
       "link": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -254,6 +247,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
       "published": "2026-09-22 07:11:43",
       "ts": 1790061103
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Animoca puts Currenc merger on ice, delaying its Nasdaq debut",
+      "link": "https://cointelegraph.com/news/animoca-currenc-merger-delaying-nasdaq-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 06:48:20 +0000",
+      "ts": 1790059700
     },
     {
       "source": "Investing Forex",
