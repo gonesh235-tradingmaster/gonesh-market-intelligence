@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-09-22T14:56:22.555655+00:00",
+  "updated_utc": "2026-09-22T15:10:16.984360+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "This Fund Trimmed Matson (MATX) on Strength",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fund-trimmed-matson-matx-strength-145040552.html",
+      "published": "2026-09-22T14:50:40Z",
+      "ts": 1790088640
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Continued AI Disruption Concerns Weigh on CCC Intelligent Solutions Holdings (CCC)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/continued-ai-disruption-concerns-weigh-144822190.html",
+      "published": "2026-09-22T14:48:22Z",
+      "ts": 1790088502
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Resilient Cash Flows and Organic Drivers Position McGrath RentCorp (MGRC) for Long-Term Growth",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/resilient-cash-flows-organic-drivers-144630290.html",
+      "published": "2026-09-22T14:46:30Z",
+      "ts": 1790088390
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Durable Business Strengths Underpin Vontier Corp’s (VNT) Long-Term Growth Outlook",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/durable-business-strengths-underpin-vontier-144342201.html",
+      "published": "2026-09-22T14:43:42Z",
+      "ts": 1790088222
+    },
     {
       "source": "Yahoo Finance",
       "title": "Trump Accounts could help lower-income families most. Few have signed up.",
@@ -18,46 +46,11 @@
       "ts": 1790087579
     },
     {
-      "source": "Yahoo Finance",
-      "title": "How SoFi Is Turning Its Consumer App Into A Stablecoin Proving Ground",
-      "link": "https://www.investors.com/news/technology/sofi-stock-mastercard-ma-stock-stablecoin-network/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T14:29:31Z",
-      "ts": 1790087371
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "GameStop stock jumps as CEO Ryan Cohen buys $26 million in shares",
-      "link": "https://finance.yahoo.com/markets/article/gamestop-stock-jumps-as-ceo-ryan-cohen-buys-26-million-in-shares-142827905.html",
-      "published": "2026-09-22T14:28:27Z",
-      "ts": 1790087307
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "This Fund Trimmed Murphy USA (MUSA) Amid Fuel Margin Strengths",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fund-trimmed-murphy-usa-musa-142800363.html",
-      "published": "2026-09-22T14:28:00Z",
-      "ts": 1790087280
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Strong Results Lifted CTS Corporation (CTS) in Q2",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/strong-results-lifted-cts-corporation-142559440.html",
-      "published": "2026-09-22T14:25:59Z",
-      "ts": 1790087159
-    },
-    {
       "source": "MarketWatch",
       "title": "My plan to pay off $7,500 in credit-card debt can work for you",
       "link": "https://www.marketwatch.com/story/my-plan-to-pay-off-7-500-in-credit-card-debt-can-work-for-you-2260de1d?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 14:25:00 GMT",
       "ts": 1790087100
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Subscription Pivot and SCBA Replacement Cycle Set to Drive MSA Safety’s (MSA) Margin Expansion",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/subscription-pivot-scba-replacement-cycle-142237408.html",
-      "published": "2026-09-22T14:22:37Z",
-      "ts": 1790086957
     },
     {
       "source": "MarketWatch",
@@ -110,7 +103,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Princeton’s 15-year run as the nation’s top-ranked university is over. MIT is now No. 1.",
+      "title": "Princeton’s 15-year run as the nation’s top college is over. This is the new No. 1 school.",
       "link": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 12:43:00 GMT",
       "ts": 1790080980
@@ -254,6 +247,13 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-hawkish-fed-talk-lifts-dollar-broadly-4910096",
       "published": "2026-09-22 09:01:07",
       "ts": 1790067667
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock market today: Nasdaq, S&P 500 drift higher as oil retreats, AI trade powers market",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+      "published": "2026-09-22T08:06:25Z",
+      "ts": 1790064385
     },
     {
       "source": "Investing Crypto",
