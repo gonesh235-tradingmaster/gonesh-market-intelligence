@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-22T09:47:06.060186+00:00",
+  "updated_utc": "2026-09-22T09:56:27.942551+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Why Muse really just added billions to Meta's market cap and to Mark Zuckerberg's net worth",
+      "link": "https://finance.yahoo.com/markets/stocks/article/why-muse-really-just-added-billions-to-metas-market-cap-and-to-mark-zuckerbergs-net-worth-094853229.html",
+      "published": "2026-09-22T09:48:53Z",
+      "ts": 1790070533
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Animoca Brands delays IPO plans, suspends merger talks with Currenc",
+      "link": "https://www.coindesk.com/business/2026/09/22/animoca-brands-delays-ipo-plans-suspends-merger-talks-with-currenc",
+      "published": "Tue, 22 Sep 2026 09:47:15 +0000",
+      "ts": 1790070435
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why AMD's new $1 trillion valuation makes perfect sense",
+      "link": "https://finance.yahoo.com/markets/stocks/article/why-amds-new-1-trillion-valuation-makes-perfect-sense-093453726.html",
+      "published": "2026-09-22T09:34:53Z",
+      "ts": 1790069693
+    },
     {
       "source": "Investing Crypto",
       "title": "Margex Launches $2.7M ETH Airdrop Campaign Celebrating 4 Years of Proof of Stake",
@@ -102,13 +123,6 @@
       "ts": 1790064284
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Soaring Oil and Gas Prices Push Europe’s Inflation Fight Into 2027",
-      "link": "https://finance.yahoo.com/energy/articles/soaring-oil-gas-prices-push-080000656.html",
-      "published": "2026-09-22T08:00:00Z",
-      "ts": 1790064000
-    },
-    {
       "source": "Investing Forex",
       "title": "Asian currencies mixed as dollar firms, yen weakens on intervention risks",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
@@ -128,13 +142,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 07:33:37 +0000",
       "ts": 1790062417
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Warren Buffett Just Stepped Down. These 2 AI Stocks Still Define Berkshire’s Portfolio",
-      "link": "https://finance.yahoo.com/technology/ai/articles/warren-buffett-just-stepped-down-073051631.html",
-      "published": "2026-09-22T07:30:51Z",
-      "ts": 1790062251
     },
     {
       "source": "Investing Crypto",
@@ -275,13 +282,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
       "published": "Mon, 21 Sep 2026 20:39:39 +0000",
       "ts": 1790023179
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
-      "link": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
-      "published": "Mon, 21 Sep 2026 19:08:40 +0000",
-      "ts": 1790017720
     }
   ]
 }
