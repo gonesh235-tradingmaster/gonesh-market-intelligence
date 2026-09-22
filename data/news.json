@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-22T05:22:24.936523+00:00",
+  "updated_utc": "2026-09-22T05:34:56.620875+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Elon Musk's X brings bitcoin and stock trading closer to the timeline",
+      "link": "https://www.coindesk.com/markets/2026/09/22/elon-musk-s-x-brings-bitcoin-and-stock-trading-closer-to-the-timeline",
+      "published": "Tue, 22 Sep 2026 05:26:00 +0000",
+      "ts": 1790054760
+    },
     {
       "source": "Investing Forex",
       "title": "Chinese yuan hits 3-1/2 year high on strong PBOC fixing",
@@ -247,13 +254,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/multiasset-trading-venue-monochrome-exchange-announces-ieo-of-its-native-token-mcr-4909333",
       "published": "2026-09-21 14:31:45",
       "ts": 1790001105
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto",
-      "link": "https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto",
-      "published": "Mon, 21 Sep 2026 13:11:15 +0000",
-      "ts": 1789996275
     },
     {
       "source": "Investing Crypto",
