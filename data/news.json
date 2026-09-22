@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-22T15:58:03.306301+00:00",
+  "updated_utc": "2026-09-22T16:14:08.229727+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Microsoft Scores Positive Reviews On AI Momentum",
+      "link": "https://www.investors.com/news/technology/microsoft-stock-positive-reviews-ai-momentum/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T16:06:04Z",
+      "ts": 1790093164
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "As Amazon Stock Prospers, Traders Might Consider This Option Play",
+      "link": "https://www.investors.com/research/options/amazon-amzn-stock-bull-put-spread-options/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T15:57:55Z",
+      "ts": 1790092675
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CLARITY vote failure could stoke more crypto PAC spending in key races",
+      "link": "https://cointelegraph.com/news/failure-clarity-act-vote-us-lawmakers-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 15:55:37 +0000",
+      "ts": 1790092537
+    },
     {
       "source": "MarketWatch",
       "title": "Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights",
@@ -67,25 +88,11 @@
       "ts": 1790090548
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Maximus’ (MMS) Tech Capabilities and Beaten-Down Valuation Point to M&A Upside",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/maximus-mms-tech-capabilities-beaten-152142153.html",
-      "published": "2026-09-22T15:21:42Z",
-      "ts": 1790090502
-    },
-    {
       "source": "CoinDesk",
       "title": "Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody",
       "link": "https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody",
       "published": "Tue, 22 Sep 2026 15:21:28 +0000",
       "ts": 1790090488
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "What Makes CRA International (CRAI) an Investment Bet?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/makes-cra-international-crai-investment-151656266.html",
-      "published": "2026-09-22T15:16:56Z",
-      "ts": 1790090216
     },
     {
       "source": "CoinDesk",
@@ -233,13 +240,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/margex-launches-27m-eth-airdrop-campaign-celebrating-4-years-of-proof-of-stake-4910148",
       "published": "2026-09-22 09:31:24",
       "ts": 1790069484
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "White hats outrun Coldcard hackers in 52-Bitcoin evacuation",
-      "link": "https://cointelegraph.com/news/white-hats-coldcard-btc-exploit-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 09:06:59 +0000",
-      "ts": 1790068019
     },
     {
       "source": "Investing Forex",
