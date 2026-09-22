@@ -1,14 +1,56 @@
 {
-  "updated_utc": "2026-09-22T16:55:27.422975+00:00",
+  "updated_utc": "2026-09-22T17:08:06.474013+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
+      "source": "MarketWatch",
+      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+      "link": "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 17:00:00 GMT",
+      "ts": 1790096400
+    },
+    {
       "source": "Yahoo Finance",
-      "title": "McDonald's has 1 shot to turn around its dreadful year",
-      "link": "https://finance.yahoo.com/markets/stocks/article/mcdonalds-has-1-shot-to-turn-around-its-dreadful-year-164554149.html",
-      "published": "2026-09-22T16:45:54Z",
-      "ts": 1790095554
+      "title": "What credit score do you need for a balance transfer credit card?",
+      "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/credit-score-needed-for-balance-transfer-card-165714139.html",
+      "published": "2026-09-22T16:57:14Z",
+      "ts": 1790096234
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Think buying a car in cash is a flex? Why millions of boomers are quietly wasting thousands in savings",
+      "link": "https://finance.yahoo.com/markets/articles/think-buying-car-cash-flex-165500324.html",
+      "published": "2026-09-22T16:55:00Z",
+      "ts": 1790096100
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Fed's Barkin says economy may be firming, inflation not limited to energy, tariff shocks",
+      "link": "https://finance.yahoo.com/economy/policy/articles/feds-barkin-says-economy-may-165255863.html",
+      "published": "2026-09-22T16:52:55Z",
+      "ts": 1790095975
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "CME Group to Launch Bitcoin Cash and Uniswap Futures",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/cme-group-launch-bitcoin-cash-165200159.html",
+      "published": "2026-09-22T16:52:00Z",
+      "ts": 1790095920
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "MillerKnoll, Inc. Q1 2027 Earnings Call Summary",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/millerknoll-inc-q1-2027-earnings-165135862.html",
+      "published": "2026-09-22T16:51:35Z",
+      "ts": 1790095895
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Coinbase to Allow U.S. Retail Investors Buy IPO Shares",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/coinbase-allow-u-retail-investors-165100177.html",
+      "published": "2026-09-22T16:51:00Z",
+      "ts": 1790095860
     },
     {
       "source": "MarketWatch",
@@ -16,41 +58,6 @@
       "link": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 16:40:00 GMT",
       "ts": 1790095200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why Gabelli Global Growth Fund Added Advanced Micro Devices (AMD) in Q2",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-gabelli-global-growth-fund-141047976.html",
-      "published": "2026-09-22T16:39:47Z",
-      "ts": 1790095187
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why Gabelli Global Growth Fund Added Micron Technology (MU) in Q2",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-gabelli-global-growth-fund-141037360.html",
-      "published": "2026-09-22T16:39:37Z",
-      "ts": 1790095177
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why RPC (RES) Was a Q2 Detractor for Gabelli Small Cap Growth Fund",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-rpc-res-q2-detractor-163646235.html",
-      "published": "2026-09-22T16:36:46Z",
-      "ts": 1790095006
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why Dana (DAN) Was a Q2 Detractor for Gabelli Small Cap Growth Fund",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-dana-dan-q2-detractor-163615111.html",
-      "published": "2026-09-22T16:36:15Z",
-      "ts": 1790094975
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why Graco (GGG) Was a Q2 Detractor for Gabelli Small Cap Growth Fund",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-graco-ggg-q2-detractor-163529754.html",
-      "published": "2026-09-22T16:35:29Z",
-      "ts": 1790094929
     },
     {
       "source": "MarketWatch",
@@ -142,13 +149,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
       "published": "Tue, 22 Sep 2026 14:32:59 +0000",
       "ts": 1790087579
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My plan to pay off $7,500 in credit-card debt can work for you",
-      "link": "https://www.marketwatch.com/story/my-plan-to-pay-off-7-500-in-credit-card-debt-can-work-for-you-2260de1d?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 14:25:00 GMT",
-      "ts": 1790087100
     },
     {
       "source": "Investing Crypto",
