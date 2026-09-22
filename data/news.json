@@ -1,14 +1,42 @@
 {
-  "updated_utc": "2026-09-22T13:31:16.798934+00:00",
+  "updated_utc": "2026-09-22T13:50:46.264074+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Big Questions: Does Satoshi actually own 1.1 million Bitcoin?",
+      "link": "https://cointelegraph.com/magazine/big-questions-does-satoshi-actually-own-1-million-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 13:30:00 +0000",
+      "ts": 1790083800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Goldman Sachs says 'lower happiness' — not the economy — explains why consumer confidence hit its second-lowest level",
+      "link": "https://finance.yahoo.com/economy/articles/goldman-sachs-says-lower-happiness-133000625.html",
+      "published": "2026-09-22T13:30:00Z",
+      "ts": 1790083800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Binance Investigated By U.S. For Potential Sanctions Violations",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/binance-investigated-u-potential-sanctions-132500534.html",
+      "published": "2026-09-22T13:25:00Z",
+      "ts": 1790083500
+    },
     {
       "source": "Cointelegraph",
       "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
       "link": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 13:15:57 +0000",
       "ts": 1790082957
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Kalshi Seeks To Offer Margin Trading On Its Platform",
+      "link": "https://finance.yahoo.com/markets/options/articles/kalshi-seeks-offer-margin-trading-131500335.html",
+      "published": "2026-09-22T13:15:00Z",
+      "ts": 1790082900
     },
     {
       "source": "MarketWatch",
@@ -30,27 +58,6 @@
       "link": "https://finance.yahoo.com/real-estate/articles/self-storage-could-entering-growth-131101680.html",
       "published": "2026-09-22T13:11:01Z",
       "ts": 1790082661
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "What Makes Prologis (PLD) a Strong Investment?",
-      "link": "https://finance.yahoo.com/real-estate/articles/makes-prologis-pld-strong-investment-130353173.html",
-      "published": "2026-09-22T13:03:53Z",
-      "ts": 1790082233
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Ramit Sethi warns couple earning $112K with no mortgage they'll go broke if they keep spending 108% of their income",
-      "link": "https://finance.yahoo.com/markets/articles/ramit-sethi-warns-couple-earning-130000343.html",
-      "published": "2026-09-22T13:00:00Z",
-      "ts": 1790082000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Equinix (EQIX) Positions to Benefit from Exponential Data Growth and Early-Stage Enterprise AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/equinix-eqix-positions-benefit-exponential-125701911.html",
-      "published": "2026-09-22T12:57:01Z",
-      "ts": 1790081821
     },
     {
       "source": "MarketWatch",
@@ -214,20 +221,6 @@
       "ts": 1790069904
     },
     {
-      "source": "Investing Crypto",
-      "title": "Margex Launches $2.7M ETH Airdrop Campaign Celebrating 4 Years of Proof of Stake",
-      "link": "https://www.investing.com/news/cryptocurrency-news/margex-launches-27m-eth-airdrop-campaign-celebrating-4-years-of-proof-of-stake-4910148",
-      "published": "2026-09-22 09:31:24",
-      "ts": 1790069484
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin climbs toward $86k as Strategy buys more coins",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
-      "published": "2026-09-22 09:22:45",
-      "ts": 1790068965
-    },
-    {
       "source": "Cointelegraph",
       "title": "White hats outrun Coldcard hackers in 52-Bitcoin evacuation",
       "link": "https://cointelegraph.com/news/white-hats-coldcard-btc-exploit-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -249,20 +242,6 @@
       "ts": 1790064385
     },
     {
-      "source": "Cointelegraph",
-      "title": "Crypto’s wild boom-and-bust cycles are fading, Solstice CEO says",
-      "link": "https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 08:06:23 +0000",
-      "ts": 1790064383
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin overbought at $87K high, mean-reversion risk: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
-      "published": "2026-09-22 07:11:43",
-      "ts": 1790061103
-    },
-    {
       "source": "Investing Forex",
       "title": "Chinese yuan hits 3-1/2 year high on strong PBOC fixing",
       "link": "https://www.investing.com/news/forex-news/chinese-yuan-hits-312-year-high-on-strong-pboc-fixing-4909861",
@@ -270,18 +249,39 @@
       "ts": 1790052600
     },
     {
-      "source": "Investing Crypto",
-      "title": "CloudTech Powers Institutional-Grade Digital Asset Trading for Australian Investors Through Integral Technology",
-      "link": "https://www.investing.com/news/cryptocurrency-news/cloudtech-powers-institutionalgrade-digital-asset-trading-for-australian-investors-through-integral-technology-4909726",
-      "published": "2026-09-21 22:30:35",
-      "ts": 1790029835
+      "source": "Investing Forex",
+      "title": "Dollar rises to nearly 8-week high, euro in focus after German political setback",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
+      "published": "2026-09-21 21:01:45",
+      "ts": 1790024505
     },
     {
-      "source": "Investing Crypto",
-      "title": "XRP Climbs 10% In a Green Day",
-      "link": "https://www.investing.com/news/cryptocurrency-news/xrp-climbs-10-in-a-green-day-4909700",
-      "published": "2026-09-21 21:39:05",
-      "ts": 1790026745
+      "source": "Investing Forex",
+      "title": "Canadian dollar under pressure as oil retreats and US rate outlook supports greenb",
+      "link": "https://www.investing.com/news/forex-news/canadian-dollar-under-pressure-as-oil-retreats-and-us-rate-outlook-supports-greenb-4909475",
+      "published": "2026-09-21 17:16:09",
+      "ts": 1790010969
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Bank of America says buy tumbling shares of aviation giant",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-buy-tumbling-143700198.html",
+      "published": "2026-09-21T14:37:00Z",
+      "ts": 1790001420
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. Treasury yields ease on crude pull-back ;  rate hike bets stay",
+      "link": "https://www.investing.com/news/forex-news/euro-zone-yields-ease-as-markets-await-of-ecbs-lagarde-speech-4908370",
+      "published": "2026-09-21 12:07:57",
+      "ts": 1789992477
+    },
+    {
+      "source": "Investing Forex",
+      "title": "As lines grow at banks, Cuba tiptoes away from communism but stability seems distant",
+      "link": "https://www.investing.com/news/forex-news/as-lines-grow-at-banks-cuba-tiptoes-away-from-communism-but-stability-seems-distant-4908748",
+      "published": "2026-09-21 11:06:38",
+      "ts": 1789988798
     }
   ]
 }
