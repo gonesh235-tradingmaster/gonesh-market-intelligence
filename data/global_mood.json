@@ -1,9 +1,9 @@
 {
-  "updated_utc": "2026-09-22T20:03:29.951701+00:00",
+  "updated_utc": "2026-09-22T20:19:09.404516+00:00",
   "source": "Computed from NIFTY + BTC",
   "score": 26,
   "label": "NEUTRAL",
-  "explanation": "Global mood is neutral (score +26). NIFTY: US markets up 3.61% • Crude oil falling | BTC: Funding negative (-0.443%) — shorts crowded",
+  "explanation": "Global mood is neutral (score +26). NIFTY: US markets up 3.61% • Crude oil falling | BTC: Funding negative (-0.429%) — shorts crowded",
   "components": [
     {
       "asset": "NIFTY",

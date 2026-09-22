@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-22T20:03:29.909412+00:00",
+  "updated_utc": "2026-09-22T20:19:09.362260+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 20:03:30 +0000",
+      "ts": 1790107410
+    },
     {
       "source": "MarketWatch",
       "title": "Jet fuel is following diesel’s price jump as the Hormuz supply shock hits the skies",
@@ -149,13 +156,6 @@
       "link": "https://cointelegraph.com/magazine/big-questions-does-satoshi-actually-own-1-million-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 13:30:00 +0000",
       "ts": 1790083800
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 13:12:25 +0000",
-      "ts": 1790082745
     },
     {
       "source": "Yahoo Finance",
