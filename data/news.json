@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-22T03:25:45.874703+00:00",
+  "updated_utc": "2026-09-22T03:39:46.792980+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks",
+      "link": "https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 03:13:22 +0000",
+      "ts": 1790046802
+    },
     {
       "source": "Cointelegraph",
       "title": "Manhattan US Attorney leading probe into Binance’s Iran compliance: Bloomberg",
@@ -184,13 +191,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/cryptopawn-launches-protocol-integration-allowing-authorized-ai-agents-to-participate-in-cryptobacked-loan-transactions-4909397",
       "published": "2026-09-21 15:30:38",
       "ts": 1790004638
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight",
-      "link": "https://cointelegraph.com/news/crypto-biz-clarity-act-coinbase-sec-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 15:08:17 +0000",
-      "ts": 1790003297
     },
     {
       "source": "CoinDesk",
