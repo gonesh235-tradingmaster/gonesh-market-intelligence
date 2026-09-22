@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-09-22T04:00:12.546804+00:00",
+  "updated_utc": "2026-09-22T04:17:51.422681+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
+      "link": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
+      "published": "Tue, 22 Sep 2026 04:15:45 +0000",
+      "ts": 1790050545
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trueo prediction market moves from Base to Ethereum",
+      "link": "https://cointelegraph.com/news/decentralized-prediction-market-trueo-to-move-from-base-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 04:03:00 +0000",
+      "ts": 1790049780
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Princeton’s 15-year run as the nation’s top college is over. MIT is now No. 1.",
+      "link": "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 04:02:00 GMT",
+      "ts": 1790049720
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar steadies, yen pressured by policy gap",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
+      "published": "2026-09-22 04:01:54",
+      "ts": 1790049714
+    },
     {
       "source": "Cointelegraph",
       "title": "Kakao Pay, KakaoBank to explore stablecoin opportunities with Fireblocks",
@@ -109,13 +137,6 @@
       "ts": 1790023035
     },
     {
-      "source": "MarketWatch",
-      "title": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s strategy",
-      "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
-      "published": "Mon, 21 Sep 2026 20:23:00 GMT",
-      "ts": 1790022180
-    },
-    {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -163,13 +184,6 @@
       "link": "https://cointelegraph.com/news/circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 21 Sep 2026 16:56:53 +0000",
       "ts": 1790009813
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 21 Sep 2026 16:39:40 +0000",
-      "ts": 1790008780
     },
     {
       "source": "CoinDesk",
@@ -235,13 +249,6 @@
       "ts": 1789994400
     },
     {
-      "source": "CoinDesk",
-      "title": "Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails",
-      "link": "https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails",
-      "published": "Mon, 21 Sep 2026 12:17:48 +0000",
-      "ts": 1789993068
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. Treasury yields ease on crude pull-back ;  rate hike bets stay",
       "link": "https://www.investing.com/news/forex-news/euro-zone-yields-ease-as-markets-await-of-ecbs-lagarde-speech-4908370",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-lower-as-oil-fed-hike-bets-underpin-dollar-4908483",
       "published": "2026-09-21 09:22:18",
       "ts": 1789982538
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Deutsche Bank sees dollar decline continuing on FX outlook",
-      "link": "https://www.investing.com/news/forex-news/deutsche-bank-sees-dollar-decline-continuing-on-fx-outlook-93CH-4908448",
-      "published": "2026-09-21 08:56:10",
-      "ts": 1789980970
     }
   ]
 }
