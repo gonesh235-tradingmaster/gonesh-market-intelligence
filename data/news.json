@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-22T04:55:18.822456+00:00",
+  "updated_utc": "2026-09-22T05:08:07.322021+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Chinese yuan hits 3-1/2 year high on strong PBOC fixing",
+      "link": "https://www.investing.com/news/forex-news/chinese-yuan-hits-312-year-high-on-strong-pboc-fixing-4909861",
+      "published": "2026-09-22 04:50:00",
+      "ts": 1790052600
+    },
     {
       "source": "CoinDesk",
       "title": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/eurusd-outlook-heres-where-ing-sees-the-pair-heading-93CH-4908572",
       "published": "2026-09-21 10:10:48",
       "ts": 1789985448
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Goldman sees Hungary inflation target cut as positive for forint",
-      "link": "https://www.investing.com/news/forex-news/goldman-sees-hungary-inflation-target-cut-as-positive-for-forint-93CH-4908570",
-      "published": "2026-09-21 10:09:50",
-      "ts": 1789985390
     }
   ]
 }
