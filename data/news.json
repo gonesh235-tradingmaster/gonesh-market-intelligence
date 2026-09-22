@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-09-22T14:11:40.983589+00:00",
+  "updated_utc": "2026-09-22T14:27:40.063920+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "My plan to pay off $7,500 in credit-card debt can work for you",
+      "link": "https://www.marketwatch.com/story/my-plan-to-pay-off-7-500-in-credit-card-debt-can-work-for-you-2260de1d?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 14:25:00 GMT",
+      "ts": 1790087100
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why Gabelli Global Growth Fund Added Micron Technology (MU) in Q2",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-gabelli-global-growth-fund-141037360.html",
+      "published": "2026-09-22T14:10:37Z",
+      "ts": 1790086237
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Fed's Williams says rate-control toolkit is working well",
+      "link": "https://finance.yahoo.com/economy/policy/articles/feds-williams-says-rate-control-140742644.html",
+      "published": "2026-09-22T14:07:42Z",
+      "ts": 1790086062
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Minot Light’s Bullish Stance on Rockwell Medical (RMTI)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/minot-light-bullish-stance-rockwell-140627170.html",
+      "published": "2026-09-22T14:06:27Z",
+      "ts": 1790085987
+    },
     {
       "source": "MarketWatch",
       "title": "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
@@ -16,27 +44,6 @@
       "link": "https://finance.yahoo.com/small-business/articles/5-questions-boston-questrom-leadership-135859908.html",
       "published": "2026-09-22T13:58:59Z",
       "ts": 1790085539
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Elon Musk’s X Offers Crypto Trading To Users",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/elon-musk-x-offers-crypto-134900718.html",
-      "published": "2026-09-22T13:49:00Z",
-      "ts": 1790084940
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Viking Therapeutics Skyrockets On Obesity Drug Data. Eli Lilly, Novo Fall.",
-      "link": "https://www.investors.com/news/technology/viking-therapeutics-stock-skyrockets-obesity-drug-data-roche-eli-lilly-novo-fall/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T13:47:41Z",
-      "ts": 1790084861
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck",
-      "link": "https://finance.yahoo.com/markets/article/treasury-yields-ease-oil-falls-as-trump-xi-meeting-looms-alphacheck-134137146.html",
-      "published": "2026-09-22T13:41:37Z",
-      "ts": 1790084497
     },
     {
       "source": "Investing Crypto",
@@ -137,13 +144,6 @@
       "ts": 1790078100
     },
     {
-      "source": "MarketWatch",
-      "title": "Financial conditions are tightening. Here’s why stock investors should pay attention.",
-      "link": "https://www.marketwatch.com/story/financial-conditions-are-tightening-heres-why-stock-investors-should-pay-attention-a7d12134?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 11:48:00 GMT",
-      "ts": 1790077680
-    },
-    {
       "source": "CoinDesk",
       "title": "A $3.2 million 'bitcoin butterfly' option trade bets on $95,000 by the end of October",
       "link": "https://www.coindesk.com/daybook-us/2026/09/22/a-usd3-2-million-bitcoin-butterfly-option-trade-bets-on-usd95-000-by-the-end-of-october",
@@ -198,13 +198,6 @@
       "link": "https://cointelegraph.com/markets/crypto-market-cap-3-trillion-bitcoin-altcoins-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 09:58:26 +0000",
       "ts": 1790071106
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Why Muse just added billions to Meta's market cap",
-      "link": "https://finance.yahoo.com/markets/stocks/article/why-muse-just-added-billions-to-metas-market-cap-094853229.html",
-      "published": "2026-09-22T09:48:53Z",
-      "ts": 1790070533
     },
     {
       "source": "CoinDesk",
@@ -282,6 +275,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/xrp-climbs-10-in-a-green-day-4909700",
       "published": "2026-09-21 21:39:05",
       "ts": 1790026745
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin surges to over 7-month high as tokenized-stock move lifts crypto sentiment",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-toward-82k-as-tokenizedstock-move-boosts-crypto-sentiment-4908305",
+      "published": "2026-09-21 21:37:00",
+      "ts": 1790026620
     }
   ]
 }
