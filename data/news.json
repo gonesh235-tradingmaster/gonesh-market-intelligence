@@ -1,14 +1,63 @@
 {
-  "updated_utc": "2026-09-22T15:38:20.924169+00:00",
+  "updated_utc": "2026-09-22T15:49:11.513622+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "This GLP-1 drug helped people maintain their weight loss in a clinical trial — even for those taking it once a month",
+      "link": "https://www.marketwatch.com/story/this-glp-1-drug-helped-people-maintain-their-weight-loss-in-a-clinical-trial-even-for-those-taking-it-once-a-month-f70929b5?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 15:46:00 GMT",
+      "ts": 1790091960
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘She gave a neighbor $2,000’: Social Security overpaid my mother, 82, by $20,000. What else is hiding in her finances?",
+      "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 15:45:00 GMT",
+      "ts": 1790091900
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Tax-free bond yields are in a sweet spot. Get in before it’s too late.",
+      "link": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 15:39:00 GMT",
+      "ts": 1790091540
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
+      "link": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 22 Sep 2026 15:37:17 +0000",
+      "ts": 1790091437
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Obama says AI flipped from 90% human-taught to 50/50 in under a year — the six-figure jobs he says go first",
+      "link": "https://finance.yahoo.com/technology/ai/articles/obama-says-ai-flipped-90-153000409.html",
+      "published": "2026-09-22T15:30:00Z",
+      "ts": 1790091000
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin climbs above $86k as Strategy buys more coins",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
       "published": "2026-09-22 15:27:04",
       "ts": 1790090824
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Circle Stock Spikes As Binance Takes $100 Million Slice",
+      "link": "https://www.investors.com/news/circle-stock-spikes-as-binance-takes-100-million-slice/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T15:26:27Z",
+      "ts": 1790090787
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Dow Slips But Apple Touches A Buy Point; Homebuilder, Retailer Funds Shine (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T15:22:28Z",
+      "ts": 1790090548
     },
     {
       "source": "Yahoo Finance",
@@ -30,27 +79,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/makes-cra-international-crai-investment-151656266.html",
       "published": "2026-09-22T15:16:56Z",
       "ts": 1790090216
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Intel stock up 25% in last 5 days, on CPU demand as AI agents gain traction",
-      "link": "https://finance.yahoo.com/technology/article/intel-stock-up-25-in-last-5-days-on-cpu-demand-as-ai-agents-gain-traction-151217555.html",
-      "published": "2026-09-22T15:12:17Z",
-      "ts": 1790089937
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Saudi Arabia restarts East-West oil pipeline, sources say",
-      "link": "https://finance.yahoo.com/news/saudi-arabia-restarts-east-west-100845429.html",
-      "published": "2026-09-22T15:11:43Z",
-      "ts": 1790089903
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "What Makes Berkshire Hathaway (BRK-B) a Strong Investment?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/makes-berkshire-hathaway-brk-b-151101032.html",
-      "published": "2026-09-22T15:11:01Z",
-      "ts": 1790089861
     },
     {
       "source": "CoinDesk",
@@ -88,13 +116,6 @@
       "ts": 1790083800
     },
     {
-      "source": "Cointelegraph",
-      "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
-      "link": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 13:15:57 +0000",
-      "ts": 1790082957
-    },
-    {
       "source": "MarketWatch",
       "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
       "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
@@ -130,13 +151,6 @@
       "ts": 1790080335
     },
     {
-      "source": "MarketWatch",
-      "title": "Wall Street and AI ruined your ‘diversified’ portfolio",
-      "link": "https://www.marketwatch.com/story/wall-street-and-ai-ruined-your-diversified-portfolio-f1255373?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 12:24:00 GMT",
-      "ts": 1790079840
-    },
-    {
       "source": "Cointelegraph",
       "title": "Binance takes $100M stake in Circle under expanded USDC deal",
       "link": "https://cointelegraph.com/news/binance-stake-circle-expanded-usdc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -156,20 +170,6 @@
       "link": "https://www.coindesk.com/business/2026/09/22/visa-partner-reap-eyes-local-currency-stablecoins-in-several-countries-for-24-7-onchain-fx",
       "published": "Tue, 22 Sep 2026 12:05:55 +0000",
       "ts": 1790078755
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
-      "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 12:02:00 GMT",
-      "ts": 1790078520
-    },
-    {
-      "source": "MarketWatch",
-      "title": "How this market-beating fund is constantly shifting to keep up with the AI trade",
-      "link": "https://www.marketwatch.com/story/how-this-market-beating-fund-is-constantly-shifting-to-keep-up-with-the-ai-trade-cf8536e0?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 11:55:00 GMT",
-      "ts": 1790078100
     },
     {
       "source": "CoinDesk",
