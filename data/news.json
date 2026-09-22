@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-22T10:27:55.166840+00:00",
+  "updated_utc": "2026-09-22T10:41:59.692032+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Roivant (ROIV): $9 Billion Sales Potential Faces a Commercialization Test",
+      "link": "https://finance.yahoo.com/healthcare/articles/roivant-roiv-9-billion-sales-102730498.html",
+      "published": "2026-09-22T10:27:30Z",
+      "ts": 1790072850
+    },
     {
       "source": "CoinDesk",
       "title": "Live updates: Oil falls as Iran signals possible hormuz reopening, bitcoin holds near $86,000",
@@ -16,6 +23,13 @@
       "link": "https://finance.yahoo.com/healthcare/articles/fda-approves-fayuvi-does-mean-101851628.html",
       "published": "2026-09-22T10:18:51Z",
       "ts": 1790072331
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "1 in 5 Americans thinks sports betting is an ‘investment’ — but the data says something different",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-5-americans-thinks-sports-101500032.html",
+      "published": "2026-09-22T10:15:00Z",
+      "ts": 1790072100
     },
     {
       "source": "MarketWatch",
@@ -51,13 +65,6 @@
       "link": "https://finance.yahoo.com/markets/options/articles/corporate-bond-buyers-picky-flood-100410778.html",
       "published": "2026-09-22T10:07:40Z",
       "ts": 1790071660
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stellantis (STLA) Reportedly Eyes $1.16 Billion France Van Investment",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stellantis-stla-reportedly-eyes-1-100646836.html",
-      "published": "2026-09-22T10:06:46Z",
-      "ts": 1790071606
     },
     {
       "source": "Cointelegraph",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-toward-82k-as-tokenizedstock-move-boosts-crypto-sentiment-4908305",
       "published": "2026-09-21 21:37:00",
       "ts": 1790026620
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar rises to nearly 8-week high, euro in focus after German political setback",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
-      "published": "2026-09-21 21:01:45",
-      "ts": 1790024505
     }
   ]
 }
