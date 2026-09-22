@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-22T21:44:41.593143+00:00",
+  "updated_utc": "2026-09-22T21:54:11.039385+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The Nasdaq’s rapid rise to a record is sending a message to investors: Don’t wait for a pullback to buy",
+      "link": "https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories",
+      "published": "Tue, 22 Sep 2026 21:44:00 GMT",
+      "ts": 1790113440
+    },
     {
       "source": "MarketWatch",
       "title": "Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights",
@@ -93,13 +100,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 20:03:30 +0000",
       "ts": 1790107410
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Jet fuel is following diesel’s price jump as the Hormuz supply shock hits the skies",
-      "link": "https://www.marketwatch.com/story/jet-fuel-is-following-diesels-price-jump-as-the-hormuz-supply-shock-hits-the-skies-6fc21238?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 19:59:00 GMT",
-      "ts": 1790107140
     },
     {
       "source": "Cointelegraph",
