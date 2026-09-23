@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-23T20:46:11.563072+00:00",
+  "updated_utc": "2026-09-23T20:55:07.965568+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Fewer stocks are carrying the market than at any time since the dot-com peak",
+      "link": "https://www.marketwatch.com/story/fewer-stocks-are-carrying-the-market-than-at-any-time-since-the-dot-com-peak-4033c4bb?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 20:45:00 GMT",
+      "ts": 1790196300
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Former Hack VC partner Hsin-Ju Chuang found dead at 37",
+      "link": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 20:43:56 +0000",
+      "ts": 1790196236
+    },
     {
       "source": "MarketWatch",
       "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
@@ -65,13 +79,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 19:39:24 +0000",
       "ts": 1790192364
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Micron’s stock has become a ‘battleground’ as the AI narrative shifts",
-      "link": "https://www.marketwatch.com/story/microns-stock-has-become-a-battleground-as-the-ai-narrative-shifts-d61a3408?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 19:38:00 GMT",
-      "ts": 1790192280
     },
     {
       "source": "Investing Crypto",
@@ -179,13 +186,6 @@
       "ts": 1790173959
     },
     {
-      "source": "Cointelegraph",
-      "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
-      "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 14:28:50 +0000",
-      "ts": 1790173730
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin steadies below $86k as ETF inflows soar; Trump-Xi summit in focus",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Fox Corporation Stock Underperforming the S&P 500?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fox-corporation-stock-underperforming-p-121812686.html",
-      "published": "2026-09-22T12:18:12Z",
-      "ts": 1790079492
+      "title": "Stock Futures Waver Near Flatline as Wall Street Craves Diplomacy",
+      "link": "https://www.barrons.com/livecoverage/stock-market-news-today-092226/card/stock-futures-waver-near-flatline-as-wall-street-craves-diplomacy-x969UY35ApW9lSSYweuz?siteid=yhoof2&yptr=yahoo",
+      "published": "2026-09-22T12:36:01Z",
+      "ts": 1790080561
     }
   ]
 }
