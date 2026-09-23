@@ -1,70 +1,77 @@
 {
-  "updated_utc": "2026-09-23T12:12:53.032947+00:00",
+  "updated_utc": "2026-09-23T12:33:22.316207+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The AI-infrastructure trade is still not over, says this top-performing fund manager. Here’s where he’s investing.",
+      "link": "https://www.marketwatch.com/story/the-ai-infrastructure-trade-is-still-not-over-says-this-top-performing-fund-manager-where-hes-investing-8c61f6da?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 12:30:00 GMT",
+      "ts": 1790166600
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "EU watchdogs warn quantum computers could pick crypto’s locks",
+      "link": "https://cointelegraph.com/news/eu-watchdogs-quantum-computers-crypto-locks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 12:22:56 +0000",
+      "ts": 1790166176
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is XRP a Buy Right Now at $1.50?",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-buy-now-1-50-121600308.html",
+      "published": "2026-09-23T12:16:00Z",
+      "ts": 1790165760
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘She says it’s just money’: My friend pays for everything. I should be grateful, but I can’t stand her anymore.",
+      "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 12:15:00 GMT",
+      "ts": 1790165700
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Nasdaq Dips After Hitting Record Highs; Micron, Sandisk Sink In Buy Zones (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-record-high-micron-sandisk/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T12:07:28Z",
+      "ts": 1790165248
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures Fall After Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T12:05:37Z",
+      "ts": 1790165137
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "McDonald's bets on hand-breaded chicken, AI drive-thrus to fend off Burger King",
+      "link": "https://finance.yahoo.com/markets/stocks/article/mcdonalds-bets-on-hand-breaded-chicken-ai-drive-thrus-to-fend-off-burger-king-120418093.html",
+      "published": "2026-09-23T12:04:18Z",
+      "ts": 1790165058
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Verizon to invest $70 million in AI training effort",
+      "link": "https://finance.yahoo.com/news/verizon-invest-70-million-ai-120116227.html",
+      "published": "2026-09-23T12:01:16Z",
+      "ts": 1790164876
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Four AI Stars Rev Up As Analysts Raise Profit Targets; Micron Clears Early Buy Point",
+      "link": "https://www.investors.com/research/ai-micron-mu-stock/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T12:00:57Z",
+      "ts": 1790164857
+    },
     {
       "source": "MarketWatch",
       "title": "What the Trump-Xi meeting could do to strengthen the guardrails for AI",
       "link": "https://www.marketwatch.com/story/what-the-trump-xi-meeting-coulddo-to-strengthen-the-guardrails-for-ai-298a5432?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 12:00:00 GMT",
       "ts": 1790164800
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "CD&R, Warburg Pincus in talks to buy Canaccord’s UK wealth arm – report",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cd-r-warburg-pincus-talks-115838826.html",
-      "published": "2026-09-23T11:58:38Z",
-      "ts": 1790164718
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dow Jones Futures Fall After Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T11:57:01Z",
-      "ts": 1790164621
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Oil holds near two-week lows while diesel cracks hit record peak",
-      "link": "https://finance.yahoo.com/news/oil-falls-increased-gulf-supply-014402051.html",
-      "published": "2026-09-23T11:51:34Z",
-      "ts": 1790164294
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Casey’s General Stores (CASY) Beat Estimates, So Why Did Wall Street Cut Its Targets?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/casey-general-stores-casy-beat-115123835.html",
-      "published": "2026-09-23T11:51:23Z",
-      "ts": 1790164283
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Reddit (RDDT) Has Strong Financials. Are User Trends the Bigger Risk?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-strong-financials-user-114554112.html",
-      "published": "2026-09-23T11:45:54Z",
-      "ts": 1790163954
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Analysts Think 6 S&P 500 Stocks Are Grossly Overvalued",
-      "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-analysts-think-stocks-are-grossly-overvalued/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T11:42:58Z",
-      "ts": 1790163778
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The AI-infrastructure trade is still not over, says this top-performing fund manager. Here’s where he’s investing.",
-      "link": "https://www.marketwatch.com/story/the-ai-infrastructure-trade-is-still-not-over-says-this-top-performing-fund-manager-where-hes-investing-8c61f6da?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 11:40:00 GMT",
-      "ts": 1790163600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Bitcoin and ethereum prices today, Wednesday, September 23, 2026: Crypto prices open near 8-month highs. Is the crypto winter over?",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-23-2026-crypto-prices-open-near-8-month-highs-is-the-crypto-winter-over-113908671.html",
-      "published": "2026-09-23T11:39:08Z",
-      "ts": 1790163548
     },
     {
       "source": "CoinDesk",
@@ -179,13 +186,6 @@
       "ts": 1790156559
     },
     {
-      "source": "MarketWatch",
-      "title": "Why analysts say a diesel export ban could backfire",
-      "link": "https://www.marketwatch.com/story/why-analysts-say-a-diesel-export-ban-could-backfire-8b13cd51?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 09:29:00 GMT",
-      "ts": 1790155740
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound slips as dollar resilience builds on hawkish Fed bets",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-dollar-resilience-builds-on-hawkish-fed-bets-4912384",
@@ -212,6 +212,13 @@
       "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 08:07:10 +0000",
       "ts": 1790150830
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as oil steadies, markets eye looming Trump-Xi meeting",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
+      "published": "2026-09-23T08:05:56Z",
+      "ts": 1790150756
     },
     {
       "source": "Investing Forex",
@@ -261,13 +268,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 05:43:01 +0000",
       "ts": 1790142181
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US Treasury secretary emerges as frontrunner for Trump’s AI czar role: Report",
-      "link": "https://cointelegraph.com/news/us-treasury-secretary-emerges-as-contender-for-trumps-ai-czar-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 05:34:49 +0000",
-      "ts": 1790141689
     },
     {
       "source": "Investing Crypto",
