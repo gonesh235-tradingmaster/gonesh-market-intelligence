@@ -1,14 +1,28 @@
 {
-  "updated_utc": "2026-09-23T07:40:08.091520+00:00",
+  "updated_utc": "2026-09-23T07:52:14.876782+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase users can now borrow USDC against bitcoin at a fixed rate",
+      "link": "https://www.coindesk.com/markets/2026/09/23/coinbase-users-can-now-borrow-usdc-against-bitcoin-at-a-fixed-rate",
+      "published": "Wed, 23 Sep 2026 07:49:23 +0000",
+      "ts": 1790149763
+    },
     {
       "source": "CoinDesk",
       "title": "XRP Ledger retries upgrade that lets banks split payment and compliance duties",
       "link": "https://www.coindesk.com/tech/2026/09/23/xrp-ledger-retries-upgrade-that-lets-banks-split-payment-and-compliance-duties",
       "published": "Wed, 23 Sep 2026 07:37:46 +0000",
       "ts": 1790149066
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Cregis Marks Two Years of Middle East Growth as Traditional Financial Firms Drive Adoption",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cregis-marks-two-years-of-middle-east-growth-as-traditional-financial-firms-drive-adoption-4912208",
+      "published": "2026-09-23 07:30:34",
+      "ts": 1790148634
     },
     {
       "source": "Cointelegraph",
@@ -207,13 +221,6 @@
       "ts": 1790100180
     },
     {
-      "source": "CoinDesk",
-      "title": "Canada's 'Big Six' banks to launch interbank tokenized deposit initiative",
-      "link": "https://www.coindesk.com/business/2026/09/22/canada-s-big-six-banks-unite-to-launch-interbank-tokenized-deposit-initiative",
-      "published": "Tue, 22 Sep 2026 17:34:03 +0000",
-      "ts": 1790098443
-    },
-    {
       "source": "Investing Crypto",
       "title": "Farmhouse holds 15.709 Bitcoin with $347K in unrealized gains",
       "link": "https://www.investing.com/news/cryptocurrency-news/farmhouse-holds-15709-bitcoin-with-347k-in-unrealized-gains-432SI-4911044",
@@ -263,13 +270,6 @@
       "ts": 1790029835
     },
     {
-      "source": "Investing Crypto",
-      "title": "XRP Climbs 10% In a Green Day",
-      "link": "https://www.investing.com/news/cryptocurrency-news/xrp-climbs-10-in-a-green-day-4909700",
-      "published": "2026-09-21 21:39:05",
-      "ts": 1790026745
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar rises to nearly 8-week high, euro in focus after German political setback",
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "HP Stock Drops After PC Maker Forecasts Industry Sales Decline",
-      "link": "https://www.investors.com/news/technology/hpq-stock-hp-forecasts-pc-industry-sales-decline/?src=A00220&yptr=yahoo",
-      "published": "2026-09-21T20:24:33Z",
-      "ts": 1790022273
+      "title": "Stocks Settle Sharply Higher as Crude Prices Plunge and Chipmakers Soar",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-sharply-higher-crude-203423357.html",
+      "published": "2026-09-21T20:34:23Z",
+      "ts": 1790022863
     }
   ]
 }
