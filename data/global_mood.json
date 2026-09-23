@@ -1,9 +1,9 @@
 {
-  "updated_utc": "2026-09-23T16:52:45.848613+00:00",
+  "updated_utc": "2026-09-23T17:02:52.570241+00:00",
   "source": "Computed from NIFTY + BTC",
   "score": 14,
   "label": "NEUTRAL",
-  "explanation": "Global mood is neutral (score +14). NIFTY: NIFTY up 0.76% • US markets up 2.79% • US 10Y yield rising sharply | BTC: BTC down 3.05% in 24h",
+  "explanation": "Global mood is neutral (score +14). NIFTY: NIFTY up 0.76% • US markets up 2.73% • US 10Y yield rising sharply | BTC: BTC down 2.80% in 24h",
   "components": [
     {
       "asset": "NIFTY",
@@ -12,7 +12,7 @@
     },
     {
       "asset": "BTC",
-      "score": -5,
+      "score": -4,
       "weight": 0.5
     }
   ]
