@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-23T06:23:07.248731+00:00",
+  "updated_utc": "2026-09-23T06:40:49.481604+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin steady near $87k as ETF inflows soar; Trump-Xi summit in focus",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
+      "published": "2026-09-23 06:23:57",
+      "ts": 1790144637
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -61,7 +68,7 @@
     },
     {
       "source": "Investing Forex",
-      "title": "Asia FX flat, dollar creeps higher ahead of U.S.-China summit",
+      "title": "Dollar creeps higher ahead of U.S.-China summit",
       "link": "https://www.investing.com/news/forex-news/asia-fx-flat-dollar-creeps-higher-ahead-of-uschina-summit-4912043",
       "published": "2026-09-23 02:59:22",
       "ts": 1790132362
@@ -263,13 +270,6 @@
       "ts": 1790026745
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin surges to over 7-month high as tokenized-stock move lifts crypto sentiment",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-toward-82k-as-tokenizedstock-move-boosts-crypto-sentiment-4908305",
-      "published": "2026-09-21 21:37:00",
-      "ts": 1790026620
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar rises to nearly 8-week high, euro in focus after German political setback",
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "‘Substantially Higher Than a Car’: XPeng’s CEO on What Each Robot Could Earn. First It Has to Survive a Brutal Price War.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/substantially-higher-car-xpeng-ceo-190125193.html",
-      "published": "2026-09-21T19:01:25Z",
-      "ts": 1790017285
+      "title": "Cell Therapy Manufacturer Buys 85K SF Facility To Expand In Philly Suburbs",
+      "link": "https://finance.yahoo.com/healthcare/articles/cell-therapy-manufacturer-buys-85k-190156676.html",
+      "published": "2026-09-21T19:01:56Z",
+      "ts": 1790017316
     }
   ]
 }
