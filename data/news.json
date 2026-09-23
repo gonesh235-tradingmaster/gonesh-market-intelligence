@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-23T18:53:15.139900+00:00",
+  "updated_utc": "2026-09-23T19:03:33.000692+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
+      "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 19:00:00 GMT",
+      "ts": 1790190000
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Former Hack VC partner Hsin-Ju Chuang found dead following public dispute with the firm",
+      "link": "https://www.coindesk.com/business/2026/09/23/former-hack-vc-partner-hsin-ju-chuang-found-dead-following-public-dispute-with-firm",
+      "published": "Wed, 23 Sep 2026 18:59:36 +0000",
+      "ts": 1790189976
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Here’s where thousands of homeowners face higher insurance bills after FEMA updated its flood maps",
+      "link": "https://www.marketwatch.com/story/10-places-where-thousands-of-homeowners-face-higher-insurance-bills-after-fema-updated-its-flood-maps-ff779184?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 18:55:00 GMT",
+      "ts": 1790189700
+    },
     {
       "source": "Investing Forex",
       "title": "Treasury yields soar, 10-yr at highest since July 2007 on hot U.S. data, Fedspeak",
@@ -40,7 +61,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Businesses are growing at the fastest pace in over four years. Why war and inflation aren’t slowing the U.S. economy down.",
+      "title": "Businesses are growing at the fastest pace in over four years. Why war and inflation aren’t stopping the U.S. economy.",
       "link": "https://www.marketwatch.com/story/businesses-are-growing-at-the-fastest-pace-in-over-four-years-why-war-and-inflation-isnt-slowing-the-u-s-economy-down-2e39e7c7?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 18:06:00 GMT",
       "ts": 1790186760
@@ -72,20 +93,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitgo-says-asset-servicing-is-the-real-barrier-to-tokenized-securities-4913704",
       "published": "2026-09-23 17:53:48",
       "ts": 1790186028
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Bond yields surge to 5.12% as Wall Street fears more Fed rate hikes",
-      "link": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 17:52:00 GMT",
-      "ts": 1790185920
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Fuel prices keep rising — and so do Democrats’ chances of winning both the House and Senate",
-      "link": "https://www.marketwatch.com/story/fuel-prices-keep-rising-and-so-do-democrats-chances-for-winning-both-the-house-and-senate-c4541380?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 17:49:00 GMT",
-      "ts": 1790185740
     },
     {
       "source": "Cointelegraph",
@@ -214,13 +221,6 @@
       "ts": 1790160164
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin consolidates near $86,000 as rally narrows and Brent slips below $100",
-      "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-consolidates-near-usd86-000-as-rally-narrows-and-brent-slips-below-usd100",
-      "published": "Wed, 23 Sep 2026 10:28:11 +0000",
-      "ts": 1790159291
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound slips as dollar resilience builds on hawkish Fed bets",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-dollar-resilience-builds-on-hawkish-fed-bets-4912384",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dogecoin Targets 30% Surge Following $12.66M Short Squeeze",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/dogecoin-targets-30-surge-following-100106959.html",
-      "published": "2026-09-22T10:01:06Z",
-      "ts": 1790071266
+      "title": "Twist Bioscience (TWST) Expands AI Drug Discovery Exposure With Lilly TuneLab Partnership",
+      "link": "https://finance.yahoo.com/technology/ai/articles/twist-bioscience-twst-expands-ai-100850469.html",
+      "published": "2026-09-22T10:08:50Z",
+      "ts": 1790071730
     }
   ]
 }
