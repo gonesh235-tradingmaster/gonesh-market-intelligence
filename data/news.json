@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-23T04:03:06.556607+00:00",
+  "updated_utc": "2026-09-23T04:20:59.462058+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
+      "link": "https://www.coindesk.com/markets/2026/09/23/zcash-leads-crypto-majors-with-a-10-gain-as-bitcoin-holds-near-usd87-000",
+      "published": "Wed, 23 Sep 2026 04:10:08 +0000",
+      "ts": 1790136608
+    },
     {
       "source": "Cointelegraph",
       "title": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
@@ -219,13 +226,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-area-debt-bourses-face-risk-drag-from-paris-debt-trajectory-4910015",
       "published": "2026-09-22 12:15:26",
       "ts": 1790079326
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
-      "link": "https://www.coindesk.com/business/2026/09/22/visa-partner-reap-eyes-local-currency-stablecoins-in-several-countries-for-24-7-onchain-fx",
-      "published": "Tue, 22 Sep 2026 12:05:55 +0000",
-      "ts": 1790078755
     },
     {
       "source": "Investing Crypto",
