@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-23T00:22:32.046804+00:00",
+  "updated_utc": "2026-09-23T00:39:20.004154+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "CFTC issues warning over risky prediction market ‘mention’ contracts",
+      "link": "https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 00:18:44 +0000",
+      "ts": 1790122724
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms",
@@ -163,13 +170,6 @@
       "link": "https://cointelegraph.com/news/failure-clarity-act-vote-us-lawmakers-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 22 Sep 2026 15:55:37 +0000",
       "ts": 1790092537
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
-      "link": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 15:37:17 +0000",
-      "ts": 1790091437
     },
     {
       "source": "CoinDesk",
