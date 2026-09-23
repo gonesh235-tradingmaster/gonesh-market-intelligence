@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-23T23:16:53.791972+00:00",
+  "updated_utc": "2026-09-23T23:27:44.291525+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
+      "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 23:15:00 GMT",
+      "ts": 1790205300
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin slips nearly 2%, extends pullback after rally amid hit to risk sentiment",
@@ -72,13 +79,6 @@
       "link": "https://www.marketwatch.com/story/inflation-could-cost-republicans-the-senate-this-chart-shows-how-e94a49da?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 21:13:00 GMT",
       "ts": 1790197980
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Palantir’s stock sees its highest close of the year, sealing a dramatic comeback",
-      "link": "https://www.marketwatch.com/story/palantirs-stock-is-heading-for-its-highest-close-of-the-year-in-a-dramatic-comeback-a5fd451d?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 21:08:00 GMT",
-      "ts": 1790197680
     },
     {
       "source": "Cointelegraph",
@@ -271,17 +271,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Prediction: Here's What a $5,000 Investment in Palantir Today Could Be Worth by 2031",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-heres-5-000-investment-153200192.html",
-      "published": "2026-09-22T15:32:00Z",
-      "ts": 1790091120
+      "title": "Crude Oil Prices Pressured by Diplomatic Hopes in the Middle East",
+      "link": "https://finance.yahoo.com/energy/articles/crude-oil-prices-pressured-diplomatic-154210848.html",
+      "published": "2026-09-22T15:42:10Z",
+      "ts": 1790091730
     },
     {
       "source": "Yahoo Finance",
-      "title": "Obama says AI flipped from 90% human-taught to 50/50 in under a year — the six-figure jobs he says go first",
-      "link": "https://finance.yahoo.com/technology/ai/articles/obama-says-ai-flipped-90-153000409.html",
-      "published": "2026-09-22T15:30:00Z",
-      "ts": 1790091000
+      "title": "Nvidia Just Gave Einride Stock a Big Boost. How to Play ENRD Here.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-gave-einride-stock-154207385.html",
+      "published": "2026-09-22T15:42:07Z",
+      "ts": 1790091727
     }
   ]
 }
