@@ -1,8 +1,71 @@
 {
-  "updated_utc": "2026-09-23T14:57:52.202637+00:00",
+  "updated_utc": "2026-09-23T15:12:59.793071+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Goldman Sachs' interest rate prediction hinges on oil prices",
+      "link": "https://finance.yahoo.com/economy/policy/article/goldman-sachs-interest-rate-prediction-hinges-on-oil-prices-150835873.html",
+      "published": "2026-09-23T15:08:35Z",
+      "ts": 1790176115
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Musk praises China’s leadership and pushes for AI regulation ahead of state dinner",
+      "link": "https://www.marketwatch.com/story/musk-praises-chinas-leadership-and-pushes-for-ai-regulation-ahead-of-state-dinner-4efe6e22?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 15:08:00 GMT",
+      "ts": 1790176080
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: Inside the chain settling $150 billion of stablecoins a week",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week",
+      "published": "Wed, 23 Sep 2026 15:07:21 +0000",
+      "ts": 1790176041
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Microsoft Stock Gets Another Upgrade, Price-Target Hike",
+      "link": "https://www.investors.com/news/technology/microsoft-stock-gets-another-upgrade-price-target-hike/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T15:01:49Z",
+      "ts": 1790175709
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "What Makes Abbott Laboratories (ABT) an Attractive Opportunity?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/makes-abbott-laboratories-abt-attractive-150134056.html",
+      "published": "2026-09-23T15:01:34Z",
+      "ts": 1790175694
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "BTCC Exchange and Markets.com Announce Promotional Collaboration Ahead of TOKEN2049 Singapore",
+      "link": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-and-marketscom-announce-promotional-collaboration-ahead-of-token2049-singapore-4913473",
+      "published": "2026-09-23 15:00:39",
+      "ts": 1790175639
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Meta Rallies Into Connect Conference. Why The Muse AI Agent Is Sending Some Stocks Lower.",
+      "link": "https://www.investors.com/news/technology/meta-stock-connect-2026-muse-ai-rally/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T14:59:14Z",
+      "ts": 1790175554
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Social Security checks are projected to be cut by $540 a month in just six years",
+      "link": "https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 14:57:00 GMT",
+      "ts": 1790175420
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin long liquidations hit $280M as BTC price dips under $84K",
+      "link": "https://cointelegraph.com/markets/bitcoin-long-liquidations-hit-280m-as-btc-price-dips-under-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 14:52:11 +0000",
+      "ts": 1790175131
+    },
     {
       "source": "MarketWatch",
       "title": "My wife wants to send money to our grand-nephew in college. How can I push back without starting a fight?",
@@ -19,52 +82,24 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "The Street is Finally Going Bullish on Salesforce and I Keep Buying",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/street-finally-going-bullish-salesforce-144549957.html",
+      "title": "How Meta's Muse, Vanguard AI Threat Triggered Schwab Sell Signal",
+      "link": "https://www.investors.com/news/schwab-stock-meta-muse-altruist-vanguard-ai-jpmorgan-chase-sp-500/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T14:45:57Z",
+      "ts": 1790174757
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "SiTime Corporation (SITM) Positioned at the Heart of AI Hardware Expansion",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sitime-corporation-sitm-positioned-heart-144549464.html",
       "published": "2026-09-23T14:45:49Z",
       "ts": 1790174749
     },
     {
       "source": "Yahoo Finance",
-      "title": "Supply Constraints Weighed on Fabrinet (FN)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/supply-constraints-weighed-fabrinet-fn-144038862.html",
-      "published": "2026-09-23T14:40:38Z",
-      "ts": 1790174438
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Uber: Insider Buying and Selling Activity to Watch Amid Panic After Tesla Cybercab Rollout",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/uber-insider-buying-selling-activity-143957821.html",
-      "published": "2026-09-23T14:39:57Z",
-      "ts": 1790174397
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Value Investing Legend Seth Klarman’s New Non-AI Picks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/value-investing-legend-seth-klarman-143834392.html",
-      "published": "2026-09-23T14:38:34Z",
-      "ts": 1790174314
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Cardinal Infrastructure Group’s (CDNL) Long-Term Growth Opportunity Remains Intact",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cardinal-infrastructure-group-cdnl-long-143814240.html",
-      "published": "2026-09-23T14:38:14Z",
-      "ts": 1790174294
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "FirstService Corp. (FSV) Endures Tough Q2 as Roofing and Closet Segments Stay Soft",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/firstservice-corp-fsv-endures-tough-143503176.html",
-      "published": "2026-09-23T14:35:03Z",
-      "ts": 1790174103
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Billionaire Chase Coleman’s Top 2 New AI Stock Picks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-chase-coleman-top-2-143424880.html",
-      "published": "2026-09-23T14:34:24Z",
-      "ts": 1790174064
+      "title": "Breakout Watch: Aerospace Rival Leaves Boeing, Airbus In The Dust",
+      "link": "https://www.investors.com/research/breakout-stocks-technical-analysis/embraer-embj-stock-jets-past-boeing-airbus/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T14:43:35Z",
+      "ts": 1790174615
     },
     {
       "source": "Investing Forex",
@@ -137,13 +172,6 @@
       "ts": 1790170200
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
-      "link": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 13:30:00 GMT",
-      "ts": 1790170200
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book",
       "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
@@ -169,13 +197,6 @@
       "title": "Stablecoin cross-border flows surge 78%, defying crypto bear market",
       "link": "https://cointelegraph.com/news/stablecoin-cross-border-flows-surge-78-defying-crypto-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 13:00:00 +0000",
-      "ts": 1790168400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The AI-infrastructure trade is still not over, says this top-performing fund manager. Here’s where he’s investing.",
-      "link": "https://www.marketwatch.com/story/the-ai-infrastructure-trade-is-still-not-over-says-this-top-performing-fund-manager-where-hes-investing-8c61f6da?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 13:00:00 GMT",
       "ts": 1790168400
     },
     {
@@ -235,13 +256,6 @@
       "ts": 1790159084
     },
     {
-      "source": "Cointelegraph",
-      "title": "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
-      "link": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 10:06:55 +0000",
-      "ts": 1790158015
-    },
-    {
       "source": "CoinDesk",
       "title": "FTX, Alameda-linked wallets send $75 million in ether to Wintermute, onchain data shows",
       "link": "https://www.coindesk.com/business/2026/09/23/ftx-alameda-linked-wallets-send-usd75-million-in-ether-to-wintermute-onchain-data-shows",
@@ -256,13 +270,6 @@
       "ts": 1790155551
     },
     {
-      "source": "CoinDesk",
-      "title": "AI agents will soon buy their own computing power and data using stablecoins, according to BlackRock",
-      "link": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
-      "published": "Wed, 23 Sep 2026 09:17:53 +0000",
-      "ts": 1790155073
-    },
-    {
       "source": "Investing Crypto",
       "title": "Cregis Marks Two Years of Middle East Growth as Traditional Financial Firms Drive Adoption",
       "link": "https://www.investing.com/news/cryptocurrency-news/cregis-marks-two-years-of-middle-east-growth-as-traditional-financial-firms-drive-adoption-4912208",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
       "published": "2026-09-23 07:11:40",
       "ts": 1790147500
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin takes a breather, halting a big rally that briefly took it above $87k",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
-      "published": "2026-09-22 22:16:25",
-      "ts": 1790115385
     }
   ]
 }
