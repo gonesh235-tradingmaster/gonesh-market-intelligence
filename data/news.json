@@ -1,8 +1,43 @@
 {
-  "updated_utc": "2026-09-23T11:18:38.297737+00:00",
+  "updated_utc": "2026-09-23T11:32:33.006655+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin slips under $86,000 as money rotates into BCH and ZEC",
+      "link": "https://www.coindesk.com/business/2026/09/23/live-updates-bitcoin-slips-under-usd86-000-as-money-rotates-into-bch-and-zec",
+      "published": "Wed, 23 Sep 2026 11:29:30 +0000",
+      "ts": 1790162970
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The S&P 500 has a 'breadth' problem. Crypto doesn’t.",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/23/the-s-and-p-500-has-a-breadth-problem-crypto-doesn-t",
+      "published": "Wed, 23 Sep 2026 11:28:50 +0000",
+      "ts": 1790162930
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "CA ANZ backs GAA’s push to align sustainability and financial reporting",
+      "link": "https://finance.yahoo.com/economy/policy/articles/ca-anz-backs-gaa-push-112556531.html",
+      "published": "2026-09-23T11:25:56Z",
+      "ts": 1790162756
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Silver price today, Wednesday, September 23, 2026:  Silver prices settle ahead of key U.S.-China summit",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-september-23-2026-silver-prices-settle-ahead-of-key-us-china-summit-111845856.html",
+      "published": "2026-09-23T11:18:45Z",
+      "ts": 1790162325
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Elon Musk Is Teasing a Tesla-SpaceX Merger Again. Terafab Shows Why AI Could Be the Logic",
+      "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-teasing-tesla-spacex-111832696.html",
+      "published": "2026-09-23T11:18:32Z",
+      "ts": 1790162312
+    },
     {
       "source": "MarketWatch",
       "title": "Why CoreWeave’s beaten-down stock could be due for a major comeback",
@@ -12,10 +47,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "UK watchdog issues ABP, Dovecote Park autonomy notice",
-      "link": "https://finance.yahoo.com/economy/policy/articles/uk-watchdog-issues-abp-dovecote-111601558.html",
-      "published": "2026-09-23T11:16:01Z",
-      "ts": 1790162161
+      "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T11:17:15Z",
+      "ts": 1790162235
     },
     {
       "source": "MarketWatch",
@@ -23,6 +58,20 @@
       "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 11:15:00 GMT",
       "ts": 1790162100
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Breakout Watch: Aerospace Rival Leaves Boeing, Airbus In The Dust",
+      "link": "https://www.investors.com/research/breakout-stocks-technical-analysis/embraer-embj-stock-jets-past-boeing-airbus/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T11:14:48Z",
+      "ts": 1790162088
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Can Zenas BioPharma’s (ZBIO) Clinical Pipeline Justify Its Heavy Cash Burn?",
+      "link": "https://finance.yahoo.com/healthcare/articles/zenas-biopharma-zbio-clinical-pipeline-111448242.html",
+      "published": "2026-09-23T11:14:48Z",
+      "ts": 1790162088
     },
     {
       "source": "MarketWatch",
@@ -37,41 +86,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/addus-homecare-adus-compound-wealth-110818352.html",
       "published": "2026-09-23T11:08:18Z",
       "ts": 1790161698
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Gold price today, Wednesday, September 23, 2026: Gold holds as investors weigh China, Iran relations",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-23-2026-gold-holds-as-investors-weigh-china-iran-relations-110649042.html",
-      "published": "2026-09-23T11:06:49Z",
-      "ts": 1790161609
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Analysis-There's a reason Trump is the only one talking about 1% rates",
-      "link": "https://finance.yahoo.com/economy/policy/articles/analysis-theres-reason-trump-only-110508485.html",
-      "published": "2026-09-23T11:05:08Z",
-      "ts": 1790161508
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Vanguard says Gen Z is more retirement-ready than boomers — but only 40% are on track. Catch up before it’s too late",
-      "link": "https://finance.yahoo.com/markets/articles/vanguard-says-gen-z-more-110500982.html",
-      "published": "2026-09-23T11:05:00Z",
-      "ts": 1790161500
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "This AI Memory Stock Is Up More Than 650% in 2026. Micron Investors Should Pay Attention",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ai-memory-stock-more-650-110330434.html",
-      "published": "2026-09-23T11:03:30Z",
-      "ts": 1790161410
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is PENN Entertainment (PENN) Stock a Buy After Its Latest Multi-Million Dollar Bet?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/penn-entertainment-penn-stock-buy-110230549.html",
-      "published": "2026-09-23T11:01:43Z",
-      "ts": 1790161303
     },
     {
       "source": "MarketWatch",
@@ -254,20 +268,6 @@
       "link": "https://cointelegraph.com/news/us-treasury-secretary-emerges-as-contender-for-trumps-ai-czar-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 05:34:49 +0000",
       "ts": 1790141689
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
-      "link": "https://www.coindesk.com/tech/2026/09/23/solana-starts-testing-upgrade-that-could-cut-finality-from-12-8-seconds-to-150-milliseconds",
-      "published": "Wed, 23 Sep 2026 05:16:22 +0000",
-      "ts": 1790140582
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin's on a streak it hasn't hit since 2012",
-      "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-on-a-streak-it-hasn-t-hit-since-2012",
-      "published": "Wed, 23 Sep 2026 05:12:42 +0000",
-      "ts": 1790140362
     },
     {
       "source": "Investing Crypto",
