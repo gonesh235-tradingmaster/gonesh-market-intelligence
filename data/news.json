@@ -1,12 +1,68 @@
 {
-  "updated_utc": "2026-09-23T10:09:24.526077+00:00",
+  "updated_utc": "2026-09-23T10:24:59.826154+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
       "source": "Yahoo Finance",
+      "title": "BoomRay and Novartis Pharma sign $900m deal for radioligand therapy",
+      "link": "https://finance.yahoo.com/healthcare/articles/boomray-novartis-pharma-sign-900m-101831580.html",
+      "published": "2026-09-23T10:18:31Z",
+      "ts": 1790158711
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
+      "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 10:16:00 GMT",
+      "ts": 1790158560
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
+      "link": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 10:15:00 GMT",
+      "ts": 1790158500
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Can Kennametal (KMT) Maintain Its Momentum?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/kennametal-kmt-maintain-momentum-101027152.html",
+      "published": "2026-09-23T10:10:27Z",
+      "ts": 1790158227
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CFTC chair pushes tokenization as SEC opens door to onchain stocks",
+      "link": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 10:06:55 +0000",
+      "ts": 1790158015
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin bull market ‘confirmed’ but $90K presents profit-taking risk: Analysis",
+      "link": "https://cointelegraph.com/markets/bitcoin-bull-market-confirmed-but-90k-presents-profit-taking-risk-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 10:05:10 +0000",
+      "ts": 1790157910
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "The future of AI growth rests on Big Tech's cash flow tripling to $2 trillion: Chart of the Day",
+      "link": "https://finance.yahoo.com/markets/article/the-future-of-ai-growth-rests-on-big-techs-cash-flow-tripling-to-2-trillion-chart-of-the-day-100000169.html",
+      "published": "2026-09-23T10:00:00Z",
+      "ts": 1790157600
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Mortgage and refinance interest rates today, Wednesday, September 23, 2026: Fixed rates find more room to fall",
       "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-september-23-2026-fixed-rates-find-more-room-to-fall-100000875.html",
+      "published": "2026-09-23T10:00:00Z",
+      "ts": 1790157600
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "It’s harder to get into a hospitality program than it is to get into Harvard — why grads are flocking to the hotel trade",
+      "link": "https://finance.yahoo.com/small-business/articles/harder-hospitality-program-harvard-why-100000789.html",
       "published": "2026-09-23T10:00:00Z",
       "ts": 1790157600
     },
@@ -18,32 +74,11 @@
       "ts": 1790157600
     },
     {
-      "source": "Yahoo Finance",
-      "title": "The future of AI growth rests on Big Tech's cash flow tripling to $2 trillion: Chart of the Day",
-      "link": "https://finance.yahoo.com/markets/article/the-future-of-ai-growth-rests-on-big-techs-cash-flow-tripling-to-2-trillion-chart-of-the-day-100000169.html",
-      "published": "2026-09-23T10:00:00Z",
-      "ts": 1790157600
-    },
-    {
       "source": "CoinDesk",
       "title": "FTX, Alameda-linked wallets send $75 million in ether to Wintermute, onchain data shows",
       "link": "https://www.coindesk.com/business/2026/09/23/ftx-alameda-linked-wallets-send-usd75-million-in-ether-to-wintermute-onchain-data-shows",
       "published": "Wed, 23 Sep 2026 09:57:24 +0000",
       "ts": 1790157444
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "XRP, Solana, or Zcash: Which Is the Best Crypto to Buy Before the Quarter Ends on September 30?",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-solana-zcash-best-crypto-095428292.html",
-      "published": "2026-09-23T09:54:28Z",
-      "ts": 1790157268
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Employers are auto-enrolling workers in HSAs — just like 401(k)s",
-      "link": "https://finance.yahoo.com/healthcare/article/employers-are-auto-enrolling-workers-in-hsas--just-like-401ks-095400659.html",
-      "published": "2026-09-23T09:54:00Z",
-      "ts": 1790157240
     },
     {
       "source": "Investing Forex",
@@ -58,13 +93,6 @@
       "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 09:42:39 +0000",
       "ts": 1790156559
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Tech PE's fundraising recovery is leaving tourists behind",
-      "link": "https://finance.yahoo.com/technology/ai/articles/tech-pes-fundraising-recovery-leaving-093832851.html",
-      "published": "2026-09-23T09:38:32Z",
-      "ts": 1790156312
     },
     {
       "source": "MarketWatch",
@@ -121,13 +149,6 @@
       "link": "https://www.marketwatch.com/story/softbanks-mega-junk-bond-deal-shows-capital-for-the-ai-race-is-getting-more-expensive-9eb3fa28?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 08:56:00 GMT",
       "ts": 1790153760
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This oil giant has lagged its leading rivals through two energy crises. Now one Wall Street giant says it’s time to buy.",
-      "link": "https://www.marketwatch.com/story/this-oil-giant-has-lagged-its-leading-rivals-through-two-energy-crises-now-one-wall-street-giant-says-its-time-to-buy-987838c3?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 08:24:00 GMT",
-      "ts": 1790151840
     },
     {
       "source": "Cointelegraph",
@@ -214,13 +235,6 @@
       "ts": 1790141689
     },
     {
-      "source": "Cointelegraph",
-      "title": "Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says",
-      "link": "https://cointelegraph.com/news/fomopeek-ios-app-580k-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 05:22:21 +0000",
-      "ts": 1790140941
-    },
-    {
       "source": "CoinDesk",
       "title": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
       "link": "https://www.coindesk.com/tech/2026/09/23/solana-starts-testing-upgrade-that-could-cut-finality-from-12-8-seconds-to-150-milliseconds",
@@ -235,25 +249,11 @@
       "ts": 1790140362
     },
     {
-      "source": "Cointelegraph",
-      "title": "AI potential to drive crypto demand remains ‘underappreciated’: BlackRock",
-      "link": "https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 04:33:18 +0000",
-      "ts": 1790137998
-    },
-    {
       "source": "CoinDesk",
       "title": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
       "link": "https://www.coindesk.com/markets/2026/09/23/zcash-leads-crypto-majors-with-a-10-gain-as-bitcoin-holds-near-usd87-000",
       "published": "Wed, 23 Sep 2026 04:10:08 +0000",
       "ts": 1790136608
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
-      "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 02:15:00 GMT",
-      "ts": 1790129700
     },
     {
       "source": "CoinDesk",
