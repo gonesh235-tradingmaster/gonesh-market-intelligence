@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-09-23T13:57:26.790044+00:00",
+  "updated_utc": "2026-09-23T14:13:15.929934+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Proposed distribution tax reforms risk harming growth, ICAEW warns",
+      "link": "https://finance.yahoo.com/economy/policy/articles/proposed-distribution-tax-reforms-risk-140013422.html",
+      "published": "2026-09-23T14:00:13Z",
+      "ts": 1790172013
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Can DoubleVerify’s (DV) AI Push Still Matter With A Buyout Pending?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/doubleverify-dv-ai-push-still-140003995.html",
+      "published": "2026-09-23T14:00:03Z",
+      "ts": 1790172003
+    },
+    {
+      "source": "MarketWatch",
+      "title": "These stocks are the ‘four horsemen of AI’ — and they’re not the ones you’d think",
+      "link": "https://www.marketwatch.com/story/these-stocks-are-the-four-horsemen-of-ai-and-theyre-not-the-ones-youd-think-bd4072ae?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 13:58:00 GMT",
+      "ts": 1790171880
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Tech retreats as Treasury yields and oil climb: AlphaCheck",
+      "link": "https://finance.yahoo.com/markets/article/tech-retreats-as-treasury-yields-and-oil-climb-alphacheck-135323303.html",
+      "published": "2026-09-23T13:53:23Z",
+      "ts": 1790171603
+    },
     {
       "source": "MarketWatch",
       "title": "Nearly half of adults under 30 live with their parents. The financial fallout could last for decades.",
@@ -11,18 +39,32 @@
       "ts": 1790171460
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Can Flywire’s (FLYW) Hotel Payment Deals Justify Its Growth Story?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/flywire-flyw-hotel-payment-deals-134746487.html",
+      "published": "2026-09-23T13:47:46Z",
+      "ts": 1790171266
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Stock Market Today: Nasdaq Dips After Hitting Record Highs; Micron, Sandisk Sink In Buy Zones (Live Coverage)",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-record-high-micron-sandisk/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T13:44:22Z",
+      "ts": 1790171062
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin steadies below $86k as ETF inflows soar; Trump-Xi summit in focus",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
+      "published": "2026-09-23 13:43:59",
+      "ts": 1790171039
+    },
+    {
       "source": "MarketWatch",
       "title": "Want to retire with more money? Leave the U.S. early in your career — and then come back.",
       "link": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 13:43:00 GMT",
       "ts": 1790170980
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Intel Skyrocketed 30% Higher in 1 Month: Here’s What to Do Now",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-skyrocketed-30-higher-1-134257267.html",
-      "published": "2026-09-23T13:42:57Z",
-      "ts": 1790170977
     },
     {
       "source": "Cointelegraph",
@@ -58,34 +100,6 @@
       "link": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 13:30:00 GMT",
       "ts": 1790170200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Sharon AI (SHAZ) Sitting on a Multi-Billion Dollar Trapdoor or a Masterpiece?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sharon-ai-shaz-sitting-multi-132622996.html",
-      "published": "2026-09-23T13:26:22Z",
-      "ts": 1790169982
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "European Central Banks Call For Ban On Stablecoin Yield",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/european-central-banks-call-ban-132400795.html",
-      "published": "2026-09-23T13:24:00Z",
-      "ts": 1790169840
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Cytokinetics (CYTK): Can Myqorzo Growth Create a New Biopharma Success Story?",
-      "link": "https://finance.yahoo.com/healthcare/articles/cytokinetics-cytk-myqorzo-growth-create-132125710.html",
-      "published": "2026-09-23T13:21:25Z",
-      "ts": 1790169685
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is Sharplink’s (SBET) Staking Strategy Enough to Offset Its Volatility?",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/sharplink-sbet-staking-strategy-enough-131921315.html",
-      "published": "2026-09-23T13:19:21Z",
-      "ts": 1790169561
     },
     {
       "source": "CoinDesk",
@@ -165,15 +179,8 @@
       "ts": 1790165700
     },
     {
-      "source": "MarketWatch",
-      "title": "What the Trump-Xi meeting could do to strengthen the guardrails for AI",
-      "link": "https://www.marketwatch.com/story/what-the-trump-xi-meeting-coulddo-to-strengthen-the-guardrails-for-ai-298a5432?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
-      "ts": 1790164800
-    },
-    {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin slips under $86,000 as money rotates into BCH and ZEC",
+      "title": "Live updates: Bitcoin slips as higher rates and dollar pressure markets",
       "link": "https://www.coindesk.com/business/2026/09/23/live-updates-bitcoin-slips-under-usd86-000-as-money-rotates-into-bch-and-zec",
       "published": "Wed, 23 Sep 2026 11:29:30 +0000",
       "ts": 1790162970
@@ -219,13 +226,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-bull-market-confirmed-but-90k-presents-profit-taking-risk-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 10:05:10 +0000",
       "ts": 1790157910
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin firms near $86k as ETF inflows soar; Trump-Xi summit in focus",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
-      "published": "2026-09-23 10:02:36",
-      "ts": 1790157756
     },
     {
       "source": "CoinDesk",
