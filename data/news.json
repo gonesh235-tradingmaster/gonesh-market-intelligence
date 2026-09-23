@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-23T09:44:20.501846+00:00",
+  "updated_utc": "2026-09-23T09:55:50.273736+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
+      "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 09:42:39 +0000",
+      "ts": 1790156559
+    },
     {
       "source": "MarketWatch",
       "title": "Why analysts say a diesel export ban could backfire",
@@ -179,13 +186,6 @@
       "ts": 1790136608
     },
     {
-      "source": "Cointelegraph",
-      "title": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
-      "link": "https://cointelegraph.com/news/openai-anthropic-to-brief-un-security-council-on-ai-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 03:33:15 +0000",
-      "ts": 1790134395
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar creeps higher ahead of U.S.-China summit",
       "link": "https://www.investing.com/news/forex-news/asia-fx-flat-dollar-creeps-higher-ahead-of-uschina-summit-4912043",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Bill Ackman Endorses HHH Thesis as He Aims to Turn It Into a ‘Compounding Machine’ Over the Next 50 Years: ‘No One Is Paying Attention’",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-endorses-hhh-thesis-233007577.html",
-      "published": "2026-09-21T23:30:07Z",
-      "ts": 1790033407
+      "title": "Qatar’s LNG Loss Revives Projects From Argentina to Timor-Leste",
+      "link": "https://finance.yahoo.com/energy/articles/qatar-lng-loss-revives-projects-000000531.html",
+      "published": "2026-09-22T00:00:00Z",
+      "ts": 1790035200
     }
   ]
 }
