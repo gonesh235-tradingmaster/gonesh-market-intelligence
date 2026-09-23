@@ -1,14 +1,42 @@
 {
-  "updated_utc": "2026-09-23T19:44:43.516690+00:00",
+  "updated_utc": "2026-09-23T19:54:24.887176+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Record-breaking diesel prices look set to push grocery bills even higher — and Thanksgiving is getting closer",
+      "link": "https://www.marketwatch.com/story/record-breaking-diesel-prices-look-set-to-push-grocery-bills-even-higher-and-thanksgiving-is-getting-closer-178d3959?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 19:49:00 GMT",
+      "ts": 1790192940
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Bond yields surge above 5% as Wall Street fears more Fed rate hikes",
+      "link": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 19:48:00 GMT",
+      "ts": 1790192880
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The ingredients for a market crash are all in place",
+      "link": "https://www.marketwatch.com/story/the-ingredients-for-a-financial-reckoning-are-all-in-place-07520a5d?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 19:47:00 GMT",
+      "ts": 1790192820
+    },
     {
       "source": "MarketWatch",
       "title": "McDonald’s is making a historic bet on chicken — and AI — to bring back customers",
       "link": "https://www.marketwatch.com/story/mcdonalds-is-making-a-historic-bet-on-chicken-and-ai-to-bring-back-customers-43468a53?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 19:40:00 GMT",
       "ts": 1790192400
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 19:39:24 +0000",
+      "ts": 1790192364
     },
     {
       "source": "MarketWatch",
@@ -74,32 +102,11 @@
       "ts": 1790188909
     },
     {
-      "source": "MarketWatch",
-      "title": "Palantir’s stock is heading for its highest close of the year, in a dramatic comeback",
-      "link": "https://www.marketwatch.com/story/palantirs-stock-is-heading-for-its-highest-close-of-the-year-in-a-dramatic-comeback-a5fd451d?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 18:31:00 GMT",
-      "ts": 1790188260
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The ingredients for a financial reckoning are all in place",
-      "link": "https://www.marketwatch.com/story/the-ingredients-for-a-financial-reckoning-are-all-in-place-07520a5d?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 18:24:00 GMT",
-      "ts": 1790187840
-    },
-    {
       "source": "Cointelegraph",
       "title": "US stablecoin adoption could surge with bank-like protections: Visa survey",
       "link": "https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 18:17:48 +0000",
       "ts": 1790187468
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This test screens for 50 cancers — but whether Medicare and other health insurers will cover it hinges on FDA approval",
-      "link": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 18:15:00 GMT",
-      "ts": 1790187300
     },
     {
       "source": "CoinDesk",
@@ -184,13 +191,6 @@
       "link": "https://cointelegraph.com/news/esma-to-focus-eu-wide-supervision-on-ai-and-tokenization-from-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 13:40:00 +0000",
       "ts": 1790170800
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 13:39:08 +0000",
-      "ts": 1790170748
     },
     {
       "source": "CoinDesk",
