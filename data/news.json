@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-23T22:06:11.511499+00:00",
+  "updated_utc": "2026-09-23T22:21:01.968682+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
+      "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 22:15:00 GMT",
+      "ts": 1790201700
+    },
     {
       "source": "MarketWatch",
       "title": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
@@ -65,13 +72,6 @@
       "link": "https://www.marketwatch.com/story/palantirs-stock-is-heading-for-its-highest-close-of-the-year-in-a-dramatic-comeback-a5fd451d?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 21:08:00 GMT",
       "ts": 1790197680
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Fewer stocks are carrying the market than at any time since the dot-com peak",
-      "link": "https://www.marketwatch.com/story/fewer-stocks-are-carrying-the-market-than-at-any-time-since-the-dot-com-peak-4033c4bb?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 20:45:00 GMT",
-      "ts": 1790196300
     },
     {
       "source": "Cointelegraph",
@@ -271,17 +271,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Fed’s Collins Says Rate Hike Will Help Return Inflation to Goal",
-      "link": "https://finance.yahoo.com/economy/policy/articles/fed-collins-says-rate-hike-141034489.html",
-      "published": "2026-09-22T14:10:34Z",
-      "ts": 1790086234
+      "title": "Benchmark diesel sets new record; futures signaling relief?",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/benchmark-diesel-sets-record-futures-142020903.html",
+      "published": "2026-09-22T14:20:20Z",
+      "ts": 1790086820
     },
     {
       "source": "Yahoo Finance",
-      "title": "Fed's Williams says rate-control toolkit is working well",
-      "link": "https://finance.yahoo.com/economy/policy/articles/feds-williams-says-rate-control-140742644.html",
-      "published": "2026-09-22T14:07:42Z",
-      "ts": 1790086062
+      "title": "AI infrastructure Boom Fuels Texas Instruments’ (TXN) Rally",
+      "link": "https://finance.yahoo.com/technology/articles/ai-infrastructure-boom-fuels-texas-141812824.html",
+      "published": "2026-09-22T14:18:12Z",
+      "ts": 1790086692
     }
   ]
 }
