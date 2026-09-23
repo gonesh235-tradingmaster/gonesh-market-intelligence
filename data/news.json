@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-23T21:22:50.218223+00:00",
+  "updated_utc": "2026-09-23T21:34:50.736288+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "OpenAI and Anthropic’s CEOs just delivered this message to the U.N. as AI fears swirl",
+      "link": "https://www.marketwatch.com/story/the-openai-and-anthropic-ceos-just-delivered-this-message-to-the-u-n-as-ai-fears-swirl-47b0e97b?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 21:27:00 GMT",
+      "ts": 1790198820
+    },
     {
       "source": "MarketWatch",
       "title": "Inflation could cost Republicans the Senate — this chart shows how",
@@ -65,13 +72,6 @@
       "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 20:15:00 GMT",
       "ts": 1790194500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Bond yields surge above 5% as Wall Street fears more Fed rate hikes",
-      "link": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 19:48:00 GMT",
-      "ts": 1790192880
     },
     {
       "source": "Cointelegraph",
@@ -271,17 +271,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "16 trucking companies hit bankruptcy court in less than a month",
+      "link": "https://finance.yahoo.com/small-business/articles/16-trucking-companies-hit-bankruptcy-131909533.html",
+      "published": "2026-09-22T13:19:09Z",
+      "ts": 1790083149
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Citizens Financial Stock: Is CFG Outperforming the Financial Sector?",
       "link": "https://finance.yahoo.com/news/citizens-financial-stock-cfg-outperforming-131514658.html",
       "published": "2026-09-22T13:15:14Z",
       "ts": 1790082914
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Carnival Corp Stock Looks Cheap to Value Investors Ahead of Earnings Next Week",
-      "link": "https://finance.yahoo.com/news/carnival-corp-stock-looks-cheap-131502788.html",
-      "published": "2026-09-22T13:15:02Z",
-      "ts": 1790082902
     }
   ]
 }
