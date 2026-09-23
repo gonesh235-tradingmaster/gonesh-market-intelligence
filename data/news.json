@@ -1,14 +1,35 @@
 {
-  "updated_utc": "2026-09-23T21:54:28.204863+00:00",
+  "updated_utc": "2026-09-23T22:06:11.511499+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
+      "link": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 22:00:00 GMT",
+      "ts": 1790200800
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This test screens for 50 cancers — but whether Medicare and other health insurers will cover it hinges on FDA approval",
+      "link": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 21:59:00 GMT",
+      "ts": 1790200740
+    },
     {
       "source": "MarketWatch",
       "title": "Micron’s stock has become a ‘battleground’ as the AI narrative shifts",
       "link": "https://www.marketwatch.com/story/microns-stock-has-become-a-battleground-as-the-ai-narrative-shifts-d61a3408?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 21:51:00 GMT",
       "ts": 1790200260
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility",
+      "link": "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 21:47:52 +0000",
+      "ts": 1790200072
     },
     {
       "source": "MarketWatch",
@@ -60,25 +81,11 @@
       "ts": 1790196236
     },
     {
-      "source": "MarketWatch",
-      "title": "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-      "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 20:40:00 GMT",
-      "ts": 1790196000
-    },
-    {
       "source": "Cointelegraph",
       "title": "US lawmakers from gaming states urge SCOTUS to take up Kalshi case",
       "link": "https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 20:28:34 +0000",
       "ts": 1790195314
-    },
-    {
-      "source": "MarketWatch",
-      "title": "What’s behind Royal Caribbean’s ‘highly surprising’ push into Sandals vacation resorts",
-      "link": "https://www.marketwatch.com/story/whats-behind-royal-caribbeans-highly-surprising-push-into-sandals-vacation-resorts-4835acc9?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 20:24:00 GMT",
-      "ts": 1790195040
     },
     {
       "source": "Cointelegraph",
@@ -179,13 +186,6 @@
       "ts": 1790175639
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin long liquidations hit $280M as BTC price dips under $84K",
-      "link": "https://cointelegraph.com/markets/bitcoin-long-liquidations-hit-280m-as-btc-price-dips-under-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 14:52:11 +0000",
-      "ts": 1790175131
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin steadies below $86k as ETF inflows soar; Trump-Xi summit in focus",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
@@ -271,17 +271,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck",
-      "link": "https://finance.yahoo.com/markets/article/treasury-yields-ease-oil-falls-as-trump-xi-meeting-looms-alphacheck-134137146.html",
-      "published": "2026-09-22T13:41:37Z",
-      "ts": 1790084497
+      "title": "Fed’s Collins Says Rate Hike Will Help Return Inflation to Goal",
+      "link": "https://finance.yahoo.com/economy/policy/articles/fed-collins-says-rate-hike-141034489.html",
+      "published": "2026-09-22T14:10:34Z",
+      "ts": 1790086234
     },
     {
       "source": "Yahoo Finance",
-      "title": "Palo Alto Networks unveils AI-powered cybersecurity service using Claude, GPT models",
-      "link": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-unveils-ai-133647470.html",
-      "published": "2026-09-22T13:36:47Z",
-      "ts": 1790084207
+      "title": "Fed's Williams says rate-control toolkit is working well",
+      "link": "https://finance.yahoo.com/economy/policy/articles/feds-williams-says-rate-control-140742644.html",
+      "published": "2026-09-22T14:07:42Z",
+      "ts": 1790086062
     }
   ]
 }
