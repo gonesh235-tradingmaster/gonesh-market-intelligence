@@ -1,8 +1,43 @@
 {
-  "updated_utc": "2026-09-23T17:02:52.533552+00:00",
+  "updated_utc": "2026-09-23T17:19:55.009091+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 17:16:00 GMT",
+      "ts": 1790183760
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Bond yields surge as Wall Street fears more potential Federal Reserve rate hikes",
+      "link": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 17:16:00 GMT",
+      "ts": 1790183760
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
+      "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 17:15:00 GMT",
+      "ts": 1790183700
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Treasury yields soar, 10-yr at highest since July 2007 on hot U.S. data, Fedspeak",
+      "link": "https://www.investing.com/news/forex-news/euro-yields-drop-as-crude-gas-pull-back-on-prospective-usiran-breakthrough-4912156",
+      "published": "2026-09-23 17:02:18",
+      "ts": 1790182938
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nvidia Scores Winning Streak: Trump-Xi Meeting, China Sales Outlook In Focus",
+      "link": "https://www.investors.com/research/nvidia-nvda-stock-trump-china-ai-chip/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T17:00:17Z",
+      "ts": 1790182817
+    },
     {
       "source": "MarketWatch",
       "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
@@ -19,10 +54,31 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Off 300; These Software Firms Are Beating Alphabet (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-record-high-micron-sandisk/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T16:51:56Z",
-      "ts": 1790182316
+      "title": "What Freight Operators Should Actually Be Watching",
+      "link": "https://finance.yahoo.com/markets/articles/freight-operators-actually-watching-165557089.html",
+      "published": "2026-09-23T16:55:57Z",
+      "ts": 1790182557
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Diesel Export Ban? Why It Could Backfire Fast",
+      "link": "https://finance.yahoo.com/energy/articles/diesel-export-ban-why-could-165445740.html",
+      "published": "2026-09-23T16:54:45Z",
+      "ts": 1790182485
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Diesel Prices Could Push More Capacity Out in Q4",
+      "link": "https://finance.yahoo.com/economy/articles/diesel-prices-could-push-more-165351809.html",
+      "published": "2026-09-23T16:53:51Z",
+      "ts": 1790182431
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Trucking Insurance Fraud: Is Your Fleet Really Covered?",
+      "link": "https://finance.yahoo.com/small-business/articles/trucking-insurance-fraud-fleet-really-165233917.html",
+      "published": "2026-09-23T16:52:33Z",
+      "ts": 1790182353
     },
     {
       "source": "MarketWatch",
@@ -30,20 +86,6 @@
       "link": "https://www.marketwatch.com/story/10-places-where-thousands-of-homeowners-face-higher-insurance-bills-after-fema-updated-its-flood-maps-ff779184?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 16:50:00 GMT",
       "ts": 1790182200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Biotech Stocks Dive As Top 2% Names Take Hardest Hit",
-      "link": "https://www.investors.com/news/technology/biotech-stocks-oruka-ionis-rapport-climb-cullinan/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T16:49:51Z",
-      "ts": 1790182191
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "10-Year Treasury Yield Jumps As Markets Bet On Two Fed Rate Hikes. Bessent Won't Fight It.",
-      "link": "https://www.investors.com/news/10-year-treasury-yield-federal-reserve-bessent-buybacks-sp-500-pmi/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T16:35:02Z",
-      "ts": 1790181302
     },
     {
       "source": "Cointelegraph",
@@ -60,20 +102,6 @@
       "ts": 1790181180
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Brookfield’s GGP scores $800M CMBS refi for Oakbrook Center",
-      "link": "https://finance.yahoo.com/real-estate/articles/brookfield-ggp-scores-800m-cmbs-163000079.html",
-      "published": "2026-09-23T16:30:00Z",
-      "ts": 1790181000
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Renishaw Rides the AI Chip Boom to Record Results",
-      "link": "https://finance.yahoo.com/technology/ai/articles/renishaw-rides-ai-chip-boom-161849385.html",
-      "published": "2026-09-23T16:18:49Z",
-      "ts": 1790180329
-    },
-    {
       "source": "MarketWatch",
       "title": "3 questions to ask your parents about their estate plan — other than ‘How much money do you have?’",
       "link": "https://www.marketwatch.com/story/3-questions-to-ask-your-parents-about-their-estate-plan-other-than-how-much-money-do-you-have-4000199a?mod=mw_rss_topstories",
@@ -81,32 +109,11 @@
       "ts": 1790180280
     },
     {
-      "source": "MarketWatch",
-      "title": "Bond yields surge as Wall Street fears more potential Federal Reserve rate hikes",
-      "link": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 16:12:00 GMT",
-      "ts": 1790179920
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
-      "link": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 16:01:00 GMT",
-      "ts": 1790179260
-    },
-    {
       "source": "Cointelegraph",
       "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
       "link": "https://cointelegraph.com/news/nyse-blockchaincom-team-up-to-bring-tokenized-us-stocks-to-crypto-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 15:56:20 +0000",
       "ts": 1790178980
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Social Security stopped our checks due to a hacked bank account. We’re relying on our church for help. What can we do?",
-      "link": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 15:53:00 GMT",
-      "ts": 1790178780
     },
     {
       "source": "CoinDesk",
@@ -198,13 +205,6 @@
       "link": "https://cointelegraph.com/news/moonpay-north-capital-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 13:00:00 +0000",
       "ts": 1790168400
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. bonds consolidates as energy de-escalation signals balance hawkish bets",
-      "link": "https://www.investing.com/news/forex-news/euro-yields-drop-as-crude-gas-pull-back-on-prospective-usiran-breakthrough-4912156",
-      "published": "2026-09-23 12:33:44",
-      "ts": 1790166824
     },
     {
       "source": "Investing Crypto",
