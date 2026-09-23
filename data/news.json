@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-23T18:40:39.158978+00:00",
+  "updated_utc": "2026-09-23T18:53:15.139900+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Treasury yields soar, 10-yr at highest since July 2007 on hot U.S. data, Fedspeak",
+      "link": "https://www.investing.com/news/forex-news/euro-yields-drop-as-crude-gas-pull-back-on-prospective-usiran-breakthrough-4912156",
+      "published": "2026-09-23 18:41:49",
+      "ts": 1790188909
+    },
     {
       "source": "MarketWatch",
       "title": "Palantir’s stock is heading for its highest close of the year, in a dramatic comeback",
@@ -79,13 +86,6 @@
       "link": "https://www.marketwatch.com/story/fuel-prices-keep-rising-and-so-do-democrats-chances-for-winning-both-the-house-and-senate-c4541380?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 17:49:00 GMT",
       "ts": 1790185740
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Treasury yields soar, 10-yr at highest since July 2007 on hot U.S. data, Fedspeak",
-      "link": "https://www.investing.com/news/forex-news/euro-yields-drop-as-crude-gas-pull-back-on-prospective-usiran-breakthrough-4912156",
-      "published": "2026-09-23 17:02:18",
-      "ts": 1790182938
     },
     {
       "source": "Cointelegraph",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "How Is News Corporation's Stock Performance Compared to Other Communication Services Stocks?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/news-corporations-stock-performance-compared-094348036.html",
-      "published": "2026-09-22T09:43:48Z",
-      "ts": 1790070228
+      "title": "Dogecoin Targets 30% Surge Following $12.66M Short Squeeze",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/dogecoin-targets-30-surge-following-100106959.html",
+      "published": "2026-09-22T10:01:06Z",
+      "ts": 1790071266
     }
   ]
 }
