@@ -1,5 +1,17 @@
 {
-  "status": "DATA UNAVAILABLE",
-  "reason": "Yahoo Finance did not return NIFTY data",
-  "updated_utc": "2026-09-23T12:50:28.580340+00:00"
+  "updated_utc": "2026-09-23T13:01:20.557299+00:00",
+  "source": "Yahoo Finance",
+  "source_url": "https://finance.yahoo.com/quote/%5ENSEI",
+  "data": {
+    "value": 23446.8,
+    "previous_close": 23270.6,
+    "change": 176.2,
+    "change_percent": 0.76,
+    "day_high": 23466.9,
+    "day_low": 23349.55,
+    "currency": "INR",
+    "market_state": "",
+    "mood_score": 43,
+    "mood_reason": "NIFTY up 0.76% • US markets up 3.61% • Crude oil falling"
+  }
 }
