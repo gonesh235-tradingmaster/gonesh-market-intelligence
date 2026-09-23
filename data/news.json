@@ -1,21 +1,28 @@
 {
-  "updated_utc": "2026-09-23T18:05:42.697667+00:00",
+  "updated_utc": "2026-09-23T18:25:09.297177+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "This test screens for 50 cancers — but whether Medicare and other health insurers will cover it hinges on FDA approval",
+      "link": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 18:15:00 GMT",
+      "ts": 1790187300
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Businesses are growing at the fastest pace in over four years. Why war and inflation aren’t slowing the U.S. economy down.",
+      "link": "https://www.marketwatch.com/story/businesses-are-growing-at-the-fastest-pace-in-over-four-years-why-war-and-inflation-isnt-slowing-the-u-s-economy-down-2e39e7c7?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 18:06:00 GMT",
+      "ts": 1790186760
+    },
     {
       "source": "CoinDesk",
       "title": "White House adviser defends President Trump's crypto ties in wake of Clarity Act defeat",
       "link": "https://www.coindesk.com/policy/2026/09/23/white-house-adviser-defends-president-trump-s-crypto-ties-in-wake-of-clarity-act-defeat",
       "published": "Wed, 23 Sep 2026 18:04:11 +0000",
       "ts": 1790186651
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Businesses are growing at the fastest pace in over four years. Why war and inflation isn’t slowing the U.S. economy down.",
-      "link": "https://www.marketwatch.com/story/businesses-are-growing-at-the-fastest-pace-in-over-four-years-why-war-and-inflation-isnt-slowing-the-u-s-economy-down-2e39e7c7?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 18:04:00 GMT",
-      "ts": 1790186640
     },
     {
       "source": "MarketWatch",
@@ -32,8 +39,15 @@
       "ts": 1790186400
     },
     {
+      "source": "Investing Crypto",
+      "title": "BitGo says asset servicing is the real barrier to tokenized securities",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitgo-says-asset-servicing-is-the-real-barrier-to-tokenized-securities-4913704",
+      "published": "2026-09-23 17:53:48",
+      "ts": 1790186028
+    },
+    {
       "source": "MarketWatch",
-      "title": "Bond yields surge to 5.12% as Wall Street fears more potential Federal Reserve rate hikes",
+      "title": "Bond yields surge to 5.12% as Wall Street fears more Fed rate hikes",
       "link": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 17:52:00 GMT",
       "ts": 1790185920
@@ -65,13 +79,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-yields-drop-as-crude-gas-pull-back-on-prospective-usiran-breakthrough-4912156",
       "published": "2026-09-23 17:02:18",
       "ts": 1790182938
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
-      "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 17:00:00 GMT",
-      "ts": 1790182800
     },
     {
       "source": "Cointelegraph",
@@ -256,13 +263,6 @@
       "ts": 1790106420
     },
     {
-      "source": "Investing Crypto",
-      "title": "EOS Climbs 12% As Investors Gain Confidence",
-      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-12-as-investors-gain-confidence-4911434",
-      "published": "2026-09-22 18:03:00",
-      "ts": 1790100180
-    },
-    {
       "source": "Yahoo Finance",
       "title": "Kalshi asks CFTC to allow margin trading on prediction markets",
       "link": "https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Expedia Group Stock: Is EXPE Outperforming the Consumer Cyclical Sector?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/expedia-group-stock-expe-outperforming-092050152.html",
-      "published": "2026-09-22T09:20:50Z",
-      "ts": 1790068850
+      "title": "How Is News Corporation's Stock Performance Compared to Other Communication Services Stocks?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/news-corporations-stock-performance-compared-094348036.html",
+      "published": "2026-09-22T09:43:48Z",
+      "ts": 1790070228
     }
   ]
 }
