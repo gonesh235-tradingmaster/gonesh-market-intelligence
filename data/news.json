@@ -1,14 +1,35 @@
 {
-  "updated_utc": "2026-09-23T08:21:29.250475+00:00",
+  "updated_utc": "2026-09-23T08:34:33.249164+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "This oil giant has lagged its leading rivals through two energy crises. Now one Wall Street giant says it’s time to buy.",
+      "link": "https://www.marketwatch.com/story/this-oil-giant-has-lagged-its-leading-rivals-through-two-energy-crises-now-one-wall-street-giant-says-its-time-to-buy-987838c3?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 08:24:00 GMT",
+      "ts": 1790151840
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BitMEX ends crypto trading, keeps withdrawals open after closure",
+      "link": "https://cointelegraph.com/news/bitmex-ends-crypto-trading-withdrawals-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 08:18:38 +0000",
+      "ts": 1790151518
+    },
     {
       "source": "Cointelegraph",
       "title": "Zcash’s November upgrade could freeze funds in legacy Sprout pool",
       "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 08:07:10 +0000",
       "ts": 1790150830
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Euro yields drop as crude, gas pull back on prospective US-Iran breakthrough",
+      "link": "https://www.investing.com/news/forex-news/euro-yields-drop-as-crude-gas-pull-back-on-prospective-usiran-breakthrough-4912156",
+      "published": "2026-09-23 07:55:33",
+      "ts": 1790150133
     },
     {
       "source": "CoinDesk",
@@ -130,13 +151,6 @@
       "ts": 1790128800
     },
     {
-      "source": "Cointelegraph",
-      "title": "CFTC issues warning over risky prediction market ‘mention’ contracts",
-      "link": "https://cointelegraph.com/news/cftc-issues-warning-over-risky-prediction-market-mention-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 00:18:44 +0000",
-      "ts": 1790122724
-    },
-    {
       "source": "CoinDesk",
       "title": "U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms",
       "link": "https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms",
@@ -198,13 +212,6 @@
       "link": "https://www.marketwatch.com/story/why-apple-could-soon-join-nvidia-in-the-exclusive-5-trillion-club-4e7724e7?mod=mw_rss_topstories",
       "published": "Tue, 22 Sep 2026 20:54:00 GMT",
       "ts": 1790110440
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Want to retire with more money? Leave the U.S. early in your career — and then come back.",
-      "link": "https://www.marketwatch.com/story/want-to-retire-with-more-money-leave-the-country-for-work-early-in-your-career-7e568d03?mod=mw_rss_topstories",
-      "published": "Tue, 22 Sep 2026 20:46:00 GMT",
-      "ts": 1790109960
     },
     {
       "source": "CoinDesk",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-with-uschina-summit-in-focus-dollar-ticks-higher-4908241",
       "published": "2026-09-21 21:01:45",
       "ts": 1790024505
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "AMD Stock Alert: Advanced Micro Devices Joins the Trillion-Dollar Club",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-alert-advanced-micro-205135877.html",
-      "published": "2026-09-21T20:51:35Z",
-      "ts": 1790023895
     }
   ]
 }
