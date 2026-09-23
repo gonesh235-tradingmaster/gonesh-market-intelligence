@@ -1,21 +1,42 @@
 {
-  "updated_utc": "2026-09-23T11:45:49.916427+00:00",
+  "updated_utc": "2026-09-23T11:55:57.692828+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Julius Baer names Pamela Tseng Asia COO",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/julius-baer-names-pamela-tseng-114849820.html",
+      "published": "2026-09-23T11:48:49Z",
+      "ts": 1790164129
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures Fall After Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T11:46:31Z",
+      "ts": 1790163991
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Reddit (RDDT) Has Strong Financials. Are User Trends the Bigger Risk?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-strong-financials-user-114554112.html",
+      "published": "2026-09-23T11:45:54Z",
+      "ts": 1790163954
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Analysts Think 6 S&P 500 Stocks Are Grossly Overvalued",
+      "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-analysts-think-stocks-are-grossly-overvalued/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T11:42:58Z",
+      "ts": 1790163778
+    },
     {
       "source": "MarketWatch",
       "title": "The AI-infrastructure trade is still not over, says this top-performing fund manager. Here’s where he’s investing.",
       "link": "https://www.marketwatch.com/story/the-ai-infrastructure-trade-is-still-not-over-says-this-top-performing-fund-manager-where-hes-investing-8c61f6da?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 11:40:00 GMT",
       "ts": 1790163600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Canada’s TD Bank pledges C$25m for AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/canada-td-bank-pledges-c-113918570.html",
-      "published": "2026-09-23T11:39:18Z",
-      "ts": 1790163558
     },
     {
       "source": "Yahoo Finance",
@@ -26,10 +47,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T11:34:00Z",
-      "ts": 1790163240
+      "title": "Jim Cramer Says Costco (COST) “Stock’s Acting Poorly”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-costco-cost-113643371.html",
+      "published": "2026-09-23T11:36:43Z",
+      "ts": 1790163403
     },
     {
       "source": "Yahoo Finance",
@@ -53,20 +74,6 @@
       "ts": 1790162930
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Silver price today, Wednesday, September 23, 2026:  Silver prices settle ahead of key U.S.-China summit",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-wednesday-september-23-2026-silver-prices-settle-ahead-of-key-us-china-summit-111845856.html",
-      "published": "2026-09-23T11:18:45Z",
-      "ts": 1790162325
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Elon Musk Is Teasing a Tesla-SpaceX Merger Again. Terafab Shows Why AI Could Be the Logic",
-      "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-teasing-tesla-spacex-111832696.html",
-      "published": "2026-09-23T11:18:32Z",
-      "ts": 1790162312
-    },
-    {
       "source": "MarketWatch",
       "title": "Why CoreWeave’s beaten-down stock could be due for a major comeback",
       "link": "https://www.marketwatch.com/story/why-coreweaves-beaten-down-stock-could-be-due-for-a-major-comeback-46068534?mod=mw_rss_topstories",
@@ -79,13 +86,6 @@
       "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 11:15:00 GMT",
       "ts": 1790162100
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Can Zenas BioPharma’s (ZBIO) Clinical Pipeline Justify Its Heavy Cash Burn?",
-      "link": "https://finance.yahoo.com/healthcare/articles/zenas-biopharma-zbio-clinical-pipeline-111448242.html",
-      "published": "2026-09-23T11:14:48Z",
-      "ts": 1790162088
     },
     {
       "source": "MarketWatch",
