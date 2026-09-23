@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-23T22:21:01.968682+00:00",
+  "updated_utc": "2026-09-23T22:32:33.376278+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin slips nearly 2%, extends pullback after rally amid hit to risk sentiment",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
+      "published": "2026-09-23 22:15:55",
+      "ts": 1790201755
+    },
     {
       "source": "MarketWatch",
       "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
@@ -186,13 +193,6 @@
       "ts": 1790175639
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin steadies below $86k as ETF inflows soar; Trump-Xi summit in focus",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
-      "published": "2026-09-23 13:43:59",
-      "ts": 1790171039
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book",
       "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
@@ -271,17 +271,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Benchmark diesel sets new record; futures signaling relief?",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/benchmark-diesel-sets-record-futures-142020903.html",
-      "published": "2026-09-22T14:20:20Z",
-      "ts": 1790086820
+      "title": "Meta’s Muse Is Dominating the App Store. What This Means for META Stock.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-muse-dominating-app-store-144019978.html",
+      "published": "2026-09-22T14:40:19Z",
+      "ts": 1790088019
     },
     {
       "source": "Yahoo Finance",
-      "title": "AI infrastructure Boom Fuels Texas Instruments’ (TXN) Rally",
-      "link": "https://finance.yahoo.com/technology/articles/ai-infrastructure-boom-fuels-texas-141812824.html",
-      "published": "2026-09-22T14:18:12Z",
-      "ts": 1790086692
+      "title": "These 2 Companies Are Quietly Powering the AI Boom. No, It's Not Nvidia or Palantir.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/2-companies-quietly-powering-ai-144000753.html",
+      "published": "2026-09-22T14:40:00Z",
+      "ts": 1790088000
     }
   ]
 }
