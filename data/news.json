@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-22T23:59:46.086932+00:00",
+  "updated_utc": "2026-09-23T00:22:32.046804+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms",
+      "link": "https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms",
+      "published": "Wed, 23 Sep 2026 00:00:45 +0000",
+      "ts": 1790121645
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin takes a breather, halting a big rally that briefly took it above $87k",
@@ -212,13 +219,6 @@
       "link": "https://www.coindesk.com/business/2026/09/22/visa-partner-reap-eyes-local-currency-stablecoins-in-several-countries-for-24-7-onchain-fx",
       "published": "Tue, 22 Sep 2026 12:05:55 +0000",
       "ts": 1790078755
-    },
-    {
-      "source": "CoinDesk",
-      "title": "A $3.2 million 'bitcoin butterfly' option trade bets on $95,000 by the end of October",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/22/a-usd3-2-million-bitcoin-butterfly-option-trade-bets-on-usd95-000-by-the-end-of-october",
-      "published": "Tue, 22 Sep 2026 11:35:43 +0000",
-      "ts": 1790076943
     },
     {
       "source": "Investing Crypto",
