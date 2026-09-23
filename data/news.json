@@ -1,21 +1,42 @@
 {
-  "updated_utc": "2026-09-23T11:55:57.692828+00:00",
+  "updated_utc": "2026-09-23T12:12:53.032947+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
+      "source": "MarketWatch",
+      "title": "What the Trump-Xi meeting could do to strengthen the guardrails for AI",
+      "link": "https://www.marketwatch.com/story/what-the-trump-xi-meeting-coulddo-to-strengthen-the-guardrails-for-ai-298a5432?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "ts": 1790164800
+    },
+    {
       "source": "Yahoo Finance",
-      "title": "Julius Baer names Pamela Tseng Asia COO",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/julius-baer-names-pamela-tseng-114849820.html",
-      "published": "2026-09-23T11:48:49Z",
-      "ts": 1790164129
+      "title": "CD&R, Warburg Pincus in talks to buy Canaccord’s UK wealth arm – report",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cd-r-warburg-pincus-talks-115838826.html",
+      "published": "2026-09-23T11:58:38Z",
+      "ts": 1790164718
     },
     {
       "source": "Yahoo Finance",
       "title": "Dow Jones Futures Fall After Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T11:46:31Z",
-      "ts": 1790163991
+      "published": "2026-09-23T11:57:01Z",
+      "ts": 1790164621
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Oil holds near two-week lows while diesel cracks hit record peak",
+      "link": "https://finance.yahoo.com/news/oil-falls-increased-gulf-supply-014402051.html",
+      "published": "2026-09-23T11:51:34Z",
+      "ts": 1790164294
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Casey’s General Stores (CASY) Beat Estimates, So Why Did Wall Street Cut Its Targets?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/casey-general-stores-casy-beat-115123835.html",
+      "published": "2026-09-23T11:51:23Z",
+      "ts": 1790164283
     },
     {
       "source": "Yahoo Finance",
@@ -44,20 +65,6 @@
       "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-23-2026-crypto-prices-open-near-8-month-highs-is-the-crypto-winter-over-113908671.html",
       "published": "2026-09-23T11:39:08Z",
       "ts": 1790163548
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Jim Cramer Says Costco (COST) “Stock’s Acting Poorly”",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-costco-cost-113643371.html",
-      "published": "2026-09-23T11:36:43Z",
-      "ts": 1790163403
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "A 70-year-old owes $200,000 in parent student loans for his kids — experts warn against draining retirement to pay it",
-      "link": "https://finance.yahoo.com/small-business/articles/70-old-owes-200-000-113000217.html",
-      "published": "2026-09-23T11:30:00Z",
-      "ts": 1790163000
     },
     {
       "source": "CoinDesk",
@@ -177,13 +184,6 @@
       "link": "https://www.marketwatch.com/story/why-analysts-say-a-diesel-export-ban-could-backfire-8b13cd51?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 09:29:00 GMT",
       "ts": 1790155740
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Here are the hidden flaws in Warsh’s new way of tracking inflation",
-      "link": "https://www.marketwatch.com/story/here-are-the-hidden-flaws-in-warshs-new-way-of-tracking-inflation-fb7939de?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 09:28:00 GMT",
-      "ts": 1790155680
     },
     {
       "source": "Investing Forex",
