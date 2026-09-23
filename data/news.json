@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-23T05:26:03.865956+00:00",
+  "updated_utc": "2026-09-23T05:39:19.686437+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says",
+      "link": "https://cointelegraph.com/news/fomopeek-ios-app-580k-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 05:22:21 +0000",
+      "ts": 1790140941
+    },
     {
       "source": "CoinDesk",
       "title": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
@@ -191,13 +198,6 @@
       "link": "https://www.coindesk.com/business/2026/09/22/canada-s-big-six-banks-unite-to-launch-interbank-tokenized-deposit-initiative",
       "published": "Tue, 22 Sep 2026 17:34:03 +0000",
       "ts": 1790098443
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Zcash gets first European ETP following US ETF launch",
-      "link": "https://cointelegraph.com/news/21shares-zcash-etp-europe-etherfi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 16:21:44 +0000",
-      "ts": 1790094104
     },
     {
       "source": "CoinDesk",
