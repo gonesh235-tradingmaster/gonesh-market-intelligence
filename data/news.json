@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-23T21:07:48.591678+00:00",
+  "updated_utc": "2026-09-23T21:22:50.218223+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Inflation could cost Republicans the Senate — this chart shows how",
+      "link": "https://www.marketwatch.com/story/inflation-could-cost-republicans-the-senate-this-chart-shows-how-e94a49da?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 21:13:00 GMT",
+      "ts": 1790197980
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Palantir’s stock sees its highest close of the year, sealing a dramatic comeback",
+      "link": "https://www.marketwatch.com/story/palantirs-stock-is-heading-for-its-highest-close-of-the-year-in-a-dramatic-comeback-a5fd451d?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 21:08:00 GMT",
+      "ts": 1790197680
+    },
     {
       "source": "MarketWatch",
       "title": "Fewer stocks are carrying the market than at any time since the dot-com peak",
@@ -58,20 +72,6 @@
       "link": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 19:48:00 GMT",
       "ts": 1790192880
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The ingredients for a market crash are all in place",
-      "link": "https://www.marketwatch.com/story/the-ingredients-for-a-financial-reckoning-are-all-in-place-07520a5d?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 19:47:00 GMT",
-      "ts": 1790192820
-    },
-    {
-      "source": "MarketWatch",
-      "title": "McDonald’s is making a historic bet on chicken — and AI — to bring back customers",
-      "link": "https://www.marketwatch.com/story/mcdonalds-is-making-a-historic-bet-on-chicken-and-ai-to-bring-back-customers-43468a53?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 19:40:00 GMT",
-      "ts": 1790192400
     },
     {
       "source": "Cointelegraph",
@@ -271,17 +271,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "What Makes Prologis (PLD) a Strong Investment?",
-      "link": "https://finance.yahoo.com/real-estate/articles/makes-prologis-pld-strong-investment-130353173.html",
-      "published": "2026-09-22T13:03:53Z",
-      "ts": 1790082233
+      "title": "Citizens Financial Stock: Is CFG Outperforming the Financial Sector?",
+      "link": "https://finance.yahoo.com/news/citizens-financial-stock-cfg-outperforming-131514658.html",
+      "published": "2026-09-22T13:15:14Z",
+      "ts": 1790082914
     },
     {
       "source": "Yahoo Finance",
-      "title": "QuantaSing Group Q4 Earnings Call Highlights",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/quantasing-group-q4-earnings-call-130220427.html",
-      "published": "2026-09-22T13:02:20Z",
-      "ts": 1790082140
+      "title": "Carnival Corp Stock Looks Cheap to Value Investors Ahead of Earnings Next Week",
+      "link": "https://finance.yahoo.com/news/carnival-corp-stock-looks-cheap-131502788.html",
+      "published": "2026-09-22T13:15:02Z",
+      "ts": 1790082902
     }
   ]
 }
