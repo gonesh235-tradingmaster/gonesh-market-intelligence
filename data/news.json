@@ -1,14 +1,35 @@
 {
-  "updated_utc": "2026-09-23T10:24:59.826154+00:00",
+  "updated_utc": "2026-09-23T10:39:30.062935+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
+      "source": "CoinDesk",
+      "title": "Bitcoin consolidates near $86,000 as rally narrows and Brent slips below $100",
+      "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-consolidates-near-usd86-000-as-rally-narrows-and-brent-slips-below-usd100",
+      "published": "Wed, 23 Sep 2026 10:28:11 +0000",
+      "ts": 1790159291
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BitMEX shuts down: perpetuals pioneer officially closes it doors after 11 years",
+      "link": "https://www.coindesk.com/business/2026/09/23/bitmex-shuts-down-trading-after-11-years-leaves-withdrawals-open",
+      "published": "Wed, 23 Sep 2026 10:24:44 +0000",
+      "ts": 1790159084
+    },
+    {
       "source": "Yahoo Finance",
-      "title": "BoomRay and Novartis Pharma sign $900m deal for radioligand therapy",
-      "link": "https://finance.yahoo.com/healthcare/articles/boomray-novartis-pharma-sign-900m-101831580.html",
-      "published": "2026-09-23T10:18:31Z",
-      "ts": 1790158711
+      "title": "Oil holds near two-week lows while diesel cracks hit record peak",
+      "link": "https://finance.yahoo.com/news/oil-falls-increased-gulf-supply-014402051.html",
+      "published": "2026-09-23T10:23:49Z",
+      "ts": 1790159029
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "2 Stocks to Buy Hand Over Fist if a Stock Market Crash Is Coming",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-stocks-buy-hand-over-102001300.html",
+      "published": "2026-09-23T10:20:01Z",
+      "ts": 1790158801
     },
     {
       "source": "MarketWatch",
@@ -46,6 +67,13 @@
       "ts": 1790157910
     },
     {
+      "source": "Investing Crypto",
+      "title": "Bitcoin firms near $86k as ETF inflows soar; Trump-Xi summit in focus",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
+      "published": "2026-09-23 10:02:36",
+      "ts": 1790157756
+    },
+    {
       "source": "Yahoo Finance",
       "title": "The future of AI growth rests on Big Tech's cash flow tripling to $2 trillion: Chart of the Day",
       "link": "https://finance.yahoo.com/markets/article/the-future-of-ai-growth-rests-on-big-techs-cash-flow-tripling-to-2-trillion-chart-of-the-day-100000169.html",
@@ -54,22 +82,15 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Mortgage and refinance interest rates today, Wednesday, September 23, 2026: Fixed rates find more room to fall",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-september-23-2026-fixed-rates-find-more-room-to-fall-100000875.html",
-      "published": "2026-09-23T10:00:00Z",
-      "ts": 1790157600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "It’s harder to get into a hospitality program than it is to get into Harvard — why grads are flocking to the hotel trade",
-      "link": "https://finance.yahoo.com/small-business/articles/harder-hospitality-program-harvard-why-100000789.html",
-      "published": "2026-09-23T10:00:00Z",
-      "ts": 1790157600
-    },
-    {
-      "source": "Yahoo Finance",
       "title": "Best CD rates today, Wednesday, September 23, 2026: Earn up to 4.40% APY with Happen Bank",
       "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-september-23-2026-earn-up-to-440-apy-with-happen-bank-100000312.html",
+      "published": "2026-09-23T10:00:00Z",
+      "ts": 1790157600
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Mortgage and refinance interest rates today, Wednesday, September 23, 2026: Fixed rates find more room to fall",
+      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-september-23-2026-fixed-rates-find-more-room-to-fall-100000875.html",
       "published": "2026-09-23T10:00:00Z",
       "ts": 1790157600
     },
@@ -214,13 +235,6 @@
       "ts": 1790147500
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin steady near $87k as ETF inflows soar; Trump-Xi summit in focus",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
-      "published": "2026-09-23 06:23:57",
-      "ts": 1790144637
-    },
-    {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -247,20 +261,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-on-a-streak-it-hasn-t-hit-since-2012",
       "published": "Wed, 23 Sep 2026 05:12:42 +0000",
       "ts": 1790140362
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
-      "link": "https://www.coindesk.com/markets/2026/09/23/zcash-leads-crypto-majors-with-a-10-gain-as-bitcoin-holds-near-usd87-000",
-      "published": "Wed, 23 Sep 2026 04:10:08 +0000",
-      "ts": 1790136608
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms",
-      "link": "https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms",
-      "published": "Wed, 23 Sep 2026 00:00:45 +0000",
-      "ts": 1790121645
     },
     {
       "source": "Investing Crypto",
