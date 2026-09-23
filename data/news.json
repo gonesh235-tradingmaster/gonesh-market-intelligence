@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-23T13:48:21.548301+00:00",
+  "updated_utc": "2026-09-23T13:57:26.790044+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Nearly half of adults under 30 live with their parents. The financial fallout could last for decades.",
+      "link": "https://www.marketwatch.com/story/nearly-half-of-adults-under-30-live-with-their-parents-the-financial-fallout-could-last-for-decades-5d9f059d?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 13:51:00 GMT",
+      "ts": 1790171460
+    },
     {
       "source": "MarketWatch",
       "title": "Want to retire with more money? Leave the U.S. early in your career — and then come back.",
@@ -12,17 +19,31 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Intel Skyrocketed 30% Higher in 1 Month: Here’s What to Do Now",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-skyrocketed-30-higher-1-134257267.html",
+      "published": "2026-09-23T13:42:57Z",
+      "ts": 1790170977
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "ESMA to prioritize EU-wide AI and tokenization supervision in 2027",
+      "link": "https://cointelegraph.com/news/esma-to-focus-eu-wide-supervision-on-ai-and-tokenization-from-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 13:40:00 +0000",
+      "ts": 1790170800
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 13:39:08 +0000",
+      "ts": 1790170748
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Is Protolabs’ (PRLB) Next Chapter Hinged on an Unseen Gamble?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/protolabs-prlb-next-chapter-hinged-133431215.html",
       "published": "2026-09-23T13:34:31Z",
       "ts": 1790170471
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "KPOT selects Deliverect to manage third-party orders",
-      "link": "https://finance.yahoo.com/small-business/articles/kpot-selects-deliverect-manage-third-133118729.html",
-      "published": "2026-09-23T13:31:18Z",
-      "ts": 1790170278
     },
     {
       "source": "Cointelegraph",
@@ -165,13 +186,6 @@
       "ts": 1790162930
     },
     {
-      "source": "MarketWatch",
-      "title": "Why CoreWeave’s beaten-down stock could be due for a major comeback",
-      "link": "https://www.marketwatch.com/story/why-coreweaves-beaten-down-stock-could-be-due-for-a-major-comeback-46068534?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 11:18:00 GMT",
-      "ts": 1790162280
-    },
-    {
       "source": "Investing Crypto",
       "title": "Analyst says Bitcoin bull market is underway and sets 2029 target",
       "link": "https://www.investing.com/news/cryptocurrency-news/analyst-says-bitcoin-bull-market-is-underway-and-sets-2029-target-4912571",
@@ -228,13 +242,6 @@
       "ts": 1790156658
     },
     {
-      "source": "Cointelegraph",
-      "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
-      "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 09:42:39 +0000",
-      "ts": 1790156559
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound slips as dollar resilience builds on hawkish Fed bets",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-dollar-resilience-builds-on-hawkish-fed-bets-4912384",
@@ -247,13 +254,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
       "published": "Wed, 23 Sep 2026 09:17:53 +0000",
       "ts": 1790155073
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BitMEX ends crypto trading, keeps withdrawals open after closure",
-      "link": "https://cointelegraph.com/news/bitmex-ends-crypto-trading-withdrawals-open?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 08:18:38 +0000",
-      "ts": 1790151518
     },
     {
       "source": "Yahoo Finance",
