@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-23T13:01:20.557534+00:00",
+  "updated_utc": "2026-09-23T13:20:39.520704+00:00",
   "source": "Yahoo Finance",
   "us_markets": {
     "sp500": {
@@ -33,10 +33,10 @@
       "market_state": ""
     },
     "vix": {
-      "value": 14.31,
+      "value": 14.29,
       "previous_close": 15.44,
-      "change": -1.13,
-      "change_percent": -7.32,
+      "change": -1.15,
+      "change_percent": -7.45,
       "day_high": 14.38,
       "day_low": 14.12,
       "currency": "USD",
@@ -48,7 +48,7 @@
       "value": 4.99,
       "previous_close": 4.95,
       "change": 0.04,
-      "change_percent": 0.83,
+      "change_percent": 0.91,
       "day_high": 4.99,
       "day_low": 4.98,
       "currency": "USD",
@@ -57,30 +57,30 @@
   },
   "commodities": {
     "brent": {
-      "value": 96.4,
+      "value": 96.55,
       "previous_close": 103.87,
-      "change": -7.47,
-      "change_percent": -7.19,
-      "day_high": 96.48,
+      "change": -7.32,
+      "change_percent": -7.05,
+      "day_high": 96.69,
       "day_low": 94.1,
       "currency": "USD",
       "market_state": ""
     },
     "wti": {
-      "value": 91.1,
+      "value": 91.16,
       "previous_close": 100.3,
-      "change": -9.2,
-      "change_percent": -9.17,
-      "day_high": 91.13,
+      "change": -9.14,
+      "change_percent": -9.11,
+      "day_high": 91.36,
       "day_low": 88.71,
       "currency": "USD",
       "market_state": ""
     },
     "gold": {
-      "value": 4339.9,
+      "value": 4336.1,
       "previous_close": 4424.9,
-      "change": -85.0,
-      "change_percent": -1.92,
+      "change": -88.8,
+      "change_percent": -2.01,
       "day_high": 4407.5,
       "day_low": 4330.9,
       "currency": "USD",
@@ -88,10 +88,10 @@
     }
   },
   "dxy": {
-    "value": 100.93,
+    "value": 100.96,
     "previous_close": 100.22,
-    "change": 0.71,
-    "change_percent": 0.71,
+    "change": 0.74,
+    "change_percent": 0.74,
     "day_high": 100.97,
     "day_low": 100.54,
     "currency": "USD",

@@ -1,8 +1,50 @@
 {
-  "updated_utc": "2026-09-23T13:01:21.674772+00:00",
+  "updated_utc": "2026-09-23T13:20:46.110368+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Micron vs. Sandisk: Which AI Memory Stock Has More Room to Run?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-sandisk-ai-memory-131100845.html",
+      "published": "2026-09-23T13:11:00Z",
+      "ts": 1790169060
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Oil holds near two-week lows while diesel cracks hit record",
+      "link": "https://finance.yahoo.com/news/oil-falls-increased-gulf-supply-014402051.html",
+      "published": "2026-09-23T13:10:06Z",
+      "ts": 1790169006
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Space investment more than doubled to $23 billion in year to June, report says",
+      "link": "https://finance.yahoo.com/technology/articles/space-investment-more-doubled-23-130604634.html",
+      "published": "2026-09-23T13:06:04Z",
+      "ts": 1790168764
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Oil hovers near $100 as analysts warn Trump diesel export ban would 'tighten global supply'",
+      "link": "https://finance.yahoo.com/markets/article/oil-hovers-near-100-as-analysts-warn-trump-diesel-export-ban-would-tighten-global-supply-130359301.html",
+      "published": "2026-09-23T13:03:59Z",
+      "ts": 1790168639
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book",
+      "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
+      "published": "Wed, 23 Sep 2026 13:02:43 +0000",
+      "ts": 1790168563
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Nvidia Just Qualified Tesla and Vertiv Products for Its New AI-Factory Standard",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-just-qualified-tesla-vertiv-130144385.html",
+      "published": "2026-09-23T13:01:44Z",
+      "ts": 1790168504
+    },
     {
       "source": "CoinDesk",
       "title": "MoonPay to acquire SEC-registered North Capital in $60 million all-stock deal",
@@ -11,60 +53,39 @@
       "ts": 1790168400
     },
     {
+      "source": "Cointelegraph",
+      "title": "MoonPay to buy North Capital in all-stock deal worth over $60M",
+      "link": "https://cointelegraph.com/news/moonpay-north-capital-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 13:00:00 +0000",
+      "ts": 1790168400
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Stablecoin cross-border flows surge 78%, defying crypto bear market",
+      "link": "https://cointelegraph.com/news/stablecoin-cross-border-flows-surge-78-defying-crypto-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 13:00:00 +0000",
+      "ts": 1790168400
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Michael Saylor's Strategy adds 950 Bitcoin worth $76 million, bringing total holdings to $74 billion",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/michael-saylors-strategy-adds-950-130000668.html",
+      "published": "2026-09-23T13:00:00Z",
+      "ts": 1790168400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The AI-infrastructure trade is still not over, says this top-performing fund manager. Here’s where he’s investing.",
+      "link": "https://www.marketwatch.com/story/the-ai-infrastructure-trade-is-still-not-over-says-this-top-performing-fund-manager-where-hes-investing-8c61f6da?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 13:00:00 GMT",
+      "ts": 1790168400
+    },
+    {
       "source": "MarketWatch",
       "title": "This test screens for 50 cancers — but whether Medicare and other health insurers will cover it hinges on FDA approval",
       "link": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 12:58:00 GMT",
       "ts": 1790168280
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Verisk Analytics (VRSK) Positions Well for Long-Term Expansion",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/verisk-analytics-vrsk-positions-well-125301959.html",
-      "published": "2026-09-23T12:53:01Z",
-      "ts": 1790167981
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "GM’s CarPlay U-Turn: A Three-Year Bet Against Buyer Preference Finally Reverses",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/gm-carplay-u-turn-three-125119218.html",
-      "published": "2026-09-23T12:51:19Z",
-      "ts": 1790167879
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Here’s Why The Fund Trimmed Ross Stores (ROST) in Q2",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-fund-trimmed-ross-stores-125105870.html",
-      "published": "2026-09-23T12:51:05Z",
-      "ts": 1790167865
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Omada Health President Wei-Li Shao Sells 9,418 Shares for $236,000",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/omada-health-president-wei-li-125001013.html",
-      "published": "2026-09-23T12:50:01Z",
-      "ts": 1790167801
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Nasdaq Dips After Hitting Record Highs; Micron, Sandisk Sink In Buy Zones (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-record-high-micron-sandisk/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T12:49:01Z",
-      "ts": 1790167741
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Billionaire Ken Fisher Was Buying These 2 Cathie Wood Stocks",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/billionaire-ken-fisher-buying-2-124754371.html",
-      "published": "2026-09-23T12:47:54Z",
-      "ts": 1790167674
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Robust Results Lifted Waters (WAT)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/robust-results-lifted-waters-wat-124319281.html",
-      "published": "2026-09-23T12:43:19Z",
-      "ts": 1790167399
     },
     {
       "source": "Investing Forex",
@@ -86,13 +107,6 @@
       "link": "https://www.marketwatch.com/story/hsbc-addresses-the-concerns-that-are-gripping-the-stock-market-and-dismisses-most-of-them-f9b34a8d?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 12:32:00 GMT",
       "ts": 1790166720
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The AI-infrastructure trade is still not over, says this top-performing fund manager. Here’s where he’s investing.",
-      "link": "https://www.marketwatch.com/story/the-ai-infrastructure-trade-is-still-not-over-says-this-top-performing-fund-manager-where-hes-investing-8c61f6da?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 12:30:00 GMT",
-      "ts": 1790166600
     },
     {
       "source": "Cointelegraph",
@@ -242,11 +256,11 @@
       "ts": 1790150830
     },
     {
-      "source": "CoinDesk",
-      "title": "Coinbase users can now borrow USDC against bitcoin at a fixed rate",
-      "link": "https://www.coindesk.com/markets/2026/09/23/coinbase-users-can-now-borrow-usdc-against-bitcoin-at-a-fixed-rate",
-      "published": "Wed, 23 Sep 2026 07:49:23 +0000",
-      "ts": 1790149763
+      "source": "Yahoo Finance",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as oil steadies, markets eye looming Trump-Xi meeting",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
+      "published": "2026-09-23T08:05:56Z",
+      "ts": 1790150756
     },
     {
       "source": "Investing Crypto",
@@ -256,25 +270,11 @@
       "ts": 1790148634
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin ETFs take in $1.7B in 2 days as BTC tops holder cost basis",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-inflow-2-days-holder-profitable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 07:25:05 +0000",
-      "ts": 1790148305
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin pulls back from overbought highs at $86,388: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
       "published": "2026-09-23 07:11:40",
       "ts": 1790147500
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 05:43:01 +0000",
-      "ts": 1790142181
     },
     {
       "source": "Investing Crypto",
