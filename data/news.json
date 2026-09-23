@@ -1,14 +1,42 @@
 {
-  "updated_utc": "2026-09-23T10:39:30.062935+00:00",
+  "updated_utc": "2026-09-23T10:52:08.726197+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Yahoo Finance",
+      "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T10:38:27Z",
+      "ts": 1790159907
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Federal Reserve delivers warning to all Americans with a savings account: ‘There will be a reckoning.’ Are you ready?",
+      "link": "https://finance.yahoo.com/economy/policy/articles/federal-delivers-warning-americans-savings-103500121.html",
+      "published": "2026-09-23T10:35:00Z",
+      "ts": 1790159700
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Why's Everyone Talking About Monster Beverage Stock Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/whys-everyone-talking-monster-beverage-103500317.html",
+      "published": "2026-09-23T10:35:00Z",
+      "ts": 1790159700
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin consolidates near $86,000 as rally narrows and Brent slips below $100",
       "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-consolidates-near-usd86-000-as-rally-narrows-and-brent-slips-below-usd100",
       "published": "Wed, 23 Sep 2026 10:28:11 +0000",
       "ts": 1790159291
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Is BioCryst’s (BCRX) Newest Approval Bigger Than It Looks?",
+      "link": "https://finance.yahoo.com/healthcare/articles/biocryst-bcrx-newest-approval-bigger-102622733.html",
+      "published": "2026-09-23T10:26:22Z",
+      "ts": 1790159182
     },
     {
       "source": "CoinDesk",
@@ -26,10 +54,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "2 Stocks to Buy Hand Over Fist if a Stock Market Crash Is Coming",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/2-stocks-buy-hand-over-102001300.html",
-      "published": "2026-09-23T10:20:01Z",
-      "ts": 1790158801
+      "title": "Why Is Northwest Bancshares (NWBI) Betting Big On A New Home?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-northwest-bancshares-nwbi-betting-101926444.html",
+      "published": "2026-09-23T10:19:26Z",
+      "ts": 1790158766
     },
     {
       "source": "MarketWatch",
@@ -72,27 +100,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
       "published": "2026-09-23 10:02:36",
       "ts": 1790157756
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "The future of AI growth rests on Big Tech's cash flow tripling to $2 trillion: Chart of the Day",
-      "link": "https://finance.yahoo.com/markets/article/the-future-of-ai-growth-rests-on-big-techs-cash-flow-tripling-to-2-trillion-chart-of-the-day-100000169.html",
-      "published": "2026-09-23T10:00:00Z",
-      "ts": 1790157600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Best CD rates today, Wednesday, September 23, 2026: Earn up to 4.40% APY with Happen Bank",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-september-23-2026-earn-up-to-440-apy-with-happen-bank-100000312.html",
-      "published": "2026-09-23T10:00:00Z",
-      "ts": 1790157600
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Mortgage and refinance interest rates today, Wednesday, September 23, 2026: Fixed rates find more room to fall",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-september-23-2026-fixed-rates-find-more-room-to-fall-100000875.html",
-      "published": "2026-09-23T10:00:00Z",
-      "ts": 1790157600
     },
     {
       "source": "CoinDesk",
@@ -184,13 +191,6 @@
       "link": "https://cointelegraph.com/news/zcash-nu7-upgrade-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 08:07:10 +0000",
       "ts": 1790150830
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures muted as oil falls, markets eye looming Trump-Xi meeting",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
-      "published": "2026-09-23T08:05:56Z",
-      "ts": 1790150756
     },
     {
       "source": "Investing Forex",
