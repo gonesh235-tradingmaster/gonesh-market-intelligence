@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-23T16:25:06.557815+00:00",
+  "updated_utc": "2026-09-23T16:40:18.058286+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I don’t consider him our responsibility,’ but my wife wants to give money to a relative starting college. Please help.",
+      "link": "https://www.marketwatch.com/story/my-wife-wants-to-send-money-to-our-grand-nephew-in-college-how-can-i-push-back-without-starting-a-fight-9284311a?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 16:33:00 GMT",
+      "ts": 1790181180
+    },
     {
       "source": "MarketWatch",
       "title": "3 questions to ask your parents about their estate plan — other than ‘How much money do you have?’",
@@ -16,6 +23,20 @@
       "link": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 16:12:00 GMT",
       "ts": 1790179920
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Here's A Way To Cut Risk On This Top-Performing Stock",
+      "link": "https://www.investors.com/research/options/micron-mu-stock-bull-call-spread-options/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T16:11:44Z",
+      "ts": 1790179904
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Oil up almost 2% as Iran's president vows to never surrender",
+      "link": "https://finance.yahoo.com/news/oil-falls-increased-gulf-supply-014402051.html",
+      "published": "2026-09-23T16:10:26Z",
+      "ts": 1790179826
     },
     {
       "source": "Yahoo Finance",
@@ -53,20 +74,6 @@
       "ts": 1790178780
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Eurozone Growth Gets a German Boost",
-      "link": "https://finance.yahoo.com/economy/articles/eurozone-growth-gets-german-boost-154913348.html",
-      "published": "2026-09-23T15:49:13Z",
-      "ts": 1790178553
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Chip Stocks Drop After Six-Day Climb For SOX Index",
-      "link": "https://www.investors.com/news/technology/chip-stocks-drop-after-six-day-climb-for-sox-index/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T15:47:26Z",
-      "ts": 1790178446
-    },
-    {
       "source": "MarketWatch",
       "title": "How to avoid the ‘widow tax’ and other financial headaches if your spouse dies",
       "link": "https://www.marketwatch.com/story/how-to-avoid-the-widow-tax-and-other-financial-headaches-if-your-spouse-dies-e51f2af6?mod=mw_rss_topstories",
@@ -93,13 +100,6 @@
       "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 15:16:00 GMT",
       "ts": 1790176560
-    },
-    {
-      "source": "MarketWatch",
-      "title": "A diesel export ban could backfire — here’s why",
-      "link": "https://www.marketwatch.com/story/why-analysts-say-a-diesel-export-ban-could-backfire-8b13cd51?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 15:14:00 GMT",
-      "ts": 1790176440
     },
     {
       "source": "CoinDesk",
@@ -257,7 +257,7 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq fall as 10-year yield surges, markets eye looming Trump-Xi meeting",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq fall as 10-year yield surges to 2007 high ahead of Trump-Xi meeting",
       "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
       "published": "2026-09-23T08:05:56Z",
       "ts": 1790150756
