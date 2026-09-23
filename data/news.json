@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-23T05:11:39.227946+00:00",
+  "updated_utc": "2026-09-23T05:26:03.865956+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
+      "link": "https://www.coindesk.com/tech/2026/09/23/solana-starts-testing-upgrade-that-could-cut-finality-from-12-8-seconds-to-150-milliseconds",
+      "published": "Wed, 23 Sep 2026 05:16:22 +0000",
+      "ts": 1790140582
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's on a streak it hasn't hit since 2012",
+      "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-on-a-streak-it-hasn-t-hit-since-2012",
+      "published": "Wed, 23 Sep 2026 05:12:42 +0000",
+      "ts": 1790140362
+    },
     {
       "source": "Cointelegraph",
       "title": "AI potential to drive crypto demand remains ‘underappreciated’: BlackRock",
@@ -193,13 +207,6 @@
       "ts": 1790090488
     },
     {
-      "source": "CoinDesk",
-      "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
-      "link": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
-      "published": "Tue, 22 Sep 2026 14:32:59 +0000",
-      "ts": 1790087579
-    },
-    {
       "source": "Investing Crypto",
       "title": "Farmhouse holds 15.709 Bitcoin with $347K in unrealized gains",
       "link": "https://www.investing.com/news/cryptocurrency-news/farmhouse-holds-15709-bitcoin-with-347k-in-unrealized-gains-432SI-4911044",
@@ -212,13 +219,6 @@
       "link": "https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html",
       "published": "2026-09-22T12:39:18Z",
       "ts": 1790080758
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows",
-      "link": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
-      "published": "Tue, 22 Sep 2026 12:32:15 +0000",
-      "ts": 1790080335
     },
     {
       "source": "Investing Forex",
