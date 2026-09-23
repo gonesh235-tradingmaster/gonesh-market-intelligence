@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-23T05:39:19.686437+00:00",
+  "updated_utc": "2026-09-23T05:50:47.339412+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 05:43:01 +0000",
+      "ts": 1790142181
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US Treasury secretary emerges as frontrunner for Trump’s AI czar role: Report",
+      "link": "https://cointelegraph.com/news/us-treasury-secretary-emerges-as-contender-for-trumps-ai-czar-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 05:34:49 +0000",
+      "ts": 1790141689
+    },
     {
       "source": "Cointelegraph",
       "title": "Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says",
@@ -165,20 +179,6 @@
       "ts": 1790109062
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 20:03:30 +0000",
-      "ts": 1790107410
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Canada’s six largest banks explore tokenized Canadian dollar deposits",
-      "link": "https://cointelegraph.com/news/canada-six-largest-banks-explore-tokenized-canadian-dollar-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 22 Sep 2026 19:56:48 +0000",
-      "ts": 1790107008
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin overbought at $86,550 with RSI 75 divergence: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Global diesel shortage from Iran, Ukraine wars to last into 2027",
-      "link": "https://finance.yahoo.com/energy/articles/global-diesel-shortage-iran-ukraine-181721706.html",
-      "published": "2026-09-21T18:17:21Z",
-      "ts": 1790014641
+      "title": "Jim Cramer Notes He Is Buying The Pullback In TJX",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-buying-pullback-182048493.html",
+      "published": "2026-09-21T18:20:48Z",
+      "ts": 1790014848
     }
   ]
 }
