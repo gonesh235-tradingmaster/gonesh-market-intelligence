@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-23T16:07:53.500670+00:00",
+  "updated_utc": "2026-09-23T16:25:06.557815+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "3 questions to ask your parents about their estate plan — other than ‘How much money do you have?’",
+      "link": "https://www.marketwatch.com/story/3-questions-to-ask-your-parents-about-their-estate-plan-other-than-how-much-money-do-you-have-4000199a?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 16:18:00 GMT",
+      "ts": 1790180280
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Bond yields surge as Wall Street fears more potential Federal Reserve rate hikes",
+      "link": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 16:12:00 GMT",
+      "ts": 1790179920
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Palantir, IBD Stock Of The Day, Flashes Buy Signal Amid Earnings, AI Momentum",
+      "link": "https://www.investors.com/research/ibd-stock-of-the-day/palantir-stock-buy-signal-earnings-ai-momentum/?src=A00220&yptr=yahoo",
+      "published": "2026-09-23T16:02:03Z",
+      "ts": 1790179323
+    },
     {
       "source": "MarketWatch",
       "title": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
@@ -25,18 +46,18 @@
       "ts": 1790178980
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Bitcoin Dips, But Its Forks Are Flying Again",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-dips-forks-flying-again-155603320.html",
-      "published": "2026-09-23T15:56:03Z",
-      "ts": 1790178963
-    },
-    {
       "source": "MarketWatch",
       "title": "Social Security stopped our checks due to a hacked bank account. We’re relying on our church for help. What can we do?",
       "link": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 15:53:00 GMT",
       "ts": 1790178780
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Eurozone Growth Gets a German Boost",
+      "link": "https://finance.yahoo.com/economy/articles/eurozone-growth-gets-german-boost-154913348.html",
+      "published": "2026-09-23T15:49:13Z",
+      "ts": 1790178553
     },
     {
       "source": "Yahoo Finance",
@@ -53,31 +74,10 @@
       "ts": 1790177640
     },
     {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Small Caps Lead Dip Amid Hot Economic Data; Micron Keeps Drop In Control (Live Coverage)",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-record-high-micron-sandisk/?src=A00220&yptr=yahoo",
-      "published": "2026-09-23T15:28:54Z",
-      "ts": 1790177334
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "10-year Treasury yield hits highest level since 2007 as market prices in another Fed rate hike",
-      "link": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-hits-highest-level-since-2007-as-market-prices-in-another-fed-rate-hike-152744538.html",
-      "published": "2026-09-23T15:27:44Z",
-      "ts": 1790177264
-    },
-    {
       "source": "CoinDesk",
       "title": "Inside the FBI’s little-known annual crypto crime gathering",
       "link": "https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering",
       "published": "Wed, 23 Sep 2026 15:26:35 +0000",
-      "ts": 1790177195
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "MindWalk (HYFT) Is Pivoting to Recurring AI Revenue. Can ReefIQ Offset Widening Losses?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/mindwalk-hyft-pivoting-recurring-ai-152635406.html",
-      "published": "2026-09-23T15:26:35Z",
       "ts": 1790177195
     },
     {
@@ -102,13 +102,6 @@
       "ts": 1790176440
     },
     {
-      "source": "MarketWatch",
-      "title": "Musk praises China’s leadership and pushes for AI regulation ahead of state dinner",
-      "link": "https://www.marketwatch.com/story/musk-praises-chinas-leadership-and-pushes-for-ai-regulation-ahead-of-state-dinner-4efe6e22?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 15:08:00 GMT",
-      "ts": 1790176080
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto Long & Short: Inside the chain settling $150 billion of stablecoins a week",
       "link": "https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week",
@@ -121,13 +114,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-and-marketscom-announce-promotional-collaboration-ahead-of-token2049-singapore-4913473",
       "published": "2026-09-23 15:00:39",
       "ts": 1790175639
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Social Security checks are projected to be cut by $540 a month in just six years",
-      "link": "https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 14:57:00 GMT",
-      "ts": 1790175420
     },
     {
       "source": "Cointelegraph",
@@ -221,6 +207,13 @@
       "ts": 1790166738
     },
     {
+      "source": "Yahoo Finance",
+      "title": "McDonald's bets on hand-breaded chicken, AI drive-throughs to fend off Burger King",
+      "link": "https://finance.yahoo.com/markets/stocks/article/mcdonalds-bets-on-hand-breaded-chicken-ai-drive-throughs-to-fend-off-burger-king-120418093.html",
+      "published": "2026-09-23T12:04:18Z",
+      "ts": 1790165058
+    },
+    {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin slips as higher rates and dollar pressure markets",
       "link": "https://www.coindesk.com/business/2026/09/23/live-updates-bitcoin-slips-under-usd86-000-as-money-rotates-into-bch-and-zec",
@@ -282,6 +275,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
       "published": "2026-09-23 07:11:40",
       "ts": 1790147500
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin takes a breather, halting a big rally that briefly took it above $87k",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
+      "published": "2026-09-22 22:16:25",
+      "ts": 1790115385
     }
   ]
 }
