@@ -1,28 +1,63 @@
 {
-  "updated_utc": "2026-09-23T14:29:47.761733+00:00",
+  "updated_utc": "2026-09-23T14:46:04.130392+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
       "source": "Yahoo Finance",
-      "title": "Crosta Mollica merges with Nestlé pizza spin-off in Europe",
-      "link": "https://finance.yahoo.com/small-business/articles/crosta-mollica-merges-nestl-pizza-105731740.html",
-      "published": "2026-09-23T14:21:14Z",
-      "ts": 1790173274
+      "title": "India’s antitrust watchdog clears L’Oréal’s takeover of Onesto Labs",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/india-antitrust-watchdog-clears-l-143531536.html",
+      "published": "2026-09-23T14:35:31Z",
+      "ts": 1790174131
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar marches higher as trade and diplomatic cues take center stage",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-flat-dollar-creeps-higher-ahead-of-uschina-summit-4912043",
+      "published": "2026-09-23 14:32:39",
+      "ts": 1790173959
     },
     {
       "source": "Yahoo Finance",
-      "title": "Is Stagwell’s (STGW) AI Bet Enough To Change The Story?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/stagwell-stgw-ai-bet-enough-141910426.html",
-      "published": "2026-09-23T14:19:10Z",
-      "ts": 1790173150
+      "title": "Exceptional Earnings and AI Immunity Fuel Hinge Health’s (HNGE) Performance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exceptional-earnings-ai-immunity-fuel-143115048.html",
+      "published": "2026-09-23T14:31:15Z",
+      "ts": 1790173875
     },
     {
       "source": "Yahoo Finance",
-      "title": "Nasdaq rally hasn't stopped these tech stocks from flashing warning signs",
-      "link": "https://finance.yahoo.com/markets/article/nasdaq-rally-hasnt-stopped-these-tech-stocks-from-flashing-warning-signs-141710781.html",
-      "published": "2026-09-23T14:17:10Z",
-      "ts": 1790173030
+      "title": "Jim Cramer reveals 5 'boneheaded mistakes' that cost him 'a fortune.' How many are you making?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-reveals-5-boneheaded-143000752.html",
+      "published": "2026-09-23T14:30:00Z",
+      "ts": 1790173800
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Life Time Group Holdings (LTH) Plans to More Than Double Its Current Location Count",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/life-time-group-holdings-lth-142935624.html",
+      "published": "2026-09-23T14:29:35Z",
+      "ts": 1790173775
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
+      "link": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 23 Sep 2026 14:28:50 +0000",
+      "ts": 1790173730
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Claude AI September Portfolio: Top 2 Picks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/claude-ai-september-portfolio-top-142750903.html",
+      "published": "2026-09-23T14:27:50Z",
+      "ts": 1790173670
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Here’s What Strengthened CVS Health (CVS) in Q2",
+      "link": "https://finance.yahoo.com/healthcare/articles/strengthened-cvs-health-cvs-q2-142547696.html",
+      "published": "2026-09-23T14:25:47Z",
+      "ts": 1790173547
     },
     {
       "source": "MarketWatch",
@@ -30,20 +65,6 @@
       "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 14:15:00 GMT",
       "ts": 1790172900
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Strong Earnings, FDA Approval, and Takeover Interest Drive Lantheus Holdings’ (LNTH) Rally",
-      "link": "https://finance.yahoo.com/healthcare/articles/strong-earnings-fda-approval-takeover-141416688.html",
-      "published": "2026-09-23T14:14:16Z",
-      "ts": 1790172856
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Fed's Barr says further rate hikes will likely be needed",
-      "link": "https://finance.yahoo.com/economy/policy/articles/feds-barr-says-further-rate-140746063.html",
-      "published": "2026-09-23T14:07:46Z",
-      "ts": 1790172466
     },
     {
       "source": "MarketWatch",
@@ -214,25 +235,11 @@
       "ts": 1790158015
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin bull market ‘confirmed’ but $90K presents profit-taking risk: Analysis",
-      "link": "https://cointelegraph.com/markets/bitcoin-bull-market-confirmed-but-90k-presents-profit-taking-risk-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 10:05:10 +0000",
-      "ts": 1790157910
-    },
-    {
       "source": "CoinDesk",
       "title": "FTX, Alameda-linked wallets send $75 million in ether to Wintermute, onchain data shows",
       "link": "https://www.coindesk.com/business/2026/09/23/ftx-alameda-linked-wallets-send-usd75-million-in-ether-to-wintermute-onchain-data-shows",
       "published": "Wed, 23 Sep 2026 09:57:24 +0000",
       "ts": 1790157444
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar marches higher as trade and diplomatic cues take center stage",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-flat-dollar-creeps-higher-ahead-of-uschina-summit-4912043",
-      "published": "2026-09-23 09:44:18",
-      "ts": 1790156658
     },
     {
       "source": "Investing Forex",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
       "published": "2026-09-22 22:16:25",
       "ts": 1790115385
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar pinned at nearly 8-week high, euro slips while yen flat amid holiday volume",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
-      "published": "2026-09-22 20:59:43",
-      "ts": 1790110783
     }
   ]
 }
