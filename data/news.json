@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-23T21:45:27.850663+00:00",
+  "updated_utc": "2026-09-23T21:54:28.204863+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Micron’s stock has become a ‘battleground’ as the AI narrative shifts",
+      "link": "https://www.marketwatch.com/story/microns-stock-has-become-a-battleground-as-the-ai-narrative-shifts-d61a3408?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 21:51:00 GMT",
+      "ts": 1790200260
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Is gridlock in Washington actually good for stocks? Here’s what historical market data says.",
+      "link": "https://www.marketwatch.com/story/is-gridlock-in-washington-actually-good-for-stocks-heres-what-historical-market-data-says-ea20746d?mod=mw_rss_topstories",
+      "published": "Wed, 23 Sep 2026 21:44:00 GMT",
+      "ts": 1790199840
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar rises to nearly two-month high on firmer Fed rate hike bets, rout in bonds",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-flat-dollar-creeps-higher-ahead-of-uschina-summit-4912043",
+      "published": "2026-09-23 21:31:55",
+      "ts": 1790199115
+    },
     {
       "source": "MarketWatch",
       "title": "OpenAI and Anthropic’s CEOs just delivered this message to the U.N. as AI fears swirl",
@@ -58,20 +79,6 @@
       "link": "https://www.marketwatch.com/story/whats-behind-royal-caribbeans-highly-surprising-push-into-sandals-vacation-resorts-4835acc9?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 20:24:00 GMT",
       "ts": 1790195040
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Record-breaking diesel prices are poised to hit grocery prices, with fruits, vegetables and meat first on the list",
-      "link": "https://www.marketwatch.com/story/record-breaking-diesel-prices-look-set-to-push-grocery-bills-even-higher-and-thanksgiving-is-getting-closer-178d3959?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 20:22:00 GMT",
-      "ts": 1790194920
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
-      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 20:15:00 GMT",
-      "ts": 1790194500
     },
     {
       "source": "Cointelegraph",
@@ -179,13 +186,6 @@
       "ts": 1790175131
     },
     {
-      "source": "Investing Forex",
-      "title": "Dollar marches higher as trade and diplomatic cues take center stage",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-flat-dollar-creeps-higher-ahead-of-uschina-summit-4912043",
-      "published": "2026-09-23 14:32:39",
-      "ts": 1790173959
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin steadies below $86k as ETF inflows soar; Trump-Xi summit in focus",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
@@ -271,17 +271,17 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck",
+      "link": "https://finance.yahoo.com/markets/article/treasury-yields-ease-oil-falls-as-trump-xi-meeting-looms-alphacheck-134137146.html",
+      "published": "2026-09-22T13:41:37Z",
+      "ts": 1790084497
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Palo Alto Networks unveils AI-powered cybersecurity service using Claude, GPT models",
       "link": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-unveils-ai-133647470.html",
       "published": "2026-09-22T13:36:47Z",
       "ts": 1790084207
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Prediction: Oracle Could Have 50% Upside From Here",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-oracle-could-50-upside-133045805.html",
-      "published": "2026-09-22T13:30:45Z",
-      "ts": 1790083845
     }
   ]
 }
