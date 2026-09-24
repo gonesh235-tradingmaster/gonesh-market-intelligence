@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-24T18:58:56.725834+00:00",
+  "updated_utc": "2026-09-24T19:14:19.308281+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The case against buying and holding stocks for the long term",
+      "link": "https://www.marketwatch.com/story/the-case-against-buying-and-holding-stocks-for-the-long-term-a7fd79bb?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 19:06:00 GMT",
+      "ts": 1790276760
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin just topped a key long-term moving average. Here's what it might mean",
@@ -79,13 +86,6 @@
       "link": "https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 24 Sep 2026 17:13:38 +0000",
       "ts": 1790270018
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 16:45:00 GMT",
-      "ts": 1790268300
     },
     {
       "source": "Cointelegraph",
