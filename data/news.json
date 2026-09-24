@@ -1,14 +1,28 @@
 {
-  "updated_utc": "2026-09-24T22:12:13.187180+00:00",
+  "updated_utc": "2026-09-24T22:27:05.167690+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
+      "link": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 22:10:09 +0000",
+      "ts": 1790287809
+    },
     {
       "source": "MarketWatch",
       "title": "8% mortgage rates are ‘not an impossibility’ as the 30-year fixed rate surges",
       "link": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 22:03:00 GMT",
       "ts": 1790287380
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin cuts losses, remains muted amid rising oil and yields, hawkish Fed signals",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-84k-as-yields-oil-spike-spook-risk-4914488",
+      "published": "2026-09-24 22:01:14",
+      "ts": 1790287274
     },
     {
       "source": "CoinDesk",
@@ -186,13 +200,6 @@
       "ts": 1790270018
     },
     {
-      "source": "Cointelegraph",
-      "title": "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail",
-      "link": "https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 15:57:00 +0000",
-      "ts": 1790265420
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto casino Duelbits goes offline after $7 million hot wallet hack",
       "link": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
@@ -212,13 +219,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/buy-usdt-gift-card-usdt-gift-card-announces-digital-gifting-service-with-free-redemption-4915636",
       "published": "2026-09-24 14:00:38",
       "ts": 1790258438
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin retreats to $83.6k as yields, oil spike spook risk",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-84k-as-yields-oil-spike-spook-risk-4914488",
-      "published": "2026-09-24 13:18:35",
-      "ts": 1790255915
     },
     {
       "source": "Investing Forex",
