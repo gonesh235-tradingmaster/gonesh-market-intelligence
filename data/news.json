@@ -1,14 +1,35 @@
 {
-  "updated_utc": "2026-09-24T14:50:13.301193+00:00",
+  "updated_utc": "2026-09-24T15:01:09.620560+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "3 things Micron investors need to watch as the stakes get higher",
+      "link": "https://www.marketwatch.com/story/3-things-micron-investors-need-to-watch-as-the-stakes-get-higher-e53fde7e?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 14:57:00 GMT",
+      "ts": 1790261820
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
+      "link": "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 14:50:00 GMT",
+      "ts": 1790261400
+    },
     {
       "source": "MarketWatch",
       "title": "Meta wants to put its Muse AI assistant on your face — but will consumers buy in?",
       "link": "https://www.marketwatch.com/story/meta-gets-price-target-boost-as-jpmorgan-says-muse-agent-has-potential-to-become-the-top-ai-application-since-chatgpt-280ca648?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 14:44:00 GMT",
       "ts": 1790261040
+    },
+    {
+      "source": "CoinDesk",
+      "title": "European stablecoin issuer Qivalis sees transformation of global trade finance",
+      "link": "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
+      "published": "Thu, 24 Sep 2026 14:41:05 +0000",
+      "ts": 1790260865
     },
     {
       "source": "MarketWatch",
@@ -51,20 +72,6 @@
       "link": "https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 14:00:00 GMT",
       "ts": 1790258400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Social Security checks are projected to be cut by $540 a month in just six years",
-      "link": "https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 13:56:00 GMT",
-      "ts": 1790258160
-    },
-    {
-      "source": "MarketWatch",
-      "title": "With the stock market ‘priced for perfection,’ the S&P 500 is in danger of a 20% slump next year",
-      "link": "https://www.marketwatch.com/story/the-stock-market-is-priced-for-perfection-heres-what-could-drive-a-nearly-20-slump-for-the-s-p-500-next-year-41e78c27?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 13:40:00 GMT",
-      "ts": 1790257200
     },
     {
       "source": "Cointelegraph",
@@ -170,13 +177,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/24/live-updates-bitcoin-edges-lower-as-bond-yields-take-center-stage",
       "published": "Thu, 24 Sep 2026 11:20:12 +0000",
       "ts": 1790248812
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin slides to $83,300 as bond yields hit highest level since 2007",
-      "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-steadies-near-usd84-000-after-bond-yields-hit-a-2007-high",
-      "published": "Thu, 24 Sep 2026 10:30:28 +0000",
-      "ts": 1790245828
     },
     {
       "source": "Cointelegraph",
