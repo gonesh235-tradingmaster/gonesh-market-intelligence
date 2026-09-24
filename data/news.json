@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-24T08:30:58.710097+00:00",
+  "updated_utc": "2026-09-24T08:46:36.485731+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The market is pricing in too many Fed hikes, says the former Dallas Fed chief",
+      "link": "https://www.marketwatch.com/story/the-market-is-pricing-in-too-many-fed-hikes-says-the-former-dallas-fed-chief-5de8cc3c?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 08:42:00 GMT",
+      "ts": 1790239320
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. yields surge past 5% as hot PMI data and failed auctions spark sharp sell-off",
+      "link": "https://www.investing.com/news/forex-news/euro-yields-jump-as-robust-pmi-prints-strengthen-case-for-further-ecb-hikes-4914499",
+      "published": "2026-09-24 08:38:51",
+      "ts": 1790239131
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Australia says OpenAI agent hacked government site before Altman warning",
+      "link": "https://cointelegraph.com/news/australia-openai-agent-government-hack-altman-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 08:29:11 +0000",
+      "ts": 1790238551
+    },
     {
       "source": "Investing Forex",
       "title": "Asian currencies mixed as dollar holds two-month high, yen stays near lows",
@@ -23,13 +44,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/exclusive-bitget-adopts-sygnums-offexchange-bank-custody-model-4914553",
       "published": "2026-09-24 07:50:29",
       "ts": 1790236229
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Euro yields jump as robust PMI prints strengthen case for further ECB hikes",
-      "link": "https://www.investing.com/news/forex-news/euro-yields-jump-as-robust-pmi-prints-strengthen-case-for-further-ecb-hikes-4914499",
-      "published": "2026-09-24 07:49:45",
-      "ts": 1790236185
     },
     {
       "source": "Investing Forex",
@@ -172,13 +186,6 @@
       "ts": 1790198820
     },
     {
-      "source": "MarketWatch",
-      "title": "Inflation could cost Republicans the Senate — this chart shows how",
-      "link": "https://www.marketwatch.com/story/inflation-could-cost-republicans-the-senate-this-chart-shows-how-e94a49da?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 21:13:00 GMT",
-      "ts": 1790197980
-    },
-    {
       "source": "Cointelegraph",
       "title": "Former Hack VC partner Hsin-Ju Chuang found dead at 37",
       "link": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -191,13 +198,6 @@
       "link": "https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 20:28:34 +0000",
       "ts": 1790195314
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Trump reveals up to $100K Strategy stock purchase in ethics filing",
-      "link": "https://cointelegraph.com/news/trump-discloses-up-to-100k-strategy-stock-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 19:05:14 +0000",
-      "ts": 1790190314
     },
     {
       "source": "CoinDesk",
@@ -270,18 +270,18 @@
       "ts": 1790155551
     },
     {
+      "source": "Yahoo Finance",
+      "title": "Daily ETF Flows: ARKK Enters Top 10",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/daily-etf-flows-arkk-enters-210004371.html",
+      "published": "2026-09-22T21:00:04Z",
+      "ts": 1790110804
+    },
+    {
       "source": "Investing Forex",
       "title": "Dollar pinned at nearly 8-week high, euro slips while yen flat amid holiday volume",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
       "published": "2026-09-22 20:59:43",
       "ts": 1790110783
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Stock Market Today: Dow Skids But Apple Eyes A Buy Point; Filing Says Trump Makes These Trades",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T20:40:00Z",
-      "ts": 1790109600
     }
   ]
 }
