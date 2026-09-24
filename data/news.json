@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-24T20:18:02.521546+00:00",
+  "updated_utc": "2026-09-24T20:33:42.501831+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Stop trying to beat the market: Even the richest Americans can’t do it consistently",
+      "link": "https://www.marketwatch.com/story/stop-trying-to-beat-the-market-even-the-richest-americans-cant-do-it-consistently-4560e275?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 20:20:00 GMT",
+      "ts": 1790281200
+    },
     {
       "source": "CoinDesk",
       "title": "Someone was trying to sell Ondo Finance after founder Nathan Allman's death",
@@ -114,13 +121,6 @@
       "link": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 18:29:00 GMT",
       "ts": 1790274540
-    },
-    {
-      "source": "MarketWatch",
-      "title": "It’s no secret that Social Security and Medicare are on the ropes. Here’s what to do instead of panicking.",
-      "link": "https://www.marketwatch.com/story/everyone-knows-social-security-and-medicare-are-on-the-ropes-heres-what-to-do-instead-of-panicking-717ff133?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 18:24:00 GMT",
-      "ts": 1790274240
     },
     {
       "source": "Investing Crypto",
