@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-24T07:01:40.233878+00:00",
+  "updated_utc": "2026-09-24T07:20:03.376432+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin slips below 20 SMA at $84,076: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
+      "published": "2026-09-24 07:10:54",
+      "ts": 1790233854
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin slips to $84k as yields, oil spike spook risk",
@@ -158,13 +165,6 @@
       "ts": 1790195314
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin pinned at $84,328 as bearish momentum builds: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
-      "published": "2026-09-23 19:18:30",
-      "ts": 1790191110
-    },
-    {
       "source": "Cointelegraph",
       "title": "Trump reveals up to $100K Strategy stock purchase in ethics filing",
       "link": "https://cointelegraph.com/news/trump-discloses-up-to-100k-strategy-stock-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Has the U.S. Long Bond  Futures Broken Out of the Multiyear Consolidation Range in 2026?",
-      "link": "https://finance.yahoo.com/markets/options/articles/why-u-long-bond-futures-190002388.html",
-      "published": "2026-09-22T19:00:02Z",
-      "ts": 1790103602
+      "title": "VKTX Stock Soars as Viking Therapeutics Announces Positive GLP-1 Trial Results",
+      "link": "https://finance.yahoo.com/healthcare/articles/vktx-stock-soars-viking-therapeutics-191823501.html",
+      "published": "2026-09-22T19:18:23Z",
+      "ts": 1790104703
     }
   ]
 }
