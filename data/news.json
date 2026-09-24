@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-24T04:53:11.955851+00:00",
+  "updated_utc": "2026-09-24T05:03:24.368551+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare",
+      "link": "https://cointelegraph.com/news/bitcoins-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 04:52:40 +0000",
+      "ts": 1790225560
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US weighs overseas push for dollar-backed stablecoins: Bloomberg",
+      "link": "https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 04:44:12 +0000",
+      "ts": 1790225052
+    },
     {
       "source": "CoinDesk",
       "title": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
@@ -158,13 +172,6 @@
       "ts": 1790188909
     },
     {
-      "source": "Cointelegraph",
-      "title": "US stablecoin adoption could surge with bank-like protections: Visa survey",
-      "link": "https://cointelegraph.com/news/stablecoin-adoption-bank-level-protections-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 18:17:48 +0000",
-      "ts": 1790187468
-    },
-    {
       "source": "CoinDesk",
       "title": "White House adviser defends President Trump's crypto ties in wake of Clarity Act defeat",
       "link": "https://www.coindesk.com/policy/2026/09/23/white-house-adviser-defends-president-trump-s-crypto-ties-in-wake-of-clarity-act-defeat",
@@ -177,13 +184,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitgo-says-asset-servicing-is-the-real-barrier-to-tokenized-securities-4913704",
       "published": "2026-09-23 17:53:48",
       "ts": 1790186028
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitwise launches first Lighter ETP amid Hyperliquid rivalry",
-      "link": "https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 16:34:27 +0000",
-      "ts": 1790181267
     },
     {
       "source": "CoinDesk",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Rocket Lab Stock Breaks Above Key Trendline",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-breaks-above-165728910.html",
-      "published": "2026-09-22T16:57:28Z",
-      "ts": 1790096248
+      "title": "Soybean Bulls Pushing Higher at Midday",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/soybean-bulls-pushing-higher-midday-172246256.html",
+      "published": "2026-09-22T17:22:46Z",
+      "ts": 1790097766
     }
   ]
 }
