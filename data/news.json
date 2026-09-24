@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-09-24T07:57:16.435741+00:00",
+  "updated_utc": "2026-09-24T08:13:53.244538+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Litecoin Climbs 10% In a Green Day",
+      "link": "https://www.investing.com/news/cryptocurrency-news/litecoin-climbs-10-in-a-green-day-4914566",
+      "published": "2026-09-24 08:01:00",
+      "ts": 1790236860
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Exclusive: Bitget adopts Sygnum’s off-exchange bank custody model",
+      "link": "https://www.investing.com/news/cryptocurrency-news/exclusive-bitget-adopts-sygnums-offexchange-bank-custody-model-4914553",
+      "published": "2026-09-24 07:50:29",
+      "ts": 1790236229
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Euro yields jump as robust PMI prints strengthen case for further ECB hikes",
+      "link": "https://www.investing.com/news/forex-news/euro-yields-jump-as-robust-pmi-prints-strengthen-case-for-further-ecb-hikes-4914499",
+      "published": "2026-09-24 07:49:45",
+      "ts": 1790236185
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound steadies as stretched dollar rally meets Treasury yield peak",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-as-stretched-dollar-rally-meets-treasury-yield-peak-4914548",
+      "published": "2026-09-24 07:45:39",
+      "ts": 1790235939
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin slips below 20 SMA at $84,076: Live levels",
@@ -235,25 +263,11 @@
       "ts": 1790166738
     },
     {
-      "source": "Investing Crypto",
-      "title": "Analyst says Bitcoin bull market is underway and sets 2029 target",
-      "link": "https://www.investing.com/news/cryptocurrency-news/analyst-says-bitcoin-bull-market-is-underway-and-sets-2029-target-4912571",
-      "published": "2026-09-23 10:42:44",
-      "ts": 1790160164
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound slips as dollar resilience builds on hawkish Fed bets",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-dollar-resilience-builds-on-hawkish-fed-bets-4912384",
       "published": "2026-09-23 09:25:51",
       "ts": 1790155551
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Cregis Marks Two Years of Middle East Growth as Traditional Financial Firms Drive Adoption",
-      "link": "https://www.investing.com/news/cryptocurrency-news/cregis-marks-two-years-of-middle-east-growth-as-traditional-financial-firms-drive-adoption-4912208",
-      "published": "2026-09-23 07:30:34",
-      "ts": 1790148634
     },
     {
       "source": "Investing Forex",
@@ -268,20 +282,6 @@
       "link": "https://www.investors.com/news/technology/viking-therapeutics-stock-skyrockets-obesity-drug-data-roche-eli-lilly-novo-fall/?src=A00220&yptr=yahoo",
       "published": "2026-09-22T20:21:01Z",
       "ts": 1790108461
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Microsoft Scores Positive Reviews On AI Momentum",
-      "link": "https://www.investors.com/news/technology/microsoft-stock-positive-reviews-ai-momentum/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T20:20:39Z",
-      "ts": 1790108439
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "A $26 Million Reason Why GameStop Stock Is Up Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/26-million-reason-why-gamestop-201630953.html",
-      "published": "2026-09-22T20:16:30Z",
-      "ts": 1790108190
     }
   ]
 }
