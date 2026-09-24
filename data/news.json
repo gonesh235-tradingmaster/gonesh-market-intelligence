@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-24T04:11:03.421215+00:00",
+  "updated_utc": "2026-09-24T04:27:06.959908+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
+      "link": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
+      "published": "Thu, 24 Sep 2026 04:13:01 +0000",
+      "ts": 1790223181
+    },
     {
       "source": "Investing Forex",
       "title": "Asian currencies mixed as dollar holds two-month high, yen stays near lows",
@@ -221,13 +228,6 @@
       "ts": 1790166738
     },
     {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin pulls back to $84,000 as bond yields fly higher",
-      "link": "https://www.coindesk.com/business/2026/09/23/live-updates-bitcoin-slips-under-usd86-000-as-money-rotates-into-bch-and-zec",
-      "published": "Wed, 23 Sep 2026 11:29:30 +0000",
-      "ts": 1790162970
-    },
-    {
       "source": "Investing Crypto",
       "title": "Analyst says Bitcoin bull market is underway and sets 2029 target",
       "link": "https://www.investing.com/news/cryptocurrency-news/analyst-says-bitcoin-bull-market-is-underway-and-sets-2029-target-4912571",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Why Myers Industries (MYE) Was a Top Performer for Gabelli in Q2",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-myers-industries-mye-top-163520531.html",
-      "published": "2026-09-22T16:35:20Z",
-      "ts": 1790094920
+      "title": "Why Dana (DAN) Was a Q2 Detractor for Gabelli Small Cap Growth Fund",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-dana-dan-q2-detractor-163615111.html",
+      "published": "2026-09-22T16:36:15Z",
+      "ts": 1790094975
     }
   ]
 }
