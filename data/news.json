@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-24T22:59:40.564796+00:00",
+  "updated_utc": "2026-09-24T23:15:46.689053+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘We made a bad, bad decision’: I learned the hard way how to manage my aging father’s money",
+      "link": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 23:00:00 GMT",
+      "ts": 1790290800
+    },
     {
       "source": "CoinDesk",
       "title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
@@ -163,13 +170,6 @@
       "link": "https://www.marketwatch.com/story/companies-keep-raising-prices-the-fed-is-trying-to-get-them-to-reconsider-a57b9af7?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 19:42:00 GMT",
       "ts": 1790278920
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m afraid of ‘starving to death.’ Social Security stopped our checks due to a hacked bank account. What can we do?",
-      "link": "https://www.marketwatch.com/story/social-security-stopped-our-checks-due-to-a-hacked-bank-account-were-relying-on-our-church-for-help-what-can-we-do-a9464325?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 19:40:00 GMT",
-      "ts": 1790278800
     },
     {
       "source": "Investing Crypto",
