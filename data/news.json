@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-24T15:19:59.563399+00:00",
+  "updated_utc": "2026-09-24T15:34:24.371289+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin’s bear markets are getting milder. Bull markets may be next",
+      "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
+      "published": "Thu, 24 Sep 2026 15:26:34 +0000",
+      "ts": 1790263594
+    },
     {
       "source": "MarketWatch",
       "title": "Nearly half of adults under 30 live with their parents. The financial fallout could last for decades.",
@@ -163,13 +170,6 @@
       "link": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 24 Sep 2026 12:00:00 +0000",
       "ts": 1790251200
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme",
-      "link": "https://www.coindesk.com/business/2026/09/24/brooklyn-man-sent-to-prison-for-12-years-for-stealing-usd16m-in-a-coinbase-phishing-scheme",
-      "published": "Thu, 24 Sep 2026 11:33:57 +0000",
-      "ts": 1790249637
     },
     {
       "source": "Cointelegraph",
