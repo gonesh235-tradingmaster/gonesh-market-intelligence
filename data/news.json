@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-24T22:27:05.167690+00:00",
+  "updated_utc": "2026-09-24T22:39:18.704184+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
+      "link": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
+      "published": "Thu, 24 Sep 2026 22:28:49 +0000",
+      "ts": 1790288929
+    },
     {
       "source": "Cointelegraph",
       "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
@@ -205,13 +212,6 @@
       "link": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
       "published": "Thu, 24 Sep 2026 15:48:20 +0000",
       "ts": 1790264900
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin’s bear markets are getting milder. Bull markets may be next",
-      "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
-      "published": "Thu, 24 Sep 2026 15:26:34 +0000",
-      "ts": 1790263594
     },
     {
       "source": "Investing Crypto",
