@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-24T05:20:00.718355+00:00",
+  "updated_utc": "2026-09-24T05:33:18.201761+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66",
+      "link": "https://www.coindesk.com/tech/2026/09/24/a-week-of-ai-coding-cut-a-quantum-safe-bitcoin-transaction-estimate-from-usd320-to-usd66",
+      "published": "Thu, 24 Sep 2026 05:24:56 +0000",
+      "ts": 1790227496
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 05:23:34 +0000",
+      "ts": 1790227414
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare",
@@ -130,13 +144,6 @@
       "ts": 1790195314
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 19:39:24 +0000",
-      "ts": 1790192364
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin pinned at $84,328 as bearish momentum builds: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
@@ -214,13 +221,6 @@
       "ts": 1790168563
     },
     {
-      "source": "CoinDesk",
-      "title": "MoonPay to acquire SEC-registered North Capital in $60 million all-stock deal",
-      "link": "https://www.coindesk.com/business/2026/09/23/moonpay-to-acquire-sec-registered-north-capital-in-usd60-million-all-stock-deal",
-      "published": "Wed, 23 Sep 2026 13:00:00 +0000",
-      "ts": 1790168400
-    },
-    {
       "source": "Investing Crypto",
       "title": "Travala Launches Permanent AVA Strategic Reserve, Doubles Monthly Open-Market Buybacks",
       "link": "https://www.investing.com/news/cryptocurrency-news/travala-launches-permanent-ava-strategic-reserve-doubles-monthly-openmarket-buybacks-4912992",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
-      "link": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-amazon-stock-amzn-key-level/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T17:26:43Z",
-      "ts": 1790098003
+      "title": "Paramount Settlement Triggers WBD Breakout. How It Compares To Past Media Mergers.",
+      "link": "https://www.investors.com/news/paramount-skydance-warner-bros-discovery-disney-fox-netflix-media-mergers/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T17:36:09Z",
+      "ts": 1790098569
     }
   ]
 }
