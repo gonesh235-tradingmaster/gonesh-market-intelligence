@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-24T06:13:25.466405+00:00",
+  "updated_utc": "2026-09-24T06:34:35.201050+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Trump administration weighs a global stablecoin plan to cement dollar's dominance",
+      "link": "https://www.coindesk.com/markets/2026/09/24/trump-administration-weighs-a-global-stablecoin-plan-to-cement-dollar-s-dominance",
+      "published": "Thu, 24 Sep 2026 06:33:23 +0000",
+      "ts": 1790231603
+    },
     {
       "source": "CoinDesk",
       "title": "A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66",
@@ -214,13 +221,6 @@
       "ts": 1790175639
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin's $16 billion quarterly options settlement arrives with a 'call-heavy' book",
-      "link": "https://www.coindesk.com/markets/2026/09/23/bitcoin-s-usd16-billion-quarterly-options-settlement-arrives-with-a-call-heavy-book",
-      "published": "Wed, 23 Sep 2026 13:02:43 +0000",
-      "ts": 1790168563
-    },
-    {
       "source": "Investing Crypto",
       "title": "Travala Launches Permanent AVA Strategic Reserve, Doubles Monthly Open-Market Buybacks",
       "link": "https://www.investing.com/news/cryptocurrency-news/travala-launches-permanent-ava-strategic-reserve-doubles-monthly-openmarket-buybacks-4912992",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Dear Microsoft Stock Fans, Mark Your Calendars for September 24",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dear-microsoft-stock-fans-mark-185339421.html",
-      "published": "2026-09-22T18:53:39Z",
-      "ts": 1790103219
+      "title": "A $20 Million Reason Why Fervo Energy Stock Is in Focus Today",
+      "link": "https://finance.yahoo.com/energy/articles/20-million-reason-why-fervo-190931422.html",
+      "published": "2026-09-22T19:09:31Z",
+      "ts": 1790104171
     }
   ]
 }
