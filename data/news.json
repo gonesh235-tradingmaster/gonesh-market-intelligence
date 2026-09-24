@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-24T21:38:50.531717+00:00",
+  "updated_utc": "2026-09-24T21:48:18.458163+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
+      "link": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 21:42:51 +0000",
+      "ts": 1790286171
+    },
     {
       "source": "MarketWatch",
       "title": "Why investors aren’t buying yet another attempt by the Treasury to calm the rattled bond market",
@@ -198,13 +205,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/buy-usdt-gift-card-usdt-gift-card-announces-digital-gifting-service-with-free-redemption-4915636",
       "published": "2026-09-24 14:00:38",
       "ts": 1790258438
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
-      "link": "https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 13:29:06 +0000",
-      "ts": 1790256546
     },
     {
       "source": "Investing Crypto",
