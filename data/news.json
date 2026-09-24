@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-24T07:47:14.184806+00:00",
+  "updated_utc": "2026-09-24T07:57:16.435741+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -264,24 +264,24 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "Viking Therapeutics Skyrockets On Obesity Drug Data. Lilly Rises, But Novo Falls.",
+      "link": "https://www.investors.com/news/technology/viking-therapeutics-stock-skyrockets-obesity-drug-data-roche-eli-lilly-novo-fall/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T20:21:01Z",
+      "ts": 1790108461
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Microsoft Scores Positive Reviews On AI Momentum",
+      "link": "https://www.investors.com/news/technology/microsoft-stock-positive-reviews-ai-momentum/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T20:20:39Z",
+      "ts": 1790108439
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "A $26 Million Reason Why GameStop Stock Is Up Today",
       "link": "https://finance.yahoo.com/markets/stocks/articles/26-million-reason-why-gamestop-201630953.html",
       "published": "2026-09-22T20:16:30Z",
       "ts": 1790108190
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Grant Cardone offers 10 Bitcoin bounty on finding a buyer for his private jet",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/grant-cardone-offers-10-bitcoin-201519149.html",
-      "published": "2026-09-22T20:15:19Z",
-      "ts": 1790108119
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "SHOP Stock Jumps as Meta Expands Shopify Partnership",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/shop-stock-jumps-meta-expands-200743785.html",
-      "published": "2026-09-22T20:07:43Z",
-      "ts": 1790107663
     }
   ]
 }
