@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-24T09:56:12.846280+00:00",
+  "updated_utc": "2026-09-24T10:10:00.070801+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Greenback notched fourth daily gain as hot data reignite interest rate repricing",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-yen-stays-near-lows-4914394",
+      "published": "2026-09-24 10:03:24",
+      "ts": 1790244204
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Black Monday’s stock-market warning signal came from the bond market, and it’s back, says Wall Street veteran",
+      "link": "https://www.marketwatch.com/story/black-mondays-stock-market-warning-signal-came-from-the-bond-market-and-its-back-says-wall-street-veteran-52f12e39?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 10:01:00 GMT",
+      "ts": 1790244060
+    },
     {
       "source": "CoinDesk",
       "title": "The data proves it: Bitcoin doesn't care about rising bond yields over long-term",
@@ -75,7 +89,7 @@
     },
     {
       "source": "Investing Forex",
-      "title": "U.S. yields surge past 5% as hot PMI data and failed auctions spark sharp sell-off",
+      "title": "U.S. 30 year yield hits 2004-high as bond rout deepens",
       "link": "https://www.investing.com/news/forex-news/euro-yields-jump-as-robust-pmi-prints-strengthen-case-for-further-ecb-hikes-4914499",
       "published": "2026-09-24 08:38:51",
       "ts": 1790239131
@@ -86,13 +100,6 @@
       "link": "https://cointelegraph.com/news/australia-openai-agent-government-hack-altman-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 24 Sep 2026 08:29:11 +0000",
       "ts": 1790238551
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar holds two-month high, yen stays near lows",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-yen-stays-near-lows-4914394",
-      "published": "2026-09-24 08:22:59",
-      "ts": 1790238179
     },
     {
       "source": "Investing Crypto",
@@ -191,13 +198,6 @@
       "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
       "published": "Wed, 23 Sep 2026 22:15:00 GMT",
       "ts": 1790201700
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I don’t begrudge them their money’: My husband and I have friends who spend, spend, spend. How do we keep up?",
-      "link": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 22:00:00 GMT",
-      "ts": 1790200800
     },
     {
       "source": "Cointelegraph",
