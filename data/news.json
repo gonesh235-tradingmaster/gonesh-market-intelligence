@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-24T09:15:00.815446+00:00",
+  "updated_utc": "2026-09-24T09:31:00.849412+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Institutions held crypto through 50% drawdown, Bitwise finds",
+      "link": "https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 09:18:16 +0000",
+      "ts": 1790241496
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘We made a bad, bad decision’: I learned the hard way how to manage my aging father’s money",
+      "link": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 09:15:00 GMT",
+      "ts": 1790241300
+    },
     {
       "source": "MarketWatch",
       "title": "Meta gets price-target boost as JPMorgan says Muse agent has potential to become the top AI application since ChatGPT",
@@ -165,13 +179,6 @@
       "ts": 1790200800
     },
     {
-      "source": "MarketWatch",
-      "title": "This test screens for 50 cancers — but whether Medicare and other health insurers will cover it hinges on FDA approval",
-      "link": "https://www.marketwatch.com/story/fda-advisers-are-reviewing-a-multicancer-detection-test-medicare-coverage-could-follow-77cb8817?mod=mw_rss_topstories",
-      "published": "Wed, 23 Sep 2026 21:59:00 GMT",
-      "ts": 1790200740
-    },
-    {
       "source": "Cointelegraph",
       "title": "Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility",
       "link": "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -191,13 +198,6 @@
       "link": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 23 Sep 2026 20:43:56 +0000",
       "ts": 1790196236
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US lawmakers from gaming states urge SCOTUS to take up Kalshi case",
-      "link": "https://cointelegraph.com/news/us-lawmakers-gaming-states-supreme-court-kalshi-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 20:28:34 +0000",
-      "ts": 1790195314
     },
     {
       "source": "CoinDesk",
@@ -271,17 +271,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Kraft Heinz’s Bull Case Runs Into Its Own Recent Reversal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-bull-case-runs-210901221.html",
-      "published": "2026-09-22T21:09:01Z",
-      "ts": 1790111341
+      "title": "America’s Power Buildout Is Accelerating. These 3 ETFs Invest in the Infrastructure",
+      "link": "https://finance.yahoo.com/energy/articles/america-power-buildout-accelerating-3-212545311.html",
+      "published": "2026-09-22T21:25:45Z",
+      "ts": 1790112345
     },
     {
       "source": "Yahoo Finance",
-      "title": "Wells Fargo, Other Bank Stocks Fall as Meta’s Muse Adds Fuel to AI Fears",
-      "link": "https://www.barrons.com/articles/bank-stocks-ai-meta-muse-wells-fargo-02d3c504?siteid=yhoof2&yptr=yahoo",
-      "published": "2026-09-22T21:07:00Z",
-      "ts": 1790111220
+      "title": "Jim Cramer Calls Cintas (CTAS) a “Pretty Good Business”",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-cintas-ctas-212518154.html",
+      "published": "2026-09-22T21:25:18Z",
+      "ts": 1790112318
     }
   ]
 }
