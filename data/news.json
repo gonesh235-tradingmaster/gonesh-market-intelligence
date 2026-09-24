@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-24T06:34:35.201050+00:00",
+  "updated_utc": "2026-09-24T06:51:22.539187+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin slips to $84k as yields, oil spike spook risk",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-84k-as-yields-oil-spike-spook-risk-4914488",
+      "published": "2026-09-24 06:34:25",
+      "ts": 1790231665
+    },
     {
       "source": "CoinDesk",
       "title": "Trump administration weighs a global stablecoin plan to cement dollar's dominance",
@@ -249,13 +256,6 @@
       "ts": 1790148634
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin takes a breather, halting a big rally that briefly took it above $87k",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-surges-past-85k-as-strategy-buys-more-coins-4909921",
-      "published": "2026-09-22 22:16:25",
-      "ts": 1790115385
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar pinned at nearly 8-week high, euro slips while yen flat amid holiday volume",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-yen-pressured-by-policy-gap-4909848",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "A $20 Million Reason Why Fervo Energy Stock Is in Focus Today",
-      "link": "https://finance.yahoo.com/energy/articles/20-million-reason-why-fervo-190931422.html",
-      "published": "2026-09-22T19:09:31Z",
-      "ts": 1790104171
+      "title": "CRCL Stock Alert: What to Know as Circle Lands $100 Billion Deal With Binance",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/crcl-stock-alert-know-circle-192527429.html",
+      "published": "2026-09-22T19:25:27Z",
+      "ts": 1790105127
     }
   ]
 }
