@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-24T12:13:48.757725+00:00",
+  "updated_utc": "2026-09-24T12:35:16.987900+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto investment firm RockawayX is betting $150 million on yield becoming next big use case",
+      "link": "https://www.coindesk.com/business/2026/09/23/rockawayx-is-betting-usd150-million-on-yield-becoming-crypto-s-next-big-use-case",
+      "published": "Thu, 24 Sep 2026 12:31:53 +0000",
+      "ts": 1790253113
+    },
+    {
+      "source": "CoinDesk",
+      "title": "EU's financial regulator to make AI and tokenization a supervisory priority in 2027",
+      "link": "https://www.coindesk.com/policy/2026/09/24/eu-s-financial-regulator-to-make-ai-and-tokenization-a-supervisory-priority-in-2027",
+      "published": "Thu, 24 Sep 2026 12:26:43 +0000",
+      "ts": 1790252803
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 12:15:00 GMT",
+      "ts": 1790252100
+    },
     {
       "source": "MarketWatch",
       "title": "The stock market is ‘priced for perfection.’ Here’s what could drive a nearly 20% slump for the S&P 500 next year.",
@@ -47,7 +68,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin continues lower as bond yields take center stage",
+      "title": "Live updates: Bitcoin falls to $83,000 as bond yields take center stage",
       "link": "https://www.coindesk.com/tech/2026/09/24/live-updates-bitcoin-edges-lower-as-bond-yields-take-center-stage",
       "published": "Thu, 24 Sep 2026 11:20:12 +0000",
       "ts": 1790248812
@@ -130,13 +151,6 @@
       "ts": 1790243289
     },
     {
-      "source": "CoinDesk",
-      "title": "EU financial watchdogs warn quantum computing poses imminent threat to blockchain encryption",
-      "link": "https://www.coindesk.com/tech/2026/09/24/eu-financial-watchdogs-warn-quantum-computing-poses-imminent-threat-to-blockchain-encryption",
-      "published": "Thu, 24 Sep 2026 09:32:48 +0000",
-      "ts": 1790242368
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bitcoin ETFs add $347M as BTC falls below $84K after topping $87K",
       "link": "https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -172,13 +186,6 @@
       "ts": 1790241120
     },
     {
-      "source": "MarketWatch",
-      "title": "8 grassroots porchfests for experiencing free live music and neighborhood culture",
-      "link": "https://www.marketwatch.com/story/8-grassroots-porchfests-for-experiencing-free-live-music-and-neighborhood-culture-34a2dc81?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 09:02:00 GMT",
-      "ts": 1790240520
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. 30 year yield hits 2004-high as bond rout deepens",
       "link": "https://www.investing.com/news/forex-news/euro-yields-jump-as-robust-pmi-prints-strengthen-case-for-further-ecb-hikes-4914499",
@@ -207,25 +214,11 @@
       "ts": 1790236229
     },
     {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound steadies as stretched dollar rally meets Treasury yield peak",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-as-stretched-dollar-rally-meets-treasury-yield-peak-4914548",
-      "published": "2026-09-24 07:45:39",
-      "ts": 1790235939
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin slips below 20 SMA at $84,076: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
       "published": "2026-09-24 07:10:54",
       "ts": 1790233854
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Trump administration weighs a global stablecoin plan to cement dollar's dominance",
-      "link": "https://www.coindesk.com/markets/2026/09/24/trump-administration-weighs-a-global-stablecoin-plan-to-cement-dollar-s-dominance",
-      "published": "Thu, 24 Sep 2026 06:33:23 +0000",
-      "ts": 1790231603
     },
     {
       "source": "Cointelegraph",
@@ -282,6 +275,13 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-dollar-resilience-builds-on-hawkish-fed-bets-4912384",
       "published": "2026-09-23 09:25:51",
       "ts": 1790155551
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
+      "link": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html",
+      "published": "2026-09-23T04:33:16Z",
+      "ts": 1790137996
     }
   ]
 }
