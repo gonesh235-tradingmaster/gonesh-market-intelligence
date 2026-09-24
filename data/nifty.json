@@ -1,12 +1,12 @@
 {
-  "updated_utc": "2026-09-24T03:56:42.140803+00:00",
+  "updated_utc": "2026-09-24T04:11:01.905449+00:00",
   "source": "Yahoo Finance",
   "source_url": "https://finance.yahoo.com/quote/%5ENSEI",
   "data": {
-    "value": 23249.45,
+    "value": 23242.45,
     "previous_close": 23346.4,
-    "change": -96.95,
-    "change_percent": -0.42,
+    "change": -103.95,
+    "change_percent": -0.45,
     "day_high": 23281.95,
     "day_low": 23205.45,
     "currency": "INR",
