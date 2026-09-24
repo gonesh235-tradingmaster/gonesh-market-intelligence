@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-09-24T13:36:43.379554+00:00",
+  "updated_utc": "2026-09-24T13:50:51.337705+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "With the stock market ‘priced for perfection,’ the S&P 500 is in danger of a 20% slump next year",
+      "link": "https://www.marketwatch.com/story/the-stock-market-is-priced-for-perfection-heres-what-could-drive-a-nearly-20-slump-for-the-s-p-500-next-year-41e78c27?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 13:40:00 GMT",
+      "ts": 1790257200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Oracle’s stock is falling as investors fear a data-center setback",
+      "link": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 13:39:00 GMT",
+      "ts": 1790257140
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 13:29:50 +0000",
+      "ts": 1790256590
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
+      "link": "https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 13:29:06 +0000",
+      "ts": 1790256546
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin retreats to $83.6k as yields, oil spike spook risk",
@@ -30,13 +58,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-yields-jump-as-robust-pmi-prints-strengthen-case-for-further-ecb-hikes-4914499",
       "published": "2026-09-24 13:07:15",
       "ts": 1790255235
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Oracle’s stock is falling as investors fear a data-center setback",
-      "link": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 13:02:00 GMT",
-      "ts": 1790254920
     },
     {
       "source": "MarketWatch",
@@ -79,13 +100,6 @@
       "link": "https://www.marketwatch.com/story/10-places-where-thousands-of-homeowners-face-higher-insurance-bills-after-fema-updated-its-flood-maps-ff779184?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 12:51:00 GMT",
       "ts": 1790254260
-    },
-    {
-      "source": "MarketWatch",
-      "title": "With the stock market ‘priced for perfection,’ the S&P 500 is in danger of a 20% slump next year",
-      "link": "https://www.marketwatch.com/story/the-stock-market-is-priced-for-perfection-heres-what-could-drive-a-nearly-20-slump-for-the-s-p-500-next-year-41e78c27?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 12:48:00 GMT",
-      "ts": 1790254080
     },
     {
       "source": "MarketWatch",
@@ -198,20 +212,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 24 Sep 2026 09:32:44 +0000",
       "ts": 1790242364
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Institutions held crypto through 50% drawdown, Bitwise finds",
-      "link": "https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 09:18:16 +0000",
-      "ts": 1790241496
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Australia says OpenAI agent hacked government site before Altman warning",
-      "link": "https://cointelegraph.com/news/australia-openai-agent-government-hack-altman-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 08:29:11 +0000",
-      "ts": 1790238551
     },
     {
       "source": "Investing Crypto",
