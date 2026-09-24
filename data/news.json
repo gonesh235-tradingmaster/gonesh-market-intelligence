@@ -1,14 +1,28 @@
 {
-  "updated_utc": "2026-09-24T11:33:26.895062+00:00",
+  "updated_utc": "2026-09-24T11:46:24.108404+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Brooklyn man sent to prison for 12 years for stealing $16M in a Coinbase phishing scheme",
+      "link": "https://www.coindesk.com/business/2026/09/24/brooklyn-man-sent-to-prison-for-12-years-for-stealing-usd16m-in-a-coinbase-phishing-scheme",
+      "published": "Thu, 24 Sep 2026 11:33:57 +0000",
+      "ts": 1790249637
+    },
     {
       "source": "CoinDesk",
       "title": "Litecoin token has its moment as network activity booms",
       "link": "https://www.coindesk.com/daybook-us/2026/09/24/litecoin-token-has-its-moment-as-network-activity-booms",
       "published": "Thu, 24 Sep 2026 11:26:18 +0000",
       "ts": 1790249178
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Era of pure crypto exchanges is ending, Bybit CEO says",
+      "link": "https://cointelegraph.com/news/era-pure-crypto-exchanges-end-bybit-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 11:24:07 +0000",
+      "ts": 1790249047
     },
     {
       "source": "CoinDesk",
@@ -207,13 +221,6 @@
       "ts": 1790231603
     },
     {
-      "source": "CoinDesk",
-      "title": "A week of AI coding cut a quantum-safe bitcoin transaction estimate from $320 to $66",
-      "link": "https://www.coindesk.com/tech/2026/09/24/a-week-of-ai-coding-cut-a-quantum-safe-bitcoin-transaction-estimate-from-usd320-to-usd66",
-      "published": "Thu, 24 Sep 2026 05:24:56 +0000",
-      "ts": 1790227496
-    },
-    {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -226,13 +233,6 @@
       "link": "https://cointelegraph.com/news/bitcoins-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 24 Sep 2026 04:52:40 +0000",
       "ts": 1790225560
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US weighs overseas push for dollar-backed stablecoins: Bloomberg",
-      "link": "https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 04:44:12 +0000",
-      "ts": 1790225052
     },
     {
       "source": "Investing Crypto",
