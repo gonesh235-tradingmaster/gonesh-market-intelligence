@@ -1,14 +1,42 @@
 {
-  "updated_utc": "2026-09-24T21:57:14.526108+00:00",
+  "updated_utc": "2026-09-24T22:12:13.187180+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "8% mortgage rates are ‘not an impossibility’ as the 30-year fixed rate surges",
+      "link": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 22:03:00 GMT",
+      "ts": 1790287380
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
+      "link": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
+      "published": "Thu, 24 Sep 2026 21:59:32 +0000",
+      "ts": 1790287172
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitget confirms $351M security breach, suspends withdrawals",
+      "link": "https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 21:47:17 +0000",
+      "ts": 1790286437
+    },
     {
       "source": "Cointelegraph",
       "title": "CFTC updates guidance on tokenized assets, blockchain records after failed vote",
       "link": "https://cointelegraph.com/news/cftc-digital-assets-regulation-failed-clarity-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 24 Sep 2026 21:42:51 +0000",
       "ts": 1790286171
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. 30-yr Treasury yield ends at highest level since 2004 as bond rout deepens",
+      "link": "https://www.investing.com/news/forex-news/euro-yields-jump-as-robust-pmi-prints-strengthen-case-for-further-ecb-hikes-4914499",
+      "published": "2026-09-24 21:40:41",
+      "ts": 1790286041
     },
     {
       "source": "MarketWatch",
@@ -123,13 +151,6 @@
       "ts": 1790278717
     },
     {
-      "source": "MarketWatch",
-      "title": "The government canceled her student loans due to a scam — but $72,000 is still on her credit report",
-      "link": "https://www.marketwatch.com/story/the-government-canceled-her-student-loans-due-to-a-scam-but-72-000-is-still-on-her-credit-report-4889733b?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 19:19:00 GMT",
-      "ts": 1790277540
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin double top risk at $87,363 after rebound: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
@@ -179,25 +200,11 @@
       "ts": 1790264900
     },
     {
-      "source": "Cointelegraph",
-      "title": "New York sues Polymarket over alleged illegal gambling business",
-      "link": "https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 15:27:29 +0000",
-      "ts": 1790263649
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin’s bear markets are getting milder. Bull markets may be next",
       "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next",
       "published": "Thu, 24 Sep 2026 15:26:34 +0000",
       "ts": 1790263594
-    },
-    {
-      "source": "CoinDesk",
-      "title": "UK’s largest banks complete world’s first interbank transactions using tokenized deposits",
-      "link": "https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits",
-      "published": "Thu, 24 Sep 2026 15:07:18 +0000",
-      "ts": 1790262438
     },
     {
       "source": "Investing Crypto",
@@ -212,13 +219,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-84k-as-yields-oil-spike-spook-risk-4914488",
       "published": "2026-09-24 13:18:35",
       "ts": 1790255915
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. 30 year yield hits 2004-high as bond rout deepens",
-      "link": "https://www.investing.com/news/forex-news/euro-yields-jump-as-robust-pmi-prints-strengthen-case-for-further-ecb-hikes-4914499",
-      "published": "2026-09-24 13:07:15",
-      "ts": 1790255235
     },
     {
       "source": "Investing Forex",
