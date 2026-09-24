@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-24T03:46:15.588736+00:00",
+  "updated_utc": "2026-09-24T03:56:44.104100+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar holds two-month high, yen stays near lows",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-yen-stays-near-lows-4914394",
+      "published": "2026-09-24 03:42:22",
+      "ts": 1790221342
+    },
     {
       "source": "Cointelegraph",
       "title": "Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity",
@@ -271,17 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Saudi Pipeline Restart Fails to End Oil Market Tightness",
-      "link": "https://finance.yahoo.com/energy/articles/saudi-pipeline-restart-fails-end-161000625.html",
-      "published": "2026-09-22T16:10:00Z",
-      "ts": 1790093400
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Is FactSet Stock Underperforming the Nasdaq?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/factset-stock-underperforming-nasdaq-160607471.html",
-      "published": "2026-09-22T16:06:07Z",
-      "ts": 1790093167
+      "title": "Berkshire Hathaway Raises Stake In This Ramshackle Homebuilder",
+      "link": "https://www.investors.com/news/berkshire-hathaway-lennar-homebuilders/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T16:30:09Z",
+      "ts": 1790094609
     }
   ]
 }
