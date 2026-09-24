@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-24T15:34:24.371289+00:00",
+  "updated_utc": "2026-09-24T15:48:18.491750+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "New York sues Polymarket over alleged illegal gambling business",
+      "link": "https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 15:27:29 +0000",
+      "ts": 1790263649
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin’s bear markets are getting milder. Bull markets may be next",
@@ -212,13 +219,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-yen-stays-near-lows-4914394",
       "published": "2026-09-24 10:03:24",
       "ts": 1790244204
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin ETFs add $347M as BTC falls below $84K after topping $87K",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 09:32:44 +0000",
-      "ts": 1790242364
     },
     {
       "source": "Investing Crypto",
