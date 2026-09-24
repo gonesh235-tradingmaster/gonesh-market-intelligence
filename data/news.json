@@ -1,8 +1,50 @@
 {
-  "updated_utc": "2026-09-24T19:59:31.351116+00:00",
+  "updated_utc": "2026-09-24T20:18:02.521546+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Someone was trying to sell Ondo Finance after founder Nathan Allman's death",
+      "link": "https://www.coindesk.com/business/2026/09/23/someone-was-trying-to-sell-ondo-finance-after-founder-nathan-allman-s-death",
+      "published": "Thu, 24 Sep 2026 20:13:25 +0000",
+      "ts": 1790280805
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Oracle’s stock is falling as investors fear a data-center setback",
+      "link": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 20:12:00 GMT",
+      "ts": 1790280720
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bullish, Alpaca and Apex Fintech form coalition to push issuer-backed tokenized stocks",
+      "link": "https://www.coindesk.com/business/2026/09/24/bullish-alpaca-and-apex-fintech-form-coalition-to-push-issuer-backed-tokenized-stocks",
+      "published": "Thu, 24 Sep 2026 20:05:00 +0000",
+      "ts": 1790280300
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. commodities firms can invest in tokenized assets, use blockchain records: CFTC",
+      "link": "https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc",
+      "published": "Thu, 24 Sep 2026 20:04:46 +0000",
+      "ts": 1790280286
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "DoubleZero brings dedicated fiber market data to Hyperliquid traders",
+      "link": "https://cointelegraph.com/news/doublezero-brings-dedicated-fiber-market-data-hyperliquid-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 20:04:07 +0000",
+      "ts": 1790280247
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The stock token debate, and the gap nobody can close alone",
+      "link": "https://www.coindesk.com/opinion/2026/09/24/the-stock-token-debate-and-the-gap-nobody-can-close-alone",
+      "published": "Thu, 24 Sep 2026 20:03:21 +0000",
+      "ts": 1790280201
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -81,13 +123,6 @@
       "ts": 1790274240
     },
     {
-      "source": "MarketWatch",
-      "title": "Here are 3 alternatives for investors looking to dodge the bond-market beatdown",
-      "link": "https://www.marketwatch.com/story/here-are-3-alternatives-for-investors-looking-to-dodge-the-bond-market-beatdown-ec8fda43?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 18:07:00 GMT",
-      "ts": 1790273220
-    },
-    {
       "source": "Investing Crypto",
       "title": "moomoo sees 50% jump in crypto buyers as retail demand broadens",
       "link": "https://www.investing.com/news/cryptocurrency-news/moomoo-sees-50-jump-in-crypto-buyers-as-retail-demand-broadens-4915966",
@@ -144,20 +179,6 @@
       "ts": 1790262438
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto for Advisors:The hidden costs of holding your own bitcoin",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/09/24/crypto-for-advisors-the-hidden-costs-of-holding-your-own-bitcoin",
-      "published": "Thu, 24 Sep 2026 14:49:28 +0000",
-      "ts": 1790261368
-    },
-    {
-      "source": "CoinDesk",
-      "title": "European stablecoin issuer Qivalis sees transformation of global trade finance",
-      "link": "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
-      "published": "Thu, 24 Sep 2026 14:41:05 +0000",
-      "ts": 1790260865
-    },
-    {
       "source": "Investing Crypto",
       "title": "Buy USDT Gift Card: USDT Gift Card Announces Digital Gifting Service With Free Redemption",
       "link": "https://www.investing.com/news/cryptocurrency-news/buy-usdt-gift-card-usdt-gift-card-announces-digital-gifting-service-with-free-redemption-4915636",
@@ -186,20 +207,6 @@
       "ts": 1790255235
     },
     {
-      "source": "CoinDesk",
-      "title": "Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes",
-      "link": "https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes",
-      "published": "Thu, 24 Sep 2026 13:00:00 +0000",
-      "ts": 1790254800
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Solana Foundation hires Binance, Polygon veterans as it ramps up tokenized finance push",
-      "link": "https://www.coindesk.com/business/2026/09/24/solana-foundation-hires-binance-polygon-veterans-as-it-ramps-up-tokenized-finance-push",
-      "published": "Thu, 24 Sep 2026 13:00:00 +0000",
-      "ts": 1790254800
-    },
-    {
       "source": "Cointelegraph",
       "title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
       "link": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -212,13 +219,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-as-stretched-dollar-rally-meets-treasury-yield-peak-4914548",
       "published": "2026-09-24 12:34:27",
       "ts": 1790253267
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "HIFI raises $37M to expand stablecoin payments, tokenized markets",
-      "link": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 12:00:00 +0000",
-      "ts": 1790251200
     },
     {
       "source": "Investing Forex",
