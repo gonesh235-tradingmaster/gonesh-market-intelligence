@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-24T08:13:53.244538+00:00",
+  "updated_utc": "2026-09-24T08:30:58.710097+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar holds two-month high, yen stays near lows",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-yen-stays-near-lows-4914394",
+      "published": "2026-09-24 08:22:59",
+      "ts": 1790238179
+    },
     {
       "source": "Investing Crypto",
       "title": "Litecoin Climbs 10% In a Green Day",
@@ -86,13 +93,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
       "published": "Thu, 24 Sep 2026 04:13:01 +0000",
       "ts": 1790223181
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar holds two-month high, yen stays near lows",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-yen-stays-near-lows-4914394",
-      "published": "2026-09-24 03:42:22",
-      "ts": 1790221342
     },
     {
       "source": "Cointelegraph",
@@ -278,10 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Viking Therapeutics Skyrockets On Obesity Drug Data. Lilly Rises, But Novo Falls.",
-      "link": "https://www.investors.com/news/technology/viking-therapeutics-stock-skyrockets-obesity-drug-data-roche-eli-lilly-novo-fall/?src=A00220&yptr=yahoo",
-      "published": "2026-09-22T20:21:01Z",
-      "ts": 1790108461
+      "title": "Stock Market Today: Dow Skids But Apple Eyes A Buy Point; Filing Says Trump Makes These Trades",
+      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&yptr=yahoo",
+      "published": "2026-09-22T20:40:00Z",
+      "ts": 1790109600
     }
   ]
 }
