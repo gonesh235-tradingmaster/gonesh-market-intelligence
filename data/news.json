@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-24T12:52:04.932668+00:00",
+  "updated_utc": "2026-09-24T13:02:52.887912+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Cathie Wood's ARK teams with Securitize to tokenize venture fund with OpenAI, Anthropic stakes",
+      "link": "https://www.coindesk.com/business/2026/09/24/cathie-wood-s-ark-teams-with-securitize-to-tokenize-venture-fund-with-openai-anthropic-stakes",
+      "published": "Thu, 24 Sep 2026 13:00:00 +0000",
+      "ts": 1790254800
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Three reasons to stick with stocks despite rising yields, according to Barclays",
+      "link": "https://www.marketwatch.com/story/three-reasons-to-stick-with-stocks-despite-rising-yields-according-to-barclays-9b8ea2c3?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 12:58:00 GMT",
+      "ts": 1790254680
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Here’s where thousands of homeowners face higher insurance bills after FEMA updated its flood maps",
+      "link": "https://www.marketwatch.com/story/10-places-where-thousands-of-homeowners-face-higher-insurance-bills-after-fema-updated-its-flood-maps-ff779184?mod=mw_rss_topstories",
+      "published": "Thu, 24 Sep 2026 12:51:00 GMT",
+      "ts": 1790254260
+    },
     {
       "source": "MarketWatch",
       "title": "With the stock market ‘priced for perfection,’ the S&P 500 is in danger of a 20% slump next year",
@@ -16,6 +37,13 @@
       "link": "https://www.marketwatch.com/story/record-breaking-diesel-prices-look-set-to-push-grocery-bills-even-higher-and-thanksgiving-is-getting-closer-178d3959?mod=mw_rss_topstories",
       "published": "Thu, 24 Sep 2026 12:45:00 GMT",
       "ts": 1790253900
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound heads for lowest close since June as dollar rally holds",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-as-stretched-dollar-rally-meets-treasury-yield-peak-4914548",
+      "published": "2026-09-24 12:34:27",
+      "ts": 1790253267
     },
     {
       "source": "CoinDesk",
@@ -144,20 +172,6 @@
       "ts": 1790244204
     },
     {
-      "source": "MarketWatch",
-      "title": "Black Monday’s stock-market warning signal came from the bond market — and it’s back, says Wall Street veteran",
-      "link": "https://www.marketwatch.com/story/black-mondays-stock-market-warning-signal-came-from-the-bond-market-and-its-back-says-wall-street-veteran-52f12e39?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 10:01:00 GMT",
-      "ts": 1790244060
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The data proves it: Bitcoin doesn't care about rising bond yields over long-term",
-      "link": "https://www.coindesk.com/markets/2026/09/24/the-data-proves-it-bitcoin-doesn-t-care-about-rising-bond-yields-over-long-term",
-      "published": "Thu, 24 Sep 2026 09:48:09 +0000",
-      "ts": 1790243289
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bitcoin ETFs add $347M as BTC falls below $84K after topping $87K",
       "link": "https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -177,13 +191,6 @@
       "link": "https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 24 Sep 2026 09:18:16 +0000",
       "ts": 1790241496
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘We made a bad, bad decision’: I learned the hard way how to manage my aging father’s money",
-      "link": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 09:15:00 GMT",
-      "ts": 1790241300
     },
     {
       "source": "Investing Forex",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-dollar-resilience-builds-on-hawkish-fed-bets-4912384",
       "published": "2026-09-23 09:25:51",
       "ts": 1790155551
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
-      "link": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html",
-      "published": "2026-09-23T04:33:16Z",
-      "ts": 1790137996
     }
   ]
 }
