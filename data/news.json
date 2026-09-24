@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-24T00:52:22.396044+00:00",
+  "updated_utc": "2026-09-24T01:02:14.932372+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity",
+      "link": "https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 00:53:09 +0000",
+      "ts": 1790211189
+    },
     {
       "source": "MarketWatch",
       "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
@@ -165,13 +172,6 @@
       "ts": 1790181267
     },
     {
-      "source": "Cointelegraph",
-      "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
-      "link": "https://cointelegraph.com/news/nyse-blockchaincom-team-up-to-bring-tokenized-us-stocks-to-crypto-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 15:56:20 +0000",
-      "ts": 1790178980
-    },
-    {
       "source": "CoinDesk",
       "title": "Inside the FBI’s little-known annual crypto crime gathering",
       "link": "https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering",
@@ -271,17 +271,17 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Binance Investigated By U.S. For Potential Sanctions Violations",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/binance-investigated-u-potential-sanctions-132500534.html",
-      "published": "2026-09-22T13:25:00Z",
-      "ts": 1790083500
+      "title": "Treasury yields ease, oil falls as Trump-Xi meeting looms: AlphaCheck",
+      "link": "https://finance.yahoo.com/markets/article/treasury-yields-ease-oil-falls-as-trump-xi-meeting-looms-alphacheck-134137146.html",
+      "published": "2026-09-22T13:41:37Z",
+      "ts": 1790084497
     },
     {
       "source": "Yahoo Finance",
-      "title": "Archer-Daniels Midland Vs. Bunge: These Two U.S. Agribusinesses Soar If the Trump-Xi Summit Yields Concessions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/archer-daniels-midland-vs-bunge-132212730.html",
-      "published": "2026-09-22T13:22:12Z",
-      "ts": 1790083332
+      "title": "Palo Alto Networks unveils AI-powered cybersecurity service using Claude, GPT models",
+      "link": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-unveils-ai-133647470.html",
+      "published": "2026-09-22T13:36:47Z",
+      "ts": 1790084207
     }
   ]
 }
