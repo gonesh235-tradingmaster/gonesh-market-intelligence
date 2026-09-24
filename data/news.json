@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-24T07:33:50.923243+00:00",
+  "updated_utc": "2026-09-24T07:47:14.184806+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -264,6 +264,13 @@
     },
     {
       "source": "Yahoo Finance",
+      "title": "A $26 Million Reason Why GameStop Stock Is Up Today",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/26-million-reason-why-gamestop-201630953.html",
+      "published": "2026-09-22T20:16:30Z",
+      "ts": 1790108190
+    },
+    {
+      "source": "Yahoo Finance",
       "title": "Grant Cardone offers 10 Bitcoin bounty on finding a buyer for his private jet",
       "link": "https://finance.yahoo.com/markets/crypto/articles/grant-cardone-offers-10-bitcoin-201519149.html",
       "published": "2026-09-22T20:15:19Z",
@@ -271,17 +278,10 @@
     },
     {
       "source": "Yahoo Finance",
-      "title": "Bessent just picked the one wage measure still rising",
-      "link": "https://finance.yahoo.com/economy/articles/bessent-just-picked-one-wage-194700442.html",
-      "published": "2026-09-22T19:47:00Z",
-      "ts": 1790106420
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Dollar Supported by Hawkish Fed Comments",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-supported-hawkish-fed-comments-193221734.html",
-      "published": "2026-09-22T19:32:21Z",
-      "ts": 1790105541
+      "title": "SHOP Stock Jumps as Meta Expands Shopify Partnership",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/shop-stock-jumps-meta-expands-200743785.html",
+      "published": "2026-09-22T20:07:43Z",
+      "ts": 1790107663
     }
   ]
 }
