@@ -1,8 +1,43 @@
 {
-  "updated_utc": "2026-09-24T10:25:48.489894+00:00",
+  "updated_utc": "2026-09-24T10:40:02.887025+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin slides to $83,300 as bond yields hit highest level since 2007",
+      "link": "https://www.coindesk.com/markets/2026/09/24/bitcoin-steadies-near-usd84-000-after-bond-yields-hit-a-2007-high",
+      "published": "Thu, 24 Sep 2026 10:30:28 +0000",
+      "ts": 1790245828
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "EU banking watchdog calls for crypto lending rules under MiCA",
+      "link": "https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 10:30:00 +0000",
+      "ts": 1790245800
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Hungary’s central bank signals support for forint gains",
+      "link": "https://www.investing.com/news/forex-news/hungarys-central-bank-signals-support-for-forint-gains-93CH-4914860",
+      "published": "2026-09-24 10:15:28",
+      "ts": 1790244928
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Bank of America sees EUR/USD at 1.15 by year-end",
+      "link": "https://www.investing.com/news/forex-news/bank-of-america-sees-eurusd-at-115-by-yearend-93CH-4914859",
+      "published": "2026-09-24 10:15:09",
+      "ts": 1790244909
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin falls below $84K as 10-year Treasury yield hits 19-year high",
+      "link": "https://cointelegraph.com/markets/bitcoin-fall-84k-treasury-yield-hits-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 24 Sep 2026 10:15:03 +0000",
+      "ts": 1790244903
+    },
     {
       "source": "CoinDesk",
       "title": "Traders price in 4 Fed rate hikes by June 2027 as bitcoin slides below $83,000",
@@ -179,13 +214,6 @@
       "ts": 1790223181
     },
     {
-      "source": "Cointelegraph",
-      "title": "Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity",
-      "link": "https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 00:53:09 +0000",
-      "ts": 1790211189
-    },
-    {
       "source": "MarketWatch",
       "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
       "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
@@ -207,13 +235,6 @@
       "ts": 1790201700
     },
     {
-      "source": "Cointelegraph",
-      "title": "Ex-SEC acting chair: Agency dropped crypto cases to avoid issues with credibility",
-      "link": "https://cointelegraph.com/news/sec-mark-uyeda-agency-dropped-crypto-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 23 Sep 2026 21:47:52 +0000",
-      "ts": 1790200072
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar rises to nearly two-month high on firmer Fed rate hike bets, rout in bonds",
       "link": "https://www.investing.com/news/forex-news/asia-fx-flat-dollar-creeps-higher-ahead-of-uschina-summit-4912043",
@@ -226,13 +247,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/23/kalshi-says-it-is-not-being-investigated-by-the-cftc-over-trading-activity",
       "published": "Wed, 23 Sep 2026 19:04:52 +0000",
       "ts": 1790190292
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Former Hack VC partner Hsin-Ju Chuang found dead following public dispute with the firm",
-      "link": "https://www.coindesk.com/business/2026/09/23/former-hack-vc-partner-hsin-ju-chuang-found-dead-following-public-dispute-with-firm",
-      "published": "Wed, 23 Sep 2026 18:59:36 +0000",
-      "ts": 1790189976
     },
     {
       "source": "Investing Forex",
@@ -268,20 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-dollar-resilience-builds-on-hawkish-fed-bets-4912384",
       "published": "2026-09-23 09:25:51",
       "ts": 1790155551
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Viking Therapeutics (VKTX) Rockets 35.7% After Weight Loss Drug Trial — What’s The Selling Point?",
-      "link": "https://finance.yahoo.com/healthcare/articles/viking-therapeutics-vktx-rockets-35-223731784.html",
-      "published": "2026-09-22T22:37:31Z",
-      "ts": 1790116651
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "On Holding (ONON) Approves a $1 Billion Buyback Alongside its 2029 Targets",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/holding-onon-approves-1-billion-223549769.html",
-      "published": "2026-09-22T22:35:49Z",
-      "ts": 1790116549
     }
   ]
 }
