@@ -1,14 +1,49 @@
 {
-  "updated_utc": "2026-09-25T14:35:58.119289+00:00",
+  "updated_utc": "2026-09-25T14:50:09.039535+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "8% mortgage rates are ‘not an impossibility’ as the 30-year fixed rate surges",
+      "link": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 14:42:00 GMT",
+      "ts": 1790347320
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
+      "link": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
+      "published": "Fri, 25 Sep 2026 14:41:53 +0000",
+      "ts": 1790347313
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A new bill in Congress would lower the retirement age to 60. See who would qualify.",
+      "link": "https://www.marketwatch.com/story/a-new-bill-in-congress-would-lower-the-retirement-age-to-60-see-who-would-qualify-10563052?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 14:39:00 GMT",
+      "ts": 1790347140
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenization is moving faster than Washington",
+      "link": "https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington",
+      "published": "Fri, 25 Sep 2026 14:37:32 +0000",
+      "ts": 1790347052
+    },
     {
       "source": "CoinDesk",
       "title": "Tether confirms minimal EQIBank exposure following $89M US asset seizure",
       "link": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
       "published": "Fri, 25 Sep 2026 14:32:48 +0000",
       "ts": 1790346768
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "ChangeNOW Unveils TOKEN2049 Singapore Lineup, Bit Digital Stage Address, and Fast Track Wallet Program",
+      "link": "https://www.investing.com/news/cryptocurrency-news/changenow-unveils-token2049-singapore-lineup-bit-digital-stage-address-and-fast-track-wallet-program-4917735",
+      "published": "2026-09-25 14:30:39",
+      "ts": 1790346639
     },
     {
       "source": "MarketWatch",
@@ -109,20 +144,6 @@
       "ts": 1790338774
     },
     {
-      "source": "MarketWatch",
-      "title": "‘We made a bad, bad decision’: I learned the hard way how to manage my aging father’s money",
-      "link": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 12:15:00 GMT",
-      "ts": 1790338500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
-      "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 12:15:00 GMT",
-      "ts": 1790338500
-    },
-    {
       "source": "CoinDesk",
       "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
       "link": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
@@ -186,13 +207,6 @@
       "ts": 1790326929
     },
     {
-      "source": "CoinDesk",
-      "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
-      "link": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
-      "published": "Fri, 25 Sep 2026 08:58:03 +0000",
-      "ts": 1790326683
-    },
-    {
       "source": "Investing Forex",
       "title": "UBS sees higher global rates weighing on Swedish krona",
       "link": "https://www.investing.com/news/forex-news/ubs-sees-higher-global-rates-weighing-on-swedish-krona-93CH-4916923",
@@ -235,13 +249,6 @@
       "ts": 1790320325
     },
     {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin reverses early gains; Saylor's Strategy moves toward daily dividends",
-      "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
-      "published": "Fri, 25 Sep 2026 07:09:11 +0000",
-      "ts": 1790320151
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin cuts losses, remains muted amid rising oil and yields, hawkish Fed signals",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-84k-as-yields-oil-spike-spook-risk-4914488",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/litecoin-climbs-10-in-a-green-day-4914566",
       "published": "2026-09-24 08:01:00",
       "ts": 1790236860
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Exclusive: Bitget adopts Sygnum’s off-exchange bank custody model",
-      "link": "https://www.investing.com/news/cryptocurrency-news/exclusive-bitget-adopts-sygnums-offexchange-bank-custody-model-4914553",
-      "published": "2026-09-24 07:50:29",
-      "ts": 1790236229
     }
   ]
 }
