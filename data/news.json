@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-25T11:34:38.650482+00:00",
+  "updated_utc": "2026-09-25T11:47:51.603998+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin holders are cashing out, just not the way they did at prior market tops",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
+      "published": "Fri, 25 Sep 2026 11:29:04 +0000",
+      "ts": 1790335744
+    },
     {
       "source": "MarketWatch",
       "title": "I spend my time and money caring for my aging mother — yet she gave my brother $100,000. Should I pull back?",
@@ -19,7 +26,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Why the alternative to the ‘clear and present’ danger from bond yields is this AI-fueled market that’s quietly outperformed",
+      "title": "Why the alternative to the ‘clear and present’ danger from bond yields is this AI-fueled market that has quietly outperformed",
       "link": "https://www.marketwatch.com/story/why-the-alternative-to-the-clear-and-present-danger-from-bond-yields-is-this-ai-fueled-market-thats-quietly-outperformed-cea440af?mod=mw_rss_topstories",
       "published": "Fri, 25 Sep 2026 11:02:00 GMT",
       "ts": 1790334120
@@ -233,13 +240,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-84k-as-yields-oil-spike-spook-risk-4914488",
       "published": "2026-09-24 22:01:14",
       "ts": 1790287274
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
-      "link": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
-      "published": "Thu, 24 Sep 2026 21:59:32 +0000",
-      "ts": 1790287172
     },
     {
       "source": "Investing Forex",
