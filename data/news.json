@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-25T07:34:28.099921+00:00",
+  "updated_utc": "2026-09-25T07:47:50.045464+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Samourai Wallet co-founder faces new transfer after 30-day ordeal",
+      "link": "https://cointelegraph.com/news/samourai-wallet-co-founder-30-day-prison-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 25 Sep 2026 07:28:18 +0000",
+      "ts": 1790321298
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin stuck in $83K-$85K chop zone: Live levels",
@@ -163,13 +170,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
       "published": "Thu, 24 Sep 2026 21:59:32 +0000",
       "ts": 1790287172
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitget confirms $352M security breach, suspends withdrawals",
-      "link": "https://cointelegraph.com/news/bitget-calls-security-withdrawal-claims-unverified-amid-178m-breach-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 21:47:17 +0000",
-      "ts": 1790286437
     },
     {
       "source": "Investing Forex",
