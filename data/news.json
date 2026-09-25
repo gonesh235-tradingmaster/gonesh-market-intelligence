@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-25T08:14:32.466887+00:00",
+  "updated_utc": "2026-09-25T08:31:51.347871+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "U.S 10-year yield climbs for 6 straight week as bond rout deepens",
+      "link": "https://www.investing.com/news/forex-news/us-10year-yield-climbs-for-6-straight-week-as-bond-rout-deepens-4916837",
+      "published": "2026-09-25 08:16:55",
+      "ts": 1790324215
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/asia-fx-flat-dollar-creeps-higher-ahead-of-uschina-summit-4912043",
       "published": "2026-09-23 21:31:55",
       "ts": 1790199115
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Treasury yields soar, 10-yr at highest since July 2007 on hot U.S. data, Fedspeak",
-      "link": "https://www.investing.com/news/forex-news/euro-yields-drop-as-crude-gas-pull-back-on-prospective-usiran-breakthrough-4912156",
-      "published": "2026-09-23 18:41:49",
-      "ts": 1790188909
     }
   ]
 }
