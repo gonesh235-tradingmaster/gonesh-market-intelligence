@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-25T06:09:23.054300+00:00",
+  "updated_utc": "2026-09-25T06:30:44.727427+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Dollar hits two-month high as Asian currencies weaken, yen nears 160",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
+      "published": "2026-09-25 05:54:52",
+      "ts": 1790315692
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -30,13 +37,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
       "published": "Fri, 25 Sep 2026 04:29:34 +0000",
       "ts": 1790310574
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies weaken as dollar hits two-month high, yen nears 160",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
-      "published": "2026-09-25 02:38:23",
-      "ts": 1790303903
     },
     {
       "source": "Cointelegraph",
