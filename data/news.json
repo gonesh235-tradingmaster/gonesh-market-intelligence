@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-25T08:31:51.347871+00:00",
+  "updated_utc": "2026-09-25T08:46:46.864268+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Akamai stock is surging. A $12 billion Anthropic deal reveals its powerful edge over cloud providers.",
+      "link": "https://www.marketwatch.com/story/akamai-stock-is-surging-a-12-billion-anthropic-deal-reveals-its-powerful-edge-over-cloud-providers-0b60ca6d?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 08:42:00 GMT",
+      "ts": 1790325720
+    },
     {
       "source": "Investing Forex",
       "title": "U.S 10-year yield climbs for 6 straight week as bond rout deepens",
@@ -184,13 +191,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-yields-jump-as-robust-pmi-prints-strengthen-case-for-further-ecb-hikes-4914499",
       "published": "2026-09-24 21:40:41",
       "ts": 1790286041
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why investors aren’t buying yet another attempt by the Treasury to calm the rattled bond market",
-      "link": "https://www.marketwatch.com/story/why-investors-arent-buying-yet-another-attempt-by-the-treasury-to-calm-the-rattled-bond-market-b168cac3?mod=mw_rss_topstories",
-      "published": "Thu, 24 Sep 2026 21:23:00 GMT",
-      "ts": 1790284980
     },
     {
       "source": "Investing Forex",
