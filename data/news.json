@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-25T14:02:16.123589+00:00",
+  "updated_utc": "2026-09-25T14:21:05.688225+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Why investors aren’t buying yet another attempt by the Treasury Department to calm the rattled bond market",
+      "link": "https://www.marketwatch.com/story/why-investors-arent-buying-yet-another-attempt-by-the-treasury-to-calm-the-rattled-bond-market-b168cac3?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 14:17:00 GMT",
+      "ts": 1790345820
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
+      "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 14:15:00 GMT",
+      "ts": 1790345700
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Canadian dollar holds near recent lows as U.S. dollar rally keeps pressure",
+      "link": "https://www.investing.com/news/forex-news/canadian-dollar-holds-near-recent-lows-as-us-dollar-rally-keeps-pressure-4917705",
+      "published": "2026-09-25 14:06:09",
+      "ts": 1790345169
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin flat at $84k as focus shifts to rate jitters, Bitget hack",
@@ -88,13 +109,6 @@
       "ts": 1790337900
     },
     {
-      "source": "MarketWatch",
-      "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
-      "link": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 12:00:00 GMT",
-      "ts": 1790337600
-    },
-    {
       "source": "CoinDesk",
       "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
       "link": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
@@ -114,13 +128,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
       "published": "Fri, 25 Sep 2026 11:29:04 +0000",
       "ts": 1790335744
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I spend my time and money caring for my aging mother — yet she gave my brother $100,000. Should I pull back?",
-      "link": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 11:15:00 GMT",
-      "ts": 1790334900
     },
     {
       "source": "Cointelegraph",
@@ -240,13 +247,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-84k-as-yields-oil-spike-spook-risk-4914488",
       "published": "2026-09-24 22:01:14",
       "ts": 1790287274
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. 30-yr Treasury yield ends at highest level since 2004 as bond rout deepens",
-      "link": "https://www.investing.com/news/forex-news/euro-yields-jump-as-robust-pmi-prints-strengthen-case-for-further-ecb-hikes-4914499",
-      "published": "2026-09-24 21:40:41",
-      "ts": 1790286041
     },
     {
       "source": "Investing Crypto",
