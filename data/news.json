@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-25T21:49:17.799635+00:00",
+  "updated_utc": "2026-09-25T21:58:34.614777+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -9,6 +9,13 @@
       "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
       "published": "Fri, 25 Sep 2026 21:45:00 GMT",
       "ts": 1790372700
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Bond rout in shorter-term maturities eases up, but U.S. yields end week with gains",
+      "link": "https://www.investing.com/news/forex-news/us-10year-yield-climbs-for-6-straight-week-as-bond-rout-deepens-4916837",
+      "published": "2026-09-25 21:26:50",
+      "ts": 1790371610
     },
     {
       "source": "CoinDesk",
@@ -205,13 +212,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
       "published": "Fri, 25 Sep 2026 11:54:28 +0000",
       "ts": 1790337268
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S 10-year yield climbs for 6 straight week as bond rout deepens",
-      "link": "https://www.investing.com/news/forex-news/us-10year-yield-climbs-for-6-straight-week-as-bond-rout-deepens-4916837",
-      "published": "2026-09-25 11:52:28",
-      "ts": 1790337148
     },
     {
       "source": "CoinDesk",
