@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-25T23:29:30.635969+00:00",
+  "updated_utc": "2026-09-25T23:42:10.175197+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
+      "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 23:30:00 GMT",
+      "ts": 1790379000
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week",
@@ -86,13 +93,6 @@
       "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-semi-launch-fails-to-excite-investors-5b216e59?mod=mw_rss_topstories",
       "published": "Fri, 25 Sep 2026 20:34:00 GMT",
       "ts": 1790368440
-    },
-    {
-      "source": "MarketWatch",
-      "title": "A 10% risk-free yield? For some, yes.",
-      "link": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 20:32:00 GMT",
-      "ts": 1790368320
     },
     {
       "source": "Cointelegraph",
