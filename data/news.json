@@ -1,21 +1,35 @@
 {
-  "updated_utc": "2026-09-25T13:24:14.056708+00:00",
+  "updated_utc": "2026-09-25T13:38:37.059381+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Exchanges reporting crypto gains to IRS becomes tax nightmare",
+      "link": "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 25 Sep 2026 13:30:00 +0000",
+      "ts": 1790343000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘We were wrong.’ Why Morgan Stanley changed its tune on the U.S. dollar — and what it expects now.",
+      "link": "https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 13:30:00 GMT",
+      "ts": 1790343000
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Yen pulls back from 160 threshold on Katayama’s comments;  dollar steady",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
+      "published": "2026-09-25 13:08:36",
+      "ts": 1790341716
+    },
     {
       "source": "MarketWatch",
       "title": "The stock market could be due for a nasty selloff, judging by these two signals",
       "link": "https://www.marketwatch.com/story/these-two-market-gauges-may-signal-a-big-risk-off-event-for-the-market-says-bofa-0432250a?mod=mw_rss_topstories",
       "published": "Fri, 25 Sep 2026 12:52:00 GMT",
       "ts": 1790340720
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘We were wrong.’ Why Morgan Stanley changed its tune on the U.S. dollar — and what it expects now.",
-      "link": "https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 12:46:00 GMT",
-      "ts": 1790340360
     },
     {
       "source": "Cointelegraph",
@@ -107,13 +121,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
       "published": "Fri, 25 Sep 2026 09:59:45 +0000",
       "ts": 1790330385
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Yen pulls back from 160 threshold on Katayama’s comments;  dollar steady",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
-      "published": "2026-09-25 09:57:04",
-      "ts": 1790330224
     },
     {
       "source": "Cointelegraph",
@@ -212,13 +219,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
       "published": "Fri, 25 Sep 2026 07:09:11 +0000",
       "ts": 1790320151
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 25 Sep 2026 05:30:56 +0000",
-      "ts": 1790314256
     },
     {
       "source": "CoinDesk",
