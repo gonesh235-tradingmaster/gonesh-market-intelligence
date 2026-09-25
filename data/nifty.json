@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-25T14:50:07.356001+00:00",
+  "updated_utc": "2026-09-25T15:00:27.114175+00:00",
   "source": "Yahoo Finance",
   "source_url": "https://finance.yahoo.com/quote/%5ENSEI",
   "data": {
@@ -11,7 +11,7 @@
     "day_low": 23020.95,
     "currency": "INR",
     "market_state": "",
-    "mood_score": -5,
-    "mood_reason": "NIFTY down 1.17% • US markets up 1.23% • US 10Y yield rising sharply"
+    "mood_score": -4,
+    "mood_reason": "NIFTY down 1.17% • US markets up 1.33% • US 10Y yield rising sharply"
   }
 }
