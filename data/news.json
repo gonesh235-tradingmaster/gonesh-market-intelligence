@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-25T13:52:15.406153+00:00",
+  "updated_utc": "2026-09-25T14:02:16.123589+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin flat at $84k as focus shifts to rate jitters, Bitget hack",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-84k-with-focus-on-rate-jitters-bitget-hack-4916727",
+      "published": "2026-09-25 13:44:06",
+      "ts": 1790343846
+    },
     {
       "source": "MarketWatch",
       "title": "The options market is sending a contrarian signal about oil prices",
@@ -135,13 +142,6 @@
       "link": "https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 09:48:53 +0000",
       "ts": 1790329733
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin rangebound near $85k with focus on rate jitters, Bitget hack",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-84k-with-focus-on-rate-jitters-bitget-hack-4916727",
-      "published": "2026-09-25 09:33:50",
-      "ts": 1790328830
     },
     {
       "source": "CoinDesk",
