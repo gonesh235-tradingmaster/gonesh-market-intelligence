@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-25T21:08:49.706983+00:00",
+  "updated_utc": "2026-09-25T21:23:47.939842+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
+      "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
+      "published": "Fri, 25 Sep 2026 21:17:30 +0000",
+      "ts": 1790371050
+    },
     {
       "source": "MarketWatch",
       "title": "Microsoft’s stock has roared back to life, closing at its highest level of the year",
@@ -212,13 +219,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
       "published": "Fri, 25 Sep 2026 11:29:04 +0000",
       "ts": 1790335744
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
-      "link": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
-      "published": "Fri, 25 Sep 2026 09:59:45 +0000",
-      "ts": 1790330385
     },
     {
       "source": "Investing Forex",
