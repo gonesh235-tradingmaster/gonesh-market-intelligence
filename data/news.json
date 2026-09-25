@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-25T13:38:37.059381+00:00",
+  "updated_utc": "2026-09-25T13:52:15.406153+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The options market is sending a contrarian signal about oil prices",
+      "link": "https://www.marketwatch.com/story/the-options-market-is-sending-a-contrarian-signal-about-oil-prices-a8812210?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 13:43:00 GMT",
+      "ts": 1790343780
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 25 Sep 2026 13:32:49 +0000",
+      "ts": 1790343169
+    },
     {
       "source": "Cointelegraph",
       "title": "Exchanges reporting crypto gains to IRS becomes tax nightmare",
@@ -109,13 +123,6 @@
       "ts": 1790334693
     },
     {
-      "source": "MarketWatch",
-      "title": "Why the alternative to the ‘clear and present’ danger from bond yields is this AI-fueled market that has quietly outperformed",
-      "link": "https://www.marketwatch.com/story/why-the-alternative-to-the-clear-and-present-danger-from-bond-yields-is-this-ai-fueled-market-thats-quietly-outperformed-cea440af?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 11:02:00 GMT",
-      "ts": 1790334120
-    },
-    {
       "source": "CoinDesk",
       "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
       "link": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
@@ -200,13 +207,6 @@
       "ts": 1790322096
     },
     {
-      "source": "Cointelegraph",
-      "title": "Samourai Wallet co-founder faces transfer after 30-day jail ordeal",
-      "link": "https://cointelegraph.com/news/samourai-wallet-co-founder-30-day-prison-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 25 Sep 2026 07:28:18 +0000",
-      "ts": 1790321298
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin stuck in $83K-$85K chop zone: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
@@ -215,7 +215,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin steadies below $85,000 as bond selloff pauses",
+      "title": "Live updates: Bitcoin reverses early gains; Saylor's Strategy moves toward daily dividends",
       "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
       "published": "Fri, 25 Sep 2026 07:09:11 +0000",
       "ts": 1790320151
