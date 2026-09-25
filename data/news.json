@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-25T12:37:53.641671+00:00",
+  "updated_utc": "2026-09-25T12:53:36.245919+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘We were wrong.’ Why Morgan Stanley changed its tune on the U.S. dollar — and what it expects now.",
+      "link": "https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 12:46:00 GMT",
+      "ts": 1790340360
+    },
     {
       "source": "Cointelegraph",
       "title": "SlowMist has yet to confirm crypto theft from iPhone Safari attack",
@@ -81,13 +88,6 @@
       "ts": 1790334120
     },
     {
-      "source": "MarketWatch",
-      "title": "‘We were wrong.’ Why Morgan Stanley changed its tune on the U.S. dollar — and what it expects now.",
-      "link": "https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 10:46:00 GMT",
-      "ts": 1790333160
-    },
-    {
       "source": "CoinDesk",
       "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
       "link": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
@@ -117,7 +117,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin ETFs have erased a $5.8 billion hole",
+      "title": "Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit",
       "link": "https://www.coindesk.com/markets/2026/09/25/bitcoin-etfs-have-erased-a-usd5-8-billion-hole",
       "published": "Fri, 25 Sep 2026 09:13:01 +0000",
       "ts": 1790327581
