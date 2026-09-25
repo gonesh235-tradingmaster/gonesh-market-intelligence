@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-25T19:14:45.345417+00:00",
+  "updated_utc": "2026-09-25T19:27:26.945717+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Microsoft’s stock has roared back to life and is now headed for its highest close of the year",
+      "link": "https://www.marketwatch.com/story/microsofts-stock-has-roared-back-to-life-and-is-now-headed-for-its-highest-close-of-the-year-89e4d596?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 19:14:00 GMT",
+      "ts": 1790363640
+    },
     {
       "source": "Cointelegraph",
       "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
@@ -72,13 +79,6 @@
       "link": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
       "published": "Fri, 25 Sep 2026 17:45:00 GMT",
       "ts": 1790358300
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I spend my time and money caring for my aging mother — yet she gave my brother $100,000. Should I pull back?",
-      "link": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 17:30:00 GMT",
-      "ts": 1790357400
     },
     {
       "source": "Cointelegraph",
