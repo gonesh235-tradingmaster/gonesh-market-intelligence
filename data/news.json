@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-25T07:20:08.523370+00:00",
+  "updated_utc": "2026-09-25T07:34:28.099921+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin stuck in $83K-$85K chop zone: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
+      "published": "2026-09-25 07:12:05",
+      "ts": 1790320325
+    },
     {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin steadies near $84,000 as the bond selloff pauses",
@@ -212,13 +219,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/federal-reserve-unveils-proposed-framework-for-stablecoin-issuers-4916070",
       "published": "2026-09-24 19:38:37",
       "ts": 1790278717
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin double top risk at $87,363 after rebound: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
-      "published": "2026-09-24 19:18:41",
-      "ts": 1790277521
     },
     {
       "source": "Investing Crypto",
