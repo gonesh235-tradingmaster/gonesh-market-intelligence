@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-25T20:55:31.494391+00:00",
+  "updated_utc": "2026-09-25T21:08:49.706983+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Microsoft’s stock has roared back to life, closing at its highest level of the year",
+      "link": "https://www.marketwatch.com/story/microsofts-stock-has-roared-back-to-life-and-is-now-headed-for-its-highest-close-of-the-year-89e4d596?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 21:04:00 GMT",
+      "ts": 1790370240
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin slips, but set for weekly gain as regulatory cheer offsets surging yields",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-84k-with-focus-on-rate-jitters-bitget-hack-4916727",
+      "published": "2026-09-25 20:52:20",
+      "ts": 1790369540
+    },
     {
       "source": "Cointelegraph",
       "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
@@ -95,13 +109,6 @@
       "ts": 1790363902
     },
     {
-      "source": "MarketWatch",
-      "title": "Microsoft’s stock has roared back to life and is now headed for its highest close of the year",
-      "link": "https://www.marketwatch.com/story/microsofts-stock-has-roared-back-to-life-and-is-now-headed-for-its-highest-close-of-the-year-89e4d596?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 19:14:00 GMT",
-      "ts": 1790363640
-    },
-    {
       "source": "Cointelegraph",
       "title": "Tether says it had ‘limited’ exposure to bank linked to $84M US seizure",
       "link": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -184,13 +191,6 @@
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-holds-near-recent-lows-as-us-dollar-rally-keeps-pressure-4917705",
       "published": "2026-09-25 14:06:09",
       "ts": 1790345169
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin flat at $84k as focus shifts to rate jitters, Bitget hack",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-84k-with-focus-on-rate-jitters-bitget-hack-4916727",
-      "published": "2026-09-25 13:44:06",
-      "ts": 1790343846
     },
     {
       "source": "CoinDesk",
