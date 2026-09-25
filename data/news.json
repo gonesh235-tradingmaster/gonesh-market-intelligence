@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-25T02:57:07.387653+00:00",
+  "updated_utc": "2026-09-25T03:11:35.915671+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies weaken as dollar hits two-month high, yen nears 160",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
+      "published": "2026-09-25 02:38:23",
+      "ts": 1790303903
+    },
     {
       "source": "Cointelegraph",
       "title": "Block brings Bitcoin Lightning payments to x402 for AI agents",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-yields-drop-as-crude-gas-pull-back-on-prospective-usiran-breakthrough-4912156",
       "published": "2026-09-23 18:41:49",
       "ts": 1790188909
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound slips as dollar resilience builds on hawkish Fed bets",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-dollar-resilience-builds-on-hawkish-fed-bets-4912384",
-      "published": "2026-09-23 09:25:51",
-      "ts": 1790155551
     }
   ]
 }
