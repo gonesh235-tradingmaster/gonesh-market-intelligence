@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-25T09:30:40.967665+00:00",
+  "updated_utc": "2026-09-25T09:45:10.424699+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin rangebound near $85k with focus on rate jitters, Bitget hack",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-84k-with-focus-on-rate-jitters-bitget-hack-4916727",
+      "published": "2026-09-25 09:33:50",
+      "ts": 1790328830
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar hits two-month high as Asian currencies weaken, yen nears 160",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
+      "published": "2026-09-25 09:30:22",
+      "ts": 1790328622
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin ETFs have erased a $5.8 billion hole",
@@ -114,20 +128,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
       "published": "Fri, 25 Sep 2026 07:09:11 +0000",
       "ts": 1790320151
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin pauses near $84k with focus on rate jitters, Bitget hack",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-84k-with-focus-on-rate-jitters-bitget-hack-4916727",
-      "published": "2026-09-25 06:57:26",
-      "ts": 1790319446
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar hits two-month high as Asian currencies weaken, yen nears 160",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
-      "published": "2026-09-25 05:54:52",
-      "ts": 1790315692
     },
     {
       "source": "Cointelegraph",
