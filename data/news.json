@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-25T10:26:17.931700+00:00",
+  "updated_utc": "2026-09-25T10:40:46.750446+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
+      "link": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
+      "published": "Fri, 25 Sep 2026 09:59:45 +0000",
+      "ts": 1790330385
+    },
     {
       "source": "Investing Forex",
       "title": "eYen pulls back from 160 threshold on Katayama’s comments;  dollar steady",
@@ -240,13 +247,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-yields-jump-as-robust-pmi-prints-strengthen-case-for-further-ecb-hikes-4914499",
       "published": "2026-09-24 21:40:41",
       "ts": 1790286041
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Someone was trying to sell Ondo Finance after founder Nathan Allman's death",
-      "link": "https://www.coindesk.com/business/2026/09/23/someone-was-trying-to-sell-ondo-finance-after-founder-nathan-allman-s-death",
-      "published": "Thu, 24 Sep 2026 20:13:25 +0000",
-      "ts": 1790280805
     },
     {
       "source": "Investing Crypto",
