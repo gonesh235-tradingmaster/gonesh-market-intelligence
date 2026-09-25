@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-25T07:01:29.085303+00:00",
+  "updated_utc": "2026-09-25T07:20:08.523370+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin steadies near $84,000 as the bond selloff pauses",
+      "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
+      "published": "Fri, 25 Sep 2026 07:09:11 +0000",
+      "ts": 1790320151
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin pauses near $84k with focus on rate jitters, Bitget hack",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-84k-with-focus-on-rate-jitters-bitget-hack-4916727",
+      "published": "2026-09-25 06:57:26",
+      "ts": 1790319446
+    },
     {
       "source": "Investing Forex",
       "title": "Dollar hits two-month high as Asian currencies weaken, yen nears 160",
@@ -193,13 +207,6 @@
       "ts": 1790280286
     },
     {
-      "source": "CoinDesk",
-      "title": "The stock token debate, and the gap nobody can close alone",
-      "link": "https://www.coindesk.com/opinion/2026/09/24/the-stock-token-debate-and-the-gap-nobody-can-close-alone",
-      "published": "Thu, 24 Sep 2026 20:03:21 +0000",
-      "ts": 1790280201
-    },
-    {
       "source": "Investing Crypto",
       "title": "Federal Reserve unveils proposed framework for stablecoin issuers",
       "link": "https://www.investing.com/news/cryptocurrency-news/federal-reserve-unveils-proposed-framework-for-stablecoin-issuers-4916070",
@@ -261,13 +268,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/exclusive-bitget-adopts-sygnums-offexchange-bank-custody-model-4914553",
       "published": "2026-09-24 07:50:29",
       "ts": 1790236229
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin slips nearly 2%, extends pullback after rally amid hit to risk sentiment",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-near-87k-as-etf-inflows-soar-trumpxi-summit-in-focus-4912118",
-      "published": "2026-09-23 22:15:55",
-      "ts": 1790201755
     },
     {
       "source": "Investing Forex",
