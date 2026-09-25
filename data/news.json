@@ -1,14 +1,28 @@
 {
-  "updated_utc": "2026-09-25T19:39:44.171730+00:00",
+  "updated_utc": "2026-09-25T19:50:57.142768+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Trump’s ban on Canadian alcohol starts Tuesday, but these well-known brands will avoid it",
+      "link": "https://www.marketwatch.com/story/trumps-ban-on-canadian-alcohol-starts-tuesday-but-these-well-known-brands-will-avoid-it-89c2e5c5?mod=mw_rss_topstories",
+      "published": "Fri, 25 Sep 2026 19:45:00 GMT",
+      "ts": 1790365500
+    },
     {
       "source": "MarketWatch",
       "title": "I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?",
       "link": "https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories",
       "published": "Fri, 25 Sep 2026 19:30:00 GMT",
       "ts": 1790364600
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin holds $83,266 support as MACD turns bearish: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
+      "published": "2026-09-25 19:18:22",
+      "ts": 1790363902
     },
     {
       "source": "MarketWatch",
@@ -72,13 +86,6 @@
       "link": "https://www.marketwatch.com/story/nearly-half-of-adults-under-30-live-with-their-parents-the-financial-fallout-could-last-for-decades-5d9f059d?mod=mw_rss_topstories",
       "published": "Fri, 25 Sep 2026 18:16:00 GMT",
       "ts": 1790360160
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
-      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 18:15:00 GMT",
-      "ts": 1790360100
     },
     {
       "source": "Cointelegraph",
@@ -240,13 +247,6 @@
       "link": "https://www.investing.com/news/forex-news/ubs-sees-dollarfranc-support-from-yield-gap-after-snb-meeting-93CH-4916919",
       "published": "2026-09-25 08:51:49",
       "ts": 1790326309
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin stuck in $83K-$85K chop zone: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-double-top-at-82179-with-mfi-maxed-live-levels-93CH-4908352",
-      "published": "2026-09-25 07:12:05",
-      "ts": 1790320325
     },
     {
       "source": "Investing Crypto",
