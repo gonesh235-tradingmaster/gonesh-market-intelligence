@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-25T11:20:17.009032+00:00",
+  "updated_utc": "2026-09-25T11:34:38.650482+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -9,6 +9,13 @@
       "link": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
       "published": "Fri, 25 Sep 2026 11:15:00 GMT",
       "ts": 1790334900
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "IBIT options price trading more calmly after Bitcoin rebound",
+      "link": "https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 25 Sep 2026 11:11:33 +0000",
+      "ts": 1790334693
     },
     {
       "source": "MarketWatch",
@@ -159,7 +166,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin steadies near $84,000 as the bond selloff pauses",
+      "title": "Live updates: Bitcoin steadies near $85,000 as the bond selloff pauses",
       "link": "https://www.coindesk.com/markets/2026/09/25/live-updates-bitcoin-steadies-near-usd84-000-as-the-bond-selloff-pauses",
       "published": "Fri, 25 Sep 2026 07:09:11 +0000",
       "ts": 1790320151
@@ -191,13 +198,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
       "published": "Fri, 25 Sep 2026 04:29:34 +0000",
       "ts": 1790310574
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Block brings Bitcoin Lightning payments to x402 for AI agents",
-      "link": "https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 25 Sep 2026 02:00:54 +0000",
-      "ts": 1790301654
     },
     {
       "source": "MarketWatch",
