@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-25T04:48:59.238464+00:00",
+  "updated_utc": "2026-09-25T04:59:06.394479+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork",
+      "link": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 25 Sep 2026 04:41:06 +0000",
+      "ts": 1790311266
+    },
     {
       "source": "Investing Forex",
       "title": "Asian currencies weaken as dollar hits two-month high, yen nears 160",
@@ -177,13 +184,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc",
       "published": "Thu, 24 Sep 2026 20:04:46 +0000",
       "ts": 1790280286
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "DoubleZero brings dedicated fiber market data to Hyperliquid traders",
-      "link": "https://cointelegraph.com/news/doublezero-brings-dedicated-fiber-market-data-hyperliquid-traders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 24 Sep 2026 20:04:07 +0000",
-      "ts": 1790280247
     },
     {
       "source": "CoinDesk",
