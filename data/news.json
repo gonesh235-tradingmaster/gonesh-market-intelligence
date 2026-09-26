@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-26T12:22:46.316183+00:00",
+  "updated_utc": "2026-09-26T12:39:17.807188+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "China is playing a different game when it comes to AI",
+      "link": "https://www.marketwatch.com/story/china-is-playing-a-different-game-when-it-comes-to-ai-c48791cd?mod=mw_rss_topstories",
+      "published": "Sat, 26 Sep 2026 12:30:00 GMT",
+      "ts": 1790425800
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin holds near $84,000 as rising bond yields offset regulatory progress",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-84000-as-rising-bond-yields-offset-regulatory-progress-4918445",
+      "published": "2026-09-26 12:27:32",
+      "ts": 1790425652
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 26 Sep 2026 12:17:00 +0000",
+      "ts": 1790425020
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
@@ -23,13 +44,6 @@
       "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
       "published": "Sat, 26 Sep 2026 12:00:00 GMT",
       "ts": 1790424000
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Fed requests comment on two proposals for stablecoin issuers under GENIUS Act",
-      "link": "https://cointelegraph.com/news/fed-requests-comment-on-two-proposals-for-stablecoin-issuers-under-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 26 Sep 2026 11:59:46 +0000",
-      "ts": 1790423986
     },
     {
       "source": "MarketWatch",
@@ -58,13 +72,6 @@
       "link": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 26 Sep 2026 06:59:29 +0000",
       "ts": 1790405969
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin holds near $84,000 as rising bond yields offset regulatory progress",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-84000-as-rising-bond-yields-offset-regulatory-progress-4918445",
-      "published": "2026-09-26 05:04:09",
-      "ts": 1790399049
     },
     {
       "source": "CoinDesk",
@@ -114,13 +121,6 @@
       "link": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
       "published": "Fri, 25 Sep 2026 21:57:00 GMT",
       "ts": 1790373420
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-      "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-      "published": "Fri, 25 Sep 2026 21:45:00 GMT",
-      "ts": 1790372700
     },
     {
       "source": "Investing Forex",
@@ -187,17 +187,17 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 25 Sep 2026 18:42:59 +0000",
-      "ts": 1790361779
-    },
-    {
-      "source": "Cointelegraph",
       "title": "Former Hack VC partner Hsin-Ju Chuang’s death ruled a suicide",
       "link": "https://cointelegraph.com/news/former-hack-vc-partner-hsin-ju-chuang-found-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 25 Sep 2026 18:33:49 +0000",
       "ts": 1790361229
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitget clarifies $388M in assets affected by security breach",
+      "link": "https://cointelegraph.com/news/bitget-clarifies-assets-affected-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 25 Sep 2026 17:17:45 +0000",
+      "ts": 1790356665
     },
     {
       "source": "CoinDesk",
