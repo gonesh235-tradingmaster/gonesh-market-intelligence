@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-26T05:54:55.631290+00:00",
+  "updated_utc": "2026-09-26T06:09:32.689474+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin holds near $84,000 as rising bond yields offset regulatory progress",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-84000-as-rising-bond-yields-offset-regulatory-progress-4918445",
+      "published": "2026-09-26 05:04:09",
+      "ts": 1790399049
+    },
     {
       "source": "CoinDesk",
       "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/buy-usdt-gift-card-usdt-gift-card-announces-digital-gifting-service-with-free-redemption-4915636",
       "published": "2026-09-24 14:00:38",
       "ts": 1790258438
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Litecoin Climbs 10% In a Green Day",
-      "link": "https://www.investing.com/news/cryptocurrency-news/litecoin-climbs-10-in-a-green-day-4914566",
-      "published": "2026-09-24 08:01:00",
-      "ts": 1790236860
     }
   ]
 }
