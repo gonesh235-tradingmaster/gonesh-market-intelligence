@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-27T19:23:19.836492+00:00",
+  "updated_utc": "2026-09-27T19:34:40.233155+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "A ‘death cross’ is coming for the dollar. Why Trump will be happy.",
+      "link": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
+      "published": "Sun, 27 Sep 2026 19:21:00 GMT",
+      "ts": 1790536860
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin stalls in bull flag below $87,363: Live levels",
@@ -65,13 +72,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
       "published": "Sun, 27 Sep 2026 14:29:13 +0000",
       "ts": 1790519353
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
-      "link": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
-      "published": "Sun, 27 Sep 2026 14:00:00 GMT",
-      "ts": 1790517600
     },
     {
       "source": "Cointelegraph",
