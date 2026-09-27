@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-27T16:48:01.399652+00:00",
+  "updated_utc": "2026-09-27T16:57:30.315906+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
+      "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
+      "published": "Sun, 27 Sep 2026 16:45:00 GMT",
+      "ts": 1790527500
+    },
     {
       "source": "MarketWatch",
       "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
@@ -72,13 +79,6 @@
       "link": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart",
       "published": "Sun, 27 Sep 2026 12:00:00 +0000",
       "ts": 1790510400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why the upcoming jobs report could send 10-year and 30-year Treasury yields surging",
-      "link": "https://www.marketwatch.com/story/why-the-upcoming-jobs-report-could-send-10-year-and-30-year-treasury-yields-surging-67eab4ba?mod=mw_rss_topstories",
-      "published": "Sun, 27 Sep 2026 11:00:00 GMT",
-      "ts": 1790506800
     },
     {
       "source": "Cointelegraph",
