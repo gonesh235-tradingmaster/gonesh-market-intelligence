@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-27T14:01:01.929411+00:00",
+  "updated_utc": "2026-09-27T14:17:13.542624+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
+      "link": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
+      "published": "Sun, 27 Sep 2026 14:00:00 GMT",
+      "ts": 1790517600
+    },
     {
       "source": "MarketWatch",
       "title": "Look closer, and Wall Street’s rally is showing cracks",
@@ -93,13 +100,6 @@
       "link": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
       "published": "Sat, 26 Sep 2026 16:51:00 GMT",
       "ts": 1790441460
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
-      "link": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
-      "published": "Sat, 26 Sep 2026 16:22:00 GMT",
-      "ts": 1790439720
     },
     {
       "source": "CoinDesk",
