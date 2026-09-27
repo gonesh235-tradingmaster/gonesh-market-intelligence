@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-27T05:54:37.513058+00:00",
+  "updated_utc": "2026-09-27T06:08:52.917145+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin steadies above $84,000 as historic Q3 rally nears its end",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-above-84000-as-historic-q3-rally-nears-its-end-4918823",
+      "published": "2026-09-27 05:48:39",
+      "ts": 1790488119
+    },
     {
       "source": "MarketWatch",
       "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/moomoo-sees-50-jump-in-crypto-buyers-as-retail-demand-broadens-4915966",
       "published": "2026-09-24 17:33:12",
       "ts": 1790271192
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Buy USDT Gift Card: USDT Gift Card Announces Digital Gifting Service With Free Redemption",
-      "link": "https://www.investing.com/news/cryptocurrency-news/buy-usdt-gift-card-usdt-gift-card-announces-digital-gifting-service-with-free-redemption-4915636",
-      "published": "2026-09-24 14:00:38",
-      "ts": 1790258438
     }
   ]
 }
