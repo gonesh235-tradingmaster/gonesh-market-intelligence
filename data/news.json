@@ -1,11 +1,18 @@
 {
-  "updated_utc": "2026-09-27T12:59:11.846492+00:00",
+  "updated_utc": "2026-09-27T13:15:07.831283+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
+      "source": "MarketWatch",
+      "title": "Look closer, and Wall Street’s rally is showing cracks",
+      "link": "https://www.marketwatch.com/story/look-closer-and-wall-streets-rally-is-showing-cracks-94952048?mod=mw_rss_topstories",
+      "published": "Sun, 27 Sep 2026 13:00:00 GMT",
+      "ts": 1790514000
+    },
+    {
       "source": "Cointelegraph",
-      "title": "Australia summons OpenAI, Anthropic chiefs to Senate inquiry on health-data hack: Report",
+      "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
       "link": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 27 Sep 2026 12:46:28 +0000",
       "ts": 1790513188
@@ -93,13 +100,6 @@
       "link": "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
       "published": "Sat, 26 Sep 2026 16:22:00 GMT",
       "ts": 1790439720
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Tax-free bond yields are in a sweet spot. Get in before it’s too late.",
-      "link": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
-      "published": "Sat, 26 Sep 2026 15:48:00 GMT",
-      "ts": 1790437680
     },
     {
       "source": "CoinDesk",
