@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-28T02:13:03.975660+00:00",
+  "updated_utc": "2026-09-28T02:29:23.476022+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Newsom signs California ban on public officials issuing memecoins",
+      "link": "https://cointelegraph.com/news/newsom-signs-california-ban-on-public-officials-issuing-memecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 28 Sep 2026 02:23:42 +0000",
+      "ts": 1790562222
+    },
     {
       "source": "Cointelegraph",
       "title": "Zano rolls blockchain back a month after Gateway Address exploit",
@@ -170,13 +177,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
       "published": "Sat, 26 Sep 2026 12:00:00 +0000",
       "ts": 1790424000
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
-      "link": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 26 Sep 2026 09:02:22 +0000",
-      "ts": 1790413342
     },
     {
       "source": "CoinDesk",
