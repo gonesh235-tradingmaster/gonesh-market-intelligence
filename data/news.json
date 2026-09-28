@@ -1,8 +1,43 @@
 {
-  "updated_utc": "2026-09-28T13:22:22.234853+00:00",
+  "updated_utc": "2026-09-28T13:38:59.149274+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "SpaceX sends its Starship rocket to orbit for the first time",
+      "link": "https://www.marketwatch.com/story/spacex-is-moments-away-from-monumental-starship-launch-4f34767b?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 13:32:00 GMT",
+      "ts": 1790602320
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Altseason is coming — and traders are more discerning this time",
+      "link": "https://cointelegraph.com/magazine/altseason-is-coming-and-traders-are-more-discerning-this-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 28 Sep 2026 13:30:00 +0000",
+      "ts": 1790602200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The history of this market’s bad-breadth signal points to risks ahead",
+      "link": "https://www.marketwatch.com/story/the-history-of-this-market-bad-breadth-signal-points-to-ominous-risks-ahead-ad77e065?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 13:30:00 GMT",
+      "ts": 1790602200
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin slips to $83k amid pressure from high yields, Iran tensions",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-83k-amid-pressure-from-high-yields-iran-tensions-4919428",
+      "published": "2026-09-28 13:27:14",
+      "ts": 1790602034
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia makes a statement with historic $150 billion buyback announcement",
+      "link": "https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 13:20:00 GMT",
+      "ts": 1790601600
+    },
     {
       "source": "CoinDesk",
       "title": "AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns",
@@ -39,13 +74,6 @@
       "ts": 1790599081
     },
     {
-      "source": "MarketWatch",
-      "title": "SpaceX is moments away from monumental Starship launch",
-      "link": "https://www.marketwatch.com/story/spacex-is-moments-away-from-monumental-starship-launch-4f34767b?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 12:35:00 GMT",
-      "ts": 1790598900
-    },
-    {
       "source": "CoinDesk",
       "title": "Chainlink updates its crypto bridge tech months after a $292 million hack at a rival exposed risks",
       "link": "https://www.coindesk.com/business/2026/09/28/chainlink-updates-its-crypto-bridge-tech-months-after-a-usd292-million-hack-shook-the-industry",
@@ -74,13 +102,6 @@
       "ts": 1790597583
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin falls to $83k amid pressure from high yields, Iran tensions",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-83k-amid-pressure-from-high-yields-iran-tensions-4919428",
-      "published": "2026-09-28 11:55:00",
-      "ts": 1790596500
-    },
-    {
       "source": "MarketWatch",
       "title": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
       "link": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
@@ -93,20 +114,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/09/28/bitcoin-traders-aren-t-panicking-yet-despite-cooling-sentiment",
       "published": "Mon, 28 Sep 2026 11:32:33 +0000",
       "ts": 1790595153
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The history of this market’s bad-breadth signal points to risks ahead",
-      "link": "https://www.marketwatch.com/story/the-history-of-this-market-bad-breadth-signal-points-to-ominous-risks-ahead-ad77e065?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 11:26:00 GMT",
-      "ts": 1790594760
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Nvidia makes a statement with historic $150 billion buyback announcement",
-      "link": "https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 11:21:00 GMT",
-      "ts": 1790594460
     },
     {
       "source": "MarketWatch",
@@ -212,13 +219,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
       "published": "2026-09-28 07:12:40",
       "ts": 1790579560
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "South Korea weighs crypto market makers after JPYC trades at 4 times peg",
-      "link": "https://cointelegraph.com/news/south-korea-weighs-crypto-market-makers-after-jpyc-trades-at-4-times-peg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 05:42:45 +0000",
-      "ts": 1790574165
     },
     {
       "source": "Investing Crypto",
