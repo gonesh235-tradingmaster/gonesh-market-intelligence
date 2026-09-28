@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-28T17:32:56.851818+00:00",
+  "updated_utc": "2026-09-28T17:47:47.654003+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 17:30:00 GMT",
+      "ts": 1790616600
+    },
     {
       "source": "MarketWatch",
       "title": "SpaceX sends its Starship rocket to orbit for the first time — but not without some hiccups",
@@ -79,13 +86,6 @@
       "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
       "published": "Mon, 28 Sep 2026 15:00:00 GMT",
       "ts": 1790607600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
-      "link": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 14:57:00 GMT",
-      "ts": 1790607420
     },
     {
       "source": "Cointelegraph",
