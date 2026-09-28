@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-28T05:02:05.594604+00:00",
+  "updated_utc": "2026-09-28T05:20:56.303574+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 28 Sep 2026 04:57:00 +0000",
+      "ts": 1790571420
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies weaken as dollar holds near two-month high, yen slips",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-holds-near-twomonth-high-yen-slips-4919323",
+      "published": "2026-09-28 04:49:36",
+      "ts": 1790570976
+    },
     {
       "source": "Cointelegraph",
       "title": "Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork",
@@ -151,13 +165,6 @@
       "ts": 1790431200
     },
     {
-      "source": "Cointelegraph",
-      "title": "Kalshi loses appeal, setting up potential Supreme Court case",
-      "link": "https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 26 Sep 2026 13:21:12 +0000",
-      "ts": 1790428872
-    },
-    {
       "source": "CoinDesk",
       "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
       "link": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
@@ -254,13 +261,6 @@
       "link": "https://www.investing.com/news/forex-news/ubs-sees-higher-global-rates-weighing-on-swedish-krona-93CH-4916923",
       "published": "2026-09-25 08:56:30",
       "ts": 1790326590
-    },
-    {
-      "source": "Investing Forex",
-      "title": "UBS sees Norwegian krone carry trade staying attractive",
-      "link": "https://www.investing.com/news/forex-news/ubs-sees-norwegian-krone-carry-trade-staying-attractive-93CH-4916921",
-      "published": "2026-09-25 08:54:10",
-      "ts": 1790326450
     },
     {
       "source": "Investing Crypto",
