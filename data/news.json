@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-28T04:19:37.788382+00:00",
+  "updated_utc": "2026-09-28T04:36:37.441097+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -193,6 +193,13 @@
       "ts": 1790398800
     },
     {
+      "source": "Investing Forex",
+      "title": "Bond rout in shorter-term maturities eases up, but U.S. yields end week with gains",
+      "link": "https://www.investing.com/news/forex-news/us-10year-yield-climbs-for-6-straight-week-as-bond-rout-deepens-4916837",
+      "published": "2026-09-25 21:26:50",
+      "ts": 1790371610
+    },
+    {
       "source": "Investing Crypto",
       "title": "Bitcoin slips, but set for weekly gain as regulatory cheer offsets surging yields",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-84k-with-focus-on-rate-jitters-bitget-hack-4916727",
@@ -200,11 +207,60 @@
       "ts": 1790369540
     },
     {
+      "source": "Investing Forex",
+      "title": "Yen jumps as Trump shows concern over its weakness, dollar halts daily win streak",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
+      "published": "2026-09-25 20:03:29",
+      "ts": 1790366609
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Canadian dollar faces near-term pressure as rate gap and trade risks widen",
+      "link": "https://www.investing.com/news/forex-news/canadian-dollar-faces-nearterm-pressure-as-rate-gap-and-trade-risks-widen-4918030",
+      "published": "2026-09-25 19:52:08",
+      "ts": 1790365928
+    },
+    {
       "source": "Investing Crypto",
       "title": "ChangeNOW Unveils TOKEN2049 Singapore Lineup, Bit Digital Stage Address, and Fast Track Wallet Program",
       "link": "https://www.investing.com/news/cryptocurrency-news/changenow-unveils-token2049-singapore-lineup-bit-digital-stage-address-and-fast-track-wallet-program-4917735",
       "published": "2026-09-25 14:30:39",
       "ts": 1790346639
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Canadian dollar holds near recent lows as U.S. dollar rally keeps pressure",
+      "link": "https://www.investing.com/news/forex-news/canadian-dollar-holds-near-recent-lows-as-us-dollar-rally-keeps-pressure-4917705",
+      "published": "2026-09-25 14:06:09",
+      "ts": 1790345169
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Citi sees yen strengthening on reduced foreign investment",
+      "link": "https://www.investing.com/news/forex-news/citi-sees-yen-strengthening-on-reduced-foreign-investment-93CH-4916952",
+      "published": "2026-09-25 09:06:41",
+      "ts": 1790327201
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound steadies as bond sell-off powers dollar gains",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-as-bond-selloff-powers-dollar-gains-4916939",
+      "published": "2026-09-25 09:02:09",
+      "ts": 1790326929
+    },
+    {
+      "source": "Investing Forex",
+      "title": "UBS sees higher global rates weighing on Swedish krona",
+      "link": "https://www.investing.com/news/forex-news/ubs-sees-higher-global-rates-weighing-on-swedish-krona-93CH-4916923",
+      "published": "2026-09-25 08:56:30",
+      "ts": 1790326590
+    },
+    {
+      "source": "Investing Forex",
+      "title": "UBS sees Norwegian krone carry trade staying attractive",
+      "link": "https://www.investing.com/news/forex-news/ubs-sees-norwegian-krone-carry-trade-staying-attractive-93CH-4916921",
+      "published": "2026-09-25 08:54:10",
+      "ts": 1790326450
     },
     {
       "source": "Investing Crypto",
@@ -226,62 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/moomoo-sees-50-jump-in-crypto-buyers-as-retail-demand-broadens-4915966",
       "published": "2026-09-24 17:33:12",
       "ts": 1790271192
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
-      "link": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html",
-      "published": "2026-09-23T04:33:16Z",
-      "ts": 1790137996
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
-      "link": "https://finance.yahoo.com/technology/ai/articles/little-known-ai-chip-stock-042916921.html",
-      "published": "2026-09-23T04:29:16Z",
-      "ts": 1790137756
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ennis-ebf-grows-sales-earns-015226342.html",
-      "published": "2026-09-23T01:52:26Z",
-      "ts": 1790128346
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html",
-      "published": "2026-09-23T01:51:00Z",
-      "ts": 1790128260
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "May Mobility's SPAC Merger: Is This a Road to Nowhere for Investors?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/may-mobilitys-spac-merger-road-015000118.html",
-      "published": "2026-09-23T01:50:00Z",
-      "ts": 1790128200
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-wab-signs-014350177.html",
-      "published": "2026-09-23T01:43:50Z",
-      "ts": 1790127830
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
-      "link": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html",
-      "published": "2026-09-23T01:42:06Z",
-      "ts": 1790127726
-    },
-    {
-      "source": "Yahoo Finance",
-      "title": "Titan International (TWI) Signs ITM Sale. How Much of the $285 Million is New Cash?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/titan-international-twi-signs-itm-012718577.html",
-      "published": "2026-09-23T01:26:44Z",
-      "ts": 1790126804
     }
   ]
 }
