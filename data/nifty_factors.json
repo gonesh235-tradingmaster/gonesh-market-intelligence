@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-28T12:28:56.211634+00:00",
+  "updated_utc": "2026-09-28T12:50:39.080677+00:00",
   "source": "Yahoo Finance",
   "us_markets": {
     "sp500": {
@@ -33,54 +33,54 @@
       "market_state": ""
     },
     "vix": {
-      "value": 16.17,
+      "value": 16.06,
       "previous_close": 14.21,
-      "change": 1.96,
-      "change_percent": 13.79,
+      "change": 1.85,
+      "change_percent": 13.02,
       "day_high": 16.43,
-      "day_low": 16.09,
+      "day_low": 16.06,
       "currency": "USD",
       "market_state": ""
     }
   },
   "bonds": {
     "us10y": {
-      "value": 5.18,
+      "value": 5.21,
       "previous_close": 4.97,
-      "change": 0.22,
-      "change_percent": 4.35,
-      "day_high": 5.18,
-      "day_low": 5.18,
+      "change": 0.24,
+      "change_percent": 4.85,
+      "day_high": 5.21,
+      "day_low": 5.21,
       "currency": "USD",
       "market_state": ""
     }
   },
   "commodities": {
     "brent": {
-      "value": 99.85,
+      "value": 99.67,
       "previous_close": 103.08,
-      "change": -3.23,
-      "change_percent": -3.13,
+      "change": -3.41,
+      "change_percent": -3.31,
       "day_high": 101.24,
       "day_low": 97.63,
       "currency": "USD",
       "market_state": ""
     },
     "wti": {
-      "value": 95.03,
+      "value": 94.91,
       "previous_close": 92.16,
-      "change": 2.87,
-      "change_percent": 3.11,
+      "change": 2.75,
+      "change_percent": 2.98,
       "day_high": 96.54,
       "day_low": 92.68,
       "currency": "USD",
       "market_state": ""
     },
     "gold": {
-      "value": 4197.0,
+      "value": 4177.2,
       "previous_close": 4318.4,
-      "change": -121.4,
-      "change_percent": -2.81,
+      "change": -141.2,
+      "change_percent": -3.27,
       "day_high": 4315.6,
       "day_low": 4172.7,
       "currency": "USD",
@@ -88,10 +88,10 @@
     }
   },
   "dxy": {
-    "value": 101.11,
+    "value": 101.16,
     "previous_close": 101.1,
-    "change": 0.01,
-    "change_percent": 0.01,
+    "change": 0.06,
+    "change_percent": 0.06,
     "day_high": 101.2,
     "day_low": 100.98,
     "currency": "USD",
