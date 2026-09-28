@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-28T11:38:18.254701+00:00",
+  "updated_utc": "2026-09-28T11:53:05.510231+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
+      "link": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 11:47:00 GMT",
+      "ts": 1790596020
+    },
     {
       "source": "CoinDesk",
       "title": "Traders aren't panicking yet despite cooling crypto sentiment",
@@ -135,13 +142,6 @@
       "link": "https://cointelegraph.com/news/fake-giwa-blockchain-scam-drains-2m-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 28 Sep 2026 09:19:50 +0000",
       "ts": 1790587190
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I feel like he’s holding me back’: I have $8 million. My husband resents my success. Should I pay for more things?",
-      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 09:15:00 GMT",
-      "ts": 1790586900
     },
     {
       "source": "Cointelegraph",
