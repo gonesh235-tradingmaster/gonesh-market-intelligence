@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-28T07:02:58.591287+00:00",
+  "updated_utc": "2026-09-28T07:22:56.290164+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin falls to $83k amid pressure from high yields, Iran tensions",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-83k-amid-pressure-from-high-yields-iran-tensions-4919428",
+      "published": "2026-09-28 06:53:49",
+      "ts": 1790578429
+    },
     {
       "source": "CoinDesk",
       "title": "California's Newsom signs memecoin ban and calls it 'The Opposite of Trump'",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/federal-reserve-unveils-proposed-framework-for-stablecoin-issuers-4916070",
       "published": "2026-09-24 19:38:37",
       "ts": 1790278717
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "moomoo sees 50% jump in crypto buyers as retail demand broadens",
-      "link": "https://www.investing.com/news/cryptocurrency-news/moomoo-sees-50-jump-in-crypto-buyers-as-retail-demand-broadens-4915966",
-      "published": "2026-09-24 17:33:12",
-      "ts": 1790271192
     }
   ]
 }
