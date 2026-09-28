@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-28T13:02:49.690313+00:00",
+  "updated_utc": "2026-09-28T13:22:22.234853+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns",
+      "link": "https://www.coindesk.com/markets/2026/09/28/ai-agents-could-drain-cheap-bank-deposits-apollo-s-torsten-slok-warns",
+      "published": "Mon, 28 Sep 2026 13:06:11 +0000",
+      "ts": 1790600771
+    },
     {
       "source": "Investing Forex",
       "title": "U.S. debt sell-off extends on $106 crude oil and hawkish central bank outlooks",
@@ -177,13 +184,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-us-data-tests-dollar-rally-4919636",
       "published": "2026-09-28 09:34:08",
       "ts": 1790588048
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin bears pay to bet on further declines as futures positions near yearly lows",
-      "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-bears-pay-to-bet-on-further-declines-as-futures-positions-near-yearly-lows",
-      "published": "Mon, 28 Sep 2026 09:29:34 +0000",
-      "ts": 1790587774
     },
     {
       "source": "Cointelegraph",
