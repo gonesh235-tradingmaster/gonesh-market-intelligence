@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-28T04:51:59.017676+00:00",
+  "updated_utc": "2026-09-28T05:02:05.594604+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork",
+      "link": "https://cointelegraph.com/news/vitalik-hegota-ethereum-last-normal-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 28 Sep 2026 04:44:15 +0000",
+      "ts": 1790570655
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes",
@@ -159,7 +166,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+      "title": "Bitget hacker moves $83 million in stolen XRP beyond reach of freeze controls",
       "link": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
       "published": "Sat, 26 Sep 2026 12:56:41 +0000",
       "ts": 1790427401
@@ -170,13 +177,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-84000-as-rising-bond-yields-offset-regulatory-progress-4918445",
       "published": "2026-09-26 12:27:32",
       "ts": 1790425652
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 26 Sep 2026 12:17:00 +0000",
-      "ts": 1790425020
     },
     {
       "source": "CoinDesk",
