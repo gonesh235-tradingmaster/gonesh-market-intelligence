@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-28T01:04:17.249160+00:00",
+  "updated_utc": "2026-09-28T01:20:59.376100+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Zano rolls blockchain back a month after Gateway Address exploit",
+      "link": "https://cointelegraph.com/news/zano-rolls-blockchain-back-a-month-after-gateway-address-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 28 Sep 2026 01:09:22 +0000",
+      "ts": 1790557762
+    },
     {
       "source": "Cointelegraph",
       "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest",
@@ -170,13 +177,6 @@
       "link": "https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 26 Sep 2026 09:02:22 +0000",
       "ts": 1790413342
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
-      "link": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 26 Sep 2026 06:59:29 +0000",
-      "ts": 1790405969
     },
     {
       "source": "CoinDesk",
