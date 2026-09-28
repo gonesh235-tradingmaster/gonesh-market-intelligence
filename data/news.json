@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-28T19:07:31.928198+00:00",
+  "updated_utc": "2026-09-28T19:24:00.841311+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 28 Sep 2026 19:02:45 +0000",
+      "ts": 1790622165
+    },
     {
       "source": "MarketWatch",
       "title": "Dolly Parton planned for her estate. The fight with her nephew shows why that matters.",
@@ -142,13 +149,6 @@
       "link": "https://www.investing.com/news/forex-news/loonie-weakens-as-wider-yield-gap-and-softer-oil-weigh-on-loonie-4920618",
       "published": "2026-09-28 13:58:08",
       "ts": 1790603888
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 13:32:34 +0000",
-      "ts": 1790602354
     },
     {
       "source": "Cointelegraph",
