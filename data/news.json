@@ -1,14 +1,35 @@
 {
-  "updated_utc": "2026-09-28T09:35:28.702991+00:00",
+  "updated_utc": "2026-09-28T09:51:31.057370+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin rally takes a breather ahead of key U.S. employment data: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-rally-takes-a-breather-ahead-of-key-u-s-employment-data-crypto-week-ahead",
+      "published": "Mon, 28 Sep 2026 09:45:55 +0000",
+      "ts": 1790588755
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound edges higher as U.S. data tests dollar rally",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-us-data-tests-dollar-rally-4919636",
+      "published": "2026-09-28 09:34:08",
+      "ts": 1790588048
+    },
     {
       "source": "MarketWatch",
       "title": "How a U.S. diesel export ban would play out, according to Goldman Sachs",
       "link": "https://www.marketwatch.com/story/how-a-u-s-diesel-export-ban-would-play-out-according-to-goldman-sachs-8142525d?mod=mw_rss_topstories",
       "published": "Mon, 28 Sep 2026 09:32:00 GMT",
       "ts": 1790587920
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin bears pay to bet on further declines as futures positions near yearly lows",
+      "link": "https://www.coindesk.com/markets/2026/09/28/bitcoin-bears-pay-to-bet-on-further-declines-as-futures-positions-near-yearly-lows",
+      "published": "Mon, 28 Sep 2026 09:29:34 +0000",
+      "ts": 1790587774
     },
     {
       "source": "Cointelegraph",
@@ -200,20 +221,6 @@
       "ts": 1790488119
     },
     {
-      "source": "CoinDesk",
-      "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
-      "link": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
-      "published": "Sat, 26 Sep 2026 14:00:00 +0000",
-      "ts": 1790431200
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
-      "link": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
-      "published": "Sat, 26 Sep 2026 13:00:00 +0000",
-      "ts": 1790427600
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin holds near $84,000 as rising bond yields offset regulatory progress",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-84000-as-rising-bond-yields-offset-regulatory-progress-4918445",
@@ -268,13 +275,6 @@
       "link": "https://www.investing.com/news/forex-news/citi-sees-yen-strengthening-on-reduced-foreign-investment-93CH-4916952",
       "published": "2026-09-25 09:06:41",
       "ts": 1790327201
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound steadies as bond sell-off powers dollar gains",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steadies-as-bond-selloff-powers-dollar-gains-4916939",
-      "published": "2026-09-25 09:02:09",
-      "ts": 1790326929
     },
     {
       "source": "Investing Crypto",
