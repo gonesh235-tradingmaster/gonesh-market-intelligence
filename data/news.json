@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-28T05:59:44.527004+00:00",
+  "updated_utc": "2026-09-28T06:25:59.144706+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "California's Newsom signs memecoin ban and calls it 'The Opposite of Trump'",
+      "link": "https://www.coindesk.com/markets/2026/09/28/california-s-newsom-signs-memecoin-ban-and-calls-it-the-opposite-of-trump",
+      "published": "Mon, 28 Sep 2026 06:21:52 +0000",
+      "ts": 1790576512
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
+      "link": "https://www.coindesk.com/markets/2026/09/28/solana-etfs-draw-record-usd188-million-in-a-week-as-bitwise-takes-two-thirds-of-inflows",
+      "published": "Mon, 28 Sep 2026 06:21:06 +0000",
+      "ts": 1790576466
+    },
     {
       "source": "Cointelegraph",
       "title": "South Korea weighs crypto market makers after JPYC trades at 4 times peg",
@@ -184,20 +198,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-84000-as-rising-bond-yields-offset-regulatory-progress-4918445",
       "published": "2026-09-26 12:27:32",
       "ts": 1790425652
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
-      "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
-      "published": "Sat, 26 Sep 2026 12:00:00 +0000",
-      "ts": 1790424000
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
-      "link": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
-      "published": "Sat, 26 Sep 2026 05:00:00 +0000",
-      "ts": 1790398800
     },
     {
       "source": "Investing Forex",
