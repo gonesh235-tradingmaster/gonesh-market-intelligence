@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-28T13:55:17.523882+00:00",
+  "updated_utc": "2026-09-28T14:11:01.986786+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "MongoDB’s stock is down more than 20% as CEO decamps to Meta",
+      "link": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
+      "published": "Mon, 28 Sep 2026 13:57:00 GMT",
+      "ts": 1790603820
+    },
     {
       "source": "MarketWatch",
       "title": "The stock market usually booms in the November-to-April stretch. This indicator suggests otherwise.",
@@ -128,13 +135,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/09/28/bitcoin-traders-aren-t-panicking-yet-despite-cooling-sentiment",
       "published": "Mon, 28 Sep 2026 11:32:33 +0000",
       "ts": 1790595153
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
-      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 11:15:00 GMT",
-      "ts": 1790594100
     },
     {
       "source": "Cointelegraph",
