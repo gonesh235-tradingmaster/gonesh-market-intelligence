@@ -1,14 +1,49 @@
 {
-  "updated_utc": "2026-09-29T12:01:01.541296+00:00",
+  "updated_utc": "2026-09-29T12:25:41.250108+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 12:15:00 GMT",
+      "ts": 1790684100
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Taking Ozempic and worried about vision loss? This test can help you understand your risk.",
+      "link": "https://www.marketwatch.com/story/taking-ozempic-a-routine-eye-exam-could-help-you-understand-your-risk-for-vision-loss-3392c1a0?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 12:03:00 GMT",
+      "ts": 1790683380
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "ECB puts AI agent payments on the digital euro drawing board",
+      "link": "https://cointelegraph.com/news/ecb-private-firms-ai-agents-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 12:00:45 +0000",
+      "ts": 1790683245
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "21X LLC Seeks Regulatory Approval to Operate as a US Broker Dealer and Appoints Ray Tierney as CEO",
+      "link": "https://www.investing.com/news/cryptocurrency-news/21x-llc-seeks-regulatory-approval-to-operate-as-a-us-broker-dealer-and-appoints-ray-tierney-as-ceo-4922465",
+      "published": "2026-09-29 12:00:40",
+      "ts": 1790683240
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin beats gold, surge to $100,000 in play",
       "link": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
       "published": "Tue, 29 Sep 2026 11:34:55 +0000",
       "ts": 1790681695
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Zcash developers begin moving Tachyon code into faster private-payment software",
+      "link": "https://www.coindesk.com/tech/2026/09/29/zcash-s-faster-private-payment-code-is-being-rebuilt-for-its-bigger-scaling-plan",
+      "published": "Tue, 29 Sep 2026 11:15:30 +0000",
+      "ts": 1790680530
     },
     {
       "source": "MarketWatch",
@@ -137,20 +172,6 @@
       "ts": 1790673960
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I have a low interest rate’: I’m 80 years old. Should I move out of my house because of dangerous stairs?",
-      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 09:16:00 GMT",
-      "ts": 1790673360
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Two-thirds of the revenue needed to justify the AI build-out is still unaccounted for, says major consulting firm",
-      "link": "https://www.marketwatch.com/story/two-thirds-of-the-revenue-needed-to-justify-the-ai-buildout-are-still-unaccounted-for-says-major-consulting-firm-8c55ccba?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 09:12:00 GMT",
-      "ts": 1790673120
-    },
-    {
       "source": "CoinDesk",
       "title": "Analysts see 10-year Treasury yield hitting 6%. Bitcoin bulls shouldn't panic",
       "link": "https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic",
@@ -207,13 +228,6 @@
       "ts": 1790660276
     },
     {
-      "source": "CoinDesk",
-      "title": "Anthropic plans to spend $518 billion on AI infrastructure. Pre-IPO perps barely blink.",
-      "link": "https://www.coindesk.com/markets/2026/09/29/anthropic-plans-to-spend-usd518-billion-on-ai-infrastructure-pre-ipo-perps-barely-blink",
-      "published": "Tue, 29 Sep 2026 05:31:44 +0000",
-      "ts": 1790659904
-    },
-    {
       "source": "Cointelegraph",
       "title": "Tether says it helped freeze $550M in Iran-linked USDT this year",
       "link": "https://cointelegraph.com/news/tether-says-it-helped-freeze-550m-in-iran-linked-usdt-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -228,13 +242,6 @@
       "ts": 1790656233
     },
     {
-      "source": "Cointelegraph",
-      "title": "Coinbase gets CFTC approval for US derivatives clearinghouse",
-      "link": "https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 29 Sep 2026 04:02:29 +0000",
-      "ts": 1790654549
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin falls over 1% as risk sentiment takes a hit from bond rout, Iran tensions",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-83k-amid-pressure-from-high-yields-iran-tensions-4919428",
@@ -247,13 +254,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-holds-near-twomonth-high-yen-slips-4919323",
       "published": "2026-09-28 20:07:07",
       "ts": 1790626027
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "AlgoQuant Asset Management Selects Liquid Mercury to Enhance Digital Asset Trading Infrastructure",
-      "link": "https://www.investing.com/news/cryptocurrency-news/algoquant-asset-management-selects-liquid-mercury-to-enhance-digital-asset-trading-infrastructure-4920777",
-      "published": "2026-09-28 15:00:36",
-      "ts": 1790607636
     },
     {
       "source": "Investing Forex",
