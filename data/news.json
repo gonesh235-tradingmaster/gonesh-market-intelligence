@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-09-29T09:28:41.432910+00:00",
+  "updated_utc": "2026-09-29T09:46:43.682174+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin is on track to shatter a major decade-long streak as September gains surge",
+      "link": "https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge",
+      "published": "Tue, 29 Sep 2026 09:45:31 +0000",
+      "ts": 1790675131
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar firm near two-month peaks as Aussie drops to August lows after RBA hike",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-rba-decision-looms-4921518",
+      "published": "2026-09-29 09:40:45",
+      "ts": 1790674845
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Beldex Launches $1 Million Grants Program for Privacy Innovation",
+      "link": "https://www.investing.com/news/cryptocurrency-news/beldex-launches-1-million-grants-program-for-privacy-innovation-4921886",
+      "published": "2026-09-29 09:30:36",
+      "ts": 1790674236
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bybit Completes SOC 2 Type II Audit, Strengthening Security and Compliance Assurance",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bybit-completes-soc-2-type-ii-audit-strengthening-security-and-compliance-assurance-4921887",
+      "published": "2026-09-29 09:30:36",
+      "ts": 1790674236
+    },
     {
       "source": "MarketWatch",
       "title": "Here’s where TSMC is reportedly eyeing a second U.S. site for a chip-making hub",
@@ -79,13 +107,6 @@
       "link": "https://www.investing.com/news/forex-news/us-treasury-yields-hold-while-aussie-yields-retreat--after-2011era-peak-run-up-4921704",
       "published": "2026-09-29 07:53:37",
       "ts": 1790668417
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar holds high, Aussie slips after RBA hike",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-rba-decision-looms-4921518",
-      "published": "2026-09-29 07:29:06",
-      "ts": 1790666946
     },
     {
       "source": "Investing Crypto",
@@ -235,13 +256,6 @@
       "ts": 1790607636
     },
     {
-      "source": "Investing Crypto",
-      "title": "Aster Launches Perpetual Grid Trading 2.0 with Up to 140,000 $ASTER Liquidity Mining Campaign",
-      "link": "https://www.investing.com/news/cryptocurrency-news/aster-launches-perpetual-grid-trading-20-with-up-to-140000-aster-liquidity-mining-campaign-4920719",
-      "published": "2026-09-28 14:30:35",
-      "ts": 1790605835
-    },
-    {
       "source": "Investing Forex",
       "title": "Loonie weakens as wider yield gap and softer oil weigh on loonie",
       "link": "https://www.investing.com/news/forex-news/loonie-weakens-as-wider-yield-gap-and-softer-oil-weigh-on-loonie-4920618",
@@ -249,25 +263,11 @@
       "ts": 1790603888
     },
     {
-      "source": "CoinDesk",
-      "title": "AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns",
-      "link": "https://www.coindesk.com/markets/2026/09/28/ai-agents-could-drain-cheap-bank-deposits-apollo-s-torsten-slok-warns",
-      "published": "Mon, 28 Sep 2026 13:06:11 +0000",
-      "ts": 1790600771
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. debt sell-off extends on $106 crude oil and hawkish central bank outlooks",
       "link": "https://www.investing.com/news/forex-news/german-yields-pause-traders-weigh-sticky-energy-inflation-in-data-packed-week-4919522",
       "published": "2026-09-28 12:45:46",
       "ts": 1790599546
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Strategy purchases 1,665 bitcoin",
-      "link": "https://www.investing.com/news/cryptocurrency-news/strategy-purchases-1665-bitcoin-432SI-4920202",
-      "published": "2026-09-28 12:13:03",
-      "ts": 1790597583
     },
     {
       "source": "Investing Forex",
