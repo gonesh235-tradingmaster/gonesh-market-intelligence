@@ -1,14 +1,28 @@
 {
-  "updated_utc": "2026-09-29T12:46:48.006269+00:00",
+  "updated_utc": "2026-09-29T13:03:28.996429+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Two stock picks from a money manager who expects small-caps to roar in 2027",
+      "link": "https://www.marketwatch.com/story/two-stock-picks-from-a-money-manager-who-expects-small-caps-to-roar-in-2027-70de9c4d?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 12:47:00 GMT",
+      "ts": 1790686020
+    },
     {
       "source": "MarketWatch",
       "title": "Dolly Parton planned for her estate. The fight with her nephew shows why that matters.",
       "link": "https://www.marketwatch.com/story/dolly-parton-planned-for-her-estate-the-fight-with-her-nephew-shows-why-that-matters-b7e57c26?mod=mw_rss_topstories",
       "published": "Tue, 29 Sep 2026 12:42:00 GMT",
       "ts": 1790685720
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETF inflows leave institutional demand unclear: CoinShares",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-mixed-read-institutional-demand-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 12:40:12 +0000",
+      "ts": 1790685612
     },
     {
       "source": "Investing Forex",
@@ -72,13 +86,6 @@
       "link": "https://www.marketwatch.com/story/morgan-stanleys-mike-wilson-says-an-s-p-500-correction-may-be-exactly-what-the-market-needs-a6baf54e?mod=mw_rss_topstories",
       "published": "Tue, 29 Sep 2026 11:03:00 GMT",
       "ts": 1790679780
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Two stock picks from a money manager who expects small-caps to roar in 2027",
-      "link": "https://www.marketwatch.com/story/two-stock-picks-from-a-money-manager-who-expects-small-caps-to-roar-in-2027-70de9c4d?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 11:02:00 GMT",
-      "ts": 1790679720
     },
     {
       "source": "Investing Crypto",
@@ -226,13 +233,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 29 Sep 2026 05:37:56 +0000",
       "ts": 1790660276
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Tether says it helped freeze $550M in Iran-linked USDT this year",
-      "link": "https://cointelegraph.com/news/tether-says-it-helped-freeze-550m-in-iran-linked-usdt-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 29 Sep 2026 05:29:28 +0000",
-      "ts": 1790659768
     },
     {
       "source": "Investing Crypto",
