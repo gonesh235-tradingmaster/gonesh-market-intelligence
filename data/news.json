@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-29T07:00:12.183238+00:00",
+  "updated_utc": "2026-09-29T07:19:54.752178+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The stock market usually booms in the November-to-April stretch. This indicator suggests otherwise.",
+      "link": "https://www.marketwatch.com/story/the-stock-market-usually-booms-in-the-november-to-april-stretch-this-indicator-suggests-otherwise-f30a744e?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 07:05:00 GMT",
+      "ts": 1790665500
+    },
     {
       "source": "Investing Forex",
       "title": "Asian currencies mixed as dollar holds two-month high, RBA decision looms",
@@ -135,13 +142,6 @@
       "link": "https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories",
       "published": "Mon, 28 Sep 2026 21:27:00 GMT",
       "ts": 1790630820
-    },
-    {
-      "source": "MarketWatch",
-      "title": "MongoDB’s stock is down nearly 20% as CEO decamps to Meta",
-      "link": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
-      "published": "Mon, 28 Sep 2026 21:23:00 GMT",
-      "ts": 1790630580
     },
     {
       "source": "Cointelegraph",
