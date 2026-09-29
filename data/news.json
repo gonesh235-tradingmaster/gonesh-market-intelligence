@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-29T08:40:14.696607+00:00",
+  "updated_utc": "2026-09-29T08:55:06.050831+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "BitMine could hit its 5% Ether supply target within weeks — then what?",
+      "link": "https://cointelegraph.com/news/bitmine-ether-supply-target-early-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 08:51:25 +0000",
+      "ts": 1790671885
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound slips as oil-fuelled dollar demand builds",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-oilfuelled-dollar-demand-builds-4921804",
+      "published": "2026-09-29 08:50:08",
+      "ts": 1790671808
+    },
     {
       "source": "Investing Crypto",
       "title": "Crystal Intelligence Aids $655K Crypto Fraud Probe in Prague",
@@ -186,13 +200,6 @@
       "ts": 1790626027
     },
     {
-      "source": "Cointelegraph",
-      "title": "US SEC follows CFTC in staff guidance for crypto",
-      "link": "https://cointelegraph.com/news/sec-cftc-staff-guidance-crypto-clarity-fail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 18:39:09 +0000",
-      "ts": 1790620749
-    },
-    {
       "source": "CoinDesk",
       "title": "Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing",
       "link": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-us-data-tests-dollar-rally-4919636",
       "published": "2026-09-28 09:34:08",
       "ts": 1790588048
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Bond rout in shorter-term maturities eases up, but U.S. yields end week with gains",
-      "link": "https://www.investing.com/news/forex-news/us-10year-yield-climbs-for-6-straight-week-as-bond-rout-deepens-4916837",
-      "published": "2026-09-25 21:26:50",
-      "ts": 1790371610
     }
   ]
 }
