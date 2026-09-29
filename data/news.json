@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-29T15:27:38.532847+00:00",
+  "updated_utc": "2026-09-29T15:45:28.470167+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "I don’t want to spend $800 on flights to see my family for Thanksgiving. Can I break this holiday tradition?",
+      "link": "https://www.marketwatch.com/story/spending-800-to-see-my-family-this-thanksgiving-is-a-financial-burden-how-can-i-push-for-a-cheaper-flight-c6dd1fdf?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 15:29:00 GMT",
+      "ts": 1790695740
+    },
     {
       "source": "MarketWatch",
       "title": "Job openings are low and hiring is weak. Why the U.S. labor market won’t get better soon.",
@@ -63,13 +70,6 @@
       "source": "MarketWatch",
       "title": "My kids don’t want my decades’ worth of stuff. Here’s how I’m learning to let go of it.",
       "link": "https://www.marketwatch.com/story/my-kids-dont-want-my-decades-worth-of-stuff-heres-how-im-learning-to-let-go-of-it-74f91da6?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 14:00:00 GMT",
-      "ts": 1790690400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Junk bonds are heading for worst month since 2022 after punishing global selloff",
-      "link": "https://www.marketwatch.com/story/junk-bonds-are-heading-for-worst-month-since-2022-after-punishing-global-selloff-12b70a3e?mod=mw_rss_topstories",
       "published": "Tue, 29 Sep 2026 14:00:00 GMT",
       "ts": 1790690400
     },
@@ -166,7 +166,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin in tight range near $84,000; consumer confidence plunged this month",
+      "title": "Live updates: Bitcoin turns lower as rates rise, consumer confidence plunges",
       "link": "https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady",
       "published": "Tue, 29 Sep 2026 10:14:41 +0000",
       "ts": 1790676881
