@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-29T07:19:54.752178+00:00",
+  "updated_utc": "2026-09-29T07:35:40.807685+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin consolidates below $85K resistance: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
+      "published": "2026-09-29 07:11:54",
+      "ts": 1790665914
+    },
     {
       "source": "MarketWatch",
       "title": "The stock market usually booms in the November-to-April stretch. This indicator suggests otherwise.",
@@ -163,13 +170,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-holds-near-twomonth-high-yen-slips-4919323",
       "published": "2026-09-28 20:07:07",
       "ts": 1790626027
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin consolidates above $82,650 support: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
-      "published": "2026-09-28 19:19:13",
-      "ts": 1790623153
     },
     {
       "source": "Cointelegraph",
