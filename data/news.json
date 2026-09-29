@@ -1,14 +1,35 @@
 {
-  "updated_utc": "2026-09-29T16:37:42.658136+00:00",
+  "updated_utc": "2026-09-29T16:54:20.262644+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Here’s what Netflix skeptics are getting wrong about the stock, according to an analyst",
+      "link": "https://www.marketwatch.com/story/heres-what-netflix-skeptics-are-getting-wrong-about-the-stock-according-to-an-analyst-40436696?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 16:45:00 GMT",
+      "ts": 1790700300
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The hidden messages the bond market is sending about the AI boom and the stock market",
+      "link": "https://www.marketwatch.com/story/the-hidden-messages-the-bond-market-is-sending-about-the-ai-boom-and-the-stock-market-5c9495ba?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 16:44:00 GMT",
+      "ts": 1790700240
+    },
     {
       "source": "MarketWatch",
       "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
       "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
       "published": "Tue, 29 Sep 2026 16:30:00 GMT",
       "ts": 1790699400
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin gives back gains as long-term holder supply keeps $85K out of reach",
+      "link": "https://cointelegraph.com/markets/bitcoin-gives-back-gains-long-term-holder-supply-keeps-85k-out-of-reach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 16:26:11 +0000",
+      "ts": 1790699171
     },
     {
       "source": "MarketWatch",
@@ -58,20 +79,6 @@
       "link": "https://www.marketwatch.com/story/job-openings-are-low-and-hiring-is-weak-why-the-u-s-labor-market-wont-get-better-soon-18292734?mod=mw_rss_topstories",
       "published": "Tue, 29 Sep 2026 15:21:00 GMT",
       "ts": 1790695260
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
-      "link": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 15:16:00 GMT",
-      "ts": 1790694960
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
-      "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 15:15:00 GMT",
-      "ts": 1790694900
     },
     {
       "source": "Investing Forex",
@@ -191,13 +198,6 @@
       "link": "https://www.coindesk.com/business/2026/09/29/blockchain-com-targets-usd500-million-ipo-at-up-to-usd6-billion-valuation",
       "published": "Tue, 29 Sep 2026 10:13:40 +0000",
       "ts": 1790676820
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin bounces to $84K after US 30-year bond yield sets 24-year high",
-      "link": "https://cointelegraph.com/markets/bitcoin-bounces-to-84k-after-us-30-year-bond-yield-sets-24-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 29 Sep 2026 10:04:42 +0000",
-      "ts": 1790676282
     },
     {
       "source": "CoinDesk",
