@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-29T17:06:45.655293+00:00",
+  "updated_utc": "2026-09-29T17:23:42.310494+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
+      "link": "https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 17:14:36 +0000",
+      "ts": 1790702076
+    },
     {
       "source": "MarketWatch",
       "title": "Could SpaceX be worth $12 trillion one day? Citi says Starship gets it a step closer.",
@@ -177,13 +184,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields",
       "published": "Tue, 29 Sep 2026 10:28:51 +0000",
       "ts": 1790677731
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US crypto ETF inflows cool after $3.3B week but streaks hold",
-      "link": "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 29 Sep 2026 10:15:19 +0000",
-      "ts": 1790676919
     },
     {
       "source": "CoinDesk",
