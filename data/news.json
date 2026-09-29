@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-29T05:34:09.120581+00:00",
+  "updated_utc": "2026-09-29T05:48:37.543885+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 05:37:56 +0000",
+      "ts": 1790660276
+    },
     {
       "source": "CoinDesk",
       "title": "Anthropic plans to spend $518 billion on AI infrastructure. Pre-IPO perps barely blink.",
@@ -149,13 +156,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
       "published": "2026-09-28 19:19:13",
       "ts": 1790623153
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 19:02:45 +0000",
-      "ts": 1790622165
     },
     {
       "source": "Cointelegraph",
