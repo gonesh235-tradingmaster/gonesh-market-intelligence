@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-29T03:59:33.414514+00:00",
+  "updated_utc": "2026-09-29T04:18:29.969145+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin holds $83,000 as ZEC drops 12% and oil climbs again",
+      "link": "https://www.coindesk.com/markets/2026/09/29/bitcoin-holds-usd83-000-as-zec-drops-12-and-oil-climbs-again",
+      "published": "Tue, 29 Sep 2026 04:17:20 +0000",
+      "ts": 1790655440
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Coinbase gets CFTC approval for US derivatives clearinghouse",
+      "link": "https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 04:02:29 +0000",
+      "ts": 1790654549
+    },
     {
       "source": "Investing Forex",
       "title": "Asian currencies mixed as dollar holds two-month high, RBA decision looms",
@@ -144,13 +158,6 @@
       "ts": 1790618400
     },
     {
-      "source": "Cointelegraph",
-      "title": "Crypto PAC spends $11M to oppose Sherrod Brown in Ohio",
-      "link": "https://cointelegraph.com/news/crypto-industry-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 16:48:00 +0000",
-      "ts": 1790614080
-    },
-    {
       "source": "CoinDesk",
       "title": "The restaking gold rush is over, and top protocols are barely making a profit",
       "link": "https://www.coindesk.com/business/2026/09/28/the-restaking-gold-rush-is-over-and-top-protocols-are-barely-making-a-profit",
@@ -226,13 +233,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/09/28/bitcoin-traders-aren-t-panicking-yet-despite-cooling-sentiment",
       "published": "Mon, 28 Sep 2026 11:32:33 +0000",
       "ts": 1790595153
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto-friendly institution Franklin Templeton brings its tokenized collateral service to Bybit",
-      "link": "https://www.coindesk.com/business/2026/09/28/crypto-friendly-institution-franklin-templeton-brings-its-tokenized-collateral-service-to-bybit",
-      "published": "Mon, 28 Sep 2026 11:00:00 +0000",
-      "ts": 1790593200
     },
     {
       "source": "Investing Forex",
