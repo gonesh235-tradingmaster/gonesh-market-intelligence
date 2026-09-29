@@ -1,14 +1,28 @@
 {
-  "updated_utc": "2026-09-29T13:43:01.693457+00:00",
+  "updated_utc": "2026-09-29T13:58:55.159952+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Before you invest in the Oura IPO, understand what you’re buying",
+      "link": "https://www.marketwatch.com/story/before-you-invest-in-the-oura-ipo-understand-what-youre-buying-1d88d868?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 13:45:00 GMT",
+      "ts": 1790689500
+    },
     {
       "source": "MarketWatch",
       "title": "Two stock picks from a money manager who expects small-caps to roar in 2027",
       "link": "https://www.marketwatch.com/story/two-stock-picks-from-a-money-manager-who-expects-small-caps-to-roar-in-2027-70de9c4d?mod=mw_rss_topstories",
       "published": "Tue, 29 Sep 2026 13:39:00 GMT",
       "ts": 1790689140
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin flat at $83.4k as markets weigh soaring yields, Iran tensions",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-834k-as-markets-weigh-soaring-yields-iran-tensions-4921649",
+      "published": "2026-09-29 13:32:24",
+      "ts": 1790688744
     },
     {
       "source": "Cointelegraph",
@@ -109,13 +123,6 @@
       "ts": 1790679780
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin flat at $83.4k as markets weigh soaring yields, Iran tensions",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-834k-as-markets-weigh-soaring-yields-iran-tensions-4921649",
-      "published": "2026-09-29 10:49:39",
-      "ts": 1790678979
-    },
-    {
       "source": "Cointelegraph",
       "title": "Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6",
       "link": "https://cointelegraph.com/news/ethereum-glamsterdam-upgrade-sepolia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -177,13 +184,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/29/bitcoin-is-on-track-to-shatter-a-major-decade-long-streak-as-september-gains-surge",
       "published": "Tue, 29 Sep 2026 09:45:31 +0000",
       "ts": 1790675131
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Novo Nordisk strikes second licensing deal since frosty capital-markets day",
-      "link": "https://www.marketwatch.com/story/novo-nordisk-strikes-second-licensing-deal-since-frosty-capital-markets-day-cc0db878?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 09:45:00 GMT",
-      "ts": 1790675100
     },
     {
       "source": "Investing Forex",
