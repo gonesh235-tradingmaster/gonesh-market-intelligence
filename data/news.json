@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-29T10:51:46.038362+00:00",
+  "updated_utc": "2026-09-29T11:01:23.765295+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6",
+      "link": "https://cointelegraph.com/news/ethereum-glamsterdam-upgrade-sepolia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 10:46:05 +0000",
+      "ts": 1790678765
+    },
     {
       "source": "MarketWatch",
       "title": "Two stock picks from a money manager who expects small caps to roar in 2027",
@@ -226,13 +233,6 @@
       "link": "https://cointelegraph.com/news/coinbase-gets-cftc-approval-for-us-derivatives-clearinghouse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 29 Sep 2026 04:02:29 +0000",
       "ts": 1790654549
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents",
-      "link": "https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 29 Sep 2026 02:32:36 +0000",
-      "ts": 1790649156
     },
     {
       "source": "Investing Crypto",
