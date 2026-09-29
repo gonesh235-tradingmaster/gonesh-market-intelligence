@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-29T06:23:12.645302+00:00",
+  "updated_utc": "2026-09-29T06:43:37.181377+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Near Intents blocks $50 million in Bitget hacker swaps, here's what happened",
+      "link": "https://www.coindesk.com/tech/2026/09/29/usd50-million-in-bitget-hacker-swaps-puts-near-intents-permissionless-claim-to-the-test",
+      "published": "Tue, 29 Sep 2026 06:23:47 +0000",
+      "ts": 1790663027
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -226,13 +233,6 @@
       "link": "https://www.coindesk.com/business/2026/09/28/chainlink-updates-its-crypto-bridge-tech-months-after-a-usd292-million-hack-shook-the-industry",
       "published": "Mon, 28 Sep 2026 12:30:00 +0000",
       "ts": 1790598600
-    },
-    {
-      "source": "CoinDesk",
-      "title": "THORChain rejects Bitget request to block hacker as $6 million moves to bitcoin",
-      "link": "https://www.coindesk.com/tech/2026/09/28/thorchain-rejects-bitget-request-to-block-hacker-as-usd6-million-moves-to-bitcoin",
-      "published": "Mon, 28 Sep 2026 12:13:09 +0000",
-      "ts": 1790597589
     },
     {
       "source": "Investing Crypto",
