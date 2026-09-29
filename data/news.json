@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-29T02:31:12.166463+00:00",
+  "updated_utc": "2026-09-29T02:45:32.931549+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents",
+      "link": "https://cointelegraph.com/news/nvidia-unveils-ai-safety-platform-to-rein-in-rogue-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 02:32:36 +0000",
+      "ts": 1790649156
+    },
     {
       "source": "MarketWatch",
       "title": "Anthropic’s potential $2 trillion IPO comes with the following fine print",
@@ -156,13 +163,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/algoquant-asset-management-selects-liquid-mercury-to-enhance-digital-asset-trading-infrastructure-4920777",
       "published": "2026-09-28 15:00:36",
       "ts": 1790607636
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitget CEO says $388M hack exploited third-party security vulnerability",
-      "link": "https://cointelegraph.com/news/bitget-388m-hack-third-party-security-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 28 Sep 2026 14:46:21 +0000",
-      "ts": 1790606781
     },
     {
       "source": "Investing Crypto",
