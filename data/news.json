@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-29T20:20:38.540125+00:00",
+  "updated_utc": "2026-09-29T20:36:45.082911+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 20:30:00 GMT",
+      "ts": 1790713800
+    },
     {
       "source": "MarketWatch",
       "title": "Traders expecting a back-to-back rate hike from the Fed in October may have gotten ahead of themselves",
@@ -100,13 +107,6 @@
       "link": "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal",
       "published": "Tue, 29 Sep 2026 18:21:07 +0000",
       "ts": 1790706067
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
-      "link": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 17:45:00 GMT",
-      "ts": 1790703900
     },
     {
       "source": "Cointelegraph",
