@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-29T03:13:05.062421+00:00",
+  "updated_utc": "2026-09-29T03:30:49.218971+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar holds two-month high, RBA decision looms",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-rba-decision-looms-4921518",
+      "published": "2026-09-29 03:07:26",
+      "ts": 1790651246
+    },
     {
       "source": "Cointelegraph",
       "title": "Nvidia unveils AI safety platform to rein in ‘rogue’ AI agents",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-hits-twomonth-high-yen-nears-160-4916545",
       "published": "2026-09-25 20:03:29",
       "ts": 1790366609
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Canadian dollar faces near-term pressure as rate gap and trade risks widen",
-      "link": "https://www.investing.com/news/forex-news/canadian-dollar-faces-nearterm-pressure-as-rate-gap-and-trade-risks-widen-4918030",
-      "published": "2026-09-25 19:52:08",
-      "ts": 1790365928
     }
   ]
 }
