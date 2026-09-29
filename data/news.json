@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-29T10:18:23.696379+00:00",
+  "updated_utc": "2026-09-29T10:36:06.828787+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Aave leads DeFi higher as crypto shrugs off surging bond market",
+      "link": "https://www.coindesk.com/markets/2026/09/29/aave-leads-defi-higher-as-crypto-shrugs-off-surging-treasury-yields",
+      "published": "Tue, 29 Sep 2026 10:28:51 +0000",
+      "ts": 1790677731
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US crypto ETF inflows cool after $3.3B week but streaks hold",
+      "link": "https://cointelegraph.com/markets/us-crypto-etf-inflows-cool-bitcoin-ether-solana-xrp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 10:15:19 +0000",
+      "ts": 1790676919
+    },
     {
       "source": "MarketWatch",
       "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
@@ -12,7 +26,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin rebounds above $84,000 as Treasury yields steady",
+      "title": "Live updates: Bitcoin rebounds above $84,000 as ETFs draw in $30 million",
       "link": "https://www.coindesk.com/markets/2026/09/29/live-updates-bitcoin-rebounds-above-usd84-000-as-treasury-yields-steady",
       "published": "Tue, 29 Sep 2026 10:14:41 +0000",
       "ts": 1790676881
@@ -221,13 +235,6 @@
       "ts": 1790649156
     },
     {
-      "source": "Cointelegraph",
-      "title": "NEAR Intents says it blocked $50M tied to Bitget hackers",
-      "link": "https://cointelegraph.com/news/near-intents-says-it-blocked-50m-tied-to-bitget-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 29 Sep 2026 01:17:49 +0000",
-      "ts": 1790644669
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin falls over 1% as risk sentiment takes a hit from bond rout, Iran tensions",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-83k-amid-pressure-from-high-yields-iran-tensions-4919428",
@@ -240,13 +247,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-holds-near-twomonth-high-yen-slips-4919323",
       "published": "2026-09-28 20:07:07",
       "ts": 1790626027
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Goldman Sachs brings $100 billion Treasury fund into crypto’s institutional plumbing",
-      "link": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
-      "published": "Mon, 28 Sep 2026 18:00:00 +0000",
-      "ts": 1790618400
     },
     {
       "source": "Investing Crypto",
