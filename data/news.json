@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-29T13:03:28.996429+00:00",
+  "updated_utc": "2026-09-29T13:25:12.698850+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 13:08:04 +0000",
+      "ts": 1790687284
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "PrimeXBT Adds 15 New Crypto Futures, Taking the Total to Over 170",
+      "link": "https://www.investing.com/news/cryptocurrency-news/primexbt-adds-15-new-crypto-futures-taking-the-total-to-over-170-4922718",
+      "published": "2026-09-29 13:00:35",
+      "ts": 1790686835
+    },
     {
       "source": "MarketWatch",
       "title": "Two stock picks from a money manager who expects small-caps to roar in 2027",
@@ -228,25 +242,11 @@
       "ts": 1790663027
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 29 Sep 2026 05:37:56 +0000",
-      "ts": 1790660276
-    },
-    {
       "source": "Investing Crypto",
       "title": "BTSE Bhutan Receives Financial Services License for Digital Asset Trading Services in Gelephu Mindfulness City",
       "link": "https://www.investing.com/news/cryptocurrency-news/btse-bhutan-receives-financial-services-license-for-digital-asset-trading-services-in-gelephu-mindfulness-city-4921553",
       "published": "2026-09-29 04:30:33",
       "ts": 1790656233
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin falls over 1% as risk sentiment takes a hit from bond rout, Iran tensions",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-83k-amid-pressure-from-high-yields-iran-tensions-4919428",
-      "published": "2026-09-28 21:48:41",
-      "ts": 1790632121
     },
     {
       "source": "Investing Forex",
