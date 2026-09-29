@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-29T10:36:06.828787+00:00",
+  "updated_utc": "2026-09-29T10:51:46.038362+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Two stock picks from a money manager who expects small caps to roar in 2027",
+      "link": "https://www.marketwatch.com/story/two-stock-picks-from-a-money-manager-who-expects-small-caps-to-roar-in-2027-70de9c4d?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 10:46:00 GMT",
+      "ts": 1790678760
+    },
     {
       "source": "CoinDesk",
       "title": "Aave leads DeFi higher as crypto shrugs off surging bond market",
@@ -33,7 +40,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Blockchain.com targets $500 million IPO at up to $6 billion valuation",
+      "title": "Blockchain.com targets $500 million IPO this year at up to $6 billion valuation",
       "link": "https://www.coindesk.com/business/2026/09/29/blockchain-com-targets-usd500-million-ipo-at-up-to-usd6-billion-valuation",
       "published": "Tue, 29 Sep 2026 10:13:40 +0000",
       "ts": 1790676820
@@ -128,13 +135,6 @@
       "link": "https://www.marketwatch.com/story/kris-jenner-delists-13-5-million-home-that-was-featured-in-keeping-up-with-the-kardashians-dd162590?mod=mw_rss_topstories",
       "published": "Tue, 29 Sep 2026 08:58:00 GMT",
       "ts": 1790672280
-    },
-    {
-      "source": "MarketWatch",
-      "title": "A month ago, this JPMorgan team urged caution on stocks. Now it’s going all in on tech.",
-      "link": "https://www.marketwatch.com/story/a-month-ago-this-jpmorgan-team-urged-caution-on-stocks-now-its-going-all-in-on-tech-f2e4b007?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 08:56:00 GMT",
-      "ts": 1790672160
     },
     {
       "source": "Cointelegraph",
