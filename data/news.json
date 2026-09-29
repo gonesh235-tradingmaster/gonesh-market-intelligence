@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-29T20:50:36.606918+00:00",
+  "updated_utc": "2026-09-29T21:00:27.707135+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
+      "link": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 20:57:00 GMT",
+      "ts": 1790715420
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia’s historic buyback announcement underscores a sharp divide in Big Tech",
+      "link": "https://www.marketwatch.com/story/nvidias-historic-buyback-announcement-underscores-a-sharp-divide-in-big-tech-ac04a001?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 20:52:00 GMT",
+      "ts": 1790715120
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Mexico’s peso erases 2026 gains amid profit-taking",
+      "link": "https://www.investing.com/news/forex-news/mexicos-peso-erases-2026-gains-amid-profittaking-93CH-4923553",
+      "published": "2026-09-29 20:44:04",
+      "ts": 1790714644
+    },
     {
       "source": "MarketWatch",
       "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
@@ -86,20 +107,6 @@
       "link": "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
       "published": "Tue, 29 Sep 2026 18:55:00 GMT",
       "ts": 1790708100
-    },
-    {
-      "source": "MarketWatch",
-      "title": "OpenAI launches a rival to Meta’s Muse, as the battle for AI agents kicks into high gear",
-      "link": "https://www.marketwatch.com/story/openai-launches-a-rival-to-metas-muse-as-the-battle-for-ai-agents-kicks-into-high-gear-0f0de9b3?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 18:34:00 GMT",
-      "ts": 1790706840
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Good news for OpenAI is great news for Oracle’s stock — here’s why",
-      "link": "https://www.marketwatch.com/story/good-news-for-openai-is-great-news-for-oracles-stock-heres-why-993b6a5f?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 18:28:00 GMT",
-      "ts": 1790706480
     },
     {
       "source": "CoinDesk",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/german-yields-pause-traders-weigh-sticky-energy-inflation-in-data-packed-week-4919522",
       "published": "2026-09-28 12:45:46",
       "ts": 1790599546
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Citi sees Japan yen intervention likely near 160 per dollar",
-      "link": "https://www.investing.com/news/forex-news/citi-sees-japan-yen-intervention-likely-near-160-per-dollar-93CH-4919746",
-      "published": "2026-09-28 10:18:17",
-      "ts": 1790590697
     }
   ]
 }
