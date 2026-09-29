@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-29T13:25:12.698850+00:00",
+  "updated_utc": "2026-09-29T13:43:01.693457+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Two stock picks from a money manager who expects small-caps to roar in 2027",
+      "link": "https://www.marketwatch.com/story/two-stock-picks-from-a-money-manager-who-expects-small-caps-to-roar-in-2027-70de9c4d?mod=mw_rss_topstories",
+      "published": "Tue, 29 Sep 2026 13:39:00 GMT",
+      "ts": 1790689140
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a ‘fool coin’",
+      "link": "https://cointelegraph.com/magazine/peter-brandt-says-bitcoin-may-hit-600k-by-2029-calls-xrp-a-fool-coin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 13:30:00 +0000",
+      "ts": 1790688600
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -16,13 +30,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/primexbt-adds-15-new-crypto-futures-taking-the-total-to-over-170-4922718",
       "published": "2026-09-29 13:00:35",
       "ts": 1790686835
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Two stock picks from a money manager who expects small-caps to roar in 2027",
-      "link": "https://www.marketwatch.com/story/two-stock-picks-from-a-money-manager-who-expects-small-caps-to-roar-in-2027-70de9c4d?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 12:47:00 GMT",
-      "ts": 1790686020
     },
     {
       "source": "MarketWatch",
@@ -205,13 +212,6 @@
       "link": "https://www.coindesk.com/markets/2026/09/29/analysts-see-10-year-treasury-yield-hitting-6-bitcoin-bulls-shouldn-t-panic",
       "published": "Tue, 29 Sep 2026 09:06:11 +0000",
       "ts": 1790672771
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BitMine could hit its 5% Ether supply target within weeks — then what?",
-      "link": "https://cointelegraph.com/news/bitmine-ether-supply-target-early-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 29 Sep 2026 08:51:25 +0000",
-      "ts": 1790671885
     },
     {
       "source": "Investing Forex",
