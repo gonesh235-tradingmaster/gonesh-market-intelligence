@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-30T13:40:57.083804+00:00",
+  "updated_utc": "2026-09-30T13:56:48.905837+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -32,6 +32,20 @@
       "ts": 1790775000
     },
     {
+      "source": "Investing Forex",
+      "title": "RBI forward dollar liabilities hit record $200 billion in August",
+      "link": "https://www.investing.com/news/forex-news/rbi-forward-dollar-liabilities-hit-record-200-billion-in-august-93CH-4925291",
+      "published": "2026-09-30 13:29:50",
+      "ts": 1790774990
+    },
+    {
+      "source": "Investing Forex",
+      "title": "South African rand strengthens as investors review economic data",
+      "link": "https://www.investing.com/news/forex-news/south-african-rand-strengthens-as-investors-review-economic-data-93CH-4925290",
+      "published": "2026-09-30 13:29:20",
+      "ts": 1790774960
+    },
+    {
       "source": "MarketWatch",
       "title": "Americans get back to their spending ways. Economy might be speeding up again.",
       "link": "https://www.marketwatch.com/story/americans-get-back-to-their-spending-ways-economy-might-be-speeding-up-again-7884c424?mod=mw_rss_topstories",
@@ -44,6 +58,20 @@
       "link": "https://www.marketwatch.com/story/how-amazons-stock-can-fight-off-the-ai-threat-and-soar-46-5af77a03?mod=mw_rss_topstories",
       "published": "Wed, 30 Sep 2026 13:24:00 GMT",
       "ts": 1790774640
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Solmate names Bitcoin Depot veteran Scott Buchanan as CFO",
+      "link": "https://www.investing.com/news/cryptocurrency-news/solmate-names-bitcoin-depot-veteran-scott-buchanan-as-cfo-432SI-4925282",
+      "published": "2026-09-30 13:22:02",
+      "ts": 1790774522
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin stalls at $83k, but set for 42% jump in Q3",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-at-83k-but-set-for-42-jump-in-q3-4924162",
+      "published": "2026-09-30 13:18:55",
+      "ts": 1790774335
     },
     {
       "source": "Cointelegraph",
@@ -114,13 +142,6 @@
       "link": "https://www.investing.com/news/forex-news/deutsche-bank-sees-euro-holding-range-despite-dollar-strength-93CH-4924929",
       "published": "2026-09-30 11:45:08",
       "ts": 1790768708
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin stalls at $83k, but set for 42% jump in Q3",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-at-83k-but-set-for-42-jump-in-q3-4924162",
-      "published": "2026-09-30 11:42:19",
-      "ts": 1790768539
     },
     {
       "source": "Cointelegraph",
@@ -235,20 +256,6 @@
       "ts": 1790718220
     },
     {
-      "source": "Investing Forex",
-      "title": "Dollar firms, Aussie drops after RBA hike, and sterling slips on Burnham speech",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-twomonth-high-rba-decision-looms-4921518",
-      "published": "2026-09-29 21:01:50",
-      "ts": 1790715710
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Mexico’s peso erases 2026 gains amid profit-taking",
-      "link": "https://www.investing.com/news/forex-news/mexicos-peso-erases-2026-gains-amid-profittaking-93CH-4923553",
-      "published": "2026-09-29 20:44:04",
-      "ts": 1790714644
-    },
-    {
       "source": "Investing Crypto",
       "title": "Puffer and Anchorage Digital Partner to Bring Institutional Settlement Infrastructure to Puffer UniFi",
       "link": "https://www.investing.com/news/cryptocurrency-news/puffer-and-anchorage-digital-partner-to-bring-institutional-settlement-infrastructure-to-puffer-unifi-4923352",
@@ -273,13 +280,6 @@
       "source": "Investing Crypto",
       "title": "Beldex Launches $1 Million Grants Program for Privacy Innovation",
       "link": "https://www.investing.com/news/cryptocurrency-news/beldex-launches-1-million-grants-program-for-privacy-innovation-4921886",
-      "published": "2026-09-29 09:30:36",
-      "ts": 1790674236
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bybit Completes SOC 2 Type II Audit, Strengthening Security and Compliance Assurance",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bybit-completes-soc-2-type-ii-audit-strengthening-security-and-compliance-assurance-4921887",
       "published": "2026-09-29 09:30:36",
       "ts": 1790674236
     }
