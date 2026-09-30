@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-30T10:42:45.122327+00:00",
+  "updated_utc": "2026-09-30T10:56:50.930066+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "OpenAI, Google and Meta pledge outside AI audits under voluntary White House deal",
+      "link": "https://www.coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal",
+      "published": "Wed, 30 Sep 2026 10:43:43 +0000",
+      "ts": 1790765023
+    },
     {
       "source": "MarketWatch",
       "title": "Boeing was at risk of losing all fighter-jet production altogether. Now the stock is up on a new Navy contract.",
@@ -33,7 +40,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Tuesday was one of the most disturbing days for markets in recent memory, according to a Goldman Sachs pro",
+      "title": "Why Tuesday was one of the most disturbing days for markets in recent memory, according to a Goldman Sachs pro",
       "link": "https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories",
       "published": "Wed, 30 Sep 2026 10:15:00 GMT",
       "ts": 1790763300
@@ -184,13 +191,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 06:00:00 +0000",
       "ts": 1790748000
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Robinhood unveils an AI that trades your money 24/7, and you carry all the risk",
-      "link": "https://www.coindesk.com/markets/2026/09/30/robinhood-is-giving-customers-an-ai-agent-that-trades-for-them-plus-10x-crypto-bets",
-      "published": "Wed, 30 Sep 2026 05:59:31 +0000",
-      "ts": 1790747971
     },
     {
       "source": "Cointelegraph",
