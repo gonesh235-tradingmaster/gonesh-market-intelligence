@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-30T14:15:13.780311+00:00",
+  "updated_utc": "2026-09-30T14:36:48.375456+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Adding Lilly’s new drug to Zepbound helped people lose up to 23% of their weight. But there were more side effects.",
+      "link": "https://www.marketwatch.com/story/adding-lillys-new-drug-to-zepbound-helped-people-lose-up-to-23-of-their-weight-but-there-were-more-side-effects-b7b7c6c0?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 14:32:00 GMT",
+      "ts": 1790778720
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This is the big risk that stock investors should be watching as rising bond yields menace markets",
+      "link": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 14:31:00 GMT",
+      "ts": 1790778660
+    },
     {
       "source": "MarketWatch",
       "title": "Americans get back to their spending ways. Economy might be speeding up again.",
@@ -74,13 +88,6 @@
       "ts": 1790774960
     },
     {
-      "source": "MarketWatch",
-      "title": "How Amazon’s stock can fight off the AI threat and soar 46%",
-      "link": "https://www.marketwatch.com/story/how-amazons-stock-can-fight-off-the-ai-threat-and-soar-46-5af77a03?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 13:24:00 GMT",
-      "ts": 1790774640
-    },
-    {
       "source": "Investing Crypto",
       "title": "Solmate names Bitcoin Depot veteran Scott Buchanan as CFO",
       "link": "https://www.investing.com/news/cryptocurrency-news/solmate-names-bitcoin-depot-veteran-scott-buchanan-as-cfo-432SI-4925282",
@@ -100,13 +107,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 13:18:35 +0000",
       "ts": 1790774315
-    },
-    {
-      "source": "MarketWatch",
-      "title": "U.S. inflation rises, keeping pressure on Fed",
-      "link": "https://www.marketwatch.com/story/inflation-rises-again-and-keeps-pressure-on-fed-f64d2ced?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 13:11:00 GMT",
-      "ts": 1790773860
     },
     {
       "source": "CoinDesk",
@@ -208,7 +208,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin gains as yields dip following better than hoped inflation numbers",
+      "title": "Live updates: Bitcoin returns to $84,000, giving up early gains",
       "link": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
       "published": "Wed, 30 Sep 2026 10:18:34 +0000",
       "ts": 1790763514
