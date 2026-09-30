@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-30T21:09:17.746050+00:00",
+  "updated_utc": "2026-09-30T21:27:21.240896+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
+      "link": "https://www.marketwatch.com/story/the-15-worst-performing-s-p-500-stocks-during-a-dismal-september-991f8a07?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 21:22:00 GMT",
+      "ts": 1790803320
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Trump touts economic wins in battleground states — like a $54 billion Alaskan pipeline — as the midterms draw closer",
+      "link": "https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 21:16:00 GMT",
+      "ts": 1790802960
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. dollar sees best month since June on hawkish Fed, U.S. Treasury bond rout",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
+      "published": "2026-09-30 21:04:47",
+      "ts": 1790802287
+    },
     {
       "source": "MarketWatch",
       "title": "How the ‘AI Put’ has become the only thing that matters for stocks",
@@ -81,25 +102,11 @@
       "ts": 1790794800
     },
     {
-      "source": "MarketWatch",
-      "title": "My friend’s pet-sitting business grosses $300,000 a year, but she pays herself $50,000. Should I start one too?",
-      "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 19:00:00 GMT",
-      "ts": 1790794800
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bloomberg brings onchain stablecoin data to its Terminal",
       "link": "https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 18:49:06 +0000",
       "ts": 1790794146
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Adding Lilly’s new drug to Zepbound helped people lose more weight — but there were more side effects",
-      "link": "https://www.marketwatch.com/story/adding-lillys-new-drug-to-zepbound-helped-people-lose-up-to-23-of-their-weight-but-there-were-more-side-effects-b7b7c6c0?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 18:45:00 GMT",
-      "ts": 1790793900
     },
     {
       "source": "Cointelegraph",
@@ -205,13 +212,6 @@
       "link": "https://www.investing.com/news/forex-news/us-10year-yields-anchor-near-2007-peaks-set-for-biggest-monthly-jump-in-2-yrs-4924286",
       "published": "2026-09-30 12:44:12",
       "ts": 1790772252
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar down after soft PCE,  but still on track for best month since June",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
-      "published": "2026-09-30 12:39:39",
-      "ts": 1790771979
     },
     {
       "source": "Investing Forex",
