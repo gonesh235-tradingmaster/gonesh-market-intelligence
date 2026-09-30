@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-30T10:26:03.198836+00:00",
+  "updated_utc": "2026-09-30T10:42:45.122327+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Boeing was at risk of losing all fighter-jet production altogether. Now the stock is up on a new Navy contract.",
+      "link": "https://www.marketwatch.com/story/boeing-was-at-risk-of-losing-all-fighter-jet-production-altogether-now-the-stock-is-up-on-a-new-navy-contract-ffb625b2?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 10:38:00 GMT",
+      "ts": 1790764680
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Metaplanet directors push back against shareholder fury over a controversial executive payout plan",
+      "link": "https://www.coindesk.com/markets/2026/09/30/metaplanet-directors-push-back-against-shareholder-fury-over-a-controversial-executive-payout-plan",
+      "published": "Wed, 30 Sep 2026 10:28:24 +0000",
+      "ts": 1790764104
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Swiss National Bank bought 1.44 billion francs in foreign currency",
+      "link": "https://www.investing.com/news/forex-news/swiss-national-bank-bought-144-billion-francs-in-foreign-currency-93CH-4924575",
+      "published": "2026-09-30 10:21:16",
+      "ts": 1790763676
+    },
     {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin below $84,000 ahead of PCE inflation data, Micron earnings",
@@ -30,6 +51,13 @@
       "link": "https://www.investing.com/news/forex-news/bca-raises-dollar-target-on-widening-realrate-gap-and-resilient-growth-4924547",
       "published": "2026-09-30 10:12:21",
       "ts": 1790763141
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin stalls near $83,000 while lighter drops 17% on Robinhood perps plan",
+      "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-stalls-near-usd83-000-while-lighter-drops-17-on-robinhood-perps-plan",
+      "published": "Wed, 30 Sep 2026 10:11:36 +0000",
+      "ts": 1790763096
     },
     {
       "source": "Cointelegraph",
@@ -172,20 +200,6 @@
       "ts": 1790747155
     },
     {
-      "source": "CoinDesk",
-      "title": "XRP Ledger starts carrying fund records from Brazil operator overseeing $4 trillion",
-      "link": "https://www.coindesk.com/tech/2026/09/30/xrp-ledger-starts-carrying-fund-records-from-brazil-operator-overseeing-usd4-trillion",
-      "published": "Wed, 30 Sep 2026 05:22:51 +0000",
-      "ts": 1790745771
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin rally shows signs of cooling even as a 'bull score' gauge nears its perfect score",
-      "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-rally-shows-signs-of-cooling-even-as-a-bull-score-gauge-nears-its-perfect-score",
-      "published": "Wed, 30 Sep 2026 04:38:18 +0000",
-      "ts": 1790743098
-    },
-    {
       "source": "Cointelegraph",
       "title": "Illinois draft crypto tax rules detail DeFi, stablecoin treatment",
       "link": "https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -205,13 +219,6 @@
       "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
       "published": "Wed, 30 Sep 2026 01:00:00 GMT",
       "ts": 1790730000
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 00:30:00 GMT",
-      "ts": 1790728200
     },
     {
       "source": "Investing Crypto",
@@ -254,13 +261,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/primexbt-adds-15-new-crypto-futures-taking-the-total-to-over-170-4922718",
       "published": "2026-09-29 13:00:35",
       "ts": 1790686835
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. Treasury yields ease while Aussie yields retreat  after 2011-era peak run up",
-      "link": "https://www.investing.com/news/forex-news/us-treasury-yields-hold-while-aussie-yields-retreat--after-2011era-peak-run-up-4921704",
-      "published": "2026-09-29 12:32:33",
-      "ts": 1790685153
     },
     {
       "source": "Investing Crypto",
