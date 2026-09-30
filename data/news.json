@@ -1,11 +1,32 @@
 {
-  "updated_utc": "2026-09-30T11:27:49.101559+00:00",
+  "updated_utc": "2026-09-30T11:44:38.917487+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
+      "source": "Investing Crypto",
+      "title": "Bitcoin stalls at $83k, but set for 42% jump in Q3",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-at-83k-but-set-for-42-jump-in-q3-4924162",
+      "published": "2026-09-30 11:42:19",
+      "ts": 1790768539
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Altcoin exchange deposit count jumps 160% in 2 weeks",
+      "link": "https://cointelegraph.com/markets/altcoin-exchange-deposits-spike-160-in-two-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 30 Sep 2026 11:23:56 +0000",
+      "ts": 1790767436
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A stronger dollar is a weaker threat to bitcoin than traders think",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think",
+      "published": "Wed, 30 Sep 2026 11:20:09 +0000",
+      "ts": 1790767209
+    },
+    {
       "source": "MarketWatch",
-      "title": "‘I’m afraid of human stupidity.’ Why this top economist prefers U.S. tech and gold over bonds.",
+      "title": "‘I’m afraid of human stupidity’: Why this top economist prefers U.S. tech and gold over bonds",
       "link": "https://www.marketwatch.com/story/im-afraid-of-human-stupidity-why-this-top-economist-prefers-u-s-tech-and-gold-over-bonds-30299219?mod=mw_rss_topstories",
       "published": "Wed, 30 Sep 2026 11:20:00 GMT",
       "ts": 1790767200
@@ -165,13 +186,6 @@
       "ts": 1790758222
     },
     {
-      "source": "CoinDesk",
-      "title": "Winklevoss-owned Gemini switches Zcash software ahead of faster 25-second blocks",
-      "link": "https://www.coindesk.com/tech/2026/09/30/winklevoss-owned-gemini-switches-zcash-software-ahead-of-faster-25-second-blocks",
-      "published": "Wed, 30 Sep 2026 08:27:00 +0000",
-      "ts": 1790756820
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. 10-year yields anchor near 2007 peaks, set for biggest monthly jump in 2 yrs",
       "link": "https://www.investing.com/news/forex-news/us-10year-yields-anchor-near-2007-peaks-set-for-biggest-monthly-jump-in-2-yrs-4924286",
@@ -193,13 +207,6 @@
       "ts": 1790751600
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin stalls at $83k, but set for 42% jump in Q3",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-at-83k-but-set-for-42-jump-in-q3-4924162",
-      "published": "2026-09-30 06:28:31",
-      "ts": 1790749711
-    },
-    {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -212,13 +219,6 @@
       "link": "https://cointelegraph.com/news/kalshi-in-advanced-talks-to-raise-new-funding-at-40b-valuation-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 05:45:55 +0000",
       "ts": 1790747155
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Illinois draft crypto tax rules detail DeFi, stablecoin treatment",
-      "link": "https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 30 Sep 2026 04:29:28 +0000",
-      "ts": 1790742568
     },
     {
       "source": "Investing Crypto",
