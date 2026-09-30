@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-09-30T16:26:07.185272+00:00",
+  "updated_utc": "2026-09-30T16:42:28.837102+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Wall Street may be sleeping on this networking stock tied to Google and OpenAI",
+      "link": "https://www.marketwatch.com/story/wall-street-may-be-sleeping-on-this-networking-stock-tied-to-google-and-openai-1cb9741f?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 16:29:00 GMT",
+      "ts": 1790785740
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitget ‘gradually back to usual’ as protection fund reaches $309M",
+      "link": "https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 30 Sep 2026 16:28:30 +0000",
+      "ts": 1790785710
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Open Standard issues dollar stablecoin backed by Visa, Stripe, and Mastercard",
+      "link": "https://www.investing.com/news/cryptocurrency-news/open-standard-issues-dollar-stablecoin-backed-by-visa-stripe-and-mastercard-4925607",
+      "published": "2026-09-30 16:24:42",
+      "ts": 1790785482
+    },
     {
       "source": "MarketWatch",
       "title": "Dolly Parton planned for her estate. The fight with her nephew shows why that matters.",
@@ -72,13 +93,6 @@
       "link": "https://www.coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on",
       "published": "Wed, 30 Sep 2026 14:56:07 +0000",
       "ts": 1790780167
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Adding Lilly’s new drug to Zepbound helped people lose up to 23% of their weight. But there were more side effects.",
-      "link": "https://www.marketwatch.com/story/adding-lillys-new-drug-to-zepbound-helped-people-lose-up-to-23-of-their-weight-but-there-were-more-side-effects-b7b7c6c0?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 14:32:00 GMT",
-      "ts": 1790778720
     },
     {
       "source": "CoinDesk",
@@ -228,13 +242,6 @@
       "ts": 1790763141
     },
     {
-      "source": "Cointelegraph",
-      "title": "Crypto hardware wallets compared for 2026",
-      "link": "https://cointelegraph.com/magazine/crypto-hardware-wallets-compared-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 30 Sep 2026 10:11:12 +0000",
-      "ts": 1790763072
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound gains as UK GDP beat meets pause in dollar rally",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-gains-as-uk-gdp-beat-meets-pause-in-dollar-rally-4924430",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/21x-llc-seeks-regulatory-approval-to-operate-as-a-us-broker-dealer-and-appoints-ray-tierney-as-ceo-4922465",
       "published": "2026-09-29 12:00:40",
       "ts": 1790683240
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Beldex Launches $1 Million Grants Program for Privacy Innovation",
-      "link": "https://www.investing.com/news/cryptocurrency-news/beldex-launches-1-million-grants-program-for-privacy-innovation-4921886",
-      "published": "2026-09-29 09:30:36",
-      "ts": 1790674236
     }
   ]
 }
