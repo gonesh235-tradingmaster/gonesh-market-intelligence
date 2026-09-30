@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-30T07:04:01.778739+00:00",
+  "updated_utc": "2026-09-30T07:25:05.244456+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin bulls have one price level to defend",
+      "link": "https://www.coindesk.com/markets/2026/09/30/bitcoin-bulls-have-one-price-level-to-defend",
+      "published": "Wed, 30 Sep 2026 07:04:41 +0000",
+      "ts": 1790751881
+    },
     {
       "source": "Cointelegraph",
       "title": "European stablecoin issuer AllUnity launches USD stablecoin USDAU",
@@ -75,7 +82,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Binance Pay lets visitors spend USDT at PayPay merchants in Japan",
+      "title": "Binance Pay lets visitors spend crypto at PayPay merchants in Japan",
       "link": "https://cointelegraph.com/news/binance-pay-usdt-paypay-merchants-japan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 02:25:00 +0000",
       "ts": 1790735100
@@ -240,13 +247,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/21x-llc-seeks-regulatory-approval-to-operate-as-a-us-broker-dealer-and-appoints-ray-tierney-as-ceo-4922465",
       "published": "2026-09-29 12:00:40",
       "ts": 1790683240
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin surging to $100,000 may be in play, after outperforming gold",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
-      "published": "Tue, 29 Sep 2026 11:34:55 +0000",
-      "ts": 1790681695
     },
     {
       "source": "Investing Crypto",
