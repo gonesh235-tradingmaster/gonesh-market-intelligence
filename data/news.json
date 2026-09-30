@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-30T05:53:40.168448+00:00",
+  "updated_utc": "2026-09-30T06:06:36.109946+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 30 Sep 2026 06:00:00 +0000",
+      "ts": 1790748000
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood announces AI agent for customers that trades around the clock, plus 10x crypto perps",
+      "link": "https://www.coindesk.com/markets/2026/09/30/robinhood-is-giving-customers-an-ai-agent-that-trades-for-them-plus-10x-crypto-bets",
+      "published": "Wed, 30 Sep 2026 05:59:31 +0000",
+      "ts": 1790747971
+    },
     {
       "source": "Cointelegraph",
       "title": "Kalshi in advanced talks to raise new funding at $40B valuation: Reuters",
@@ -158,13 +172,6 @@
       "ts": 1790711749
     },
     {
-      "source": "Cointelegraph",
-      "title": "Kakaopay partners with Dinari, Ondo to explore tokenized Korean stocks",
-      "link": "https://cointelegraph.com/news/kakaopay-securities-dinari-ondo-tokenized-korean-stocks-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 29 Sep 2026 19:49:53 +0000",
-      "ts": 1790711393
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin bull flag compresses near $83,266 support: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
@@ -233,13 +240,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/09/29/bitcoin-outperforms-gold-usd100-000-surge-in-play",
       "published": "Tue, 29 Sep 2026 11:34:55 +0000",
       "ts": 1790681695
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Zcash developers begin moving Tachyon code into faster private-payment software",
-      "link": "https://www.coindesk.com/tech/2026/09/29/zcash-s-faster-private-payment-code-is-being-rebuilt-for-its-bigger-scaling-plan",
-      "published": "Tue, 29 Sep 2026 11:15:30 +0000",
-      "ts": 1790680530
     },
     {
       "source": "Investing Crypto",
