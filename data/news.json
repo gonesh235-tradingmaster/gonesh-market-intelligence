@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-30T06:29:40.303073+00:00",
+  "updated_utc": "2026-09-30T06:51:21.315617+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin stalls at $83k, but set for 42% jump in Q3",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-at-83k-but-set-for-42-jump-in-q3-4924162",
+      "published": "2026-09-30 06:28:31",
+      "ts": 1790749711
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -261,13 +268,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-oilfuelled-dollar-demand-builds-4921804",
       "published": "2026-09-29 08:50:08",
       "ts": 1790671808
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Crystal Intelligence Aids $655K Crypto Fraud Probe in Prague",
-      "link": "https://www.investing.com/news/cryptocurrency-news/crystal-intelligence-aids-655k-crypto-fraud-probe-in-prague-4921759",
-      "published": "2026-09-29 08:30:34",
-      "ts": 1790670634
     },
     {
       "source": "Investing Forex",
