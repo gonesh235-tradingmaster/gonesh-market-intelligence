@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-30T22:46:58.863651+00:00",
+  "updated_utc": "2026-09-30T22:58:25.153600+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Google shows it’s not out of the AI race just yet",
+      "link": "https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 22:51:00 GMT",
+      "ts": 1790808660
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin muted at $83.7k, but set for best quarterly performance since Q4 2024",
@@ -79,13 +86,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 19:37:13 +0000",
       "ts": 1790797033
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Billionaires like Ken Griffin are doling out tons of money to prove that a college degree still matters",
-      "link": "https://www.marketwatch.com/story/billionaires-like-ken-griffin-are-doling-out-tons-of-money-to-prove-that-a-college-degree-still-matters-63e50332?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 19:21:00 GMT",
-      "ts": 1790796060
     },
     {
       "source": "Investing Crypto",
