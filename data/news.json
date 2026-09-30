@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-09-30T08:13:28.597125+00:00",
+  "updated_utc": "2026-09-30T08:34:03.277579+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Winklevoss-owned Gemini switches Zcash software ahead of faster 25-second blocks",
+      "link": "https://www.coindesk.com/tech/2026/09/30/winklevoss-owned-gemini-switches-zcash-software-ahead-of-faster-25-second-blocks",
+      "published": "Wed, 30 Sep 2026 08:27:00 +0000",
+      "ts": 1790756820
+    },
+    {
+      "source": "CoinDesk",
+      "title": "How European investors can now buy bitcoin without taking on U.S. dollar risk",
+      "link": "https://www.coindesk.com/business/2026/09/30/how-european-investors-can-now-buy-bitcoin-without-taking-on-u-s-dollar-risk",
+      "published": "Wed, 30 Sep 2026 08:25:43 +0000",
+      "ts": 1790756743
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Tuesday’s market moves was one of the more disturbing days of late, says Goldman Sachs pro",
+      "link": "https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 08:25:00 GMT",
+      "ts": 1790756700
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. 10-year yields anchor near 2007 peaks, set for biggest monthly jump in 2 yrs",
+      "link": "https://www.investing.com/news/forex-news/us-10year-yields-anchor-near-2007-peaks-set-for-biggest-monthly-jump-in-2-yrs-4924286",
+      "published": "2026-09-30 08:05:31",
+      "ts": 1790755531
+    },
     {
       "source": "Investing Forex",
       "title": "Asian currencies mixed as dollar eases from two-month high, yen gains",
@@ -47,7 +75,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Robinhood announces AI agent for customers that trades around the clock, plus 10x crypto perps",
+      "title": "Robinhood unveils an AI that trades your money 24/7, and you carry all the risk",
       "link": "https://www.coindesk.com/markets/2026/09/30/robinhood-is-giving-customers-an-ai-agent-that-trades-for-them-plus-10x-crypto-bets",
       "published": "Wed, 30 Sep 2026 05:59:31 +0000",
       "ts": 1790747971
@@ -158,13 +186,6 @@
       "ts": 1790718780
     },
     {
-      "source": "MarketWatch",
-      "title": "The real prize in AMD’s $8 billion World Labs acquisition isn’t what you’d think",
-      "link": "https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories",
-      "published": "Tue, 29 Sep 2026 21:52:00 GMT",
-      "ts": 1790718720
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin rises to $83.5k amid a fall in oil prices and a let up in Treasury yields",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-834k-as-markets-weigh-soaring-yields-iran-tensions-4921649",
@@ -207,25 +228,11 @@
       "ts": 1790706067
     },
     {
-      "source": "CoinDesk",
-      "title": "Ethereum users get another way to pay privately as zk.money returns after three years",
-      "link": "https://www.coindesk.com/tech/2026/09/29/embargo-12-et-ethereum-users-get-another-way-to-pay-privately-as-zk-money-returns-after-three-years",
-      "published": "Tue, 29 Sep 2026 16:00:00 +0000",
-      "ts": 1790697600
-    },
-    {
       "source": "Investing Forex",
       "title": "Wells Fargo revises dollar, yen, euro estimates amid rate hike outlook",
       "link": "https://www.investing.com/news/forex-news/wells-fargo-revises-dollar-yen-euro-estimates-amid-rate-hike-outlook-4923047",
       "published": "2026-09-29 14:44:38",
       "ts": 1790693078
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Democrats killed the Clarity Act",
-      "link": "https://www.coindesk.com/opinion/2026/09/29/democrats-killed-the-clarity-act",
-      "published": "Tue, 29 Sep 2026 14:08:18 +0000",
-      "ts": 1790690898
     },
     {
       "source": "Investing Crypto",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaken-as-dollar-holds-near-twomonth-high-yen-slips-4919323",
       "published": "2026-09-28 20:07:07",
       "ts": 1790626027
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Loonie weakens as wider yield gap and softer oil weigh on loonie",
-      "link": "https://www.investing.com/news/forex-news/loonie-weakens-as-wider-yield-gap-and-softer-oil-weigh-on-loonie-4920618",
-      "published": "2026-09-28 13:58:08",
-      "ts": 1790603888
     }
   ]
 }
