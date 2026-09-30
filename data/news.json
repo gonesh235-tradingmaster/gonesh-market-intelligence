@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-30T06:51:21.315617+00:00",
+  "updated_utc": "2026-09-30T07:04:01.778739+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "European stablecoin issuer AllUnity launches USD stablecoin USDAU",
+      "link": "https://cointelegraph.com/news/allunity-europe-mica-usd-stablecoin-usdau?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 30 Sep 2026 07:00:00 +0000",
+      "ts": 1790751600
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin stalls at $83k, but set for 42% jump in Q3",
@@ -170,13 +177,6 @@
       "link": "https://cointelegraph.com/news/us-sec-cftc-crypto-regulation-few-commissioners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 29 Sep 2026 19:59:43 +0000",
       "ts": 1790711983
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "OpenAI valuation could hit $1.4T in new funding round: Report",
-      "link": "https://cointelegraph.com/news/openai-30-billion-funding-round-1-4-trillion-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 29 Sep 2026 19:55:49 +0000",
-      "ts": 1790711749
     },
     {
       "source": "Investing Crypto",
