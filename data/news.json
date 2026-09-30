@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-30T05:23:32.088130+00:00",
+  "updated_utc": "2026-09-30T05:38:59.249972+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -158,13 +158,6 @@
       "ts": 1790711393
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 29 Sep 2026 19:42:02 +0000",
-      "ts": 1790710922
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin bull flag compresses near $83,266 support: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
@@ -184,6 +177,13 @@
       "link": "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal",
       "published": "Tue, 29 Sep 2026 18:21:07 +0000",
       "ts": 1790706067
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitwise launches first US spot NEAR ETF after token’s recent surge",
+      "link": "https://cointelegraph.com/news/bitwise-launches-first-us-spot-near-etf-after-tokens-recent-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 29 Sep 2026 17:14:36 +0000",
+      "ts": 1790702076
     },
     {
       "source": "CoinDesk",
