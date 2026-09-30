@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-09-30T08:34:03.277579+00:00",
+  "updated_utc": "2026-09-30T08:51:20.284667+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "OpenAI seeks $30 in funding at whopping $1.4 trillion valuation after delaying IPO",
+      "link": "https://www.coindesk.com/markets/2026/09/30/openai-targets-usd1-4-trillion-valuation-and-unveils-dots-ai-agent",
+      "published": "Wed, 30 Sep 2026 08:50:22 +0000",
+      "ts": 1790758222
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Tuesday’s market moves was one of the more disturbing days of late, says Goldman Sachs pro",
+      "link": "https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories",
+      "published": "Wed, 30 Sep 2026 08:42:00 GMT",
+      "ts": 1790757720
+    },
     {
       "source": "CoinDesk",
       "title": "Winklevoss-owned Gemini switches Zcash software ahead of faster 25-second blocks",
@@ -16,13 +30,6 @@
       "link": "https://www.coindesk.com/business/2026/09/30/how-european-investors-can-now-buy-bitcoin-without-taking-on-u-s-dollar-risk",
       "published": "Wed, 30 Sep 2026 08:25:43 +0000",
       "ts": 1790756743
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Tuesday’s market moves was one of the more disturbing days of late, says Goldman Sachs pro",
-      "link": "https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 08:25:00 GMT",
-      "ts": 1790756700
     },
     {
       "source": "Investing Forex",
@@ -219,13 +226,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/puffer-and-anchorage-digital-partner-to-bring-institutional-settlement-infrastructure-to-puffer-unifi-4923352",
       "published": "2026-09-29 19:00:37",
       "ts": 1790708437
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
-      "link": "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal",
-      "published": "Tue, 29 Sep 2026 18:21:07 +0000",
-      "ts": 1790706067
     },
     {
       "source": "Investing Forex",
