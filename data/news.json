@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-09-30T21:57:39.906529+00:00",
+  "updated_utc": "2026-09-30T22:13:56.634603+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin muted at $83.7k, but set for best quarterly performance since Q4 2024",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-at-83k-but-set-for-42-jump-in-q3-4924162",
+      "published": "2026-09-30 21:54:18",
+      "ts": 1790805258
+    },
     {
       "source": "MarketWatch",
       "title": "The 15 worst-performing S&P 500 stocks during a dismal September",
@@ -191,13 +198,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/solmate-names-bitcoin-depot-veteran-scott-buchanan-as-cfo-432SI-4925282",
       "published": "2026-09-30 13:22:02",
       "ts": 1790774522
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin stalls at $83k, but set for 42% jump in Q3",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-at-83k-but-set-for-42-jump-in-q3-4924162",
-      "published": "2026-09-30 13:18:55",
-      "ts": 1790774335
     },
     {
       "source": "CoinDesk",
