@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-01T12:29:36.304372+00:00",
+  "updated_utc": "2026-10-01T12:52:47.520215+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Google is sending its first AI data center to space",
+      "link": "https://www.marketwatch.com/story/google-is-sending-its-first-ai-data-center-to-space-22b7c44d?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 12:42:00 GMT",
+      "ts": 1790858520
+    },
     {
       "source": "MarketWatch",
       "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
@@ -21,8 +28,8 @@
       "source": "Investing Forex",
       "title": "Global debt rout escalates as U.S. and European yields surge to multi-decade highs",
       "link": "https://www.investing.com/news/forex-news/uk-30year-gilt-yields-rise-to-1998-highs-french-budget-due-4926457",
-      "published": "2026-10-01 12:08:48",
-      "ts": 1790856528
+      "published": "2026-10-01 12:11:00",
+      "ts": 1790856660
     },
     {
       "source": "CoinDesk",
@@ -121,13 +128,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-rally-lower-us-inflation-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 01 Oct 2026 10:30:18 +0000",
       "ts": 1790850618
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
-      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 10:15:00 GMT",
-      "ts": 1790849700
     },
     {
       "source": "Cointelegraph",
