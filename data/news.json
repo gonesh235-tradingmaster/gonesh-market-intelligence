@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-10-01T07:04:05.002369+00:00",
+  "updated_utc": "2026-10-01T07:25:11.911290+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin stuck in $82,800-$85,000 range: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
+      "published": "2026-10-01 07:10:54",
+      "ts": 1790838654
+    },
+    {
+      "source": "CoinDesk",
+      "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
+      "link": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
+      "published": "Thu, 01 Oct 2026 07:06:30 +0000",
+      "ts": 1790838390
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin rises to $84k after bumper Q3 gains; stubborn yields weigh",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-84k-after-bumper-q3-gains-stubborn-yields-weigh-4926370",
+      "published": "2026-10-01 06:52:52",
+      "ts": 1790837572
+    },
     {
       "source": "Investing Forex",
       "title": "Asian currencies rangebound as dollar holds near two-month high, yen slips",
@@ -144,13 +165,6 @@
       "ts": 1790801852
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin squeezed between $83,600-$85,650: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
-      "published": "2026-09-30 19:18:35",
-      "ts": 1790795915
-    },
-    {
       "source": "Cointelegraph",
       "title": "Crypto advocacy group announces picks for US Congress as midterms loom",
       "link": "https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -228,13 +242,6 @@
       "ts": 1790774522
     },
     {
-      "source": "CoinDesk",
-      "title": "Cardano tapped by Brazil’s state oil giant to track cleaner jet fuel and diesel",
-      "link": "https://www.coindesk.com/tech/2026/09/30/embargo-1-pm-utc-cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel-and-diesel",
-      "published": "Wed, 30 Sep 2026 13:00:00 +0000",
-      "ts": 1790773200
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. yields pull back from peaks as cooler PCE print curbs Oct rate-hike odds",
       "link": "https://www.investing.com/news/forex-news/us-10year-yields-anchor-near-2007-peaks-set-for-biggest-monthly-jump-in-2-yrs-4924286",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/puffer-and-anchorage-digital-partner-to-bring-institutional-settlement-infrastructure-to-puffer-unifi-4923352",
       "published": "2026-09-29 19:00:37",
       "ts": 1790708437
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "PrimeXBT Adds 15 New Crypto Futures, Taking the Total to Over 170",
-      "link": "https://www.investing.com/news/cryptocurrency-news/primexbt-adds-15-new-crypto-futures-taking-the-total-to-over-170-4922718",
-      "published": "2026-09-29 13:00:35",
-      "ts": 1790686835
     }
   ]
 }
