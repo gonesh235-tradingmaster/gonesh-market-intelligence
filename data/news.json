@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-01T02:28:46.751312+00:00",
+  "updated_utc": "2026-10-01T02:46:03.451324+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Cars have become unaffordable for many Americans. Here’s what the numbers show.",
+      "link": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 02:35:00 GMT",
+      "ts": 1790822100
+    },
     {
       "source": "Cointelegraph",
       "title": "CFTC seeks to define event contracts as swaps amid prediction market fight",
@@ -93,13 +100,6 @@
       "link": "https://cointelegraph.com/markets/standard-chartered-ethena-usde-growth-40b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 20:57:32 +0000",
       "ts": 1790801852
-    },
-    {
-      "source": "MarketWatch",
-      "title": "A brutal September for bonds points to an even darker October",
-      "link": "https://www.marketwatch.com/story/a-brutal-september-for-bonds-points-to-an-even-darker-october-239d0fb5?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 20:56:00 GMT",
-      "ts": 1790801760
     },
     {
       "source": "Cointelegraph",
