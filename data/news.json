@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-01T09:56:07.730811+00:00",
+  "updated_utc": "2026-10-01T10:12:19.812455+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
+      "link": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
+      "published": "Thu, 01 Oct 2026 09:59:30 +0000",
+      "ts": 1790848770
+    },
     {
       "source": "MarketWatch",
       "title": "France’s bond market is stumbling. Should Americans care?",
@@ -226,13 +233,6 @@
       "link": "https://www.coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on",
       "published": "Wed, 30 Sep 2026 14:56:07 +0000",
       "ts": 1790780167
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Clock's ticking: UK's crypto regulatory application window opens with February deadline",
-      "link": "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
-      "published": "Wed, 30 Sep 2026 14:04:19 +0000",
-      "ts": 1790777059
     },
     {
       "source": "Investing Forex",
