@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-01T04:04:18.361190+00:00",
+  "updated_utc": "2026-10-01T04:24:13.226404+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
+      "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
+      "published": "Thu, 01 Oct 2026 04:15:20 +0000",
+      "ts": 1790828120
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar holds highs, yen slips on BOJ signals",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-highs-yen-slips-on-boj-signals-4926223",
+      "published": "2026-10-01 03:59:56",
+      "ts": 1790827196
+    },
     {
       "source": "MarketWatch",
       "title": "Cars have become unaffordable for many Americans. Here’s what the numbers show.",
@@ -235,13 +249,6 @@
       "ts": 1790767209
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitget hackers move $4 million into Zcash’s private pool, making funds harder to trace",
-      "link": "https://www.coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace",
-      "published": "Wed, 30 Sep 2026 11:04:09 +0000",
-      "ts": 1790766249
-    },
-    {
       "source": "Investing Forex",
       "title": "Swiss National Bank bought 1.44 billion francs in foreign currency",
       "link": "https://www.investing.com/news/forex-news/swiss-national-bank-bought-144-billion-francs-in-foreign-currency-93CH-4924575",
@@ -254,13 +261,6 @@
       "link": "https://www.investing.com/news/forex-news/bca-raises-dollar-target-on-widening-realrate-gap-and-resilient-growth-4924547",
       "published": "2026-09-30 10:12:21",
       "ts": 1790763141
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound gains as UK GDP beat meets pause in dollar rally",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-gains-as-uk-gdp-beat-meets-pause-in-dollar-rally-4924430",
-      "published": "2026-09-30 09:19:43",
-      "ts": 1790759983
     },
     {
       "source": "Investing Crypto",
