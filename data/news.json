@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-01T16:21:34.303877+00:00",
+  "updated_utc": "2026-10-01T16:36:29.983126+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Meta’s Mark Zuckerberg is coming for Apple’s empire",
+      "link": "https://www.marketwatch.com/story/metas-mark-zuckerberg-is-coming-for-apples-empire-f34d1f92?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 16:24:00 GMT",
+      "ts": 1790871840
+    },
     {
       "source": "MarketWatch",
       "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
@@ -19,7 +26,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "30-year mortgage rate posts biggest jump in four years",
+      "title": "30-year mortgage rate posts biggest jump in four years — to nearly 7.3%",
       "link": "https://www.marketwatch.com/story/30-year-mortgage-rate-posts-biggest-jump-in-four-years-e288f596?mod=mw_rss_topstories",
       "published": "Thu, 01 Oct 2026 16:06:00 GMT",
       "ts": 1790870760
@@ -107,13 +114,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
       "published": "Thu, 01 Oct 2026 14:18:14 +0000",
       "ts": 1790864294
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 14:15:00 GMT",
-      "ts": 1790864100
     },
     {
       "source": "Cointelegraph",
