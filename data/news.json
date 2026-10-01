@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-01T21:19:01.600349+00:00",
+  "updated_utc": "2026-10-01T21:35:30.975273+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The hidden silver lining of high interest rates: safer, cheaper retirement income",
+      "link": "https://www.marketwatch.com/story/the-hidden-silver-lining-of-high-interest-rates-safer-cheaper-retirement-income-36e2e077?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 21:27:00 GMT",
+      "ts": 1790890020
+    },
     {
       "source": "MarketWatch",
       "title": "Nike’s troubles are mounting, and sales could fall further",
@@ -114,13 +121,6 @@
       "link": "https://www.marketwatch.com/story/financial-stocks-are-falling-below-a-key-chart-level-to-warn-the-worst-is-yet-to-come-86e43092?mod=mw_rss_topstories",
       "published": "Thu, 01 Oct 2026 18:38:00 GMT",
       "ts": 1790879880
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This silent alarm in the bond market tells you which stocks to buy and which to avoid",
-      "link": "https://www.marketwatch.com/story/this-silent-alarm-in-the-bond-market-tells-you-which-stocks-to-buy-and-which-to-avoid-4568ac53?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 18:10:00 GMT",
-      "ts": 1790878200
     },
     {
       "source": "Cointelegraph",
