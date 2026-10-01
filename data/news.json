@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-01T05:47:04.456509+00:00",
+  "updated_utc": "2026-10-01T06:01:25.162423+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -23,13 +23,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
       "published": "Thu, 01 Oct 2026 04:15:20 +0000",
       "ts": 1790828120
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar holds highs, yen slips on BOJ signals",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-highs-yen-slips-on-boj-signals-4926223",
-      "published": "2026-10-01 03:59:56",
-      "ts": 1790827196
     },
     {
       "source": "MarketWatch",
@@ -107,13 +100,6 @@
       "link": "https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories",
       "published": "Wed, 30 Sep 2026 21:16:00 GMT",
       "ts": 1790802960
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. dollar sees best month since June on hawkish Fed, U.S. Treasury bond rout",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
-      "published": "2026-09-30 21:04:47",
-      "ts": 1790802287
     },
     {
       "source": "MarketWatch",
@@ -207,20 +193,6 @@
       "ts": 1790777059
     },
     {
-      "source": "Investing Forex",
-      "title": "RBI forward dollar liabilities hit record $200 billion in August",
-      "link": "https://www.investing.com/news/forex-news/rbi-forward-dollar-liabilities-hit-record-200-billion-in-august-93CH-4925291",
-      "published": "2026-09-30 13:29:50",
-      "ts": 1790774990
-    },
-    {
-      "source": "Investing Forex",
-      "title": "South African rand strengthens as investors review economic data",
-      "link": "https://www.investing.com/news/forex-news/south-african-rand-strengthens-as-investors-review-economic-data-93CH-4925290",
-      "published": "2026-09-30 13:29:20",
-      "ts": 1790774960
-    },
-    {
       "source": "Investing Crypto",
       "title": "Solmate names Bitcoin Depot veteran Scott Buchanan as CFO",
       "link": "https://www.investing.com/news/cryptocurrency-news/solmate-names-bitcoin-depot-veteran-scott-buchanan-as-cfo-432SI-4925282",
@@ -233,34 +205,6 @@
       "link": "https://www.coindesk.com/tech/2026/09/30/embargo-1-pm-utc-cardano-tapped-by-brazil-s-state-oil-giant-to-track-cleaner-jet-fuel-and-diesel",
       "published": "Wed, 30 Sep 2026 13:00:00 +0000",
       "ts": 1790773200
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. yields pull back from peaks as cooler PCE print curbs Oct rate-hike odds",
-      "link": "https://www.investing.com/news/forex-news/us-10year-yields-anchor-near-2007-peaks-set-for-biggest-monthly-jump-in-2-yrs-4924286",
-      "published": "2026-09-30 12:44:12",
-      "ts": 1790772252
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Deutsche Bank sees euro holding range despite dollar strength",
-      "link": "https://www.investing.com/news/forex-news/deutsche-bank-sees-euro-holding-range-despite-dollar-strength-93CH-4924929",
-      "published": "2026-09-30 11:45:08",
-      "ts": 1790768708
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Swiss National Bank bought 1.44 billion francs in foreign currency",
-      "link": "https://www.investing.com/news/forex-news/swiss-national-bank-bought-144-billion-francs-in-foreign-currency-93CH-4924575",
-      "published": "2026-09-30 10:21:16",
-      "ts": 1790763676
-    },
-    {
-      "source": "Investing Forex",
-      "title": "BCA raises dollar target on widening real-rate gap and resilient growth",
-      "link": "https://www.investing.com/news/forex-news/bca-raises-dollar-target-on-widening-realrate-gap-and-resilient-growth-4924547",
-      "published": "2026-09-30 10:12:21",
-      "ts": 1790763141
     },
     {
       "source": "Investing Crypto",
@@ -282,6 +226,62 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/primexbt-adds-15-new-crypto-futures-taking-the-total-to-over-170-4922718",
       "published": "2026-09-29 13:00:35",
       "ts": 1790686835
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
+      "link": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html",
+      "published": "2026-09-23T04:33:16Z",
+      "ts": 1790137996
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "This Little-Known AI Chip Stock Doubled. Its New Chips Now Double Optical Speed",
+      "link": "https://finance.yahoo.com/technology/ai/articles/little-known-ai-chip-stock-042916921.html",
+      "published": "2026-09-23T04:29:16Z",
+      "ts": 1790137756
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Ennis (EBF) Grows Sales but Earns Less. Are Legal Items Hiding a Better Business?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ennis-ebf-grows-sales-earns-015226342.html",
+      "published": "2026-09-23T01:52:26Z",
+      "ts": 1790128346
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Strive CEO: Bitcoin Could ‘Go to Infinity' as Dollar Debt Crisis Breaks",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html",
+      "published": "2026-09-23T01:51:00Z",
+      "ts": 1790128260
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "May Mobility's SPAC Merger: Is This a Road to Nowhere for Investors?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/may-mobilitys-spac-merger-road-015000118.html",
+      "published": "2026-09-23T01:50:00Z",
+      "ts": 1790128200
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Westinghouse Air Brake (WAB) Signs $700 Million-Plus Rail Services Deal. Can Profits Grow?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-wab-signs-014350177.html",
+      "published": "2026-09-23T01:43:50Z",
+      "ts": 1790127830
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html",
+      "published": "2026-09-23T01:42:06Z",
+      "ts": 1790127726
+    },
+    {
+      "source": "Yahoo Finance",
+      "title": "Titan International (TWI) Signs ITM Sale. How Much of the $285 Million is New Cash?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/titan-international-twi-signs-itm-012718577.html",
+      "published": "2026-09-23T01:26:44Z",
+      "ts": 1790126804
     }
   ]
 }
