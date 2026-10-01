@@ -1,14 +1,35 @@
 {
-  "updated_utc": "2026-10-01T11:01:04.606094+00:00",
+  "updated_utc": "2026-10-01T11:19:55.270069+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 11:15:00 GMT",
+      "ts": 1790853300
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The stock market is a hollow tree that could be about to snap, warns bond king Gundlach",
+      "link": "https://www.marketwatch.com/story/the-stock-market-is-a-hollow-tree-that-could-be-about-to-snap-warns-bond-king-gundlach-215134f0?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 11:13:00 GMT",
+      "ts": 1790853180
+    },
     {
       "source": "CoinDesk",
       "title": "Synthetic tokenized stocks are bad for American investors",
       "link": "https://www.coindesk.com/opinion/2026/10/01/synthetic-tokenized-stocks-are-bad-for-american-investors",
       "published": "Thu, 01 Oct 2026 11:00:00 +0000",
       "ts": 1790852400
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Tokenized assets don’t always mirror traditional markets, Dune finds",
+      "link": "https://cointelegraph.com/news/tokenized-assets-traditional-markets-dune-rwa-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 01 Oct 2026 10:50:24 +0000",
+      "ts": 1790851824
     },
     {
       "source": "CoinDesk",
@@ -170,27 +191,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
       "published": "Thu, 01 Oct 2026 04:15:20 +0000",
       "ts": 1790828120
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Cars have become unaffordable for many Americans. Here’s what the numbers show.",
-      "link": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 02:35:00 GMT",
-      "ts": 1790822100
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "CFTC seeks to define event contracts as swaps amid prediction market fight",
-      "link": "https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 01:07:46 +0000",
-      "ts": 1790816866
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 00:45:00 GMT",
-      "ts": 1790815500
     },
     {
       "source": "Investing Crypto",
