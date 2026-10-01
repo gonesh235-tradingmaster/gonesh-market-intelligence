@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-01T10:48:30.636689+00:00",
+  "updated_utc": "2026-10-01T11:01:04.606094+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Synthetic tokenized stocks are bad for American investors",
+      "link": "https://www.coindesk.com/opinion/2026/10/01/synthetic-tokenized-stocks-are-bad-for-american-investors",
+      "published": "Thu, 01 Oct 2026 11:00:00 +0000",
+      "ts": 1790852400
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin kicks off new quarter in the old $82,000-$85,000 price range",
@@ -226,13 +233,6 @@
       "link": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money",
       "published": "Wed, 30 Sep 2026 15:34:50 +0000",
       "ts": 1790782490
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. CFTC  seeks event contract definitions that may defy states' gambling claims",
-      "link": "https://www.coindesk.com/policy/2026/09/30/u-s-cftc-seeks-event-contract-definitions-that-may-defy-states-gambling-claims",
-      "published": "Wed, 30 Sep 2026 15:19:36 +0000",
-      "ts": 1790781576
     },
     {
       "source": "Investing Forex",
