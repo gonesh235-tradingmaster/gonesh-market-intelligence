@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-10-01T00:07:18.810546+00:00",
+  "updated_utc": "2026-10-01T00:33:37.801650+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+      "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 00:20:00 GMT",
+      "ts": 1790814000
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "MetaMask exits Lido validators as it investigates security incident",
+      "link": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 01 Oct 2026 00:15:55 +0000",
+      "ts": 1790813755
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "OKX and BitGo expand off-exchange settlement to global institutions",
+      "link": "https://www.investing.com/news/cryptocurrency-news/okx-and-bitgo-expand-offexchange-settlement-to-global-institutions-432SI-4926120",
+      "published": "2026-10-01 00:14:02",
+      "ts": 1790813642
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 00:11:00 GMT",
+      "ts": 1790813460
+    },
     {
       "source": "MarketWatch",
       "title": "Google shows it’s not out of the AI race just yet",
@@ -61,24 +89,10 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 20:45:00 GMT",
-      "ts": 1790801100
-    },
-    {
-      "source": "MarketWatch",
       "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
       "link": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
       "published": "Wed, 30 Sep 2026 20:32:00 GMT",
       "ts": 1790800320
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Paramount’s mega debt sale reveals how higher bond yields are squeezing corporate America",
-      "link": "https://www.marketwatch.com/story/paramounts-mega-debt-sale-reveals-how-higher-bond-yields-are-squeezing-corporate-america-e9694ec3?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 19:42:00 GMT",
-      "ts": 1790797320
     },
     {
       "source": "Cointelegraph",
@@ -170,13 +184,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
       "published": "Wed, 30 Sep 2026 14:04:19 +0000",
       "ts": 1790777059
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Could THORChain face prosecution over stolen Bitget funds? Legal opinion",
-      "link": "https://cointelegraph.com/magazine/does-thorchain-face-a-criminal-reckoning-near-intents-bitget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 30 Sep 2026 13:30:00 +0000",
-      "ts": 1790775000
     },
     {
       "source": "Investing Forex",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/primexbt-adds-15-new-crypto-futures-taking-the-total-to-over-170-4922718",
       "published": "2026-09-29 13:00:35",
       "ts": 1790686835
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "21X LLC Seeks Regulatory Approval to Operate as a US Broker Dealer and Appoints Ray Tierney as CEO",
-      "link": "https://www.investing.com/news/cryptocurrency-news/21x-llc-seeks-regulatory-approval-to-operate-as-a-us-broker-dealer-and-appoints-ray-tierney-as-ceo-4922465",
-      "published": "2026-09-29 12:00:40",
-      "ts": 1790683240
     }
   ]
 }
