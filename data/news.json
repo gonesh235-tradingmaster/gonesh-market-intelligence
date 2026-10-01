@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-01T23:12:17.933415+00:00",
+  "updated_utc": "2026-10-01T23:26:18.187670+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "This could be the worst year ever for Nike’s stock, with sales set to fall further",
+      "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 23:21:00 GMT",
+      "ts": 1790896860
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "China warns foreign spies about crypto, Singapore dominates Asia: Asia Express",
+      "link": "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 01 Oct 2026 23:17:47 +0000",
+      "ts": 1790896667
+    },
     {
       "source": "MarketWatch",
       "title": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
@@ -23,13 +37,6 @@
       "link": "https://www.marketwatch.com/story/the-hidden-silver-lining-of-high-interest-rates-safer-cheaper-retirement-income-36e2e077?mod=mw_rss_topstories",
       "published": "Thu, 01 Oct 2026 21:27:00 GMT",
       "ts": 1790890020
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Nike’s troubles are mounting, and sales could fall further",
-      "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 21:09:00 GMT",
-      "ts": 1790888940
     },
     {
       "source": "Investing Forex",
@@ -156,13 +163,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 01 Oct 2026 15:55:19 +0000",
       "ts": 1790870119
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
-      "link": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 15:43:34 +0000",
-      "ts": 1790869414
     },
     {
       "source": "Investing Crypto",
