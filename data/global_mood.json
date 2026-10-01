@@ -1,18 +1,18 @@
 {
-  "updated_utc": "2026-10-01T19:49:12.570689+00:00",
+  "updated_utc": "2026-10-01T19:59:26.738319+00:00",
   "source": "Computed from NIFTY + BTC",
   "score": -9,
   "label": "NEUTRAL",
-  "explanation": "Global mood is neutral (score -9). NIFTY: NIFTY down 3.11% • US 10Y yield rising sharply • Crude oil falling | BTC: Funding elevated (0.760%) — longs overheated",
+  "explanation": "Global mood is neutral (score -9). NIFTY: NIFTY down 3.11% • US markets down 0.41% • US 10Y yield rising sharply | BTC: BTC up 1.27% in 24h • Funding elevated (0.735%) — longs overheated",
   "components": [
     {
       "asset": "NIFTY",
-      "score": -16,
+      "score": -17,
       "weight": 0.5
     },
     {
       "asset": "BTC",
-      "score": -2,
+      "score": -1,
       "weight": 0.5
     }
   ]
