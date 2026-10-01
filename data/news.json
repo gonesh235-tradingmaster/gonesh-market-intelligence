@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-10-01T10:31:15.111530+00:00",
+  "updated_utc": "2026-10-01T10:48:30.636689+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin kicks off new quarter in the old $82,000-$85,000 price range",
+      "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-kicks-off-new-quarter-in-the-old-usd82-000-usd85-000-price-range",
+      "published": "Thu, 01 Oct 2026 10:38:04 +0000",
+      "ts": 1790851084
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin rises to $84k after bumper Q3 gains; stubborn yields weigh",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-84k-after-bumper-q3-gains-stubborn-yields-weigh-4926370",
+      "published": "2026-10-01 10:36:57",
+      "ts": 1790851017
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin trapped below $86K as PCE changes cloud inflation reading",
+      "link": "https://cointelegraph.com/markets/bitcoin-rally-lower-us-inflation-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 01 Oct 2026 10:30:18 +0000",
+      "ts": 1790850618
+    },
     {
       "source": "MarketWatch",
       "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
@@ -109,13 +130,6 @@
       "ts": 1790838390
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin rises to $84k after bumper Q3 gains; stubborn yields weigh",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-84k-after-bumper-q3-gains-stubborn-yields-weigh-4926370",
-      "published": "2026-10-01 06:52:52",
-      "ts": 1790837572
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bitcoin think tank questions MSCI’s ‘invisible committee’ over Strategy, Metaplanet rule",
       "link": "https://cointelegraph.com/news/msci-strategy-metaplanet-index-rule-bpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -172,13 +186,6 @@
       "ts": 1790815500
     },
     {
-      "source": "Cointelegraph",
-      "title": "MetaMask exits Ethereum validators amid undisclosed security incident",
-      "link": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 00:15:55 +0000",
-      "ts": 1790813755
-    },
-    {
       "source": "Investing Crypto",
       "title": "OKX and BitGo expand off-exchange settlement to global institutions",
       "link": "https://www.investing.com/news/cryptocurrency-news/okx-and-bitgo-expand-offexchange-settlement-to-global-institutions-432SI-4926120",
@@ -226,13 +233,6 @@
       "link": "https://www.coindesk.com/policy/2026/09/30/u-s-cftc-seeks-event-contract-definitions-that-may-defy-states-gambling-claims",
       "published": "Wed, 30 Sep 2026 15:19:36 +0000",
       "ts": 1790781576
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto Long & Short: What will the AI agents run on?",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/09/30/crypto-long-and-short-what-will-the-ai-agents-run-on",
-      "published": "Wed, 30 Sep 2026 14:56:07 +0000",
-      "ts": 1790780167
     },
     {
       "source": "Investing Forex",
