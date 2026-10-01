@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-01T19:59:26.689844+00:00",
+  "updated_utc": "2026-10-01T20:18:05.383120+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The Treasury Department started Trump accounts for 60 million kids — but families still have to take this step if they want one",
+      "link": "https://www.marketwatch.com/story/the-treasury-department-started-trump-accounts-for-60-million-kids-but-families-still-have-to-take-this-step-if-they-want-one-003d9282?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 20:14:00 GMT",
+      "ts": 1790885640
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 01 Oct 2026 20:07:25 +0000",
+      "ts": 1790885245
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin hits MFI 100 overbought at $84,789: Live levels",
@@ -116,13 +130,6 @@
       "ts": 1790869414
     },
     {
-      "source": "MarketWatch",
-      "title": "Tesla’s delivery report is just around the corner. Expect a sales drop.",
-      "link": "https://www.marketwatch.com/story/teslas-delivery-report-is-just-around-the-corner-expect-a-sales-drop-45d5503b?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 15:43:00 GMT",
-      "ts": 1790869380
-    },
-    {
       "source": "Investing Crypto",
       "title": "21X Group Announces Collaboration with Circle as it joins Arc as a Day-1 Launch Partner",
       "link": "https://www.investing.com/news/cryptocurrency-news/21x-group-announces-collaboration-with-circle-as-it-joins-arc-as-a-day1-launch-partner-4927879",
@@ -168,13 +175,6 @@
       "source": "Cointelegraph",
       "title": "LATAM stablecoin liquidity may depend on few providers, investor says",
       "link": "https://cointelegraph.com/news/latam-stablecoin-liquidity-may-depend-on-few-providers-investor-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 13:30:00 +0000",
-      "ts": 1790861400
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Stablecoins can drain from banks and nations at lightning speed",
-      "link": "https://cointelegraph.com/magazine/stablecoins-can-drain-from-banks-and-nations-at-lightning-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 01 Oct 2026 13:30:00 +0000",
       "ts": 1790861400
     },
