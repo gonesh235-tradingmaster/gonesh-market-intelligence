@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-01T22:58:06.524268+00:00",
+  "updated_utc": "2026-10-01T23:12:17.933415+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
+      "link": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 23:11:00 GMT",
+      "ts": 1790896260
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin reverses course, inches up to kick off Q4 as U.S. Treasury bonds rally",
@@ -121,13 +128,6 @@
       "link": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 01 Oct 2026 18:45:09 +0000",
       "ts": 1790880309
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Financial stocks are falling below a key chart level to warn the worst is yet to come",
-      "link": "https://www.marketwatch.com/story/financial-stocks-are-falling-below-a-key-chart-level-to-warn-the-worst-is-yet-to-come-86e43092?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 18:38:00 GMT",
-      "ts": 1790879880
     },
     {
       "source": "Cointelegraph",
