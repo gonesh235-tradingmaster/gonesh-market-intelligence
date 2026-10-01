@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-01T00:33:37.801650+00:00",
+  "updated_utc": "2026-10-01T00:55:11.264124+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+      "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 00:45:00 GMT",
+      "ts": 1790815500
+    },
     {
       "source": "MarketWatch",
       "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
@@ -12,7 +19,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "MetaMask exits Lido validators as it investigates security incident",
+      "title": "MetaMask exits Ethereum validators as it investigates security incident",
       "link": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 01 Oct 2026 00:15:55 +0000",
       "ts": 1790813755
@@ -86,13 +93,6 @@
       "link": "https://www.marketwatch.com/story/a-brutal-september-for-bonds-points-to-an-even-darker-october-239d0fb5?mod=mw_rss_topstories",
       "published": "Wed, 30 Sep 2026 20:56:00 GMT",
       "ts": 1790801760
-    },
-    {
-      "source": "MarketWatch",
-      "title": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
-      "link": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
-      "published": "Wed, 30 Sep 2026 20:32:00 GMT",
-      "ts": 1790800320
     },
     {
       "source": "Cointelegraph",
