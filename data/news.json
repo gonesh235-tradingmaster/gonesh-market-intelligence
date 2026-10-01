@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-01T14:24:35.016618+00:00",
+  "updated_utc": "2026-10-01T14:42:13.489367+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Sweat Wallet and the SWEAT Token as They Exist Today End on 30 December 2026",
+      "link": "https://www.investing.com/news/cryptocurrency-news/sweat-wallet-and-the-sweat-token-as-they-exist-today-end-on-30-december-2026-4927764",
+      "published": "2026-10-01 14:30:35",
+      "ts": 1790865035
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
+      "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 14:30:00 GMT",
+      "ts": 1790865000
+    },
     {
       "source": "CoinDesk",
       "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
@@ -58,13 +72,6 @@
       "link": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
       "published": "Thu, 01 Oct 2026 13:48:00 GMT",
       "ts": 1790862480
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Cars have become unaffordable for many Americans. Here’s what the numbers show.",
-      "link": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 13:45:00 GMT",
-      "ts": 1790862300
     },
     {
       "source": "Cointelegraph",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/deutsche-bank-sees-euro-holding-range-despite-dollar-strength-93CH-4924929",
       "published": "2026-09-30 11:45:08",
       "ts": 1790768708
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin rises to $83.5k amid a fall in oil prices and a let up in Treasury yields",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-834k-as-markets-weigh-soaring-yields-iran-tensions-4921649",
-      "published": "2026-09-29 21:43:40",
-      "ts": 1790718220
     }
   ]
 }
