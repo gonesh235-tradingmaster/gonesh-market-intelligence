@@ -1,8 +1,43 @@
 {
-  "updated_utc": "2026-10-01T11:51:50.046884+00:00",
+  "updated_utc": "2026-10-01T12:03:49.101687+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live Updates: Bitcoin flat near $84,000 after closing out best quarter since 2024",
+      "link": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
+      "published": "Thu, 01 Oct 2026 11:59:17 +0000",
+      "ts": 1790855957
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Illinois agrees to six-month delay of crypto tax as industry continues court battle",
+      "link": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
+      "published": "Thu, 01 Oct 2026 11:58:00 +0000",
+      "ts": 1790855880
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How European supplies could impact a U.S. diesel ban as White House reportedly asks Germany, France to release stockpiles",
+      "link": "https://www.marketwatch.com/story/how-european-supplies-could-impact-a-u-s-diesel-ban-as-white-house-reportedly-asks-germany-france-to-release-stockpiles-5edd8284?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 11:58:00 GMT",
+      "ts": 1790855880
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Meta, ServiceNow and these 7 other tech stocks could lead the next leg of the AI trade",
+      "link": "https://www.marketwatch.com/story/meta-servicenow-and-these-7-other-tech-stocks-could-lead-the-next-leg-of-the-ai-trade-b8b68c93?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 11:54:00 GMT",
+      "ts": 1790855640
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The stock market is a hollow tree that could be about to snap, warns bond king Gundlach",
+      "link": "https://www.marketwatch.com/story/the-stock-market-is-a-hollow-tree-that-could-be-about-to-snap-warns-bond-king-gundlach-215134f0?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 11:53:00 GMT",
+      "ts": 1790855580
+    },
     {
       "source": "MarketWatch",
       "title": "After I sold TOMS Shoes for $400 million I was misdiagnosed with bipolar disorder — and it almost cost me everything",
@@ -23,13 +58,6 @@
       "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
       "published": "Thu, 01 Oct 2026 11:15:00 GMT",
       "ts": 1790853300
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The stock market is a hollow tree that could be about to snap, warns bond king Gundlach",
-      "link": "https://www.marketwatch.com/story/the-stock-market-is-a-hollow-tree-that-could-be-about-to-snap-warns-bond-king-gundlach-215134f0?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 11:13:00 GMT",
-      "ts": 1790853180
     },
     {
       "source": "Investing Crypto",
@@ -116,20 +144,6 @@
       "ts": 1790847375
     },
     {
-      "source": "MarketWatch",
-      "title": "Retail investors are aggressively piling into this bold contrarian bet through one ETF.",
-      "link": "https://www.marketwatch.com/story/retail-investors-are-aggressively-piling-into-this-bold-contrarian-bet-through-one-etf-da26f208?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 09:23:00 GMT",
-      "ts": 1790846580
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 09:15:00 GMT",
-      "ts": 1790846100
-    },
-    {
       "source": "Cointelegraph",
       "title": "Chainalysis beats most Celsius claims, but ‘audit’ lawsuit survives",
       "link": "https://cointelegraph.com/news/celsius-chainalysis-lawsuit-audit-claim-survives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -200,13 +214,6 @@
       "ts": 1790829873
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
-      "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall",
-      "published": "Thu, 01 Oct 2026 04:15:20 +0000",
-      "ts": 1790828120
-    },
-    {
       "source": "Investing Crypto",
       "title": "OKX and BitGo expand off-exchange settlement to global institutions",
       "link": "https://www.investing.com/news/cryptocurrency-news/okx-and-bitgo-expand-offexchange-settlement-to-global-institutions-432SI-4926120",
@@ -226,13 +233,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
       "published": "2026-09-30 21:04:47",
       "ts": 1790802287
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
-      "link": "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal",
-      "published": "Wed, 30 Sep 2026 17:16:31 +0000",
-      "ts": 1790788591
     },
     {
       "source": "Investing Crypto",
