@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-01T23:40:46.857425+00:00",
+  "updated_utc": "2026-10-01T23:53:20.381671+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "G20 trade chiefs to denounce food trade coercion but not excess factory capacity",
+      "link": "https://www.investing.com/news/forex-news/g20-trade-chiefs-to-denounce-food-trade-coercion-but-not-excess-factory-capacity-4928684",
+      "published": "2026-10-01 23:30:52",
+      "ts": 1790897452
+    },
     {
       "source": "MarketWatch",
       "title": "This could be the worst year ever for Nike’s stock, with sales set to fall further",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/south-african-rand-strengthens-as-investors-review-economic-data-93CH-4925290",
       "published": "2026-09-30 13:29:20",
       "ts": 1790774960
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. yields pull back from peaks as cooler PCE print curbs Oct rate-hike odds",
-      "link": "https://www.investing.com/news/forex-news/us-10year-yields-anchor-near-2007-peaks-set-for-biggest-monthly-jump-in-2-yrs-4924286",
-      "published": "2026-09-30 12:44:12",
-      "ts": 1790772252
     }
   ]
 }
