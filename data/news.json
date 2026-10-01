@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-01T15:51:28.456430+00:00",
+  "updated_utc": "2026-10-01T16:02:07.650565+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs",
+      "link": "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 01 Oct 2026 15:55:19 +0000",
+      "ts": 1790870119
+    },
     {
       "source": "Cointelegraph",
       "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
@@ -16,6 +23,13 @@
       "link": "https://www.marketwatch.com/story/teslas-delivery-report-is-just-around-the-corner-expect-a-sales-drop-45d5503b?mod=mw_rss_topstories",
       "published": "Thu, 01 Oct 2026 15:43:00 GMT",
       "ts": 1790869380
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "21X Group Announces Collaboration with Circle as it joins Arc as a Day-1 Launch Partner",
+      "link": "https://www.investing.com/news/cryptocurrency-news/21x-group-announces-collaboration-with-circle-as-it-joins-arc-as-a-day1-launch-partner-4927879",
+      "published": "2026-10-01 15:30:37",
+      "ts": 1790868637
     },
     {
       "source": "MarketWatch",
@@ -193,13 +207,6 @@
       "ts": 1790850618
     },
     {
-      "source": "Cointelegraph",
-      "title": "Binance’s EU services face scrutiny over licensing exemption: Report",
-      "link": "https://cointelegraph.com/news/europe-binance-questions-esma-tighter-mica-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 10:07:18 +0000",
-      "ts": 1790849238
-    },
-    {
       "source": "CoinDesk",
       "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
       "link": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
@@ -247,13 +254,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
       "published": "2026-09-30 21:04:47",
       "ts": 1790802287
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Open Standard issues dollar stablecoin backed by Visa, Stripe, and Mastercard",
-      "link": "https://www.investing.com/news/cryptocurrency-news/open-standard-issues-dollar-stablecoin-backed-by-visa-stripe-and-mastercard-4925607",
-      "published": "2026-09-30 16:24:42",
-      "ts": 1790785482
     },
     {
       "source": "Investing Forex",
