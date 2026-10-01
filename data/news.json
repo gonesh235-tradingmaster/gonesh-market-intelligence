@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-01T04:57:12.530567+00:00",
+  "updated_utc": "2026-10-01T05:13:08.939693+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
+      "link": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
+      "published": "Thu, 01 Oct 2026 04:58:52 +0000",
+      "ts": 1790830732
+    },
     {
       "source": "Cointelegraph",
       "title": "Crypto hacks top $768M in September, worst month of 2026",
@@ -123,13 +130,6 @@
       "ts": 1790801852
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 30 Sep 2026 19:37:13 +0000",
-      "ts": 1790797033
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin squeezed between $83,600-$85,650: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
@@ -156,6 +156,13 @@
       "link": "https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 18:49:06 +0000",
       "ts": 1790794146
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
+      "link": "https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 30 Sep 2026 17:17:54 +0000",
+      "ts": 1790788674
     },
     {
       "source": "CoinDesk",
@@ -240,13 +247,6 @@
       "link": "https://www.investing.com/news/forex-news/deutsche-bank-sees-euro-holding-range-despite-dollar-strength-93CH-4924929",
       "published": "2026-09-30 11:45:08",
       "ts": 1790768708
-    },
-    {
-      "source": "CoinDesk",
-      "title": "A stronger dollar is a weaker threat to bitcoin than traders think",
-      "link": "https://www.coindesk.com/daybook-us/2026/09/30/a-stronger-dollar-is-a-weaker-threat-to-bitcoin-than-traders-think",
-      "published": "Wed, 30 Sep 2026 11:20:09 +0000",
-      "ts": 1790767209
     },
     {
       "source": "Investing Forex",
