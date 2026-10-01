@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-01T07:25:11.911290+00:00",
+  "updated_utc": "2026-10-01T07:42:09.058901+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43%",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-6-3-billion-inflows-q3-btc-rise-43?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 01 Oct 2026 07:27:00 +0000",
+      "ts": 1790839620
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin stuck in $82,800-$85,000 range: Live levels",
@@ -170,13 +177,6 @@
       "link": "https://cointelegraph.com/news/stand-with-crypto-coinbase-senate-picks-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 30 Sep 2026 19:11:23 +0000",
       "ts": 1790795483
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Base completes Cobalt upgrade, adds new tools for tokenized assets",
-      "link": "https://cointelegraph.com/news/base-cobalt-upgrade-tokenized-finance-b20-kyc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 30 Sep 2026 19:00:00 +0000",
-      "ts": 1790794800
     },
     {
       "source": "CoinDesk",
