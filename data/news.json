@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-01T20:18:05.383120+00:00",
+  "updated_utc": "2026-10-01T20:36:37.966736+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Bond yields suddenly retreat from recent highs as buyers step back into the Treasury market",
+      "link": "https://www.marketwatch.com/story/bond-yields-suddenly-retreat-from-recent-highs-as-buyers-step-back-into-the-treasury-market-e3840e3d?mod=mw_rss_topstories",
+      "published": "Thu, 01 Oct 2026 20:28:00 GMT",
+      "ts": 1790886480
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. SEC maps out crypto custody in new proposal that furthers its digital assets agenda",
+      "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
+      "published": "Thu, 01 Oct 2026 20:20:04 +0000",
+      "ts": 1790886004
+    },
     {
       "source": "MarketWatch",
       "title": "The Treasury Department started Trump accounts for 60 million kids — but families still have to take this step if they want one",
@@ -107,13 +121,6 @@
       "link": "https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 01 Oct 2026 16:12:23 +0000",
       "ts": 1790871143
-    },
-    {
-      "source": "MarketWatch",
-      "title": "30-year mortgage rate posts biggest jump in four years — to nearly 7.3%",
-      "link": "https://www.marketwatch.com/story/30-year-mortgage-rate-posts-biggest-jump-in-four-years-e288f596?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 16:06:00 GMT",
-      "ts": 1790870760
     },
     {
       "source": "Cointelegraph",
@@ -226,13 +233,6 @@
       "link": "https://www.coindesk.com/opinion/2026/10/01/synthetic-tokenized-stocks-are-bad-for-american-investors",
       "published": "Thu, 01 Oct 2026 11:00:00 +0000",
       "ts": 1790852400
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin kicks off new quarter in the old $82,000-$85,000 price range",
-      "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-kicks-off-new-quarter-in-the-old-usd82-000-usd85-000-price-range",
-      "published": "Thu, 01 Oct 2026 10:38:04 +0000",
-      "ts": 1790851084
     },
     {
       "source": "Investing Forex",
