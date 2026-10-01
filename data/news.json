@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-01T19:01:31.166712+00:00",
+  "updated_utc": "2026-10-01T19:20:45.769238+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Lowest Fee Bitcoin ATMs Announces Launch of More Than 400 ATMs Nationwide",
+      "link": "https://www.investing.com/news/cryptocurrency-news/lowest-fee-bitcoin-atms-announces-launch-of-more-than-400-atms-nationwide-4928141",
+      "published": "2026-10-01 19:00:37",
+      "ts": 1790881237
+    },
     {
       "source": "CoinDesk",
       "title": "Another Trump memecoin dinner advertised for token's top investors",
@@ -247,13 +254,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/okx-and-bitgo-expand-offexchange-settlement-to-global-institutions-432SI-4926120",
       "published": "2026-10-01 00:14:02",
       "ts": 1790813642
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin muted at $83.7k, but set for best quarterly performance since Q4 2024",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-stalls-at-83k-but-set-for-42-jump-in-q3-4924162",
-      "published": "2026-09-30 21:54:18",
-      "ts": 1790805258
     },
     {
       "source": "Investing Forex",
