@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-01T01:10:16.799552+00:00",
+  "updated_utc": "2026-10-01T01:28:00.290131+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "CFTC seeks to define event contracts as swaps amid prediction market fight",
+      "link": "https://cointelegraph.com/news/cftc-seeks-to-define-event-contracts-as-swaps-amid-prediction-market-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 01 Oct 2026 01:07:46 +0000",
+      "ts": 1790816866
+    },
     {
       "source": "MarketWatch",
       "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
@@ -19,7 +26,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "MetaMask exits Ethereum validators as it investigates security incident",
+      "title": "MetaMask exits Ethereum validators amid undisclosed security incident",
       "link": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 01 Oct 2026 00:15:55 +0000",
       "ts": 1790813755
@@ -142,13 +149,6 @@
       "link": "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal",
       "published": "Wed, 30 Sep 2026 17:16:31 +0000",
       "ts": 1790788591
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitget ‘gradually back to usual’ as protection fund reaches $309M",
-      "link": "https://cointelegraph.com/news/bitget-operations-protection-fund-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 30 Sep 2026 16:28:30 +0000",
-      "ts": 1790785710
     },
     {
       "source": "Investing Crypto",
