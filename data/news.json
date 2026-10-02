@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-02T03:52:11.005809+00:00",
+  "updated_utc": "2026-10-02T04:03:05.449541+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Japanese yen firms on strong inflation, dollar muted before payrolls test",
+      "link": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
+      "published": "2026-10-02 03:36:20",
+      "ts": 1790912180
+    },
     {
       "source": "Cointelegraph",
       "title": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/rbi-forward-dollar-liabilities-hit-record-200-billion-in-august-93CH-4925291",
       "published": "2026-09-30 13:29:50",
       "ts": 1790774990
-    },
-    {
-      "source": "Investing Forex",
-      "title": "South African rand strengthens as investors review economic data",
-      "link": "https://www.investing.com/news/forex-news/south-african-rand-strengthens-as-investors-review-economic-data-93CH-4925290",
-      "published": "2026-09-30 13:29:20",
-      "ts": 1790774960
     }
   ]
 }
