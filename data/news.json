@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-02T22:32:11.057000+00:00",
+  "updated_utc": "2026-10-02T22:46:52.139858+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Why Western Digital and Seagate are seeing big stock drops today",
+      "link": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 22:42:00 GMT",
+      "ts": 1790980920
+    },
     {
       "source": "MarketWatch",
       "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
@@ -77,13 +84,6 @@
       "source": "MarketWatch",
       "title": "Europe’s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
       "link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 20:26:00 GMT",
-      "ts": 1790972760
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This city saw 1 in 3 home sellers slash their asking price in September to attract reluctant buyers",
-      "link": "https://www.marketwatch.com/story/this-city-saw-1-in-3-home-sellers-slash-their-asking-price-in-september-to-attract-reluctant-buyers-7f16a0c3?mod=mw_rss_topstories",
       "published": "Fri, 02 Oct 2026 20:26:00 GMT",
       "ts": 1790972760
     },
