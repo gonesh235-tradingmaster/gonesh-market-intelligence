@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-02T07:55:39.434771+00:00",
+  "updated_utc": "2026-10-02T08:10:55.293026+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "French debt set for 5th weekly rise at 2002 peaks, Bunds at over 1-week lows",
+      "link": "https://www.investing.com/news/forex-news/french-debt-set-for-5th-weekly-rise-at-2002-peaks-bunds-at-over-1week-lows-4929025",
+      "published": "2026-10-02 07:42:51",
+      "ts": 1790926971
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin shooting star at $86K signals mean-reversion risk: Live",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
       "published": "2026-09-30 21:04:47",
       "ts": 1790802287
-    },
-    {
-      "source": "Investing Forex",
-      "title": "RBI forward dollar liabilities hit record $200 billion in August",
-      "link": "https://www.investing.com/news/forex-news/rbi-forward-dollar-liabilities-hit-record-200-billion-in-august-93CH-4925291",
-      "published": "2026-09-30 13:29:50",
-      "ts": 1790774990
     }
   ]
 }
