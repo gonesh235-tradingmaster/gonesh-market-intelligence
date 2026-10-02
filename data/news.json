@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-02T04:22:36.402228+00:00",
+  "updated_utc": "2026-10-02T04:39:12.458937+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Core Lightning warns attackers are targeting unpatched Bitcoin nodes",
+      "link": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 04:18:43 +0000",
+      "ts": 1790914723
+    },
     {
       "source": "Investing Forex",
       "title": "Japanese yen firms on strong inflation, dollar muted before payrolls test",
@@ -163,13 +170,6 @@
       "link": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
       "published": "Thu, 01 Oct 2026 18:45:29 +0000",
       "ts": 1790880329
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review",
-      "link": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 18:45:09 +0000",
-      "ts": 1790880309
     },
     {
       "source": "Investing Forex",
