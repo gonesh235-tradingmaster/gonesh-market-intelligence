@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-02T09:37:22.417343+00:00",
+  "updated_utc": "2026-10-02T09:52:46.405670+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin reaches for $87K as short liquidations top $120M",
+      "link": "https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 09:37:06 +0000",
+      "ts": 1790933826
+    },
     {
       "source": "Cointelegraph",
       "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
@@ -16,6 +23,13 @@
       "link": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
       "published": "Fri, 02 Oct 2026 09:25:00 GMT",
       "ts": 1790933100
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar flat ahead of payrolls as yen firms, hot euro inflation keeps ECB in focus",
+      "link": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
+      "published": "2026-10-02 09:24:51",
+      "ts": 1790933091
     },
     {
       "source": "Investing Forex",
@@ -128,20 +142,6 @@
       "link": "https://cointelegraph.com/news/zano-exploiter-created-369m-unauthorized-zano-before-blockchain-rollback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 02 Oct 2026 05:02:23 +0000",
       "ts": 1790917343
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Core Lightning warns attackers are targeting unpatched nodes",
-      "link": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 04:18:43 +0000",
-      "ts": 1790914723
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar rally stalls ahead of payrolls test; yen firms on strong Tokyo inflation",
-      "link": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
-      "published": "2026-10-02 03:36:20",
-      "ts": 1790912180
     },
     {
       "source": "Investing Forex",
