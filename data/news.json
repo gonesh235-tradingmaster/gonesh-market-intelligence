@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-02T21:19:00.204555+00:00",
+  "updated_utc": "2026-10-02T21:34:31.312890+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bank group sues U.S. regulator over granting crypto trust charters",
+      "link": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
+      "published": "Fri, 02 Oct 2026 21:23:20 +0000",
+      "ts": 1790976200
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -219,13 +226,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
       "published": "Fri, 02 Oct 2026 11:22:40 +0000",
       "ts": 1790940160
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto traders are in risk-on mode as bitcoin dominance nears return to 60%",
-      "link": "https://www.coindesk.com/markets/2026/10/02/crypto-traders-are-in-risk-on-mode-as-bitcoin-dominance-nears-return-to-60",
-      "published": "Fri, 02 Oct 2026 10:31:16 +0000",
-      "ts": 1790937076
     },
     {
       "source": "Investing Forex",
