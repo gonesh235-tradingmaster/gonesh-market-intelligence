@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-02T07:24:29.636864+00:00",
+  "updated_utc": "2026-10-02T07:40:49.738614+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin shooting star at $86K signals mean-reversion risk: Live",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
+      "published": "2026-10-02 07:11:27",
+      "ts": 1790925087
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -156,13 +163,6 @@
       "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
       "published": "Thu, 01 Oct 2026 20:20:04 +0000",
       "ts": 1790886004
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin hits MFI 100 overbought at $84,789: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
-      "published": "2026-10-01 19:18:44",
-      "ts": 1790882324
     },
     {
       "source": "Investing Crypto",
