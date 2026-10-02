@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-10-02T11:21:00.389571+00:00",
+  "updated_utc": "2026-10-02T11:36:19.875024+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Cboe wants to turn VIX into a never-ending trade",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
+      "published": "Fri, 02 Oct 2026 11:30:00 +0000",
+      "ts": 1790940600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m in my 20s and keep getting laid off. Should I invest in my employer’s 401(k) or look into other options?",
+      "link": "https://www.marketwatch.com/story/im-in-my-20s-and-keep-getting-laid-off-should-i-invest-in-my-employers-401-k-or-look-into-other-options-387b34d3?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 11:30:00 GMT",
+      "ts": 1790940600
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin, gold and tech futures edge higher as markets await U.S. jobs report",
+      "link": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
+      "published": "Fri, 02 Oct 2026 11:22:40 +0000",
+      "ts": 1790940160
+    },
     {
       "source": "MarketWatch",
       "title": "TV dinner overload? The frozen-food aisle may be too crowded for its own good.",
@@ -13,7 +34,7 @@
     {
       "source": "Cointelegraph",
       "title": "Bitcoin treasuries may struggle to match Strategy, says Ammous",
-      "link": "https://cointelegraph.com/interview/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "link": "https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 02 Oct 2026 10:54:33 +0000",
       "ts": 1790938473
     },
@@ -121,13 +142,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/02/why-rising-perpetual-funding-rates-signal-growing-bullish-leverage-as-bitcoin-crosses-usd86-500",
       "published": "Fri, 02 Oct 2026 09:14:21 +0000",
       "ts": 1790932461
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Amazon is hiking chip-rental prices and reportedly moving Nvidia processors off the balance sheet",
-      "link": "https://www.marketwatch.com/story/amazon-is-hiking-chip-rental-prices-and-reportedly-moving-nvidia-processors-off-the-balance-sheet-b205a0b0?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 09:07:00 GMT",
-      "ts": 1790932020
     },
     {
       "source": "CoinDesk",
@@ -242,13 +256,6 @@
       "ts": 1790868637
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
-      "published": "Thu, 01 Oct 2026 15:00:00 +0000",
-      "ts": 1790866800
-    },
-    {
       "source": "Investing Crypto",
       "title": "Citi updates BTC, ETH forecasts. Here are the new 2027 targets",
       "link": "https://www.investing.com/news/cryptocurrency-news/citi-updates-btc-eth-forecasts-here-are-the-new-2027-targets-4927801",
@@ -261,13 +268,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/sweat-wallet-and-the-sweat-token-as-they-exist-today-end-on-30-december-2026-4927764",
       "published": "2026-10-01 14:30:35",
       "ts": 1790865035
-    },
-    {
-      "source": "CoinDesk",
-      "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
-      "link": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
-      "published": "Thu, 01 Oct 2026 14:18:14 +0000",
-      "ts": 1790864294
     },
     {
       "source": "Investing Forex",
