@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-02T05:38:40.693071+00:00",
+  "updated_utc": "2026-10-02T05:53:26.533484+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin rises to $86.5k with ‘uptober’ hopes, nonfarm payrolls in focus",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-865k-with-uptober-hopes-nonfarm-payrolls-in-focus-4928895",
+      "published": "2026-10-02 05:40:48",
+      "ts": 1790919648
+    },
     {
       "source": "Cointelegraph",
       "title": "South Korea advances tokenized securities rules ahead of 2027 rollout",
@@ -19,7 +26,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Core Lightning warns attackers are targeting unpatched Bitcoin nodes",
+      "title": "Core Lightning warns attackers are targeting unpatched nodes",
       "link": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 02 Oct 2026 04:18:43 +0000",
       "ts": 1790914723
@@ -47,7 +54,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "NEAR Intents says its identified the hacker, gives 48-hour ultimatum",
+      "title": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
       "link": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 02 Oct 2026 02:02:13 +0000",
       "ts": 1790906533
@@ -261,13 +268,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-global-bond-rout-lifts-dollar-gilt-yields-hit-6-4926602",
       "published": "2026-10-01 08:58:09",
       "ts": 1790845089
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "OKX and BitGo expand off-exchange settlement to global institutions",
-      "link": "https://www.investing.com/news/cryptocurrency-news/okx-and-bitgo-expand-offexchange-settlement-to-global-institutions-432SI-4926120",
-      "published": "2026-10-01 00:14:02",
-      "ts": 1790813642
     },
     {
       "source": "Investing Forex",
