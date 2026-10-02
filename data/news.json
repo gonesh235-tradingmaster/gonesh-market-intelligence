@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-02T06:06:00.580828+00:00",
+  "updated_utc": "2026-10-02T06:29:01.980192+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 06:00:00 +0000",
+      "ts": 1790920800
+    },
     {
       "source": "Cointelegraph",
       "title": "South Korea crypto exchange profits fall 78% in H1 amid trading slump",
@@ -40,7 +47,7 @@
     },
     {
       "source": "Investing Forex",
-      "title": "Japanese yen firms on strong inflation, dollar muted before payrolls test",
+      "title": "Dollar rally stalls ahead of payrolls test; yen firms on strong Tokyo inflation",
       "link": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
       "published": "2026-10-02 03:36:20",
       "ts": 1790912180
@@ -107,13 +114,6 @@
       "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
       "published": "Fri, 02 Oct 2026 00:13:00 GMT",
       "ts": 1790899980
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "China warns foreign spies about crypto, Singapore dominates Asia: Asia Express",
-      "link": "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 01 Oct 2026 23:17:47 +0000",
-      "ts": 1790896667
     },
     {
       "source": "Investing Crypto",
