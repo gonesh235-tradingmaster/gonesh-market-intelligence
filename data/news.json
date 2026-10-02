@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-10-02T10:03:13.605121+00:00",
+  "updated_utc": "2026-10-02T10:22:04.887657+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 10:15:00 GMT",
+      "ts": 1790936100
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Citi sees euro downside risk to 1.0850 on peripheral widening",
+      "link": "https://www.investing.com/news/forex-news/citi-sees-euro-downside-risk-to-10850-on-peripheral-widening-93CH-4929312",
+      "published": "2026-10-02 09:55:07",
+      "ts": 1790934907
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound edges higher as dollar holds gains before U.S. payrolls",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-dollar-holds-gains-before-us-payrolls-4929238",
+      "published": "2026-10-02 09:50:15",
+      "ts": 1790934615
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin reaches for $87K as short liquidations top $120M",
@@ -30,13 +51,6 @@
       "link": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
       "published": "2026-10-02 09:24:51",
       "ts": 1790933091
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound edges higher as dollar holds gains before U.S. payrolls",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-dollar-holds-gains-before-us-payrolls-4929238",
-      "published": "2026-10-02 09:23:43",
-      "ts": 1790933023
     },
     {
       "source": "Cointelegraph",
@@ -166,13 +180,6 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 00:15:00 GMT",
-      "ts": 1790900100
-    },
-    {
-      "source": "MarketWatch",
       "title": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
       "link": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
       "published": "Fri, 02 Oct 2026 00:14:00 GMT",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/blackboard-and-aster-announce-first-trading-competition-with-up-to-100000-in-prizes-4927024",
       "published": "2026-10-01 11:00:34",
       "ts": 1790852434
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound slips as global bond rout lifts dollar, gilt yields hit 6%",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-global-bond-rout-lifts-dollar-gilt-yields-hit-6-4926602",
-      "published": "2026-10-01 08:58:09",
-      "ts": 1790845089
     }
   ]
 }
