@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-02T00:31:22.242128+00:00",
+  "updated_utc": "2026-10-02T00:52:03.181026+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 00:30:00 GMT",
+      "ts": 1790901000
+    },
     {
       "source": "MarketWatch",
       "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
@@ -93,13 +100,6 @@
       "link": "https://www.marketwatch.com/story/republicans-sabotaged-their-own-bill-to-prevent-people-in-congress-from-trading-stocks-why-828ef40d?mod=mw_rss_topstories",
       "published": "Thu, 01 Oct 2026 20:58:00 GMT",
       "ts": 1790888280
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Bond yields suddenly retreat from recent highs as buyers step back into the Treasury market",
-      "link": "https://www.marketwatch.com/story/bond-yields-suddenly-retreat-from-recent-highs-as-buyers-step-back-into-the-treasury-market-e3840e3d?mod=mw_rss_topstories",
-      "published": "Thu, 01 Oct 2026 20:28:00 GMT",
-      "ts": 1790886480
     },
     {
       "source": "CoinDesk",
