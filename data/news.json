@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-02T13:02:17.383071+00:00",
+  "updated_utc": "2026-10-02T13:22:57.783774+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "America at a crossroads: Commissioner Peirce’s parting challenge",
+      "link": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
+      "published": "Fri, 02 Oct 2026 13:22:19 +0000",
+      "ts": 1790947339
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 13:00:00 +0000",
+      "ts": 1790946000
+    },
     {
       "source": "MarketWatch",
       "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
@@ -186,13 +200,6 @@
       "ts": 1790929699
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin ETFs kick off ‘Uptober’ with $103M inflow",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-meet-uptober-103-million-inflow-btc-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 08:20:08 +0000",
-      "ts": 1790929208
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
       "link": "https://www.coindesk.com/markets/2026/10/02/bitcoin-tops-usd86-000-ahead-of-u-s-jobs-report",
@@ -233,13 +240,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-highs-yen-slips-on-boj-signals-4926223",
       "published": "2026-10-01 21:08:36",
       "ts": 1790888916
-    },
-    {
-      "source": "CoinDesk",
-      "title": "SEC proposes new crypto custody rules for investment advisers and funds",
-      "link": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
-      "published": "Thu, 01 Oct 2026 20:20:04 +0000",
-      "ts": 1790886004
     },
     {
       "source": "Investing Crypto",
