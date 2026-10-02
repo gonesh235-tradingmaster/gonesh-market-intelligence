@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-10-02T09:19:41.163297+00:00",
+  "updated_utc": "2026-10-02T09:37:22.417343+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
+      "link": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 09:30:49 +0000",
+      "ts": 1790933449
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Another viral AI doomsday report claims ‘it’s over.’ Why home prices could take a hit as screen-based jobs disappear.",
+      "link": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 09:25:00 GMT",
+      "ts": 1790933100
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound edges higher as dollar holds gains before U.S. payrolls",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-dollar-holds-gains-before-us-payrolls-4929238",
+      "published": "2026-10-02 09:23:43",
+      "ts": 1790933023
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Porsche’s ‘long haul’ Web3 project ends in less than four years",
+      "link": "https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 09:18:52 +0000",
+      "ts": 1790932732
+    },
     {
       "source": "MarketWatch",
       "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
@@ -116,25 +144,11 @@
       "ts": 1790912180
     },
     {
-      "source": "Cointelegraph",
-      "title": "Ethereum’s zkAPI brings privacy-preserving API payments to mainnet",
-      "link": "https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 03:34:25 +0000",
-      "ts": 1790912065
-    },
-    {
       "source": "Investing Forex",
       "title": "G20 trade chiefs to denounce food trade coercion but not excess factory capacity",
       "link": "https://www.investing.com/news/forex-news/g20-trade-chiefs-to-denounce-food-trade-coercion-but-not-excess-factory-capacity-4928684",
       "published": "2026-10-02 03:30:31",
       "ts": 1790911831
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
-      "link": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 02:02:13 +0000",
-      "ts": 1790906533
     },
     {
       "source": "MarketWatch",
@@ -163,13 +177,6 @@
       "link": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
       "published": "Fri, 02 Oct 2026 00:14:00 GMT",
       "ts": 1790900040
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This could be the worst year ever for Nike’s stock, with sales set to fall further",
-      "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 00:13:00 GMT",
-      "ts": 1790899980
     },
     {
       "source": "Investing Crypto",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-global-bond-rout-lifts-dollar-gilt-yields-hit-6-4926602",
       "published": "2026-10-01 08:58:09",
       "ts": 1790845089
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. dollar sees best month since June on hawkish Fed, U.S. Treasury bond rout",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yen-rebounds-dollar-stays-near-twomonth-high-4924061",
-      "published": "2026-09-30 21:04:47",
-      "ts": 1790802287
     }
   ]
 }
