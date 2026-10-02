@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-02T11:36:19.875024+00:00",
+  "updated_utc": "2026-10-02T11:51:25.605352+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The stock market is anything but normal right now — and these charts show it",
+      "link": "https://www.marketwatch.com/story/the-stock-market-is-anything-but-normal-right-now-and-these-charts-show-it-91ea187d?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 11:48:00 GMT",
+      "ts": 1790941680
+    },
     {
       "source": "CoinDesk",
       "title": "Cboe wants to turn VIX into a never-ending trade",
@@ -19,7 +26,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin, gold and tech futures edge higher as markets await U.S. jobs report",
+      "title": "Live updates: Bitcoin rises, re-taking $86,000 ahead of key U.S. jobs data",
       "link": "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
       "published": "Fri, 02 Oct 2026 11:22:40 +0000",
       "ts": 1790940160
@@ -40,7 +47,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Three reasons why this Wall Street market-making powerhouse says investors should reload on stocks now",
+      "title": "Three reasons this Wall Street market-making powerhouse says investors should reload on stocks right now",
       "link": "https://www.marketwatch.com/story/three-reasons-why-this-wall-street-market-making-powerhouse-says-investors-should-reload-on-stocks-now-8e19ecce?mod=mw_rss_topstories",
       "published": "Fri, 02 Oct 2026 10:48:00 GMT",
       "ts": 1790938080
@@ -128,13 +135,6 @@
       "link": "https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 02 Oct 2026 09:18:52 +0000",
       "ts": 1790932732
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 09:15:00 GMT",
-      "ts": 1790932500
     },
     {
       "source": "CoinDesk",
