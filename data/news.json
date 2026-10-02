@@ -1,8 +1,43 @@
 {
-  "updated_utc": "2026-10-02T12:46:45.549871+00:00",
+  "updated_utc": "2026-10-02T13:02:17.383071+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 13:00:00 GMT",
+      "ts": 1790946000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why Western Digital and Seagate are seeing big stock drops today",
+      "link": "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 12:58:00 GMT",
+      "ts": 1790945880
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nike’s stock heads for its worst year ever as the company’s troubles mount",
+      "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 12:50:00 GMT",
+      "ts": 1790945400
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar edge lower after softer-than-expected U.S. payrolls data",
+      "link": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
+      "published": "2026-10-02 12:46:23",
+      "ts": 1790945183
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. 10-year yield drops after September non-farm payrolls miss forecasts",
+      "link": "https://www.investing.com/news/forex-news/french-debt-set-for-5th-weekly-rise-at-2002-peaks-bunds-at-over-1week-lows-4929025",
+      "published": "2026-10-02 12:44:26",
+      "ts": 1790945066
+    },
     {
       "source": "MarketWatch",
       "title": "Three reasons this Wall Street market-making powerhouse says investors should reload on stocks right now",
@@ -30,6 +65,13 @@
       "link": "https://www.marketwatch.com/story/to-win-the-humanoid-robots-race-the-u-s-needs-this-critical-machine-component-thats-hard-to-find-ca244571?mod=mw_rss_topstories",
       "published": "Fri, 02 Oct 2026 12:30:00 GMT",
       "ts": 1790944200
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Circle urges EU to revise stablecoin reserve rules in MiCA review",
+      "link": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 12:25:56 +0000",
+      "ts": 1790943956
     },
     {
       "source": "MarketWatch",
@@ -74,13 +116,6 @@
       "ts": 1790940160
     },
     {
-      "source": "MarketWatch",
-      "title": "TV dinner overload? The frozen-food aisle may be too crowded for its own good.",
-      "link": "https://www.marketwatch.com/story/tv-dinner-overload-the-frozen-food-aisle-may-be-too-crowded-for-its-own-good-55bfed39?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 11:00:00 GMT",
-      "ts": 1790938800
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bitcoin treasuries may struggle to match Strategy, says Ammous",
       "link": "https://cointelegraph.com/news/bitcoin-treasuries-struggle-strategy-says-ammous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -100,20 +135,6 @@
       "link": "https://cointelegraph.com/news/connect-recap-arthur-hayes-money-printing-wall-street-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 02 Oct 2026 10:29:35 +0000",
       "ts": 1790936975
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Here’s the bond-market alternative as U.S. and other developed markets debt deteriorate",
-      "link": "https://www.marketwatch.com/story/heres-the-bond-market-alternative-as-u-s-and-other-developed-markets-debt-deteriorate-e3d57b02?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 10:25:00 GMT",
-      "ts": 1790936700
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Brazil is holding an election — and for the stock market, there’s more to gain than to lose, says fund manager",
-      "link": "https://www.marketwatch.com/story/brazil-is-holding-an-election-and-for-the-stock-market-theres-more-to-gain-than-to-lose-says-fund-manager-fa29f26e?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 10:22:00 GMT",
-      "ts": 1790936520
     },
     {
       "source": "Investing Forex",
@@ -142,13 +163,6 @@
       "link": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 02 Oct 2026 09:30:49 +0000",
       "ts": 1790933449
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar flat ahead of payrolls as yen firms, hot euro inflation keeps ECB in focus",
-      "link": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
-      "published": "2026-10-02 09:24:51",
-      "ts": 1790933091
     },
     {
       "source": "Cointelegraph",
@@ -186,25 +200,11 @@
       "ts": 1790928714
     },
     {
-      "source": "Investing Forex",
-      "title": "French debt set for 5th weekly rise at 2002 peaks, Bunds at over 1-week lows",
-      "link": "https://www.investing.com/news/forex-news/french-debt-set-for-5th-weekly-rise-at-2002-peaks-bunds-at-over-1week-lows-4929025",
-      "published": "2026-10-02 07:42:51",
-      "ts": 1790926971
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin shooting star at $86K signals mean-reversion risk: Live",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-83119-bears-eye-81194-live-levels-93CH-4919475",
       "published": "2026-10-02 07:11:27",
       "ts": 1790925087
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 06:00:00 +0000",
-      "ts": 1790920800
     },
     {
       "source": "Investing Crypto",
