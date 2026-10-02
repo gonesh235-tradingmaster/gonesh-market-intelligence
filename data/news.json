@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-02T14:11:57.809149+00:00",
+  "updated_utc": "2026-10-02T14:32:55.553977+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
+      "link": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
+      "published": "Fri, 02 Oct 2026 14:30:00 GMT",
+      "ts": 1790951400
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "‘Euro stablecoin isn’t enough’: EU issuers make case for USD tokens",
+      "link": "https://cointelegraph.com/news/euro-stablecoin-not-enough-eu-case-usd-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 02 Oct 2026 14:12:48 +0000",
+      "ts": 1790950368
+    },
     {
       "source": "MarketWatch",
       "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
@@ -35,13 +49,6 @@
       "source": "MarketWatch",
       "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
       "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "published": "Fri, 02 Oct 2026 13:30:00 GMT",
-      "ts": 1790947800
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Tesla’s EV sales beat Wall Street’s expectations again, and the stock jumps",
-      "link": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
       "published": "Fri, 02 Oct 2026 13:30:00 GMT",
       "ts": 1790947800
     },
@@ -177,13 +184,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-87k-order-book-liquidity-wall-shifts-higher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 02 Oct 2026 09:37:06 +0000",
       "ts": 1790933826
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
-      "link": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 02 Oct 2026 09:30:49 +0000",
-      "ts": 1790933449
     },
     {
       "source": "CoinDesk",
