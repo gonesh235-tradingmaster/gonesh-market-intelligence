@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-10-05T14:15:42.201255+00:00",
+  "updated_utc": "2026-10-05T14:38:49.365021+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "I got a $499 body scan to see if I have cancer. Here’s what I learned.",
+      "link": "https://www.marketwatch.com/story/i-got-a-499-body-scan-to-see-if-i-have-cancer-heres-what-i-learned-09cfca29?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 14:35:00 GMT",
+      "ts": 1791210900
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Stablecoin Development reports $180M in SKY token holdings at Q3 end",
+      "link": "https://www.investing.com/news/cryptocurrency-news/stablecoin-development-reports-180m-in-sky-token-holdings-at-q3-end-432SI-4932433",
+      "published": "2026-10-05 14:16:02",
+      "ts": 1791209762
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin hovers above $86k as softer jobs data offsets pressure from high yields",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-near-86k-as-softer-jobs-data-offsets-pressure-from-high-yields-4931086",
+      "published": "2026-10-05 14:07:44",
+      "ts": 1791209264
+    },
     {
       "source": "MarketWatch",
       "title": "Intel’s stock drops after Musk hints at an additional partner for big chip venture",
@@ -123,13 +144,6 @@
       "ts": 1791200400
     },
     {
-      "source": "MarketWatch",
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 11:15:00 GMT",
-      "ts": 1791198900
-    },
-    {
       "source": "CoinDesk",
       "title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
       "link": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
@@ -207,13 +221,6 @@
       "ts": 1791191258
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin climbs above $86k as softer jobs data offsets pressure from high yields",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-near-86k-as-softer-jobs-data-offsets-pressure-from-high-yields-4931086",
-      "published": "2026-10-05 09:02:10",
-      "ts": 1791190930
-    },
-    {
       "source": "Cointelegraph",
       "title": "Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank",
       "link": "https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -261,13 +268,6 @@
       "link": "https://www.investing.com/news/forex-news/irans-rial-hits-fresh-low-as-2-billion-currency-intervention-fails-to-stem-slide-4930880",
       "published": "2026-10-03 20:13:19",
       "ts": 1791058399
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin jumps above $85,000 as SEC custody proposal boosts institutional outlook",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-85000-as-sec-custody-proposal-boosts-institutional-outlook-4930676",
-      "published": "2026-10-03 18:16:48",
-      "ts": 1791051408
     },
     {
       "source": "Investing Forex",
