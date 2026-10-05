@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-05T05:04:06.566862+00:00",
+  "updated_utc": "2026-10-05T05:26:34.982050+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 05:00:00 +0000",
+      "ts": 1791176400
+    },
     {
       "source": "Investing Forex",
       "title": "Asian currencies weaker as dollar surges, euro hits 17-month low",
@@ -177,13 +184,6 @@
       "link": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
       "published": "Sun, 04 Oct 2026 12:00:00 GMT",
       "ts": 1791115200
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
-      "link": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 04 Oct 2026 09:40:00 +0000",
-      "ts": 1791106800
     },
     {
       "source": "MarketWatch",
