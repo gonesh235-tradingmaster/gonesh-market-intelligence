@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-05T16:08:17.704473+00:00",
+  "updated_utc": "2026-10-05T16:28:27.865636+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Saudi Aramco’s CEO may be too downbeat about the road to restocking global oil supplies",
+      "link": "https://www.marketwatch.com/story/saudi-aramcos-ceo-may-be-too-downbeat-about-the-road-to-restocking-global-oil-supplies-1fdbb70b?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 16:08:00 GMT",
+      "ts": 1791216480
+    },
     {
       "source": "MarketWatch",
       "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
@@ -86,13 +93,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-near-86k-as-softer-jobs-data-offsets-pressure-from-high-yields-4931086",
       "published": "2026-10-05 14:07:44",
       "ts": 1791209264
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
-      "link": "https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 13:58:00 GMT",
-      "ts": 1791208680
     },
     {
       "source": "Cointelegraph",
