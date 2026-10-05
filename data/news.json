@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-05T15:54:37.629794+00:00",
+  "updated_utc": "2026-10-05T16:08:17.704473+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
+      "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 16:00:00 GMT",
+      "ts": 1791216000
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers",
+      "link": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
+      "published": "Mon, 05 Oct 2026 15:54:23 +0000",
+      "ts": 1791215663
+    },
     {
       "source": "MarketWatch",
       "title": "SpaceX’s stock could actually be a bargain, according to this metric",
@@ -79,13 +93,6 @@
       "link": "https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories",
       "published": "Mon, 05 Oct 2026 13:58:00 GMT",
       "ts": 1791208680
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
-      "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 13:49:00 GMT",
-      "ts": 1791208140
     },
     {
       "source": "Cointelegraph",
@@ -191,13 +198,6 @@
       "link": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
       "published": "Mon, 05 Oct 2026 10:39:57 +0000",
       "ts": 1791196797
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Cardano's ADA leads gains in narrow range-bound market",
-      "link": "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market",
-      "published": "Mon, 05 Oct 2026 10:37:30 +0000",
-      "ts": 1791196650
     },
     {
       "source": "Cointelegraph",
