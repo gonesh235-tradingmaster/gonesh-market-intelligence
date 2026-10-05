@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-05T06:30:29.492326+00:00",
+  "updated_utc": "2026-10-05T06:57:05.668519+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum has a 25-day wait to start staking, with nearly 1.5 million ETH in line",
+      "link": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
+      "published": "Mon, 05 Oct 2026 06:40:29 +0000",
+      "ts": 1791182429
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin rises near $86k as softer jobs data offsets pressure from high yields",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-near-86k-as-softer-jobs-data-offsets-pressure-from-high-yields-4931086",
+      "published": "2026-10-05 06:32:50",
+      "ts": 1791181970
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -207,13 +221,6 @@
       "ts": 1791051408
     },
     {
-      "source": "CoinDesk",
-      "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
-      "link": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
-      "published": "Sat, 03 Oct 2026 16:00:00 +0000",
-      "ts": 1791043200
-    },
-    {
       "source": "Investing Forex",
       "title": "BofA sees EUR/USD at 1.15 by year-end amid market risks",
       "link": "https://www.investing.com/news/forex-news/bofa-sees-eurusd-at-115-by-yearend-amid-market-risks-93CH-4930789",
@@ -247,13 +254,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/coinpayments-founder-alex-alexandrov-appointed-group-ceo-as-company-strengthens-executive-team-4930200",
       "published": "2026-10-02 16:30:34",
       "ts": 1790958634
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Stablecoin firm Fasset aims to be a bank for people and their AI agents",
-      "link": "https://www.investing.com/news/cryptocurrency-news/stablecoin-firm-fasset-aims-to-be-a-bank-for-people-and-their-ai-agents-4930084",
-      "published": "2026-10-02 14:28:26",
-      "ts": 1790951306
     },
     {
       "source": "Investing Forex",
