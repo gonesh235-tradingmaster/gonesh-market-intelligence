@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-05T02:22:18.995285+00:00",
+  "updated_utc": "2026-10-05T02:39:34.340586+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Cardano Climbs 10% In Rally",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-rally-4930987",
+      "published": "2026-10-05 02:16:01",
+      "ts": 1791166561
+    },
     {
       "source": "Cointelegraph",
       "title": "Zcash gets a Washington lobbyist to push crypto policy",
@@ -254,13 +261,6 @@
       "link": "https://www.investing.com/news/forex-news/french-debt-set-for-5th-weekly-rise-at-2002-peaks-bunds-at-over-1week-lows-4929025",
       "published": "2026-10-02 12:44:26",
       "ts": 1790945066
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Travala’s Crypto Loyalty Program Passes 170,000 Members, Sets Long-Term Goal of 30% of AVA Supply Locked",
-      "link": "https://www.investing.com/news/cryptocurrency-news/travalas-crypto-loyalty-program-passes-170000-members-sets-longterm-goal-of-30-of-ava-supply-locked-4929740",
-      "published": "2026-10-02 12:30:36",
-      "ts": 1790944236
     },
     {
       "source": "Investing Forex",
