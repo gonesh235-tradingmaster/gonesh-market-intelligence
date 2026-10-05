@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-10-05T12:05:29.426133+00:00",
+  "updated_utc": "2026-10-05T12:31:07.894579+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger",
+      "link": "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger",
+      "published": "Mon, 05 Oct 2026 12:28:35 +0000",
+      "ts": 1791203315
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. Treasuries pause; French debt yields retreat after violent shock",
+      "link": "https://www.investing.com/news/forex-news/french-debt-yields-rise-as-fiscal-worries-mount-4931106",
+      "published": "2026-10-05 12:21:10",
+      "ts": 1791202870
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Strategy buys 334 bitcoin and holds 848,000 BTC as of October 4",
+      "link": "https://www.investing.com/news/cryptocurrency-news/strategy-buys-334-bitcoin-and-holds-848000-btc-as-of-october-4-432SI-4932036",
+      "published": "2026-10-05 12:18:02",
+      "ts": 1791202682
+    },
     {
       "source": "MarketWatch",
       "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected wealthy couples due to overspending. We’re all heading for trouble.",
@@ -89,7 +110,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "The bond selloff is opening up rare opportunities for investors. Here is where to look, says major bank.",
+      "title": "The bond selloff is opening up rare opportunities for investors. Here is where to look, says one major bank.",
       "link": "https://www.marketwatch.com/story/bond-selloff-is-opening-up-rare-opportunities-for-investors-here-is-where-to-look-says-major-bank-463447c7?mod=mw_rss_topstories",
       "published": "Mon, 05 Oct 2026 10:33:00 GMT",
       "ts": 1791196380
@@ -128,13 +149,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaker-as-dollar-surges-euro-hits-17month-low-4931001",
       "published": "2026-10-05 09:30:36",
       "ts": 1791192636
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement",
-      "link": "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
-      "published": "Mon, 05 Oct 2026 09:26:24 +0000",
-      "ts": 1791192384
     },
     {
       "source": "Cointelegraph",
@@ -177,13 +191,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-etf-third-inflow-week-ether-funds-red?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 05 Oct 2026 08:00:49 +0000",
       "ts": 1791187249
-    },
-    {
-      "source": "Investing Forex",
-      "title": "French debt yields rise as fiscal worries mount",
-      "link": "https://www.investing.com/news/forex-news/french-debt-yields-rise-as-fiscal-worries-mount-4931106",
-      "published": "2026-10-05 07:30:28",
-      "ts": 1791185428
     },
     {
       "source": "Investing Crypto",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/japanese-yen-firms-on-strong-inflation-dollar-muted-before-payrolls-test-4928869",
       "published": "2026-10-02 19:41:18",
       "ts": 1790970078
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Umia Opens Its Platform to Outside Projects, With Slop Cash From elizaOS Creator Shaw Walters the First to Be Announced",
-      "link": "https://www.investing.com/news/cryptocurrency-news/umia-opens-its-platform-to-outside-projects-with-slop-cash-from-elizaos-creator-shaw-walters-the-first-to-be-announced-4930199",
-      "published": "2026-10-02 16:30:34",
-      "ts": 1790958634
     }
   ]
 }
