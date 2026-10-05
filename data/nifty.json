@@ -1,17 +1,5 @@
 {
-  "updated_utc": "2026-10-05T03:29:48.371472+00:00",
-  "source": "Yahoo Finance",
-  "source_url": "https://finance.yahoo.com/quote/%5ENSEI",
-  "data": {
-    "value": 22421.95,
-    "previous_close": 22780.25,
-    "change": -358.3,
-    "change_percent": -1.57,
-    "day_high": 22610.6,
-    "day_low": 22217.3,
-    "currency": "INR",
-    "market_state": "",
-    "mood_score": -11,
-    "mood_reason": "NIFTY down 1.57% • Dollar strengthening"
-  }
+  "status": "DATA UNAVAILABLE",
+  "reason": "Yahoo Finance did not return NIFTY data",
+  "updated_utc": "2026-10-05T03:50:41.049945+00:00"
 }
