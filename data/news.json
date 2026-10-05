@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-05T07:55:59.024237+00:00",
+  "updated_utc": "2026-10-05T08:13:23.542713+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs notch third inflow week as Ether ETFs shed $138M",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-third-inflow-week-ether-funds-red?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 08:00:49 +0000",
+      "ts": 1791187249
+    },
     {
       "source": "MarketWatch",
       "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
@@ -205,13 +212,6 @@
       "link": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
       "published": "Sun, 04 Oct 2026 13:00:00 GMT",
       "ts": 1791118800
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
-      "link": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 04 Oct 2026 12:42:00 +0000",
-      "ts": 1791117720
     },
     {
       "source": "MarketWatch",
