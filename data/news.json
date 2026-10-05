@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-05T06:57:05.668519+00:00",
+  "updated_utc": "2026-10-05T07:17:58.392123+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin is about to get a major bullish signal it hasn't had in over a year",
+      "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year",
+      "published": "Mon, 05 Oct 2026 06:57:40 +0000",
+      "ts": 1791183460
+    },
     {
       "source": "CoinDesk",
       "title": "Ethereum has a 25-day wait to start staking, with nearly 1.5 million ETH in line",
@@ -170,13 +177,6 @@
       "link": "https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 04 Oct 2026 13:48:48 +0000",
       "ts": 1791121728
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
-      "link": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
-      "published": "Sun, 04 Oct 2026 13:00:00 +0000",
-      "ts": 1791118800
     },
     {
       "source": "MarketWatch",
