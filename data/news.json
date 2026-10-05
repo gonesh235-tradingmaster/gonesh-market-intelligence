@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-05T22:52:19.024960+00:00",
+  "updated_utc": "2026-10-05T23:02:28.551746+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
+      "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 23:00:00 GMT",
+      "ts": 1791241200
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin hovers under $86k as traders parse positive CFTC move against bond rout",
@@ -79,13 +86,6 @@
       "link": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
       "published": "Mon, 05 Oct 2026 20:30:00 GMT",
       "ts": 1791232200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Investors see big opportunity in ferocious 2026 bond-market rout",
-      "link": "https://www.marketwatch.com/story/investors-see-big-opportunity-in-ferocious-2026-bond-market-rout-e5cc94f3?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 20:14:00 GMT",
-      "ts": 1791231240
     },
     {
       "source": "Cointelegraph",
