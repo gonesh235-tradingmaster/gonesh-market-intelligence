@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-10-05T04:26:23.600406+00:00",
+  "updated_utc": "2026-10-05T05:04:06.566862+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies weaker as dollar surges, euro hits 17-month low",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaker-as-dollar-surges-euro-hits-17month-low-4931001",
+      "published": "2026-10-05 04:46:53",
+      "ts": 1791175613
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
+      "link": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
+      "published": "Mon, 05 Oct 2026 04:45:03 +0000",
+      "ts": 1791175503
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
+      "link": "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
+      "published": "Mon, 05 Oct 2026 04:41:35 +0000",
+      "ts": 1791175295
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
@@ -95,13 +116,6 @@
       "ts": 1791140514
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 04 Oct 2026 18:51:50 +0000",
-      "ts": 1791139910
-    },
-    {
       "source": "CoinDesk",
       "title": "There's an election next month: State of Crypto",
       "link": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
@@ -165,6 +179,13 @@
       "ts": 1791115200
     },
     {
+      "source": "Cointelegraph",
+      "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
+      "link": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 04 Oct 2026 09:40:00 +0000",
+      "ts": 1791106800
+    },
+    {
       "source": "MarketWatch",
       "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
       "link": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
@@ -191,20 +212,6 @@
       "link": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
       "published": "Sat, 03 Oct 2026 16:00:00 +0000",
       "ts": 1791043200
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
-      "link": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
-      "published": "Sat, 03 Oct 2026 16:00:00 +0000",
-      "ts": 1791043200
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
-      "link": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
-      "published": "Sat, 03 Oct 2026 15:00:00 +0000",
-      "ts": 1791039600
     },
     {
       "source": "Investing Forex",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/g20-trade-chiefs-to-denounce-food-trade-coercion-but-not-excess-factory-capacity-4928684",
       "published": "2026-10-02 03:30:31",
       "ts": 1790911831
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. dollar hits highest since April 2025 while euro slides after French budget",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-highs-yen-slips-on-boj-signals-4926223",
-      "published": "2026-10-01 21:08:36",
-      "ts": 1790888916
     }
   ]
 }
