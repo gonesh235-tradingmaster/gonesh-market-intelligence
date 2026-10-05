@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-10-05T10:58:03.571089+00:00",
+  "updated_utc": "2026-10-05T11:15:04.265181+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
+      "published": "Mon, 05 Oct 2026 11:14:35 +0000",
+      "ts": 1791198875
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network",
+      "link": "https://www.coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network",
+      "published": "Mon, 05 Oct 2026 11:08:03 +0000",
+      "ts": 1791198483
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC",
+      "link": "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
+      "published": "Mon, 05 Oct 2026 10:58:03 +0000",
+      "ts": 1791197883
+    },
     {
       "source": "MarketWatch",
       "title": "Bitcoin’s big bounce has graduated to a longer-term uptrend. Is it too late to buy?",
@@ -172,32 +193,11 @@
       "ts": 1791184338
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin is about to get a major bullish signal it hasn't had in over a year",
-      "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-is-about-to-get-a-major-bullish-signal-it-hasn-t-had-in-over-a-year",
-      "published": "Mon, 05 Oct 2026 06:57:40 +0000",
-      "ts": 1791183460
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ethereum investors are stuck in a two-week staking exit line. Here's why.",
-      "link": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
-      "published": "Mon, 05 Oct 2026 06:40:29 +0000",
-      "ts": 1791182429
-    },
-    {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 05 Oct 2026 05:00:00 +0000",
       "ts": 1791176400
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
-      "link": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
-      "published": "Mon, 05 Oct 2026 04:45:03 +0000",
-      "ts": 1791175503
     },
     {
       "source": "Cointelegraph",
