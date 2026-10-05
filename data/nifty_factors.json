@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-05T12:31:06.042098+00:00",
+  "updated_utc": "2026-10-05T12:55:39.738258+00:00",
   "source": "Yahoo Finance",
   "us_markets": {
     "sp500": {
@@ -33,10 +33,10 @@
       "market_state": ""
     },
     "vix": {
-      "value": 16.12,
+      "value": 16.13,
       "previous_close": 16.04,
-      "change": 0.08,
-      "change_percent": 0.5,
+      "change": 0.09,
+      "change_percent": 0.56,
       "day_high": 16.38,
       "day_low": 16.07,
       "currency": "USD",
@@ -47,40 +47,40 @@
     "us10y": {
       "value": 5.28,
       "previous_close": 5.25,
-      "change": 0.02,
-      "change_percent": 0.42,
+      "change": 0.03,
+      "change_percent": 0.53,
       "day_high": 5.28,
-      "day_low": 5.28,
+      "day_low": 5.26,
       "currency": "USD",
       "market_state": ""
     }
   },
   "commodities": {
     "brent": {
-      "value": 102.65,
+      "value": 102.46,
       "previous_close": 103.53,
-      "change": -0.88,
-      "change_percent": -0.85,
+      "change": -1.07,
+      "change_percent": -1.03,
       "day_high": 103.55,
       "day_low": 100.66,
       "currency": "USD",
       "market_state": ""
     },
     "wti": {
-      "value": 90.38,
+      "value": 90.22,
       "previous_close": 90.42,
-      "change": -0.04,
-      "change_percent": -0.04,
+      "change": -0.2,
+      "change_percent": -0.22,
       "day_high": 91.88,
       "day_low": 89.31,
       "currency": "USD",
       "market_state": ""
     },
     "gold": {
-      "value": 4184.0,
+      "value": 4188.4,
       "previous_close": 4186.7,
-      "change": -2.7,
-      "change_percent": -0.06,
+      "change": 1.7,
+      "change_percent": 0.04,
       "day_high": 4198.9,
       "day_low": 4152.3,
       "currency": "USD",
@@ -88,10 +88,10 @@
     }
   },
   "dxy": {
-    "value": 102.25,
+    "value": 102.24,
     "previous_close": 101.45,
-    "change": 0.8,
-    "change_percent": 0.79,
+    "change": 0.79,
+    "change_percent": 0.78,
     "day_high": 102.53,
     "day_low": 101.86,
     "currency": "USD",
