@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-05T03:50:42.511093+00:00",
+  "updated_utc": "2026-10-05T04:05:40.793173+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Ether's bitcoin-beating Q3 rally came with a catch. Liquidity thinned.",
+      "link": "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned",
+      "published": "Mon, 05 Oct 2026 03:50:29 +0000",
+      "ts": 1791172229
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Zcash activates NU7 on testnet ahead of November mainnet target",
+      "link": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 03:47:19 +0000",
+      "ts": 1791172039
+    },
     {
       "source": "Cointelegraph",
       "title": "OKX, NYSE parent file to launch tokenized US stock platform",
@@ -144,13 +158,6 @@
       "ts": 1791115200
     },
     {
-      "source": "Cointelegraph",
-      "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
-      "link": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 04 Oct 2026 09:40:00 +0000",
-      "ts": 1791106800
-    },
-    {
       "source": "MarketWatch",
       "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
       "link": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
@@ -196,13 +203,6 @@
       "source": "CoinDesk",
       "title": "Crypto's Sisyphean struggle",
       "link": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
-      "published": "Sat, 03 Oct 2026 13:00:00 +0000",
-      "ts": 1791032400
-    },
-    {
-      "source": "CoinDesk",
-      "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
-      "link": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
       "published": "Sat, 03 Oct 2026 13:00:00 +0000",
       "ts": 1791032400
     },
