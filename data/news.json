@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-05T04:05:40.793173+00:00",
+  "updated_utc": "2026-10-05T04:26:23.600406+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
+      "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
+      "published": "Mon, 05 Oct 2026 04:23:25 +0000",
+      "ts": 1791174205
+    },
     {
       "source": "CoinDesk",
       "title": "Ether's bitcoin-beating Q3 rally came with a catch. Liquidity thinned.",
@@ -198,13 +205,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
       "published": "Sat, 03 Oct 2026 15:00:00 +0000",
       "ts": 1791039600
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto's Sisyphean struggle",
-      "link": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
-      "published": "Sat, 03 Oct 2026 13:00:00 +0000",
-      "ts": 1791032400
     },
     {
       "source": "Investing Forex",
