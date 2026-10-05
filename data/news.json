@@ -1,8 +1,43 @@
 {
-  "updated_utc": "2026-10-05T10:24:48.862329+00:00",
+  "updated_utc": "2026-10-05T10:42:29.055965+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin above $86,000 as traders price out an October Fed hike",
+      "link": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
+      "published": "Mon, 05 Oct 2026 10:39:57 +0000",
+      "ts": 1791196797
+    },
+    {
+      "source": "MarketWatch",
+      "title": "What Bessent is now saying after bond yields didn’t stop rising on ‘I am the house’ remark",
+      "link": "https://www.marketwatch.com/story/what-bessent-is-now-saying-after-bond-yields-didnt-stop-rising-on-i-am-the-house-remark-0ab359f8?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 10:39:00 GMT",
+      "ts": 1791196740
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cardano's ADA leads gains in narrow range-bound market",
+      "link": "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market",
+      "published": "Mon, 05 Oct 2026 10:37:30 +0000",
+      "ts": 1791196650
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Bond selloff is opening up rare opportunities for investors. Here is where to look, says major bank.",
+      "link": "https://www.marketwatch.com/story/bond-selloff-is-opening-up-rare-opportunities-for-investors-here-is-where-to-look-says-major-bank-463447c7?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 10:33:00 GMT",
+      "ts": 1791196380
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron’s historic cash bonanza is set to rain down on investors",
+      "link": "https://www.marketwatch.com/story/microns-historic-cash-bonanza-is-set-to-rain-down-on-investors-b61e6955?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 10:30:00 GMT",
+      "ts": 1791196200
+    },
     {
       "source": "MarketWatch",
       "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
@@ -16,6 +51,13 @@
       "link": "https://cointelegraph.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 05 Oct 2026 10:11:26 +0000",
       "ts": 1791195086
+    },
+    {
+      "source": "Investing Forex",
+      "title": "HSBC models signal risk-on equity outlook after market volatility",
+      "link": "https://www.investing.com/news/forex-news/hsbc-models-signal-riskon-equity-outlook-after-market-volatility-93CH-4931484",
+      "published": "2026-10-05 10:09:38",
+      "ts": 1791194978
     },
     {
       "source": "MarketWatch",
@@ -51,13 +93,6 @@
       "link": "https://www.marketwatch.com/story/the-average-u-s-stock-is-quietly-getting-crushed-morgan-stanley-says-these-ones-are-worth-buying-now-61e04eaa?mod=mw_rss_topstories",
       "published": "Mon, 05 Oct 2026 09:26:00 GMT",
       "ts": 1791192360
-    },
-    {
-      "source": "MarketWatch",
-      "title": "What Bessent is now saying after bond yields didn’t stop rising on ‘I am the house’ remark",
-      "link": "https://www.marketwatch.com/story/what-bessent-is-now-saying-after-bond-yields-didnt-stop-rising-on-i-am-the-house-remark-0ab359f8?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 09:22:00 GMT",
-      "ts": 1791192120
     },
     {
       "source": "Cointelegraph",
@@ -165,20 +200,6 @@
       "ts": 1791175295
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
-      "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
-      "published": "Mon, 05 Oct 2026 04:23:25 +0000",
-      "ts": 1791174205
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ether's bitcoin-beating Q3 rally came with a catch. Liquidity thinned.",
-      "link": "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned",
-      "published": "Mon, 05 Oct 2026 03:50:29 +0000",
-      "ts": 1791172229
-    },
-    {
       "source": "Cointelegraph",
       "title": "Zcash activates NU7 on testnet ahead of November mainnet target",
       "link": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -205,20 +226,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-rally-4930987",
       "published": "2026-10-05 02:16:01",
       "ts": 1791166561
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
-      "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-      "published": "Sun, 04 Oct 2026 20:31:00 GMT",
-      "ts": 1791145860
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-      "published": "Sun, 04 Oct 2026 20:00:00 GMT",
-      "ts": 1791144000
     },
     {
       "source": "Investing Crypto",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/umia-opens-its-platform-to-outside-projects-with-slop-cash-from-elizaos-creator-shaw-walters-the-first-to-be-announced-4930199",
       "published": "2026-10-02 16:30:34",
       "ts": 1790958634
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound edges up as soft U.S. payrolls cap dollar rally",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-dollar-holds-gains-before-us-payrolls-4929238",
-      "published": "2026-10-02 13:07:53",
-      "ts": 1790946473
     }
   ]
 }
