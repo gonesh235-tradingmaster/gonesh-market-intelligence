@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-05T08:35:40.317114+00:00",
+  "updated_utc": "2026-10-05T08:53:17.248559+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound slips as euro sell-off lifts dollar",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-euro-selloff-lifts-dollar-4931241",
+      "published": "2026-10-05 08:34:25",
+      "ts": 1791189265
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin ETFs notch third inflow week as Ether ETFs shed $138M",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/french-debt-set-for-5th-weekly-rise-at-2002-peaks-bunds-at-over-1week-lows-4929025",
       "published": "2026-10-02 12:44:26",
       "ts": 1790945066
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Citi sees euro downside risk to 1.0850 on peripheral widening",
-      "link": "https://www.investing.com/news/forex-news/citi-sees-euro-downside-risk-to-10850-on-peripheral-widening-93CH-4929312",
-      "published": "2026-10-02 09:55:07",
-      "ts": 1790934907
     }
   ]
 }
