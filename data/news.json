@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-05T11:35:16.367109+00:00",
+  "updated_utc": "2026-10-05T11:52:45.723255+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected wealthy couples due to overspending. We’re all heading for trouble.",
+      "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 11:40:00 GMT",
+      "ts": 1791200400
+    },
     {
       "source": "MarketWatch",
       "title": "Musk hints TSMC may join his mega chip venture, and Intel’s stock is taking a hit",
@@ -95,13 +102,6 @@
       "ts": 1791196200
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-      "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 10:15:00 GMT",
-      "ts": 1791195300
-    },
-    {
       "source": "Cointelegraph",
       "title": "Vivek Ramaswamy’s gubernatorial run lacks the crypto rhetoric of his presidential bid",
       "link": "https://cointelegraph.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -124,7 +124,7 @@
     },
     {
       "source": "Investing Forex",
-      "title": "Euro falls as Paris debt turmoil overshadows dovish shift in Fed rate expectations",
+      "title": "Euro falls to 17-month low on Paris fiscal worries",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaker-as-dollar-surges-euro-hits-17month-low-4931001",
       "published": "2026-10-05 09:30:36",
       "ts": 1791192636
