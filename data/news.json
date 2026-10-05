@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-10-05T07:39:22.299698+00:00",
+  "updated_utc": "2026-10-05T07:55:59.024237+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
+      "link": "https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 07:53:00 GMT",
+      "ts": 1791186780
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies weaken as dollar gains, euro hits 17-month low",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaker-as-dollar-surges-euro-hits-17month-low-4931001",
+      "published": "2026-10-05 07:44:31",
+      "ts": 1791186271
+    },
+    {
+      "source": "Investing Forex",
+      "title": "French debt yields rise as fiscal worries mount",
+      "link": "https://www.investing.com/news/forex-news/french-debt-yields-rise-as-fiscal-worries-mount-4931106",
+      "published": "2026-10-05 07:30:28",
+      "ts": 1791185428
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin tests $87,363 resistance with fading momentum: Live levels",
@@ -19,7 +40,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Ethereum has a 25-day wait to start staking, with nearly 1.5 million ETH in line",
+      "title": "Ethereum investors are stuck in a two-week staking exit line. Here's why.",
       "link": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
       "published": "Mon, 05 Oct 2026 06:40:29 +0000",
       "ts": 1791182429
@@ -37,13 +58,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 05 Oct 2026 05:00:00 +0000",
       "ts": 1791176400
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies weaker as dollar surges, euro hits 17-month low",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaker-as-dollar-surges-euro-hits-17month-low-4931001",
-      "published": "2026-10-05 04:46:53",
-      "ts": 1791175613
     },
     {
       "source": "CoinDesk",
@@ -207,13 +221,6 @@
       "ts": 1791115200
     },
     {
-      "source": "MarketWatch",
-      "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
-      "link": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
-      "published": "Sun, 04 Oct 2026 00:02:00 GMT",
-      "ts": 1791072120
-    },
-    {
       "source": "Investing Forex",
       "title": "Iran’s rial hits fresh low as $2 billion currency intervention fails to stem slide",
       "link": "https://www.investing.com/news/forex-news/irans-rial-hits-fresh-low-as-2-billion-currency-intervention-fails-to-stem-slide-4930880",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/citi-sees-euro-downside-risk-to-10850-on-peripheral-widening-93CH-4929312",
       "published": "2026-10-02 09:55:07",
       "ts": 1790934907
-    },
-    {
-      "source": "Investing Forex",
-      "title": "G20 trade chiefs to denounce food trade coercion but not excess factory capacity",
-      "link": "https://www.investing.com/news/forex-news/g20-trade-chiefs-to-denounce-food-trade-coercion-but-not-excess-factory-capacity-4928684",
-      "published": "2026-10-02 03:30:31",
-      "ts": 1790911831
     }
   ]
 }
