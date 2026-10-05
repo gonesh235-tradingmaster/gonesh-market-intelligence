@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-05T10:42:29.055965+00:00",
+  "updated_utc": "2026-10-05T10:58:03.571089+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Bitcoin’s big bounce has graduated to a longer-term uptrend. Is it too late to buy?",
+      "link": "https://www.marketwatch.com/story/bitcoins-big-bounce-has-graduated-to-a-longer-term-uptrend-is-it-too-late-to-buy-a9bc585c?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 10:46:00 GMT",
+      "ts": 1791197160
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. dollar climbs to 18-month high as bitcoin holds firm around $86,000",
+      "link": "https://www.coindesk.com/markets/2026/10/05/u-s-dollar-climbs-to-18-month-high-as-bitcoin-holds-firm-around-usd86-000",
+      "published": "Mon, 05 Oct 2026 10:44:55 +0000",
+      "ts": 1791197095
+    },
     {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin above $86,000 as traders price out an October Fed hike",
@@ -26,7 +40,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Bond selloff is opening up rare opportunities for investors. Here is where to look, says major bank.",
+      "title": "The bond selloff is opening up rare opportunities for investors. Here is where to look, says major bank.",
       "link": "https://www.marketwatch.com/story/bond-selloff-is-opening-up-rare-opportunities-for-investors-here-is-where-to-look-says-major-bank-463447c7?mod=mw_rss_topstories",
       "published": "Mon, 05 Oct 2026 10:33:00 GMT",
       "ts": 1791196380
@@ -123,13 +137,6 @@
       "ts": 1791190930
     },
     {
-      "source": "MarketWatch",
-      "title": "Tyler Perry lists huge Beverly Hills mansion for $57 million: ‘Yep, moving to Puerto Rico’",
-      "link": "https://www.marketwatch.com/story/tyler-perry-lists-huge-beverly-hills-mansion-for-57-million-yep-moving-to-puerto-rico-a080916b?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 08:58:00 GMT",
-      "ts": 1791190680
-    },
-    {
       "source": "Cointelegraph",
       "title": "Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank",
       "link": "https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -191,13 +198,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
       "published": "Mon, 05 Oct 2026 04:45:03 +0000",
       "ts": 1791175503
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
-      "link": "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
-      "published": "Mon, 05 Oct 2026 04:41:35 +0000",
-      "ts": 1791175295
     },
     {
       "source": "Cointelegraph",
