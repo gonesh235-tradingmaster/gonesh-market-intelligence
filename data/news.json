@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-05T15:37:35.625116+00:00",
+  "updated_utc": "2026-10-05T15:54:37.629794+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "SpaceX’s stock could actually be a bargain, according to this metric",
+      "link": "https://www.marketwatch.com/story/spacexs-stock-could-actually-be-a-bargain-according-to-this-metric-ac3ddf45?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 15:45:00 GMT",
+      "ts": 1791215100
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin price fails to break higher after best weekly close in eight months",
@@ -93,13 +100,6 @@
       "link": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
       "published": "Mon, 05 Oct 2026 13:46:31 +0000",
       "ts": 1791207991
-    },
-    {
-      "source": "MarketWatch",
-      "title": "An AI ‘reality check’ may take the S&P 500 to 5,000. Here are the trades to make, this strategist says.",
-      "link": "https://www.marketwatch.com/story/an-ai-reality-check-may-take-the-s-p-500-to-5-000-heres-the-trades-to-make-this-strategist-says-263cf0e9?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 13:30:00 GMT",
-      "ts": 1791207000
     },
     {
       "source": "Cointelegraph",
