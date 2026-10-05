@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-05T22:08:25.777799+00:00",
+  "updated_utc": "2026-10-05T22:24:47.750511+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin hovers under $86k as traders parse positive CFTC move against bond rout",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-near-86k-as-softer-jobs-data-offsets-pressure-from-high-yields-4931086",
+      "published": "2026-10-05 21:55:15",
+      "ts": 1791237315
+    },
     {
       "source": "MarketWatch",
       "title": "The case for Nvidia’s stock to march even higher after clinching its first record high in months",
@@ -177,13 +184,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/stablecoin-development-reports-180m-in-sky-token-holdings-at-q3-end-432SI-4932433",
       "published": "2026-10-05 14:16:02",
       "ts": 1791209762
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin hovers above $86k as softer jobs data offsets pressure from high yields",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-near-86k-as-softer-jobs-data-offsets-pressure-from-high-yields-4931086",
-      "published": "2026-10-05 14:07:44",
-      "ts": 1791209264
     },
     {
       "source": "CoinDesk",
