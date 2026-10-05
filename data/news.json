@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-10-05T13:38:02.152099+00:00",
+  "updated_utc": "2026-10-05T13:56:34.117594+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
+      "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+      "published": "Mon, 05 Oct 2026 13:49:00 GMT",
+      "ts": 1791208140
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Metaplanet reveals net income strategy to fuel Bitcoin accumulation",
+      "link": "https://cointelegraph.com/news/metaplanet-net-income-strategy-bitcoin-accumulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 13:47:17 +0000",
+      "ts": 1791208037
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
+      "link": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
+      "published": "Mon, 05 Oct 2026 13:46:31 +0000",
+      "ts": 1791207991
+    },
     {
       "source": "MarketWatch",
       "title": "An AI ‘reality check’ may take the S&P 500 to 5,000. Here are the trades to make, this strategist says.",
@@ -58,13 +79,6 @@
       "link": "https://www.marketwatch.com/story/go-ahead-and-get-that-poetry-degree-republican-law-wont-prevent-people-with-humanities-majors-from-getting-student-loans-f94587cf?mod=mw_rss_topstories",
       "published": "Mon, 05 Oct 2026 12:30:00 GMT",
       "ts": 1791203400
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Metaplanet reveals net income strategy to fuel Bitcoin accumulation",
-      "link": "https://cointelegraph.com/news/metaplanet-net-income-strategy-bitcoin-accumulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 05 Oct 2026 12:28:39 +0000",
-      "ts": 1791203319
     },
     {
       "source": "CoinDesk",
@@ -151,13 +165,6 @@
       "ts": 1791196797
     },
     {
-      "source": "MarketWatch",
-      "title": "What Bessent is now saying after bond yields didn’t stop rising on ‘I am the house’ remark",
-      "link": "https://www.marketwatch.com/story/what-bessent-is-now-saying-after-bond-yields-didnt-stop-rising-on-i-am-the-house-remark-0ab359f8?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 10:39:00 GMT",
-      "ts": 1791196740
-    },
-    {
       "source": "CoinDesk",
       "title": "Cardano's ADA leads gains in narrow range-bound market",
       "link": "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market",
@@ -177,13 +184,6 @@
       "link": "https://www.investing.com/news/forex-news/hsbc-models-signal-riskon-equity-outlook-after-market-volatility-93CH-4931484",
       "published": "2026-10-05 10:09:38",
       "ts": 1791194978
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Technicals signal bitcoin shift, Ethereum gears up for Glamsterdam: Crypto Week Ahead",
-      "link": "https://www.coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead",
-      "published": "Mon, 05 Oct 2026 09:37:13 +0000",
-      "ts": 1791193033
     },
     {
       "source": "Investing Forex",
