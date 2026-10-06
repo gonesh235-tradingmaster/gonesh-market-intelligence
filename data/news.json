@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-06T06:25:07.320599+00:00",
+  "updated_utc": "2026-10-06T06:47:52.523873+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin steadies at $85.5k as soaring yields offset regulatory hopes",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
+      "published": "2026-10-06 06:38:42",
+      "ts": 1791268722
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -254,13 +261,6 @@
       "link": "https://www.investing.com/news/forex-news/french-debt-yields-rise-as-fiscal-worries-mount-4931106",
       "published": "2026-10-05 12:21:10",
       "ts": 1791202870
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Strategy buys 334 bitcoin and holds 848,000 BTC as of October 4",
-      "link": "https://www.investing.com/news/cryptocurrency-news/strategy-buys-334-bitcoin-and-holds-848000-btc-as-of-october-4-432SI-4932036",
-      "published": "2026-10-05 12:18:02",
-      "ts": 1791202682
     },
     {
       "source": "Investing Forex",
