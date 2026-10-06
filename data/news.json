@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-06T07:03:58.545718+00:00",
+  "updated_utc": "2026-10-06T07:24:16.466094+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "EEZ tests atomic L1-to-L2 transaction in push to unify Ethereum",
+      "link": "https://cointelegraph.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 07:09:33 +0000",
+      "ts": 1791270573
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin steadies at $85.5k as soaring yields offset regulatory hopes",
@@ -177,13 +184,6 @@
       "link": "https://www.marketwatch.com/story/trump-is-promising-90-medicare-rebate-checks-ahead-of-the-midterms-heres-the-hidden-cost-14b7e2ce?mod=mw_rss_topstories",
       "published": "Mon, 05 Oct 2026 20:39:00 GMT",
       "ts": 1791232740
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Modern Treasury seeks US trust bank charter for digital asset custody",
-      "link": "https://cointelegraph.com/news/modern-treasury-seeks-us-trust-bank-charter-for-stablecoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 05 Oct 2026 19:53:52 +0000",
-      "ts": 1791230032
     },
     {
       "source": "CoinDesk",
