@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-06T14:53:24.339793+00:00",
+  "updated_utc": "2026-10-06T15:08:16.910223+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "New Generation of Crypto Miners Released by ASICID",
+      "link": "https://www.investing.com/news/cryptocurrency-news/new-generation-of-crypto-miners-released-by-asicid-4934907",
+      "published": "2026-10-06 15:00:08",
+      "ts": 1791298808
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Superform Activates Earn Strategies for Tokenized Stocks on Base, Powered by Aave",
+      "link": "https://www.investing.com/news/cryptocurrency-news/superform-activates-earn-strategies-for-tokenized-stocks-on-base-powered-by-aave-4934906",
+      "published": "2026-10-06 15:00:07",
+      "ts": 1791298807
+    },
     {
       "source": "MarketWatch",
       "title": "As a mortgage loan officer, I rejected wealthy couples. Here’s what can get your application declined.",
@@ -263,25 +277,11 @@
       "ts": 1791219617
     },
     {
-      "source": "Investing Crypto",
-      "title": "Stockhunt Unveils CoinIQ, an AI-Powered Self-Custody DEX, at TOKEN2049 Singapore",
-      "link": "https://www.investing.com/news/cryptocurrency-news/stockhunt-unveils-coiniq-an-aipowered-selfcustody-dex-at-token2049-singapore-4932635",
-      "published": "2026-10-05 17:00:17",
-      "ts": 1791219617
-    },
-    {
       "source": "Investing Forex",
       "title": "Loonie slips as early gains fade, oil weakness keeps pressure on Canadian dollar",
       "link": "https://www.investing.com/news/forex-news/loonie-slips-as-early-gains-fade-oil-weakness-keeps-pressure-on-canadian-dollar-4932479",
       "published": "2026-10-05 14:30:09",
       "ts": 1791210609
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Stablecoin Development reports $180M in SKY token holdings at Q3 end",
-      "link": "https://www.investing.com/news/cryptocurrency-news/stablecoin-development-reports-180m-in-sky-token-holdings-at-q3-end-432SI-4932433",
-      "published": "2026-10-05 14:16:02",
-      "ts": 1791209762
     }
   ]
 }
