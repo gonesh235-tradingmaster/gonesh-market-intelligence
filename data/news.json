@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-06T17:08:12.916404+00:00",
+  "updated_utc": "2026-10-06T17:24:45.372621+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Loneliness and social isolation can take six years off your life",
+      "link": "https://www.marketwatch.com/story/loneliness-and-social-isolation-can-take-six-years-off-your-life-496af256?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 17:18:00 GMT",
+      "ts": 1791307080
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Securitize stock jumps 8% amid South Korea tokenization push",
+      "link": "https://cointelegraph.com/news/securitize-lg-cns-south-korea-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 17:04:41 +0000",
+      "ts": 1791306281
+    },
     {
       "source": "CoinDesk",
       "title": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
@@ -109,13 +123,6 @@
       "ts": 1791295080
     },
     {
-      "source": "MarketWatch",
-      "title": "Wall Street is hyping AI. This fund manager is betting instead on fires, HVAC and Berkshire Hathaway.",
-      "link": "https://www.marketwatch.com/story/wall-street-is-hyping-ai-this-fund-manager-is-betting-instead-on-fires-hvac-and-berkshire-hathaway-1b70fbea?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 13:54:00 GMT",
-      "ts": 1791294840
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin pinned at $86.2k as soaring yields offset regulatory hopes",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
@@ -154,13 +161,6 @@
       "source": "Cointelegraph",
       "title": "US crypto rules need to survive the next election",
       "link": "https://cointelegraph.com/opinion/us-crypto-rules-need-to-survive-the-next-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 13:00:00 +0000",
-      "ts": 1791291600
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Paxos’ $3B USDG stablecoin launches on Arbitrum",
-      "link": "https://cointelegraph.com/news/paxos-3b-usdg-stablecoin-launches-arbitrum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 13:00:00 +0000",
       "ts": 1791291600
     },
