@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-06T19:02:26.771385+00:00",
+  "updated_utc": "2026-10-06T19:19:55.116040+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Trump waives rules on red-dyed diesel, but local tax and other concerns remain",
+      "link": "https://www.marketwatch.com/story/trump-waives-rules-on-red-dyed-diesel-but-local-tax-and-other-concerns-remain-f6b448c8?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 19:14:00 GMT",
+      "ts": 1791314040
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Mexico to focus on local currency debt, says finance minister",
+      "link": "https://www.investing.com/news/forex-news/mexico-to-focus-on-local-currency-debt-says-finance-minister-93CH-4935092",
+      "published": "2026-10-06 18:56:32",
+      "ts": 1791312992
+    },
     {
       "source": "MarketWatch",
       "title": "‘Trump accounts’ could force MAGA children to own New York Times stock",
@@ -79,13 +93,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 17:19:58 +0000",
       "ts": 1791307198
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Loneliness and social isolation can take six years off your life",
-      "link": "https://www.marketwatch.com/story/loneliness-and-social-isolation-can-take-six-years-off-your-life-496af256?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 17:18:00 GMT",
-      "ts": 1791307080
     },
     {
       "source": "Cointelegraph",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/eden-labs-raises-15m-to-build-personal-ai-that-works-for-everyone-4932634",
       "published": "2026-10-05 17:00:17",
       "ts": 1791219617
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Loonie slips as early gains fade, oil weakness keeps pressure on Canadian dollar",
-      "link": "https://www.investing.com/news/forex-news/loonie-slips-as-early-gains-fade-oil-weakness-keeps-pressure-on-canadian-dollar-4932479",
-      "published": "2026-10-05 14:30:09",
-      "ts": 1791210609
     }
   ]
 }
