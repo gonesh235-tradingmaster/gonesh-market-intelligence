@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-06T07:40:55.341202+00:00",
+  "updated_utc": "2026-10-06T07:56:06.358375+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "German yields drop as markets seek shelter, leaving French OATs sidelined",
+      "link": "https://www.investing.com/news/forex-news/german-yields-drop-as-markets-seek-shelter-leaving-french-oats-sidelined-4933558",
+      "published": "2026-10-06 07:43:40",
+      "ts": 1791272620
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin consolidates below $87K resistance: Live levels",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/goldman-sachs-sees-brazilian-real-gains-on-election-results-93CH-4931333",
       "published": "2026-10-05 09:07:38",
       "ts": 1791191258
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound slips as euro sell-off lifts dollar",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-euro-selloff-lifts-dollar-4931241",
-      "published": "2026-10-05 08:34:25",
-      "ts": 1791189265
     }
   ]
 }
