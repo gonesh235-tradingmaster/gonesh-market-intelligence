@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-06T16:38:28.686858+00:00",
+  "updated_utc": "2026-10-06T16:54:57.104566+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto is expanding the boundaries of what can be priced",
+      "link": "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced",
+      "published": "Tue, 06 Oct 2026 16:50:26 +0000",
+      "ts": 1791305426
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "ECB policymaker warns of fragmentation without digital euro",
+      "link": "https://cointelegraph.com/news/european-central-bank-fragmentation-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 16:32:57 +0000",
+      "ts": 1791304377
+    },
     {
       "source": "MarketWatch",
       "title": "These 5 chip stocks are cheaper than the S&P 500 — and offer faster growth",
@@ -144,13 +158,6 @@
       "ts": 1791291600
     },
     {
-      "source": "Cointelegraph",
-      "title": "Polymarket overhauls smart contracts with new Protocol V2 rollout",
-      "link": "https://cointelegraph.com/news/polymarket-smart-contract-overhaul-protocol-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 12:54:15 +0000",
-      "ts": 1791291255
-    },
-    {
       "source": "CoinDesk",
       "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
       "link": "https://www.coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case",
@@ -212,13 +219,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-climbs-euro-nears-17month-low-4933337",
       "published": "2026-10-06 09:13:08",
       "ts": 1791277988
-    },
-    {
-      "source": "CoinDesk",
-      "title": "OKX looks to abstract blockchain mechanics to bring stablecoin balances to everyday consumers",
-      "link": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
-      "published": "Tue, 06 Oct 2026 09:02:01 +0000",
-      "ts": 1791277321
     },
     {
       "source": "Investing Forex",
