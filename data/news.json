@@ -1,14 +1,28 @@
 {
-  "updated_utc": "2026-10-06T07:24:16.466094+00:00",
+  "updated_utc": "2026-10-06T07:40:55.341202+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin consolidates below $87K resistance: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
+      "published": "2026-10-06 07:12:00",
+      "ts": 1791270720
+    },
     {
       "source": "Cointelegraph",
       "title": "EEZ tests atomic L1-to-L2 transaction in push to unify Ethereum",
       "link": "https://cointelegraph.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 07:09:33 +0000",
       "ts": 1791270573
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies rangebound as dollar, euro hold near multi-month extremes",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-climbs-euro-nears-17month-low-4933337",
+      "published": "2026-10-06 07:04:48",
+      "ts": 1791270288
     },
     {
       "source": "Investing Crypto",
@@ -58,13 +72,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
       "published": "Tue, 06 Oct 2026 04:23:45 +0000",
       "ts": 1791260625
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as dollar climbs, euro nears 17-month low",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-climbs-euro-nears-17month-low-4933337",
-      "published": "2026-10-06 03:56:23",
-      "ts": 1791258983
     },
     {
       "source": "Cointelegraph",
@@ -191,13 +198,6 @@
       "link": "https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on",
       "published": "Mon, 05 Oct 2026 19:21:06 +0000",
       "ts": 1791228066
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin battles $83,900 support amid fading momentum: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
-      "published": "2026-10-05 19:20:46",
-      "ts": 1791228046
     },
     {
       "source": "CoinDesk",
