@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-10-06T19:19:55.116040+00:00",
+  "updated_utc": "2026-10-06T19:36:18.547840+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Anvil Announces SDK Launch, Enterprise Partnerships, and $5M ANVL Token Sale",
+      "link": "https://www.investing.com/news/cryptocurrency-news/anvil-announces-sdk-launch-enterprise-partnerships-and-5m-anvl-token-sale-4935117",
+      "published": "2026-10-06 19:30:07",
+      "ts": 1791315007
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin squeezed between support and resistance at $85,472: Live",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
+      "published": "2026-10-06 19:20:27",
+      "ts": 1791314427
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "UK names 6 banks to lead first digitally native government bond",
+      "link": "https://cointelegraph.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 19:19:00 +0000",
+      "ts": 1791314340
+    },
     {
       "source": "MarketWatch",
       "title": "Trump waives rules on red-dyed diesel, but local tax and other concerns remain",
@@ -151,13 +172,6 @@
       "ts": 1791298807
     },
     {
-      "source": "Cointelegraph",
-      "title": "Ethereum’s Glamsterdam upgrade launches on Sepolia testnet",
-      "link": "https://cointelegraph.com/news/ethereums-glamsterdam-upgrade-launches-on-sepolia-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 14:00:00 +0000",
-      "ts": 1791295200
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin pinned at $86.2k as soaring yields offset regulatory hopes",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
@@ -243,13 +257,6 @@
     },
     {
       "source": "Investing Crypto",
-      "title": "Bitcoin consolidates below $87K resistance: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
-      "published": "2026-10-06 07:12:00",
-      "ts": 1791270720
-    },
-    {
-      "source": "Investing Crypto",
       "title": "Changer+ Launches Stablecoin-First Self-Custodial Wallet to Make Stablecoins Easier to Use",
       "link": "https://www.investing.com/news/cryptocurrency-news/changer-launches-stablecoinfirst-selfcustodial-wallet-to-make-stablecoins-easier-to-use-4933317",
       "published": "2026-10-06 03:30:10",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaker-as-dollar-surges-euro-hits-17month-low-4931001",
       "published": "2026-10-05 20:59:37",
       "ts": 1791233977
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Eden Labs Raises $1.5M to Build Personal AI That Works for Everyone",
-      "link": "https://www.investing.com/news/cryptocurrency-news/eden-labs-raises-15m-to-build-personal-ai-that-works-for-everyone-4932634",
-      "published": "2026-10-05 17:00:17",
-      "ts": 1791219617
     }
   ]
 }
