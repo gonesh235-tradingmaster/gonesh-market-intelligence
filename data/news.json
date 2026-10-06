@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-06T09:22:41.824531+00:00",
+  "updated_utc": "2026-10-06T09:39:57.558340+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "U.S.- China AI race heats up as Chinese rivals secure billions ahead of IPOs",
+      "link": "https://www.coindesk.com/markets/2026/10/06/u-s-china-ai-race-heats-up-as-chinese-rivals-secure-billions-ahead-of-ipos",
+      "published": "Tue, 06 Oct 2026 09:25:36 +0000",
+      "ts": 1791278736
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ondo opens private markets with tokenized pre-IPO AI exposure",
+      "link": "https://cointelegraph.com/news/ondo-private-markets-tokenized-pre-ipo-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 09:21:38 +0000",
+      "ts": 1791278498
+    },
     {
       "source": "MarketWatch",
       "title": "The S&P 500 is facing rate chaos and narrow breadth. Why one Goldman Sachs insider is still bullish on stocks.",
@@ -23,6 +37,13 @@
       "link": "https://www.marketwatch.com/story/elon-musk-is-a-trillionaire-again-heres-how-his-wealth-stacks-up-against-national-economies-e9788b29?mod=mw_rss_topstories",
       "published": "Tue, 06 Oct 2026 09:16:00 GMT",
       "ts": 1791278160
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar near 18-month highs; ECB’s Lane cautions on inflation pass-through",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-climbs-euro-nears-17month-low-4933337",
+      "published": "2026-10-06 09:13:08",
+      "ts": 1791277988
     },
     {
       "source": "Cointelegraph",
@@ -95,13 +116,6 @@
       "ts": 1791270573
     },
     {
-      "source": "Investing Forex",
-      "title": "Asian currencies rangebound as dollar, euro hold near multi-month extremes",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-climbs-euro-nears-17month-low-4933337",
-      "published": "2026-10-06 07:04:48",
-      "ts": 1791270288
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin steadies at $85.5k as soaring yields offset regulatory hopes",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
@@ -172,13 +186,6 @@
       "ts": 1791257410
     },
     {
-      "source": "Cointelegraph",
-      "title": "Chinese crime network laundered over $1B for Lazarus: ZachXBT",
-      "link": "https://cointelegraph.com/news/chinese-crime-network-laundered-over-1b-for-lazarus-zachxbt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 01:47:24 +0000",
-      "ts": 1791251244
-    },
-    {
       "source": "Investing Forex",
       "title": "Euro faces political, fiscal reckoning as it hovers near 17-month low",
       "link": "https://www.investing.com/news/forex-news/euro-faces-political-fiscal-reckoning-as-it-hovers-near-17month-low-4933206",
@@ -233,13 +240,6 @@
       "link": "https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on",
       "published": "Mon, 05 Oct 2026 19:21:06 +0000",
       "ts": 1791228066
-    },
-    {
-      "source": "CoinDesk",
-      "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works",
-      "link": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
-      "published": "Mon, 05 Oct 2026 17:18:14 +0000",
-      "ts": 1791220694
     },
     {
       "source": "Investing Crypto",
