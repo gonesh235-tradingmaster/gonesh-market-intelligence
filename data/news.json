@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-06T15:58:59.547866+00:00",
+  "updated_utc": "2026-10-06T16:18:53.978724+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "These 5 chip stocks are cheaper than the S&P 500 — and offer faster growth",
+      "link": "https://www.marketwatch.com/story/these-5-chip-stocks-are-cheaper-than-the-s-p-500-and-offer-faster-growth-f8ab4386?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 15:57:00 GMT",
+      "ts": 1791302220
+    },
     {
       "source": "Cointelegraph",
       "title": "Ripple expands Brevan Howard deal with prime brokerage services",
@@ -68,7 +75,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My brother-in-law convinced his parents to sign over their home and savings to buy a $3 million compound. Do I intervene?",
+      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
       "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
       "published": "Tue, 06 Oct 2026 14:00:00 GMT",
       "ts": 1791295200
@@ -100,13 +107,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 13:41:33 +0000",
       "ts": 1791294093
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
-      "link": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 13:40:00 GMT",
-      "ts": 1791294000
     },
     {
       "source": "Cointelegraph",
@@ -173,7 +173,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin rises above $86,000 as oil prices, bond yields retreat",
+      "title": "Live updates: Bitcoin remains locked in range as stocks notch another new record high",
       "link": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
       "published": "Tue, 06 Oct 2026 10:35:49 +0000",
       "ts": 1791282949
