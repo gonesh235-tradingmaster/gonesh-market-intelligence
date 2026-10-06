@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-10-06T12:26:55.177302+00:00",
+  "updated_utc": "2026-10-06T12:48:36.587311+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Wall Street is hyping AI. This fund manager is betting instead on fires, HVAC and Berkshire Hathaway.",
+      "link": "https://www.marketwatch.com/story/wall-street-is-hyping-ai-this-fund-manager-is-betting-instead-on-fires-hvac-and-berkshire-hathaway-1b70fbea?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 12:44:00 GMT",
+      "ts": 1791290640
+    },
+    {
+      "source": "MarketWatch",
+      "title": "America’s renters are emerging as a political movement",
+      "link": "https://www.marketwatch.com/story/locked-out-of-home-ownership-renters-are-rallying-voters-for-affordable-housing-policies-bf946d70?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 12:37:00 GMT",
+      "ts": 1791290220
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
+      "link": "https://www.coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case",
+      "published": "Tue, 06 Oct 2026 12:31:51 +0000",
+      "ts": 1791289911
+    },
     {
       "source": "MarketWatch",
       "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
@@ -53,13 +74,6 @@
       "ts": 1791285300
     },
     {
-      "source": "MarketWatch",
-      "title": "Wall Street is hyping AI. This fund manager is betting instead on fires, HVAC and Berkshire Hathaway.",
-      "link": "https://www.marketwatch.com/story/wall-street-is-hyping-ai-this-fund-manager-is-betting-instead-on-fires-hvac-and-berkshire-hathaway-1b70fbea?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 11:15:00 GMT",
-      "ts": 1791285300
-    },
-    {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin rises above $86,000 as oil prices, bond yields retreat",
       "link": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
@@ -100,13 +114,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/beldex-introduces-confidential-assets-for-privacypreserving-tokens-on-testnet-4933778",
       "published": "2026-10-06 10:00:34",
       "ts": 1791280834
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Should I put my nest egg in a 30-year Treasury bond?",
-      "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 10:00:00 GMT",
-      "ts": 1791280800
     },
     {
       "source": "Cointelegraph",
@@ -219,13 +226,6 @@
       "link": "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets",
       "published": "Tue, 06 Oct 2026 04:55:36 +0000",
       "ts": 1791262536
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ethereum’s Glamsterdam test gets last-minute fix before major capacity jump",
-      "link": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
-      "published": "Tue, 06 Oct 2026 04:49:05 +0000",
-      "ts": 1791262145
     },
     {
       "source": "Investing Crypto",
