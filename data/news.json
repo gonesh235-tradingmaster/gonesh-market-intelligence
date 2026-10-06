@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-06T10:48:37.078391+00:00",
+  "updated_utc": "2026-10-06T11:01:06.936343+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -16,6 +16,13 @@
       "link": "https://www.coindesk.com/markets/2026/10/06/smaller-altcoins-shine-as-bitcoin-stills-trades-around-usd85-000",
       "published": "Tue, 06 Oct 2026 10:30:00 +0000",
       "ts": 1791282600
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Goldman sees Korean FX intervention risk if won strengthens sharply",
+      "link": "https://www.investing.com/news/forex-news/goldman-sees-korean-fx-intervention-risk-if-won-strengthens-sharply-93CH-4933873",
+      "published": "2026-10-06 10:29:14",
+      "ts": 1791282554
     },
     {
       "source": "Cointelegraph",
@@ -54,7 +61,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Elon Musk’s wealth tops $1 trillion. These entire countries produce less.",
+      "title": "Elon Musk’s wealth surpasses $1 trillion — making it higher than these countries’ GDPs",
       "link": "https://www.marketwatch.com/story/elon-musk-is-a-trillionaire-again-heres-how-his-wealth-stacks-up-against-national-economies-e9788b29?mod=mw_rss_topstories",
       "published": "Tue, 06 Oct 2026 09:56:00 GMT",
       "ts": 1791280560
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/stablecoin-development-reports-180m-in-sky-token-holdings-at-q3-end-432SI-4932433",
       "published": "2026-10-05 14:16:02",
       "ts": 1791209762
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. Treasuries pause; French debt yields retreat after violent shock",
-      "link": "https://www.investing.com/news/forex-news/french-debt-yields-rise-as-fiscal-worries-mount-4931106",
-      "published": "2026-10-05 12:21:10",
-      "ts": 1791202870
     }
   ]
 }
