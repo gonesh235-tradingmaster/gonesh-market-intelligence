@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-06T05:15:30.444432+00:00",
+  "updated_utc": "2026-10-06T05:33:25.768058+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -165,13 +165,6 @@
       "ts": 1791230032
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 05 Oct 2026 19:25:00 +0000",
-      "ts": 1791228300
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto's campaign arm, Fairshake, sets lists of U.S. House favorites it'll spend on",
       "link": "https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on",
@@ -191,6 +184,13 @@
       "link": "https://cointelegraph.com/news/crypto-advocacy-groups-icba-lawsuit-occ-charters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 05 Oct 2026 19:15:22 +0000",
       "ts": 1791227722
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
+      "link": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 05 Oct 2026 17:58:58 +0000",
+      "ts": 1791223138
     },
     {
       "source": "CoinDesk",
