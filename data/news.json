@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-06T10:29:23.493135+00:00",
+  "updated_utc": "2026-10-06T10:48:37.078391+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: A drop below $84,000 could put $80,000 in play for bitcoin",
+      "link": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
+      "published": "Tue, 06 Oct 2026 10:35:49 +0000",
+      "ts": 1791282949
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Smaller altcoins shine as bitcoin stills trades around $85,000",
+      "link": "https://www.coindesk.com/markets/2026/10/06/smaller-altcoins-shine-as-bitcoin-stills-trades-around-usd85-000",
+      "published": "Tue, 06 Oct 2026 10:30:00 +0000",
+      "ts": 1791282600
+    },
     {
       "source": "Cointelegraph",
       "title": "Hong Kong officials double down on end-2026 deadline for crypto licensing bill",
@@ -200,13 +214,6 @@
       "ts": 1791261670
     },
     {
-      "source": "CoinDesk",
-      "title": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
-      "link": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
-      "published": "Tue, 06 Oct 2026 04:23:45 +0000",
-      "ts": 1791260625
-    },
-    {
       "source": "Investing Crypto",
       "title": "Changer+ Launches Stablecoin-First Self-Custodial Wallet to Make Stablecoins Easier to Use",
       "link": "https://www.investing.com/news/cryptocurrency-news/changer-launches-stablecoinfirst-selfcustodial-wallet-to-make-stablecoins-easier-to-use-4933317",
@@ -240,13 +247,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-weaker-as-dollar-surges-euro-hits-17month-low-4931001",
       "published": "2026-10-05 20:59:37",
       "ts": 1791233977
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto's campaign arm, Fairshake, sets lists of U.S. House favorites it'll spend on",
-      "link": "https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on",
-      "published": "Mon, 05 Oct 2026 19:21:06 +0000",
-      "ts": 1791228066
     },
     {
       "source": "Investing Crypto",
