@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-06T08:11:57.795349+00:00",
+  "updated_utc": "2026-10-06T08:32:09.537295+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Why bitcoin is down 'just' 32% a year after its record high of $126,000",
+      "link": "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32",
+      "published": "Tue, 06 Oct 2026 08:27:43 +0000",
+      "ts": 1791275263
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs shed $90M as BTC sits 32% below year-old ATH",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-90-million-outflow-btc-32-below-record-oct-6?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 08:14:17 +0000",
+      "ts": 1791274457
+    },
     {
       "source": "Investing Forex",
       "title": "German yields drop as markets seek shelter, leaving French OATs sidelined",
@@ -186,13 +200,6 @@
       "ts": 1791233977
     },
     {
-      "source": "Cointelegraph",
-      "title": "FinCEN withdraws proposed crypto mixing rule over ‘legitimate activity’ concerns",
-      "link": "https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 05 Oct 2026 20:46:53 +0000",
-      "ts": 1791233213
-    },
-    {
       "source": "MarketWatch",
       "title": "Trump is promising $90 Medicare rebate checks ahead of the midterms. Here’s the hidden cost.",
       "link": "https://www.marketwatch.com/story/trump-is-promising-90-medicare-rebate-checks-ahead-of-the-midterms-heres-the-hidden-cost-14b7e2ce?mod=mw_rss_topstories",
@@ -247,13 +254,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/stablecoin-development-reports-180m-in-sky-token-holdings-at-q3-end-432SI-4932433",
       "published": "2026-10-05 14:16:02",
       "ts": 1791209762
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
-      "link": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
-      "published": "Mon, 05 Oct 2026 13:46:31 +0000",
-      "ts": 1791207991
     },
     {
       "source": "Investing Crypto",
