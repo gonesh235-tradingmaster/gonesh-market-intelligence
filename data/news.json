@@ -1,14 +1,28 @@
 {
-  "updated_utc": "2026-10-06T08:32:09.537295+00:00",
+  "updated_utc": "2026-10-06T08:50:35.319029+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Morgan Stanley bets against pound ahead of U.K. budget",
+      "link": "https://www.investing.com/news/forex-news/morgan-stanley-bets-against-pound-ahead-of-uk-budget-4933608",
+      "published": "2026-10-06 08:27:47",
+      "ts": 1791275267
+    },
     {
       "source": "CoinDesk",
       "title": "Why bitcoin is down 'just' 32% a year after its record high of $126,000",
       "link": "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32",
       "published": "Tue, 06 Oct 2026 08:27:43 +0000",
       "ts": 1791275263
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound steady as firm dollar caps gains",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steady-as-firm-dollar-caps-gains-4933601",
+      "published": "2026-10-06 08:15:17",
+      "ts": 1791274517
     },
     {
       "source": "Cointelegraph",
@@ -268,20 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/french-debt-yields-rise-as-fiscal-worries-mount-4931106",
       "published": "2026-10-05 12:21:10",
       "ts": 1791202870
-    },
-    {
-      "source": "Investing Forex",
-      "title": "HSBC models signal risk-on equity outlook after market volatility",
-      "link": "https://www.investing.com/news/forex-news/hsbc-models-signal-riskon-equity-outlook-after-market-volatility-93CH-4931484",
-      "published": "2026-10-05 10:09:38",
-      "ts": 1791194978
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Goldman Sachs sees Brazilian real gains on election results",
-      "link": "https://www.investing.com/news/forex-news/goldman-sachs-sees-brazilian-real-gains-on-election-results-93CH-4931333",
-      "published": "2026-10-05 09:07:38",
-      "ts": 1791191258
     }
   ]
 }
