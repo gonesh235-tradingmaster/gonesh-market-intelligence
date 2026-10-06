@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-06T11:51:41.021920+00:00",
+  "updated_utc": "2026-10-06T12:02:24.486063+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Treasuries and Bunds gain as safe-haven flows shadow French fiscal woes",
+      "link": "https://www.investing.com/news/forex-news/german-yields-drop-as-markets-seek-shelter-leaving-french-oats-sidelined-4933558",
+      "published": "2026-10-06 11:42:33",
+      "ts": 1791286953
+    },
     {
       "source": "CoinDesk",
       "title": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet",
@@ -177,13 +184,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-etf-90-million-outflow-btc-32-below-record-oct-6?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 08:14:17 +0000",
       "ts": 1791274457
-    },
-    {
-      "source": "Investing Forex",
-      "title": "German yields drop as markets seek shelter, leaving French OATs sidelined",
-      "link": "https://www.investing.com/news/forex-news/german-yields-drop-as-markets-seek-shelter-leaving-french-oats-sidelined-4933558",
-      "published": "2026-10-06 07:43:40",
-      "ts": 1791272620
     },
     {
       "source": "Investing Crypto",
