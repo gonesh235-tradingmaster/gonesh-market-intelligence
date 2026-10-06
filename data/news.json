@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-10-06T20:52:15.174330+00:00",
+  "updated_utc": "2026-10-06T21:02:02.403780+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
+      "link": "https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 20:53:19 +0000",
+      "ts": 1791319999
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 20:48:12 +0000",
+      "ts": 1791319692
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Canadian dollar weakens near 18-month low despite surprise trade surplus",
+      "link": "https://www.investing.com/news/forex-news/canadian-dollar-weakens-near-18month-low-despite-surprise-trade-surplus-4935268",
+      "published": "2026-10-06 20:46:08",
+      "ts": 1791319568
+    },
     {
       "source": "MarketWatch",
       "title": "Oct. 9 has loomed large in stock-market history. Why investors still shouldn’t buy into an October jinx.",
@@ -137,20 +158,6 @@
       "ts": 1791305426
     },
     {
-      "source": "Cointelegraph",
-      "title": "ECB policymaker warns of fragmentation without digital euro",
-      "link": "https://cointelegraph.com/news/european-central-bank-fragmentation-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 16:32:57 +0000",
-      "ts": 1791304377
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ripple expands Brevan Howard deal with prime brokerage services",
-      "link": "https://cointelegraph.com/news/ripple-expands-brevan-howard-deal-with-prime-brokerage-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 15:24:51 +0000",
-      "ts": 1791300291
-    },
-    {
       "source": "CoinDesk",
       "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
       "link": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-near-86k-as-softer-jobs-data-offsets-pressure-from-high-yields-4931086",
       "published": "2026-10-05 21:55:15",
       "ts": 1791237315
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. dollar ticks up as euro hits nearly 17-month low on France fiscal fears",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-weaker-as-dollar-surges-euro-hits-17month-low-4931001",
-      "published": "2026-10-05 20:59:37",
-      "ts": 1791233977
     }
   ]
 }
