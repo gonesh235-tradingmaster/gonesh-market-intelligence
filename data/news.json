@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-06T04:08:34.206639+00:00",
+  "updated_utc": "2026-10-06T04:27:34.294690+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
+      "link": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
+      "published": "Tue, 06 Oct 2026 04:23:45 +0000",
+      "ts": 1791260625
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar climbs, euro nears 17-month low",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-climbs-euro-nears-17month-low-4933337",
+      "published": "2026-10-06 03:56:23",
+      "ts": 1791258983
+    },
     {
       "source": "Cointelegraph",
       "title": "Rain seeks US trust bank charter days after OCC sued over crypto charters",
@@ -249,13 +263,6 @@
       "ts": 1791198483
     },
     {
-      "source": "CoinDesk",
-      "title": "Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC",
-      "link": "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
-      "published": "Mon, 05 Oct 2026 10:58:03 +0000",
-      "ts": 1791197883
-    },
-    {
       "source": "Investing Forex",
       "title": "HSBC models signal risk-on equity outlook after market volatility",
       "link": "https://www.investing.com/news/forex-news/hsbc-models-signal-riskon-equity-outlook-after-market-volatility-93CH-4931484",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-euro-selloff-lifts-dollar-4931241",
       "published": "2026-10-05 08:34:25",
       "ts": 1791189265
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Iran’s rial hits fresh low as $2 billion currency intervention fails to stem slide",
-      "link": "https://www.investing.com/news/forex-news/irans-rial-hits-fresh-low-as-2-billion-currency-intervention-fails-to-stem-slide-4930880",
-      "published": "2026-10-03 20:13:19",
-      "ts": 1791058399
     }
   ]
 }
