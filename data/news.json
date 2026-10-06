@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-06T09:39:57.558340+00:00",
+  "updated_utc": "2026-10-06T09:55:30.303244+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Michael Burry says he’s sold out of his top holding — for now",
+      "link": "https://www.marketwatch.com/story/michael-burry-says-hes-sold-out-of-his-top-holding-for-now-615c9158?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 09:42:00 GMT",
+      "ts": 1791279720
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin flat at $85.3k as soaring yields offset regulatory hopes",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
+      "published": "2026-10-06 09:37:37",
+      "ts": 1791279457
+    },
     {
       "source": "CoinDesk",
       "title": "U.S.- China AI race heats up as Chinese rivals secure billions ahead of IPOs",
@@ -116,13 +130,6 @@
       "ts": 1791270573
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin steadies at $85.5k as soaring yields offset regulatory hopes",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
-      "published": "2026-10-06 06:38:42",
-      "ts": 1791268722
-    },
-    {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -219,13 +226,6 @@
       "link": "https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937?mod=mw_rss_topstories",
       "published": "Mon, 05 Oct 2026 21:52:00 GMT",
       "ts": 1791237120
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This new AI model could help America close a technological gap with China",
-      "link": "https://www.marketwatch.com/story/this-new-ai-model-could-help-america-close-a-technological-gap-with-china-c1d74492?mod=mw_rss_topstories",
-      "published": "Mon, 05 Oct 2026 21:43:00 GMT",
-      "ts": 1791236580
     },
     {
       "source": "Investing Forex",
