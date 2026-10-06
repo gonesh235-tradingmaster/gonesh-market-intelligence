@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-10-06T12:48:36.587311+00:00",
+  "updated_utc": "2026-10-06T13:03:51.464730+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
+      "link": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
+      "published": "Tue, 06 Oct 2026 13:02:33 +0000",
+      "ts": 1791291753
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US crypto rules need to survive the next election",
+      "link": "https://cointelegraph.com/opinion/us-crypto-rules-need-to-survive-the-next-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 13:00:00 +0000",
+      "ts": 1791291600
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Paxos’ $3B USDG stablecoin launches on Arbitrum",
+      "link": "https://cointelegraph.com/news/paxos-3b-usdg-stablecoin-launches-arbitrum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 13:00:00 +0000",
+      "ts": 1791291600
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Polymarket overhauls smart contracts with new Protocol V2 rollout",
+      "link": "https://cointelegraph.com/news/polymarket-smart-contract-overhaul-protocol-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 12:54:15 +0000",
+      "ts": 1791291255
+    },
     {
       "source": "MarketWatch",
       "title": "Wall Street is hyping AI. This fund manager is betting instead on fires, HVAC and Berkshire Hathaway.",
@@ -198,34 +226,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
       "published": "2026-10-06 07:12:00",
       "ts": 1791270720
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "EEZ tests atomic L1-to-L2 transaction in push to unify Ethereum",
-      "link": "https://cointelegraph.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 07:09:33 +0000",
-      "ts": 1791270573
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 06:00:00 +0000",
-      "ts": 1791266400
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Better Markets says CFTC is ‘wrong agency’ to regulate retail crypto",
-      "link": "https://cointelegraph.com/news/better-markets-criticize-cftc-regulate-retail-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 05:43:50 +0000",
-      "ts": 1791265430
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
-      "link": "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets",
-      "published": "Tue, 06 Oct 2026 04:55:36 +0000",
-      "ts": 1791262536
     },
     {
       "source": "Investing Crypto",
