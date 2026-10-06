@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-06T19:50:40.678218+00:00",
+  "updated_utc": "2026-10-06T20:00:18.331628+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The S&P 500 is back in record territory as the ‘Magnificent Seven’ ride to the rescue",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 19:54:00 GMT",
+      "ts": 1791316440
+    },
     {
       "source": "Investing Crypto",
       "title": "Anvil Announces SDK Launch, Enterprise Partnerships, and $5M ANVL Token Sale",
@@ -93,13 +100,6 @@
       "link": "https://cointelegraph.com/news/law-congress-betting-elections-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 06 Oct 2026 17:59:32 +0000",
       "ts": 1791309572
-    },
-    {
-      "source": "MarketWatch",
-      "title": "America’s renters are emerging as a political movement",
-      "link": "https://www.marketwatch.com/story/locked-out-of-home-ownership-renters-are-rallying-voters-for-affordable-housing-policies-bf946d70?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 17:58:00 GMT",
-      "ts": 1791309480
     },
     {
       "source": "Cointelegraph",
