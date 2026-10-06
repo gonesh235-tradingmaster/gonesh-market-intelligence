@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-06T11:19:45.746688+00:00",
+  "updated_utc": "2026-10-06T11:35:45.280374+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet",
+      "published": "Tue, 06 Oct 2026 11:30:00 +0000",
+      "ts": 1791286200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I got a $499 body scan to see if I have cancer. Here’s what I learned.",
+      "link": "https://www.marketwatch.com/story/i-got-a-499-body-scan-to-see-if-i-have-cancer-heres-what-i-learned-09cfca29?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 11:21:00 GMT",
+      "ts": 1791285660
+    },
     {
       "source": "MarketWatch",
       "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
@@ -116,13 +130,6 @@
       "ts": 1791278400
     },
     {
-      "source": "MarketWatch",
-      "title": "My brother-in-law convinced his parents to sign over their home and savings to buy a $3 million compound. Do I intervene?",
-      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 09:16:00 GMT",
-      "ts": 1791278160
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar near 18-month highs; ECB’s Lane cautions on inflation pass-through",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-climbs-euro-nears-17month-low-4933337",
@@ -219,13 +226,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
       "published": "Tue, 06 Oct 2026 04:49:05 +0000",
       "ts": 1791262145
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin keeps getting rejected at $87,000 as stocks hover near records",
-      "link": "https://www.coindesk.com/markets/2026/10/06/bitcoin-keeps-getting-rejected-at-usd87-000-as-stocks-hover-near-records",
-      "published": "Tue, 06 Oct 2026 04:41:10 +0000",
-      "ts": 1791261670
     },
     {
       "source": "Investing Crypto",
