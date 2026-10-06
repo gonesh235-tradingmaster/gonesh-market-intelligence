@@ -1,14 +1,49 @@
 {
-  "updated_utc": "2026-10-06T13:58:24.770442+00:00",
+  "updated_utc": "2026-10-06T14:17:23.804137+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Should I put my nest egg in a 30-year Treasury bond?",
+      "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 14:11:00 GMT",
+      "ts": 1791295860
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum’s Glamsterdam upgrade launches on Sepolia testnet",
+      "link": "https://cointelegraph.com/news/ethereums-glamsterdam-upgrade-launches-on-sepolia-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 06 Oct 2026 14:00:00 +0000",
+      "ts": 1791295200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My brother-in-law convinced his parents to sign over their home and savings to buy a $3 million compound. Do I intervene?",
+      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 14:00:00 GMT",
+      "ts": 1791295200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Prediction markets are coming for pop culture",
+      "link": "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories",
+      "published": "Tue, 06 Oct 2026 13:58:00 GMT",
+      "ts": 1791295080
+    },
     {
       "source": "MarketWatch",
       "title": "Wall Street is hyping AI. This fund manager is betting instead on fires, HVAC and Berkshire Hathaway.",
       "link": "https://www.marketwatch.com/story/wall-street-is-hyping-ai-this-fund-manager-is-betting-instead-on-fires-hvac-and-berkshire-hathaway-1b70fbea?mod=mw_rss_topstories",
       "published": "Tue, 06 Oct 2026 13:54:00 GMT",
       "ts": 1791294840
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin pinned at $86.2k as soaring yields offset regulatory hopes",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
+      "published": "2026-10-06 13:52:45",
+      "ts": 1791294765
     },
     {
       "source": "Cointelegraph",
@@ -95,20 +130,6 @@
       "ts": 1791289911
     },
     {
-      "source": "MarketWatch",
-      "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-      "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 12:15:00 GMT",
-      "ts": 1791288900
-    },
-    {
-      "source": "MarketWatch",
-      "title": "America’s favorite index is misleading investors about the state of the stock market",
-      "link": "https://www.marketwatch.com/story/americas-favorite-index-is-misleading-investors-about-the-state-of-the-stock-market-2e91ca95?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 12:05:00 GMT",
-      "ts": 1791288300
-    },
-    {
       "source": "Investing Forex",
       "title": "Treasuries and Bunds gain as safe-haven flows shadow French fiscal woes",
       "link": "https://www.investing.com/news/forex-news/german-yields-drop-as-markets-seek-shelter-leaving-french-oats-sidelined-4933558",
@@ -121,13 +142,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet",
       "published": "Tue, 06 Oct 2026 11:30:00 +0000",
       "ts": 1791286200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I got a $499 body scan to see if I have cancer. Here’s what I learned.",
-      "link": "https://www.marketwatch.com/story/i-got-a-499-body-scan-to-see-if-i-have-cancer-heres-what-i-learned-09cfca29?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 11:21:00 GMT",
-      "ts": 1791285660
     },
     {
       "source": "CoinDesk",
@@ -163,20 +177,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/beldex-introduces-confidential-assets-for-privacypreserving-tokens-on-testnet-4933778",
       "published": "2026-10-06 10:00:34",
       "ts": 1791280834
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Binance BTC outflows hit highest since mid-2023 as whales deposit stablecoins",
-      "link": "https://cointelegraph.com/markets/binance-btc-outflows-hit-highest-since-mid-2023-as-whales-deposit-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 09:59:12 +0000",
-      "ts": 1791280752
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin flat at $85.3k as soaring yields offset regulatory hopes",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-855k-as-soaring-yields-offset-regulatory-hopes-4933454",
-      "published": "2026-10-06 09:37:37",
-      "ts": 1791279457
     },
     {
       "source": "CoinDesk",
