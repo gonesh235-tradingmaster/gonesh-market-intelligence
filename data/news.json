@@ -1,21 +1,28 @@
 {
-  "updated_utc": "2026-10-07T08:02:50.697483+00:00",
+  "updated_utc": "2026-10-07T08:24:51.922121+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Meta stock achieves a golden cross as shares thrive since Muse introduction",
+      "link": "https://www.marketwatch.com/story/meta-stock-achieves-a-golden-cross-as-shares-thrive-since-muse-introduction-5ba818d4?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 08:07:00 GMT",
+      "ts": 1791360420
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Russia clears first crypto exchanges, custodians under new law",
+      "link": "https://cointelegraph.com/news/russia-first-crypto-platforms-register-new-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 08:06:35 +0000",
+      "ts": 1791360395
+    },
     {
       "source": "MarketWatch",
       "title": "A popular tech fund is now overbought. That’s no reason to sell, history shows.",
       "link": "https://www.marketwatch.com/story/a-popular-tech-fund-is-now-overbought-thats-no-reason-to-sell-history-shows-d998aab3?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 08:01:00 GMT",
       "ts": 1791360060
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Meta stock achieves a golden cross as shares thrive since Muse introduction",
-      "link": "https://www.marketwatch.com/story/meta-stock-achieves-a-golden-cross-as-shares-thrive-since-muse-introduction-5ba818d4?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 07:57:00 GMT",
-      "ts": 1791359820
     },
     {
       "source": "CoinDesk",
@@ -212,13 +219,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/anvil-announces-sdk-launch-enterprise-partnerships-and-5m-anvl-token-sale-4935117",
       "published": "2026-10-06 19:30:07",
       "ts": 1791315007
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "UK names 6 banks to lead first digitally native government bond",
-      "link": "https://cointelegraph.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 19:19:00 +0000",
-      "ts": 1791314340
     },
     {
       "source": "Investing Forex",
