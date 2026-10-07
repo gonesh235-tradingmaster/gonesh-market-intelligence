@@ -1,21 +1,35 @@
 {
-  "updated_utc": "2026-10-07T11:37:40.660115+00:00",
+  "updated_utc": "2026-10-07T11:53:38.469523+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Intel investors get some reassurance from Elon Musk over a major chip endeavor",
+      "link": "https://www.marketwatch.com/story/elon-musk-and-intel-ceo-shore-up-chipmakers-role-in-terafab-project-and-heres-what-the-news-is-doing-to-the-stock-315d0974?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 11:44:00 GMT",
+      "ts": 1791373440
+    },
+    {
+      "source": "MarketWatch",
+      "title": "These two hard-hit stocks are poised for a comeback, says fund manager",
+      "link": "https://www.marketwatch.com/story/these-two-hard-hit-stocks-are-poised-for-a-comeback-says-fund-manager-cccc0c4e?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 11:40:00 GMT",
+      "ts": 1791373200
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto card access doesn’t match global demand, Tangem says",
+      "link": "https://cointelegraph.com/news/crypto-card-access-doesnt-match-global-demand-tangem-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 11:37:48 +0000",
+      "ts": 1791373068
+    },
     {
       "source": "CoinDesk",
       "title": "Here’s what bitcoin needs to break above $87,000",
       "link": "https://www.coindesk.com/daybook-us/2026/10/07/here-s-what-bitcoin-needs-to-break-above-usd87-000",
       "published": "Wed, 07 Oct 2026 11:30:00 +0000",
       "ts": 1791372600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "These two hard-hit stocks are poised for a comeback, says fund manager",
-      "link": "https://www.marketwatch.com/story/these-two-hard-hit-stocks-are-poised-for-a-comeback-says-fund-manager-cccc0c4e?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 11:21:00 GMT",
-      "ts": 1791372060
     },
     {
       "source": "MarketWatch",
@@ -33,7 +47,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: BitMine announces ETH buying limit. Ether, bitcoin slide",
+      "title": "Live updates: Cryptos tumble, with ETH down 5% as Tom Lee confirms buying limit",
       "link": "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated",
       "published": "Wed, 07 Oct 2026 11:09:50 +0000",
       "ts": 1791371390
@@ -72,13 +86,6 @@
       "link": "https://cointelegraph.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 07 Oct 2026 10:26:55 +0000",
       "ts": 1791368815
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Elon Musk and Intel CEO shore up chipmaker’s role in Terafab project — and here’s what the news is doing to the stock.",
-      "link": "https://www.marketwatch.com/story/elon-musk-and-intel-ceo-shore-up-chipmakers-role-in-terafab-project-and-heres-what-the-news-is-doing-to-the-stock-315d0974?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 10:24:00 GMT",
-      "ts": 1791368640
     },
     {
       "source": "Cointelegraph",
@@ -233,13 +240,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
       "published": "2026-10-07 07:11:57",
       "ts": 1791357117
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "DOJ invokes Bitcoin Fog ruling in potential blow to Roman Storm acquittal bid",
-      "link": "https://cointelegraph.com/news/roman-storm-bitcoin-fog-doj-acquittal-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 07:10:59 +0000",
-      "ts": 1791357059
     },
     {
       "source": "CoinDesk",
