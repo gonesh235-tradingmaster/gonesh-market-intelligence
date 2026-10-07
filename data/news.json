@@ -1,8 +1,43 @@
 {
-  "updated_utc": "2026-10-07T08:43:11.797217+00:00",
+  "updated_utc": "2026-10-07T08:58:53.958180+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood adds bitcoin worth $25 million to its balance sheet",
+      "link": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
+      "published": "Wed, 07 Oct 2026 08:53:27 +0000",
+      "ts": 1791363207
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BitMine sets 5% Ether supply ‘hard cap’ as accumulation target nears",
+      "link": "https://cointelegraph.com/news/bitmine-ether-5-percent-supply-hard-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 08:50:02 +0000",
+      "ts": 1791363002
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Deutsche Bank says weakness in Swedish krona is due to fundamentals",
+      "link": "https://www.investing.com/news/forex-news/deutsche-bank-says-weakness-in-swedish-krona-is-due-to-fundamentals-93CH-4935861",
+      "published": "2026-10-07 08:38:55",
+      "ts": 1791362335
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Iraq devalues dinar to 1,520 per US dollar, state news agency says",
+      "link": "https://www.investing.com/news/forex-news/iraq-devalues-dinar-to-1520-per-us-dollar-state-news-agency-says-4935843",
+      "published": "2026-10-07 08:30:26",
+      "ts": 1791361826
+    },
+    {
+      "source": "Investing Forex",
+      "title": "USD/INR tests record highs as stop-loss orders trigger fresh rally",
+      "link": "https://www.investing.com/news/forex-news/usdinr-tests-record-highs-as-stoploss-orders-trigger-fresh-rally-93CH-4935828",
+      "published": "2026-10-07 08:27:44",
+      "ts": 1791361664
+    },
     {
       "source": "MarketWatch",
       "title": "Meta stock achieves a golden cross as shares thrive since Muse introduction",
@@ -179,13 +214,6 @@
       "ts": 1791320444
     },
     {
-      "source": "Cointelegraph",
-      "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
-      "link": "https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 20:53:19 +0000",
-      "ts": 1791319999
-    },
-    {
       "source": "Investing Forex",
       "title": "Canadian dollar weakens near 18-month low despite surprise trade surplus",
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-weakens-near-18month-low-despite-surprise-trade-surplus-4935268",
@@ -242,13 +270,6 @@
       "ts": 1791305426
     },
     {
-      "source": "CoinDesk",
-      "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
-      "link": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
-      "published": "Tue, 06 Oct 2026 15:20:30 +0000",
-      "ts": 1791300030
-    },
-    {
       "source": "Investing Crypto",
       "title": "New Generation of Crypto Miners Released by ASICID",
       "link": "https://www.investing.com/news/cryptocurrency-news/new-generation-of-crypto-miners-released-by-asicid-4934907",
@@ -261,27 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/superform-activates-earn-strategies-for-tokenized-stocks-on-base-powered-by-aave-4934906",
       "published": "2026-10-06 15:00:07",
       "ts": 1791298807
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Treasuries and Bunds gain as safe-haven flows shadow French fiscal woes",
-      "link": "https://www.investing.com/news/forex-news/german-yields-drop-as-markets-seek-shelter-leaving-french-oats-sidelined-4933558",
-      "published": "2026-10-06 11:42:33",
-      "ts": 1791286953
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Goldman sees Korean FX intervention risk if won strengthens sharply",
-      "link": "https://www.investing.com/news/forex-news/goldman-sees-korean-fx-intervention-risk-if-won-strengthens-sharply-93CH-4933873",
-      "published": "2026-10-06 10:29:14",
-      "ts": 1791282554
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Morgan Stanley bets against pound ahead of U.K. budget",
-      "link": "https://www.investing.com/news/forex-news/morgan-stanley-bets-against-pound-ahead-of-uk-budget-4933608",
-      "published": "2026-10-06 08:27:47",
-      "ts": 1791275267
     }
   ]
 }
