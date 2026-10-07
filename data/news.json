@@ -1,21 +1,35 @@
 {
-  "updated_utc": "2026-10-07T12:08:28.850782+00:00",
+  "updated_utc": "2026-10-07T12:34:28.270900+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
+      "link": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
+      "published": "Wed, 07 Oct 2026 12:34:13 +0000",
+      "ts": 1791376453
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Global yield sell-off resumes as U.S. 30-year yield touches 24-year highs",
+      "link": "https://www.investing.com/news/forex-news/french-bond-yields-resume-upward-marchfollowing-brief-relief-rally-4935716",
+      "published": "2026-10-07 12:09:33",
+      "ts": 1791374973
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Factbox-Options for UK finance minister Healey in October 28 budget",
+      "link": "https://www.investing.com/news/forex-news/factboxoptions-for-uk-finance-minister-healey-in-october-28-budget-4936440",
+      "published": "2026-10-07 12:06:57",
+      "ts": 1791374817
+    },
     {
       "source": "CoinDesk",
       "title": "Swift blockchain ledger requires key internal layers, Taurus co-founder warns",
       "link": "https://www.coindesk.com/business/2026/10/07/swift-blockchain-ledger-requires-key-internal-layers-taurus-co-founder-warns",
       "published": "Wed, 07 Oct 2026 11:59:24 +0000",
       "ts": 1791374364
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Factbox-Options for UK finance minister Healey in October 28 budget",
-      "link": "https://www.investing.com/news/forex-news/factboxoptions-for-uk-finance-minister-healey-in-october-28-budget-4936440",
-      "published": "2026-10-07 11:54:23",
-      "ts": 1791374063
     },
     {
       "source": "MarketWatch",
@@ -61,7 +75,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Cryptos tumble, with ETH down 5% as Tom Lee confirms buying limit",
+      "title": "Live updates: Cryptos tumble, with ETH down 5% as Tom Lee confirms Bitmine buying limit",
       "link": "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated",
       "published": "Wed, 07 Oct 2026 11:09:50 +0000",
       "ts": 1791371390
@@ -194,7 +208,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Robinhood adds bitcoin worth $25 million to its balance sheet",
+      "title": "Robinhood adds $25 million of bitcoin to its balance sheet",
       "link": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
       "published": "Wed, 07 Oct 2026 08:53:27 +0000",
       "ts": 1791363207
@@ -226,20 +240,6 @@
       "link": "https://cointelegraph.com/news/russia-first-crypto-platforms-register-new-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 07 Oct 2026 08:06:35 +0000",
       "ts": 1791360395
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Down but not out. Bitcoin's stair-step bullish trajectory is still intact",
-      "link": "https://www.coindesk.com/markets/2026/10/07/down-but-not-out-bitcoin-s-stair-step-bullish-trajectory-is-still-intact",
-      "published": "Wed, 07 Oct 2026 07:52:22 +0000",
-      "ts": 1791359542
-    },
-    {
-      "source": "Investing Forex",
-      "title": "French bond yields resume upward march following brief relief rally",
-      "link": "https://www.investing.com/news/forex-news/french-bond-yields-resume-upward-marchfollowing-brief-relief-rally-4935716",
-      "published": "2026-10-07 07:38:47",
-      "ts": 1791358727
     },
     {
       "source": "Investing Crypto",
