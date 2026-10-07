@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-07T04:29:08.754034+00:00",
+  "updated_utc": "2026-10-07T04:50:10.341359+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week",
+      "link": "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
+      "published": "Wed, 07 Oct 2026 04:31:14 +0000",
+      "ts": 1791347474
+    },
     {
       "source": "CoinDesk",
       "title": "Cardano gives token issuers power to freeze, seize and restrict assets",
@@ -240,13 +247,6 @@
       "link": "https://www.investing.com/news/forex-news/german-yields-drop-as-markets-seek-shelter-leaving-french-oats-sidelined-4933558",
       "published": "2026-10-06 11:42:33",
       "ts": 1791286953
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet",
-      "published": "Tue, 06 Oct 2026 11:30:00 +0000",
-      "ts": 1791286200
     },
     {
       "source": "Investing Forex",
