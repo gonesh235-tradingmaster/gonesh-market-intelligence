@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-07T11:21:16.173576+00:00",
+  "updated_utc": "2026-10-07T11:37:40.660115+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Here’s what bitcoin needs to break above $87,000",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/07/here-s-what-bitcoin-needs-to-break-above-usd87-000",
+      "published": "Wed, 07 Oct 2026 11:30:00 +0000",
+      "ts": 1791372600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "These two hard-hit stocks are poised for a comeback, says fund manager",
+      "link": "https://www.marketwatch.com/story/these-two-hard-hit-stocks-are-poised-for-a-comeback-says-fund-manager-cccc0c4e?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 11:21:00 GMT",
+      "ts": 1791372060
+    },
     {
       "source": "MarketWatch",
       "title": "Meta stock scores a rare ‘golden cross’ buy signal as investors swarm to its top-charting AI agent",
@@ -19,7 +33,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin slides under $84,000 as $550 million in bets get liquidated",
+      "title": "Live updates: BitMine announces ETH buying limit. Ether, bitcoin slide",
       "link": "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated",
       "published": "Wed, 07 Oct 2026 11:09:50 +0000",
       "ts": 1791371390
@@ -151,13 +165,6 @@
       "ts": 1791364146
     },
     {
-      "source": "MarketWatch",
-      "title": "Josh Brolin sells Atlanta-area mansion for $4 million after slashing price",
-      "link": "https://www.marketwatch.com/story/josh-brolin-sells-atlanta-area-mansion-for-4-million-after-slashing-price-52561a89?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 09:05:00 GMT",
-      "ts": 1791363900
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bitcoin ETFs rebound with $119M inflow as Ether extends losses",
       "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -240,13 +247,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed",
       "published": "Wed, 07 Oct 2026 05:58:25 +0000",
       "ts": 1791352705
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Pudgy Penguins’ Abstract becomes second Ethereum layer 2 to shut in a week",
-      "link": "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
-      "published": "Wed, 07 Oct 2026 04:31:14 +0000",
-      "ts": 1791347474
     },
     {
       "source": "Investing Crypto",
