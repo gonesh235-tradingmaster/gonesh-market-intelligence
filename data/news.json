@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-10-07T07:50:08.034341+00:00",
+  "updated_utc": "2026-10-07T08:02:50.697483+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "A popular tech fund is now overbought. That’s no reason to sell, history shows.",
+      "link": "https://www.marketwatch.com/story/a-popular-tech-fund-is-now-overbought-thats-no-reason-to-sell-history-shows-d998aab3?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 08:01:00 GMT",
+      "ts": 1791360060
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Meta stock achieves a golden cross as shares thrive since Muse introduction",
+      "link": "https://www.marketwatch.com/story/meta-stock-achieves-a-golden-cross-as-shares-thrive-since-muse-introduction-5ba818d4?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 07:57:00 GMT",
+      "ts": 1791359820
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Down but not out. Bitcoin's stair-step bullish trajectory is still intact",
+      "link": "https://www.coindesk.com/markets/2026/10/07/down-but-not-out-bitcoin-s-stair-step-bullish-trajectory-is-still-intact",
+      "published": "Wed, 07 Oct 2026 07:52:22 +0000",
+      "ts": 1791359542
+    },
+    {
+      "source": "Investing Forex",
+      "title": "French bond yields resume upward march following brief relief rally",
+      "link": "https://www.investing.com/news/forex-news/french-bond-yields-resume-upward-marchfollowing-brief-relief-rally-4935716",
+      "published": "2026-10-07 07:38:47",
+      "ts": 1791358727
+    },
     {
       "source": "Investing Crypto",
       "title": "Yapı Kredi Kripto Selects Integral to Power Digital Asset Trading Services in Türkiye",
@@ -179,20 +207,6 @@
       "ts": 1791318060
     },
     {
-      "source": "MarketWatch",
-      "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
-      "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 20:15:00 GMT",
-      "ts": 1791317700
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
-      "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
-      "published": "Tue, 06 Oct 2026 19:58:00 GMT",
-      "ts": 1791316680
-    },
-    {
       "source": "Investing Crypto",
       "title": "Anvil Announces SDK Launch, Enterprise Partnerships, and $5M ANVL Token Sale",
       "link": "https://www.investing.com/news/cryptocurrency-news/anvil-announces-sdk-launch-enterprise-partnerships-and-5m-anvl-token-sale-4935117",
@@ -249,13 +263,6 @@
       "ts": 1791298807
     },
     {
-      "source": "CoinDesk",
-      "title": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
-      "link": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
-      "published": "Tue, 06 Oct 2026 13:02:33 +0000",
-      "ts": 1791291753
-    },
-    {
       "source": "Investing Forex",
       "title": "Treasuries and Bunds gain as safe-haven flows shadow French fiscal woes",
       "link": "https://www.investing.com/news/forex-news/german-yields-drop-as-markets-seek-shelter-leaving-french-oats-sidelined-4933558",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/morgan-stanley-bets-against-pound-ahead-of-uk-budget-4933608",
       "published": "2026-10-06 08:27:47",
       "ts": 1791275267
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound steady as firm dollar caps gains",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steady-as-firm-dollar-caps-gains-4933601",
-      "published": "2026-10-06 08:15:17",
-      "ts": 1791274517
     }
   ]
 }
