@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-07T03:55:25.900364+00:00",
+  "updated_utc": "2026-10-07T04:09:32.247490+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
+      "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks",
+      "published": "Wed, 07 Oct 2026 04:00:51 +0000",
+      "ts": 1791345651
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar holds gains, yen weakens near 158",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-weakens-near-158-4935567",
+      "published": "2026-10-07 03:51:14",
+      "ts": 1791345074
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin.de trading remains halted as German regulator rejects MiCA application",
@@ -235,13 +249,6 @@
       "ts": 1791282949
     },
     {
-      "source": "CoinDesk",
-      "title": "Smaller altcoins shine as bitcoin stills trades around $85,000",
-      "link": "https://www.coindesk.com/markets/2026/10/06/smaller-altcoins-shine-as-bitcoin-stills-trades-around-usd85-000",
-      "published": "Tue, 06 Oct 2026 10:30:00 +0000",
-      "ts": 1791282600
-    },
-    {
       "source": "Investing Forex",
       "title": "Goldman sees Korean FX intervention risk if won strengthens sharply",
       "link": "https://www.investing.com/news/forex-news/goldman-sees-korean-fx-intervention-risk-if-won-strengthens-sharply-93CH-4933873",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/changer-launches-stablecoinfirst-selfcustodial-wallet-to-make-stablecoins-easier-to-use-4933317",
       "published": "2026-10-06 03:30:10",
       "ts": 1791257410
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Euro faces political, fiscal reckoning as it hovers near 17-month low",
-      "link": "https://www.investing.com/news/forex-news/euro-faces-political-fiscal-reckoning-as-it-hovers-near-17month-low-4933206",
-      "published": "2026-10-06 01:18:22",
-      "ts": 1791249502
     }
   ]
 }
