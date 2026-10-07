@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-07T19:39:32.520700+00:00",
+  "updated_utc": "2026-10-07T19:53:03.424220+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -9,6 +9,13 @@
       "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 19:35:00 GMT",
       "ts": 1791401700
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Falls 10% In Bearish Trade",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-10-in-bearish-trade-4937373",
+      "published": "2026-10-07 19:26:58",
+      "ts": 1791401218
     },
     {
       "source": "Investing Crypto",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-climbs-euro-nears-17month-low-4933337",
       "published": "2026-10-06 21:06:19",
       "ts": 1791320779
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Anvil Announces SDK Launch, Enterprise Partnerships, and $5M ANVL Token Sale",
-      "link": "https://www.investing.com/news/cryptocurrency-news/anvil-announces-sdk-launch-enterprise-partnerships-and-5m-anvl-token-sale-4935117",
-      "published": "2026-10-06 19:30:07",
-      "ts": 1791315007
     }
   ]
 }
