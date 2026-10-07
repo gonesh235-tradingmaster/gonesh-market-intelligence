@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-10-07T10:29:48.421649+00:00",
+  "updated_utc": "2026-10-07T10:48:36.330667+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin’s recovery stalls just short of rescuing its last underwater cohort",
+      "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-s-recovery-stalls-just-short-of-rescuing-its-last-underwater-cohort",
+      "published": "Wed, 07 Oct 2026 10:38:23 +0000",
+      "ts": 1791369503
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Liquidations jump to $547 million as oil rally hits crypto market",
+      "link": "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000",
+      "published": "Wed, 07 Oct 2026 10:35:09 +0000",
+      "ts": 1791369309
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Sui Sets Record for Highest Verified Throughput Settled to a Blockchain: 40 Million Transactions Per Second",
+      "link": "https://www.investing.com/news/cryptocurrency-news/sui-sets-record-for-highest-verified-throughput-settled-to-a-blockchain-40-million-transactions-per-second-4936094",
+      "published": "2026-10-07 10:30:10",
+      "ts": 1791369010
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trump-backed WLFI plans USD1 payments for online businesses",
+      "link": "https://cointelegraph.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 10:26:55 +0000",
+      "ts": 1791368815
+    },
     {
       "source": "MarketWatch",
       "title": "Elon Musk and Intel CEO shore up chipmaker’s role in Terafab project — and here’s what the news is doing to the stock.",
@@ -193,13 +221,6 @@
       "ts": 1791357059
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 06:00:00 +0000",
-      "ts": 1791352800
-    },
-    {
       "source": "CoinDesk",
       "title": "U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed",
       "link": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed",
@@ -219,13 +240,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
       "published": "Wed, 07 Oct 2026 04:11:33 +0000",
       "ts": 1791346293
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
-      "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks",
-      "published": "Wed, 07 Oct 2026 04:00:51 +0000",
-      "ts": 1791345651
     },
     {
       "source": "Investing Crypto",
@@ -263,25 +277,11 @@
       "ts": 1791315007
     },
     {
-      "source": "CoinDesk",
-      "title": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
-      "link": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
-      "published": "Tue, 06 Oct 2026 17:00:00 +0000",
-      "ts": 1791306000
-    },
-    {
       "source": "Investing Crypto",
       "title": "New Generation of Crypto Miners Released by ASICID",
       "link": "https://www.investing.com/news/cryptocurrency-news/new-generation-of-crypto-miners-released-by-asicid-4934907",
       "published": "2026-10-06 15:00:08",
       "ts": 1791298808
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Superform Activates Earn Strategies for Tokenized Stocks on Base, Powered by Aave",
-      "link": "https://www.investing.com/news/cryptocurrency-news/superform-activates-earn-strategies-for-tokenized-stocks-on-base-powered-by-aave-4934906",
-      "published": "2026-10-06 15:00:07",
-      "ts": 1791298807
     }
   ]
 }
