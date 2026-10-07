@@ -1,14 +1,28 @@
 {
-  "updated_utc": "2026-10-07T07:11:02.063590+00:00",
+  "updated_utc": "2026-10-07T07:32:00.089352+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "DOJ invokes Bitcoin Fog ruling in potential blow to Roman Storm acquittal bid",
+      "link": "https://cointelegraph.com/news/roman-storm-bitcoin-fog-doj-acquittal-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 07:10:59 +0000",
+      "ts": 1791357059
+    },
     {
       "source": "MarketWatch",
       "title": "How one trend-following fund outperformed rivals by bringing humans back into the decision-making process",
       "link": "https://www.marketwatch.com/story/how-one-trend-following-fund-outperformed-rivals-by-bringing-humans-back-into-the-decision-making-process-12285e18?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 07:08:00 GMT",
       "ts": 1791356880
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin drops to $84k amid pressure from rising oil prices, yields",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-84k-amid-pressure-from-rising-oil-prices-yields-4935676",
+      "published": "2026-10-07 06:54:08",
+      "ts": 1791356048
     },
     {
       "source": "Cointelegraph",
@@ -193,13 +207,6 @@
       "ts": 1791312992
     },
     {
-      "source": "Cointelegraph",
-      "title": "Russia’s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
-      "link": "https://cointelegraph.com/news/russia-digital-ruble-adoption-brics-cbdc-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 06 Oct 2026 18:19:35 +0000",
-      "ts": 1791310775
-    },
-    {
       "source": "CoinDesk",
       "title": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
       "link": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steady-as-firm-dollar-caps-gains-4933601",
       "published": "2026-10-06 08:15:17",
       "ts": 1791274517
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Changer+ Launches Stablecoin-First Self-Custodial Wallet to Make Stablecoins Easier to Use",
-      "link": "https://www.investing.com/news/cryptocurrency-news/changer-launches-stablecoinfirst-selfcustodial-wallet-to-make-stablecoins-easier-to-use-4933317",
-      "published": "2026-10-06 03:30:10",
-      "ts": 1791257410
     }
   ]
 }
