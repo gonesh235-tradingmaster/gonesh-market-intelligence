@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-07T18:49:20.368855+00:00",
+  "updated_utc": "2026-10-07T19:04:33.607160+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 07 Oct 2026 18:55:36 +0000",
+      "ts": 1791399336
+    },
     {
       "source": "Investing Forex",
       "title": "Dollar rises as Fed minutes reinforce higher-for-longer rate outlook",
@@ -156,13 +163,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
       "published": "Wed, 07 Oct 2026 13:20:54 +0000",
       "ts": 1791379254
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 13:07:40 +0000",
-      "ts": 1791378460
     },
     {
       "source": "CoinDesk",
