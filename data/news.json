@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-10-07T11:01:47.427113+00:00",
+  "updated_utc": "2026-10-07T11:21:16.173576+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Meta stock scores a rare ‘golden cross’ buy signal as investors swarm to its top-charting AI agent",
+      "link": "https://www.marketwatch.com/story/meta-stock-achieves-a-golden-cross-as-shares-thrive-since-muse-introduction-5ba818d4?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 11:18:00 GMT",
+      "ts": 1791371880
+    },
+    {
+      "source": "MarketWatch",
+      "title": "SpaceX reportedly is looking to borrow as much money as the company generates in revenue to buy Nvidia chips",
+      "link": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 11:11:00 GMT",
+      "ts": 1791371460
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin slides under $84,000 as $550 million in bets get liquidated",
+      "link": "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated",
+      "published": "Wed, 07 Oct 2026 11:09:50 +0000",
+      "ts": 1791371390
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin falls as Iran attacks, oil surge fuel rate fears; crypto stocks slip",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-as-iran-attacks-oil-surge-fuel-rate-fears-crypto-stocks-slip-4936200",
+      "published": "2026-10-07 10:52:38",
+      "ts": 1791370358
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin’s recovery stalls just short of rescuing its last underwater cohort",
@@ -109,13 +137,6 @@
       "ts": 1791364500
     },
     {
-      "source": "MarketWatch",
-      "title": "SpaceX reportedly is looking to raise as much money as the company generates in revenue to buy Nvidia chips",
-      "link": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 09:15:00 GMT",
-      "ts": 1791364500
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound dips on firm dollar; EUR/GBP at 16-month low",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-dips-on-firm-dollar-eurgbp-at-16month-low-4935921",
@@ -142,13 +163,6 @@
       "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 07 Oct 2026 09:03:38 +0000",
       "ts": 1791363818
-    },
-    {
-      "source": "MarketWatch",
-      "title": "A Laguna Beach gem renovated by Diane Keaton is up for grabs for $10.3 million",
-      "link": "https://www.marketwatch.com/story/a-laguna-beach-gem-renovated-by-diane-keaton-is-up-for-grabs-for-10-3-million-8e6e1927?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 09:01:00 GMT",
-      "ts": 1791363660
     },
     {
       "source": "CoinDesk",
@@ -235,13 +249,6 @@
       "ts": 1791347474
     },
     {
-      "source": "CoinDesk",
-      "title": "Cardano gives token issuers power to freeze, seize and restrict assets",
-      "link": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
-      "published": "Wed, 07 Oct 2026 04:11:33 +0000",
-      "ts": 1791346293
-    },
-    {
       "source": "Investing Crypto",
       "title": "BTCC Exchange Launches Refreshed Trust Center: Alex Hung on 15 Years of Earning Traders’ Trust",
       "link": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-launches-refreshed-trust-center-alex-hung-on-15-years-of-earning-traders-trust-4935518",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/anvil-announces-sdk-launch-enterprise-partnerships-and-5m-anvl-token-sale-4935117",
       "published": "2026-10-06 19:30:07",
       "ts": 1791315007
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "New Generation of Crypto Miners Released by ASICID",
-      "link": "https://www.investing.com/news/cryptocurrency-news/new-generation-of-crypto-miners-released-by-asicid-4934907",
-      "published": "2026-10-06 15:00:08",
-      "ts": 1791298808
     }
   ]
 }
