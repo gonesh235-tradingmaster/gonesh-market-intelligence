@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-07T20:24:02.025930+00:00",
+  "updated_utc": "2026-10-07T20:40:30.217000+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Options traders are betting on a dramatic drop in interest rates",
+      "link": "https://www.marketwatch.com/story/options-traders-are-betting-on-a-dramatic-drop-in-interest-rates-141066fb?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 20:36:00 GMT",
+      "ts": 1791405360
+    },
     {
       "source": "MarketWatch",
       "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
@@ -100,13 +107,6 @@
       "link": "https://www.marketwatch.com/story/the-magnificent-seven-are-now-big-enough-to-move-the-economy-why-that-could-be-a-problem-56d174db?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 17:32:00 GMT",
       "ts": 1791394320
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
-      "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 17:27:00 GMT",
-      "ts": 1791394020
     },
     {
       "source": "CoinDesk",
