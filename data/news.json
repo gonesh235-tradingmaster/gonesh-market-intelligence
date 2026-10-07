@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-07T21:58:54.267719+00:00",
+  "updated_utc": "2026-10-07T22:14:36.781480+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin falls to $83k amid pressure from Fed minutes, oil prices, and yields",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-84k-amid-pressure-from-rising-oil-prices-yields-4935676",
+      "published": "2026-10-07 21:50:27",
+      "ts": 1791409827
+    },
     {
       "source": "Investing Forex",
       "title": "U.S. bond market fares better than Europe after strong 10-year Treasury auction",
@@ -177,13 +184,6 @@
       "link": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
       "published": "Wed, 07 Oct 2026 14:27:37 +0000",
       "ts": 1791383257
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin drops to $83k amid pressure from rising oil prices, yields",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-84k-amid-pressure-from-rising-oil-prices-yields-4935676",
-      "published": "2026-10-07 13:52:32",
-      "ts": 1791381152
     },
     {
       "source": "Investing Forex",
