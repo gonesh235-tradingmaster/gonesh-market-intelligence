@@ -1,21 +1,35 @@
 {
-  "updated_utc": "2026-10-07T18:27:21.056458+00:00",
+  "updated_utc": "2026-10-07T18:49:20.368855+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Dollar rises as Fed minutes reinforce higher-for-longer rate outlook",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-weakens-near-158-4935567",
+      "published": "2026-10-07 18:43:34",
+      "ts": 1791398614
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Stocks are increasingly their own best hedge. This chart shows why.",
+      "link": "https://www.marketwatch.com/story/stocks-are-increasingly-their-own-best-hedge-this-chart-shows-why-19a79b68?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 18:31:00 GMT",
+      "ts": 1791397860
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
+      "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
+      "published": "Wed, 07 Oct 2026 18:28:00 GMT",
+      "ts": 1791397680
+    },
     {
       "source": "MarketWatch",
       "title": "SpaceX may chase ‘stunning’ AI returns by taking on a lot of debt to buy Nvidia chips",
       "link": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
       "published": "Wed, 07 Oct 2026 18:22:00 GMT",
       "ts": 1791397320
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
-      "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 18:07:00 GMT",
-      "ts": 1791396420
     },
     {
       "source": "Cointelegraph",
@@ -116,13 +130,6 @@
       "ts": 1791385434
     },
     {
-      "source": "MarketWatch",
-      "title": "Should I put my nest egg in a 30-year Treasury bond?",
-      "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 14:34:00 GMT",
-      "ts": 1791383640
-    },
-    {
       "source": "CoinDesk",
       "title": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
       "link": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
@@ -219,13 +226,6 @@
       "link": "https://www.investing.com/news/forex-news/iraq-devalues-dinar-to-1520-per-us-dollar-state-news-agency-says-4935843",
       "published": "2026-10-07 10:00:53",
       "ts": 1791367253
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Euro languishes as Indian rupee tests all-time lows; Dollar awaits FOMC minutes",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-weakens-near-158-4935567",
-      "published": "2026-10-07 09:29:54",
-      "ts": 1791365394
     },
     {
       "source": "Investing Forex",
