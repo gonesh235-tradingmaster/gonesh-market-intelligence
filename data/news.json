@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-07T01:24:16.621990+00:00",
+  "updated_utc": "2026-10-07T01:41:26.195024+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "BTCC Exchange Launches Refreshed Trust Center: Alex Hung on 15 Years of Earning Traders’ Trust",
+      "link": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-launches-refreshed-trust-center-alex-hung-on-15-years-of-earning-traders-trust-4935518",
+      "published": "2026-10-07 01:30:09",
+      "ts": 1791336609
+    },
     {
       "source": "Cointelegraph",
       "title": "Pudgy Penguins-backed Abstract to shut down after ‘tens of millions’ in losses",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-faces-political-fiscal-reckoning-as-it-hovers-near-17month-low-4933206",
       "published": "2026-10-06 01:18:22",
       "ts": 1791249502
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin hovers under $86k as traders parse positive CFTC move against bond rout",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-near-86k-as-softer-jobs-data-offsets-pressure-from-high-yields-4931086",
-      "published": "2026-10-05 21:55:15",
-      "ts": 1791237315
     }
   ]
 }
