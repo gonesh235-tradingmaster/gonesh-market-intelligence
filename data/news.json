@@ -1,8 +1,43 @@
 {
-  "updated_utc": "2026-10-08T18:06:10.436176+00:00",
+  "updated_utc": "2026-10-08T18:28:30.038104+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Bond yields fell, as the Treasury market passed a crucial test of investor confidence",
+      "link": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 18:19:00 GMT",
+      "ts": 1791483540
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
+      "link": "https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 18:17:35 +0000",
+      "ts": 1791483455
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto crumbles as anniversary of flash crash nears",
+      "link": "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears",
+      "published": "Thu, 08 Oct 2026 18:14:39 +0000",
+      "ts": 1791483279
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
+      "link": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 18:08:00 GMT",
+      "ts": 1791482880
+    },
+    {
+      "source": "CoinDesk",
+      "title": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
+      "link": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
+      "published": "Thu, 08 Oct 2026 18:06:41 +0000",
+      "ts": 1791482801
+    },
     {
       "source": "MarketWatch",
       "title": "Rising interest rates: The good, the bad and the ugly for retirees",
@@ -67,25 +102,11 @@
       "ts": 1791474955
     },
     {
-      "source": "MarketWatch",
-      "title": "This chart shows the No. 1 reason why the cost of raising kids jumped 60% in eight years",
-      "link": "https://www.marketwatch.com/story/this-chart-shows-the-no-1-reason-why-the-cost-of-raising-kids-jumped-60-in-eight-years-175a2309?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 15:46:00 GMT",
-      "ts": 1791474360
-    },
-    {
       "source": "CoinDesk",
       "title": "U.S. government moves $1 billion in bitcoin from Bitfinex hack wallet, no sale indicated",
       "link": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
       "published": "Thu, 08 Oct 2026 15:43:04 +0000",
       "ts": 1791474184
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The Treasury market is facing a crucial vote of investor confidence",
-      "link": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 15:37:00 GMT",
-      "ts": 1791473820
     },
     {
       "source": "Cointelegraph",
@@ -158,13 +179,6 @@
       "ts": 1791466200
     },
     {
-      "source": "CoinDesk",
-      "title": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
-      "link": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
-      "published": "Thu, 08 Oct 2026 13:06:24 +0000",
-      "ts": 1791464784
-    },
-    {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -198,20 +212,6 @@
       "link": "https://www.investing.com/news/forex-news/french-yields-edge-higher-in-6th-straight-weekly-loss-as-regional-contagion-widens-4938034",
       "published": "2026-10-08 12:07:21",
       "ts": 1791461241
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Sui’s Hashi to launch with $500M in Bitcoin finance commitments",
-      "link": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 08 Oct 2026 12:03:28 +0000",
-      "ts": 1791461008
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin and ether holders urged to enter ‘bunker mode’ against possible AI attacks",
-      "link": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
-      "published": "Thu, 08 Oct 2026 11:47:16 +0000",
-      "ts": 1791460036
     },
     {
       "source": "Investing Forex",
