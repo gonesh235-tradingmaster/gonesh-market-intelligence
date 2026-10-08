@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-08T03:48:08.991039+00:00",
+  "updated_utc": "2026-10-08T04:01:35.028872+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin breaks below $83,000 as oil jumps on Iran strike-plan report",
+      "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-breaks-below-usd83-000-as-oil-jumps-on-iran-strike-plan-report",
+      "published": "Thu, 08 Oct 2026 04:00:07 +0000",
+      "ts": 1791432007
+    },
     {
       "source": "MarketWatch",
       "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
@@ -212,13 +219,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
       "published": "Wed, 07 Oct 2026 13:20:54 +0000",
       "ts": 1791379254
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ether is about to lose a steady buyer as Tom Lee says Bitmine will stop token purchases",
-      "link": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
-      "published": "Wed, 07 Oct 2026 12:40:31 +0000",
-      "ts": 1791376831
     },
     {
       "source": "Investing Forex",
