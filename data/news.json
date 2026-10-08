@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-08T07:08:07.416499+00:00",
+  "updated_utc": "2026-10-08T07:29:48.824418+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin clings to $83K below key averages: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
+      "published": "2026-10-08 07:12:17",
+      "ts": 1791443537
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin falls below $83k as M.East tensions, soaring yields dent crypto appetite",
@@ -163,13 +170,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-10-in-bearish-trade-4937373",
       "published": "2026-10-07 19:26:58",
       "ts": 1791401218
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin breaks below 20/50-SMA, eyes $81K support: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
-      "published": "2026-10-07 19:19:11",
-      "ts": 1791400751
     },
     {
       "source": "MarketWatch",
