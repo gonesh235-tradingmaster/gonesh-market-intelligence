@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-08T18:51:18.842425+00:00",
+  "updated_utc": "2026-10-08T19:04:57.201228+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
+      "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 19:00:00 GMT",
+      "ts": 1791486000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The options market is reminding investors there’s a cure for rising bond yields — higher yields",
+      "link": "https://www.marketwatch.com/story/the-options-market-is-reminding-investors-theres-a-cure-for-rising-bond-yields-higher-yields-2dcac640?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 18:51:00 GMT",
+      "ts": 1791485460
+    },
     {
       "source": "MarketWatch",
       "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
@@ -74,25 +88,11 @@
       "ts": 1791478320
     },
     {
-      "source": "MarketWatch",
-      "title": "Why a longtime skeptic of Palantir’s stock is finally saying it’s time to buy",
-      "link": "https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 16:32:00 GMT",
-      "ts": 1791477120
-    },
-    {
       "source": "Cointelegraph",
       "title": "IMF warns tokenized markets could amplify financial risks",
       "link": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 08 Oct 2026 16:25:06 +0000",
       "ts": 1791476706
-    },
-    {
-      "source": "MarketWatch",
-      "title": "America’s renters are emerging as a political movement",
-      "link": "https://www.marketwatch.com/story/locked-out-of-home-ownership-renters-are-rallying-voters-for-affordable-housing-policies-bf946d70?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 16:11:00 GMT",
-      "ts": 1791475860
     },
     {
       "source": "Investing Crypto",
@@ -110,7 +110,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "U.S. government moves $1 billion in bitcoin from Bitfinex hack wallet, no sale indicated",
+      "title": "U.S. government moves $1 billion in bitcoin tied to Bitfinex hack, with no sign of sale",
       "link": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
       "published": "Thu, 08 Oct 2026 15:43:04 +0000",
       "ts": 1791474184
