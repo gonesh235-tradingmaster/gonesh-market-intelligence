@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-08T06:52:13.509803+00:00",
+  "updated_utc": "2026-10-08T07:08:07.416499+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin falls below $83k as M.East tensions, soaring yields dent crypto appetite",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-83k-as-meast-tensions-soaring-yields-dent-crypto-appetite-4937967",
+      "published": "2026-10-08 06:37:24",
+      "ts": 1791441444
+    },
     {
       "source": "CoinDesk",
       "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/yap-kredi-kripto-selects-integral-to-power-digital-asset-trading-services-in-turkiye-4935714",
       "published": "2026-10-07 07:30:09",
       "ts": 1791358209
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "BTCC Exchange Launches Refreshed Trust Center: Alex Hung on 15 Years of Earning Traders’ Trust",
-      "link": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-launches-refreshed-trust-center-alex-hung-on-15-years-of-earning-traders-trust-4935518",
-      "published": "2026-10-07 01:30:09",
-      "ts": 1791336609
     }
   ]
 }
