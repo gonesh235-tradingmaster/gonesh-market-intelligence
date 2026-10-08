@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-10-08T09:39:09.830709+00:00",
+  "updated_utc": "2026-10-08T09:56:35.787282+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Samsung just did something no tech company has ever done, and investors still aren’t satisfied",
+      "link": "https://www.marketwatch.com/story/samsung-just-did-something-no-tech-company-has-ever-done-and-investors-still-arent-satisfied-3ff5ecb2?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 09:50:00 GMT",
+      "ts": 1791453000
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
+      "link": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 09:42:04 +0000",
+      "ts": 1791452524
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Euro limps toward fifth weekly loss as dollar pauses near 18-month highs",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-rangebound-as-dollar-holds-near-18month-high-yen-slips-4937859",
+      "published": "2026-10-08 09:41:16",
+      "ts": 1791452476
+    },
     {
       "source": "MarketWatch",
       "title": "Oil prices are jumping again. How the S&P 500 has performed on days crude has seen big gains may be surprising.",
@@ -123,13 +144,6 @@
       "ts": 1791444642
     },
     {
-      "source": "Investing Forex",
-      "title": "Asian currencies rangebound as dollar holds 18-month high, euro under pressure",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-rangebound-as-dollar-holds-near-18month-high-yen-slips-4937859",
-      "published": "2026-10-08 07:24:06",
-      "ts": 1791444246
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin clings to $83K below key averages: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
@@ -163,13 +177,6 @@
       "link": "https://cointelegraph.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 08 Oct 2026 05:06:51 +0000",
       "ts": 1791436011
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto must cement adoption to withstand US policy shifts: Canton CEO",
-      "link": "https://cointelegraph.com/news/canton-ceo-crypto-adoption-us-policy-reversals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 08 Oct 2026 04:28:27 +0000",
-      "ts": 1791433707
     },
     {
       "source": "CoinDesk",
@@ -233,13 +240,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-holds-gains-yen-weakens-near-158-4935567",
       "published": "2026-10-07 20:58:07",
       "ts": 1791406687
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
-      "link": "https://www.marketwatch.com/story/higher-yields-are-taking-their-toll-on-all-areas-of-the-stock-market-except-the-one-that-matters-69a90322?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 20:58:00 GMT",
-      "ts": 1791406680
     },
     {
       "source": "Investing Crypto",
