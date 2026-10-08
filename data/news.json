@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-08T11:03:53.398113+00:00",
+  "updated_utc": "2026-10-08T11:24:01.518384+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin ETF investors head for the exit, and it's the biggest rush in months",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months",
+      "published": "Thu, 08 Oct 2026 11:15:00 +0000",
+      "ts": 1791458100
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US government moves $770M of seized Bitcoin to Coinbase Prime",
+      "link": "https://cointelegraph.com/news/us-government-moves-770m-seized-bitcoin-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 11:03:36 +0000",
+      "ts": 1791457416
+    },
     {
       "source": "MarketWatch",
       "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
@@ -54,7 +68,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Samsung just did something no tech company has ever done, and investors still aren’t satisfied",
+      "title": "Samsung just did something no tech company has ever done, but investors still aren’t satisfied",
       "link": "https://www.marketwatch.com/story/samsung-just-did-something-no-tech-company-has-ever-done-and-investors-still-arent-satisfied-3ff5ecb2?mod=mw_rss_topstories",
       "published": "Thu, 08 Oct 2026 09:50:00 GMT",
       "ts": 1791453000
@@ -198,20 +212,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
       "published": "Thu, 08 Oct 2026 06:17:13 +0000",
       "ts": 1791440233
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 08 Oct 2026 06:00:00 +0000",
-      "ts": 1791439200
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin loans are paying for tuition and working capital, not just trades, lenders say",
-      "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say",
-      "published": "Thu, 08 Oct 2026 05:40:41 +0000",
-      "ts": 1791438041
     },
     {
       "source": "Investing Crypto",
