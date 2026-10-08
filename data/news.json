@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-08T17:36:25.359581+00:00",
+  "updated_utc": "2026-10-08T17:53:29.141303+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Rising interest rates: The good, the bad and the ugly for retirees",
+      "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 17:45:00 GMT",
+      "ts": 1791481500
+    },
     {
       "source": "MarketWatch",
       "title": "How to provide guaranteed retirement income while paying no commissions",
@@ -51,13 +58,6 @@
       "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
       "published": "Thu, 08 Oct 2026 16:00:00 GMT",
       "ts": 1791475200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The good, the bad and the ugly of rising interest rates",
-      "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 15:59:00 GMT",
-      "ts": 1791475140
     },
     {
       "source": "Cointelegraph",
