@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-08T04:01:35.028872+00:00",
+  "updated_utc": "2026-10-08T04:21:51.887353+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies rangebound as dollar holds near 18-month high, yen slips",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-rangebound-as-dollar-holds-near-18month-high-yen-slips-4937859",
+      "published": "2026-10-08 04:01:47",
+      "ts": 1791432107
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin breaks below $83,000 as oil jumps on Iran strike-plan report",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-launches-refreshed-trust-center-alex-hung-on-15-years-of-earning-traders-trust-4935518",
       "published": "2026-10-07 01:30:09",
       "ts": 1791336609
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar slips as euro rebounds after France’s Le Pen unveils budget proposals",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-climbs-euro-nears-17month-low-4933337",
-      "published": "2026-10-06 21:06:19",
-      "ts": 1791320779
     }
   ]
 }
