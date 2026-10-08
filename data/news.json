@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-08T10:34:22.751605+00:00",
+  "updated_utc": "2026-10-08T10:52:45.653911+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live news: Risk assets under pressure as bond selloff and oil rally intensify",
+      "link": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify",
+      "published": "Thu, 08 Oct 2026 10:44:47 +0000",
+      "ts": 1791456287
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin slips below $83,000 as Ethereum researcher's 'bunker mode' call divides crypto",
@@ -198,13 +205,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say",
       "published": "Thu, 08 Oct 2026 05:40:41 +0000",
       "ts": 1791438041
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ethereum’s Glamsterdam test runs near 200 million gas per block after upgrade",
-      "link": "https://www.coindesk.com/tech/2026/10/08/ethereum-s-glamsterdam-test-runs-near-200-million-gas-per-block-after-upgrade",
-      "published": "Thu, 08 Oct 2026 04:23:23 +0000",
-      "ts": 1791433403
     },
     {
       "source": "MarketWatch",
