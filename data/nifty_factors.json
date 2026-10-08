@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-08T07:50:03.452596+00:00",
+  "updated_utc": "2026-10-08T08:02:51.936619+00:00",
   "source": "Yahoo Finance",
   "us_markets": {
     "sp500": {
@@ -23,9 +23,9 @@
       "market_state": ""
     },
     "dow": {
-      "value": 51179.9,
+      "value": 51179.87,
       "previous_close": 50906.05,
-      "change": 273.85,
+      "change": 273.82,
       "change_percent": 0.54,
       "day_high": 51406.44,
       "day_low": 50917.42,
@@ -33,10 +33,10 @@
       "market_state": ""
     },
     "vix": {
-      "value": 15.61,
+      "value": 15.62,
       "previous_close": 15.31,
-      "change": 0.3,
-      "change_percent": 1.96,
+      "change": 0.31,
+      "change_percent": 2.02,
       "day_high": 15.68,
       "day_low": 15.58,
       "currency": "USD",
@@ -57,30 +57,30 @@
   },
   "commodities": {
     "brent": {
-      "value": 104.02,
+      "value": 104.13,
       "previous_close": 100.32,
-      "change": 3.7,
-      "change_percent": 3.69,
-      "day_high": 104.11,
+      "change": 3.81,
+      "change_percent": 3.8,
+      "day_high": 104.21,
       "day_low": 100.75,
       "currency": "USD",
       "market_state": ""
     },
     "wti": {
-      "value": 91.55,
+      "value": 91.72,
       "previous_close": 89.43,
-      "change": 2.12,
-      "change_percent": 2.37,
-      "day_high": 91.67,
+      "change": 2.29,
+      "change_percent": 2.56,
+      "day_high": 91.75,
       "day_low": 88.77,
       "currency": "USD",
       "market_state": ""
     },
     "gold": {
-      "value": 4144.6,
+      "value": 4145.0,
       "previous_close": 4156.8,
-      "change": -12.2,
-      "change_percent": -0.29,
+      "change": -11.8,
+      "change_percent": -0.28,
       "day_high": 4166.8,
       "day_low": 4128.1,
       "currency": "USD",
@@ -88,10 +88,10 @@
     }
   },
   "dxy": {
-    "value": 102.33,
+    "value": 102.29,
     "previous_close": 102.17,
-    "change": 0.16,
-    "change_percent": 0.15,
+    "change": 0.12,
+    "change_percent": 0.12,
     "day_high": 102.39,
     "day_low": 102.13,
     "currency": "USD",
