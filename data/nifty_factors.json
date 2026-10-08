@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-08T21:27:18.258872+00:00",
+  "updated_utc": "2026-10-08T21:45:31.372301+00:00",
   "source": "Yahoo Finance",
   "us_markets": {
     "sp500": {
@@ -88,10 +88,10 @@
     }
   },
   "dxy": {
-    "value": 102.11,
+    "value": 102.1,
     "previous_close": 102.17,
-    "change": -0.06,
-    "change_percent": -0.05,
+    "change": -0.07,
+    "change_percent": -0.07,
     "day_high": 102.47,
     "day_low": 102.03,
     "currency": "USD",
