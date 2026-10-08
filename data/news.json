@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-10-08T09:20:14.244108+00:00",
+  "updated_utc": "2026-10-08T09:39:09.830709+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Oil prices are jumping again. How the S&P 500 has performed on days crude has seen big gains may be surprising.",
+      "link": "https://www.marketwatch.com/story/oil-prices-are-jumping-again-how-the-s-p-500-has-performed-on-days-crude-has-seen-big-gains-may-be-surprising-283555c1?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 09:33:00 GMT",
+      "ts": 1791451980
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Standard Chartered to expand institutional crypto and RWA custody to Singapore",
+      "link": "https://www.coindesk.com/business/2026/10/08/standard-chartered-singapore-dives-into-crypto-stablecoins-and-tokenized-assets-custody",
+      "published": "Thu, 08 Oct 2026 09:32:13 +0000",
+      "ts": 1791451933
+    },
+    {
+      "source": "MarketWatch",
+      "title": "French bonds are suffering through their worst decade since 1803 — and investors are bracing for more pain",
+      "link": "https://www.marketwatch.com/story/french-bonds-are-suffering-through-its-worst-decade-since-1803-and-investors-are-bracing-for-more-pain-63df8fe7?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 09:32:00 GMT",
+      "ts": 1791451920
+    },
     {
       "source": "CoinDesk",
       "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
@@ -18,11 +39,32 @@
       "ts": 1791450900
     },
     {
+      "source": "Investing Crypto",
+      "title": "Bitcoin muted at $83k as M.East tensions, soaring yields dent crypto appetite",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-83k-as-meast-tensions-soaring-yields-dent-crypto-appetite-4937967",
+      "published": "2026-10-08 09:11:26",
+      "ts": 1791450686
+    },
+    {
       "source": "MarketWatch",
       "title": "Simone Biles and Jonathan Owens find a buyer for $1.2 million Texas home—in less than a week",
       "link": "https://www.marketwatch.com/story/simone-biles-and-jonathan-owens-find-a-buyer-for-1-2-million-texas-homein-less-than-a-week-52b1a2a4?mod=mw_rss_topstories",
       "published": "Thu, 08 Oct 2026 09:03:00 GMT",
       "ts": 1791450180
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound slips as hawkish Fed minutes lift dollar",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-hawkish-fed-minutes-lift-dollar-4938198",
+      "published": "2026-10-08 09:02:01",
+      "ts": 1791450121
+    },
+    {
+      "source": "Investing Forex",
+      "title": "BofA sees downside risks for USD/JPY",
+      "link": "https://www.investing.com/news/forex-news/bofa-sees-downside-risks-for-usdjpy-93CH-4938182",
+      "published": "2026-10-08 08:58:55",
+      "ts": 1791449935
     },
     {
       "source": "CoinDesk",
@@ -95,13 +137,6 @@
       "ts": 1791443537
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin falls below $83k as M.East tensions, soaring yields dent crypto appetite",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-83k-as-meast-tensions-soaring-yields-dent-crypto-appetite-4937967",
-      "published": "2026-10-08 06:37:24",
-      "ts": 1791441444
-    },
-    {
       "source": "CoinDesk",
       "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
       "link": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
@@ -172,13 +207,6 @@
       "ts": 1791423009
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
-      "link": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
-      "published": "Thu, 08 Oct 2026 00:35:24 +0000",
-      "ts": 1791419724
-    },
-    {
       "source": "MarketWatch",
       "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
       "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
@@ -214,20 +242,6 @@
       "ts": 1791406680
     },
     {
-      "source": "MarketWatch",
-      "title": "Options traders are betting on a dramatic drop in interest rates",
-      "link": "https://www.marketwatch.com/story/options-traders-are-betting-on-a-dramatic-drop-in-interest-rates-141066fb?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 20:36:00 GMT",
-      "ts": 1791405360
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
-      "link": "https://www.marketwatch.com/story/fed-minutes-show-no-appetite-for-a-series-of-interest-rate-hikes-8b1c6436?mod=mw_rss_topstories",
-      "published": "Wed, 07 Oct 2026 19:35:00 GMT",
-      "ts": 1791401700
-    },
-    {
       "source": "Investing Crypto",
       "title": "EOS Falls 10% In Bearish Trade",
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-10-in-bearish-trade-4937373",
@@ -261,20 +275,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/sui-sets-record-for-highest-verified-throughput-settled-to-a-blockchain-40-million-transactions-per-second-4936094",
       "published": "2026-10-07 10:30:10",
       "ts": 1791369010
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Iraq devalues dinar to 1,520 per US dollar, state news agency says",
-      "link": "https://www.investing.com/news/forex-news/iraq-devalues-dinar-to-1520-per-us-dollar-state-news-agency-says-4935843",
-      "published": "2026-10-07 10:00:53",
-      "ts": 1791367253
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Deutsche Bank says weakness in Swedish krona is due to fundamentals",
-      "link": "https://www.investing.com/news/forex-news/deutsche-bank-says-weakness-in-swedish-krona-is-due-to-fundamentals-93CH-4935861",
-      "published": "2026-10-07 08:38:55",
-      "ts": 1791362335
     },
     {
       "source": "Investing Crypto",
