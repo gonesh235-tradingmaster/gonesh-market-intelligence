@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-08T13:47:27.179988+00:00",
+  "updated_utc": "2026-10-08T14:02:31.636511+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "French bonds are suffering through their worst decade since 1803 — and investors are bracing for more pain",
+      "link": "https://www.marketwatch.com/story/french-bonds-are-suffering-through-its-worst-decade-since-1803-and-investors-are-bracing-for-more-pain-63df8fe7?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 13:52:00 GMT",
+      "ts": 1791467520
+    },
     {
       "source": "MarketWatch",
       "title": "College students have to use credit cards just to cover basic living expenses. Here’s what it’s costing them.",
@@ -123,13 +130,6 @@
       "ts": 1791460036
     },
     {
-      "source": "MarketWatch",
-      "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
-      "link": "https://www.marketwatch.com/story/higher-yields-are-taking-their-toll-on-all-areas-of-the-stock-market-except-the-one-that-matters-69a90322?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 11:43:00 GMT",
-      "ts": 1791459780
-    },
-    {
       "source": "Investing Forex",
       "title": "Euro zone ministers to tell France to pass 2027 budget to calm markets",
       "link": "https://www.investing.com/news/forex-news/euro-zone-ministers-to-tell-france-to-pass-2027-budget-to-calm-markets-4938661",
@@ -166,7 +166,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Risk assets under pressure as bond selloff and oil rally intensify",
+      "title": "Live updates: Bitcoin breaks lower from recent trading range, sliding back to $82,000",
       "link": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify",
       "published": "Thu, 08 Oct 2026 10:44:47 +0000",
       "ts": 1791456287
