@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-08T15:01:29.101352+00:00",
+  "updated_utc": "2026-10-08T15:22:25.396210+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: Digital assets outran stocks and gold in Q3",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3",
+      "published": "Thu, 08 Oct 2026 15:11:15 +0000",
+      "ts": 1791472275
+    },
     {
       "source": "CoinDesk",
       "title": "‘Bunker mode’ is a far greater challenge for institutions than individual crypto holders",
@@ -184,13 +191,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/08/bitcoin-mined-for-pennies-in-2010-moves-after-16-years-now-worth-usd8-5-million",
       "published": "Thu, 08 Oct 2026 11:30:19 +0000",
       "ts": 1791459019
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin ETF investors head for the exit, and it's the biggest rush in months",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months",
-      "published": "Thu, 08 Oct 2026 11:15:00 +0000",
-      "ts": 1791458100
     },
     {
       "source": "Cointelegraph",
