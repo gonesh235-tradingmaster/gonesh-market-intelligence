@@ -1,14 +1,35 @@
 {
-  "updated_utc": "2026-10-08T08:02:53.830527+00:00",
+  "updated_utc": "2026-10-08T08:24:30.390311+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Standard Chartered plans institutional crypto custody in Singapore",
+      "link": "https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 08:08:03 +0000",
+      "ts": 1791446883
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Greece plans 10% capital gains tax on cryptocurrencies",
+      "link": "https://cointelegraph.com/news/greece-capital-gains-tax-cryptocurrencies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 08:03:47 +0000",
+      "ts": 1791446627
+    },
     {
       "source": "CoinDesk",
       "title": "Crypto investment firm Deus X Capital shuts down as backers pursue separate strategies",
       "link": "https://www.coindesk.com/business/2026/10/06/crypto-investment-firm-deus-x-capital-shuts-down-as-backers-pursue-separate-strategies",
       "published": "Thu, 08 Oct 2026 08:00:00 +0000",
       "ts": 1791446400
+    },
+    {
+      "source": "Investing Forex",
+      "title": "French yields edge higher in 6th straight weekly loss as regional contagion widens",
+      "link": "https://www.investing.com/news/forex-news/french-yields-edge-higher-in-6th-straight-weekly-loss-as-regional-contagion-widens-4938034",
+      "published": "2026-10-08 07:44:09",
+      "ts": 1791445449
     },
     {
       "source": "Cointelegraph",
@@ -207,20 +228,6 @@
       "ts": 1791397860
     },
     {
-      "source": "Cointelegraph",
-      "title": "Hunter Biden confirms LAPTOP token ‘not a rug pull,’ just trolling Trumps",
-      "link": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-troll-no-rug-pull?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 18:00:10 +0000",
-      "ts": 1791396010
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Sui tunnels hit 40.6M TPS in live AI agent test",
-      "link": "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 07 Oct 2026 17:46:59 +0000",
-      "ts": 1791395219
-    },
-    {
       "source": "CoinDesk",
       "title": "Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers",
       "link": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
@@ -268,13 +275,6 @@
       "link": "https://www.investing.com/news/forex-news/deutsche-bank-says-weakness-in-swedish-krona-is-due-to-fundamentals-93CH-4935861",
       "published": "2026-10-07 08:38:55",
       "ts": 1791362335
-    },
-    {
-      "source": "Investing Forex",
-      "title": "USD/INR tests record highs as stop-loss orders trigger fresh rally",
-      "link": "https://www.investing.com/news/forex-news/usdinr-tests-record-highs-as-stoploss-orders-trigger-fresh-rally-93CH-4935828",
-      "published": "2026-10-07 08:27:44",
-      "ts": 1791361664
     },
     {
       "source": "Investing Crypto",
