@@ -1,14 +1,35 @@
 {
-  "updated_utc": "2026-10-08T16:22:04.054077+00:00",
+  "updated_utc": "2026-10-08T16:42:23.646980+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Why a longtime skeptic of Palantir’s stock is finally saying it’s time to buy",
+      "link": "https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories",
+      "published": "Thu, 08 Oct 2026 16:32:00 GMT",
+      "ts": 1791477120
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "IMF warns tokenized markets could amplify financial risks",
+      "link": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 08 Oct 2026 16:25:06 +0000",
+      "ts": 1791476706
+    },
     {
       "source": "MarketWatch",
       "title": "America’s renters are emerging as a political movement",
       "link": "https://www.marketwatch.com/story/locked-out-of-home-ownership-renters-are-rallying-voters-for-affordable-housing-policies-bf946d70?mod=mw_rss_topstories",
       "published": "Thu, 08 Oct 2026 16:11:00 GMT",
       "ts": 1791475860
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Cardano Falls 10% In Bearish Trade",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-bearish-trade-4939477",
+      "published": "2026-10-08 16:07:57",
+      "ts": 1791475677
     },
     {
       "source": "MarketWatch",
@@ -93,13 +114,6 @@
       "link": "https://www.marketwatch.com/story/layoffs-havent-been-this-low-since-the-1960s-its-great-if-you-have-a-job-but-not-if-you-dont-74cbdf55?mod=mw_rss_topstories",
       "published": "Thu, 08 Oct 2026 14:35:00 GMT",
       "ts": 1791470100
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-      "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 14:30:00 GMT",
-      "ts": 1791469800
     },
     {
       "source": "CoinDesk",
@@ -207,13 +221,6 @@
       "ts": 1791459765
     },
     {
-      "source": "Cointelegraph",
-      "title": "US government moves $770M of seized Bitcoin to Coinbase Prime",
-      "link": "https://cointelegraph.com/news/us-government-moves-770m-seized-bitcoin-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 08 Oct 2026 11:03:36 +0000",
-      "ts": 1791457416
-    },
-    {
       "source": "Investing Forex",
       "title": "Euro limps toward fifth weekly loss as dollar pauses near 18-month highs",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-rangebound-as-dollar-holds-near-18month-high-yen-slips-4937859",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-10-in-bearish-trade-4937373",
       "published": "2026-10-07 19:26:58",
       "ts": 1791401218
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin falls as Iran attacks, oil surge fuel rate fears; crypto stocks slip",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-as-iran-attacks-oil-surge-fuel-rate-fears-crypto-stocks-slip-4936200",
-      "published": "2026-10-07 10:52:38",
-      "ts": 1791370358
     }
   ]
 }
