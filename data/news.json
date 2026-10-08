@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-08T05:31:26.614947+00:00",
+  "updated_utc": "2026-10-08T05:48:53.035962+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin loans are paying for tuition and working capital, not just trades, lenders say",
+      "link": "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say",
+      "published": "Thu, 08 Oct 2026 05:40:41 +0000",
+      "ts": 1791438041
+    },
     {
       "source": "Cointelegraph",
       "title": "Crypto’s heavy backing of Republicans alienated Democrats: Cuomo",
@@ -212,13 +219,6 @@
       "link": "https://www.coindesk.com/coindesk-indices/2026/10/07/crypto-long-and-short-zcash-and-the-case-for-privacy-in-the-age-of-ai",
       "published": "Wed, 07 Oct 2026 15:03:54 +0000",
       "ts": 1791385434
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
-      "link": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
-      "published": "Wed, 07 Oct 2026 14:27:37 +0000",
-      "ts": 1791383257
     },
     {
       "source": "Investing Forex",
