@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-09T07:46:07.219805+00:00",
+  "updated_utc": "2026-10-09T08:01:37.132888+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "French yields pause near peak as markets fret over Paris’s record debt load",
+      "link": "https://www.investing.com/news/forex-news/french-yields-pause-near-peak-as-markets-fret-over-pariss-record-debt-load-4940344",
+      "published": "2026-10-09 07:46:13",
+      "ts": 1791531973
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin, Ether ETFs’ October outflows swell toward $1B",
@@ -261,13 +268,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/travala-launches-native-ai-travel-agent-with-bnb-chain--binance-pay-4938960",
       "published": "2026-10-08 12:30:10",
       "ts": 1791462610
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound slips as hawkish Fed minutes lift dollar",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-hawkish-fed-minutes-lift-dollar-4938198",
-      "published": "2026-10-08 09:02:01",
-      "ts": 1791450121
     },
     {
       "source": "Investing Crypto",
