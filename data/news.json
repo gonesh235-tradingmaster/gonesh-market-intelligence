@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-10-09T20:53:22.948757+00:00",
+  "updated_utc": "2026-10-09T21:05:59.027401+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+      "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 21:00:00 GMT",
+      "ts": 1791579600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
+      "link": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 20:51:00 GMT",
+      "ts": 1791579060
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin holds ground above $82k, heads for weekly losses amid yield pressure",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-82k-heads-for-weekly-losses-amid-yield-pressure-4940276",
+      "published": "2026-10-09 20:46:24",
+      "ts": 1791578784
+    },
     {
       "source": "Cointelegraph",
       "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
@@ -88,20 +109,6 @@
       "ts": 1791570611
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
-      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 18:30:00 GMT",
-      "ts": 1791570600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
-      "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 18:16:00 GMT",
-      "ts": 1791569760
-    },
-    {
       "source": "CoinDesk",
       "title": "Robinhood Chain considers technology that gives paying traders priority",
       "link": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
@@ -149,13 +156,6 @@
       "link": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
       "published": "Fri, 09 Oct 2026 14:47:27 +0000",
       "ts": 1791557247
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin steadies above $82k, heads for weekly losses amid yield pressure",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-82k-heads-for-weekly-losses-amid-yield-pressure-4940276",
-      "published": "2026-10-09 13:42:49",
-      "ts": 1791553369
     },
     {
       "source": "Investing Forex",
