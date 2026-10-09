@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-09T18:42:13.491602+00:00",
+  "updated_utc": "2026-10-09T18:59:17.405665+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Hurricane Isaias to ‘stress test’ oil markets already hobbled by tight fuel supplies",
+      "link": "https://www.marketwatch.com/story/hurricane-isaias-to-stress-test-oil-markets-already-hobbled-by-tight-fuel-supplies-ca90d4a5?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 18:44:00 GMT",
+      "ts": 1791571440
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -65,13 +72,6 @@
       "link": "https://www.marketwatch.com/story/trump-ramps-up-battle-to-fire-feds-lisa-cook-her-lawyers-say-theres-no-basis-to-remove-her-3a62c5cd?mod=mw_rss_topstories",
       "published": "Fri, 09 Oct 2026 17:50:00 GMT",
       "ts": 1791568200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
-      "link": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 17:35:00 GMT",
-      "ts": 1791567300
     },
     {
       "source": "Cointelegraph",
