@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-10-09T16:20:56.451001+00:00",
+  "updated_utc": "2026-10-09T16:39:11.802815+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Flu season is already here. Here’s what to know about this year’s flu shots.",
+      "link": "https://www.marketwatch.com/story/flu-season-is-already-here-heres-what-to-know-about-this-years-flu-shots-58aeb705?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 16:31:00 GMT",
+      "ts": 1791563460
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. She wants me to leave my home to her two children.",
+      "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 16:30:00 GMT",
+      "ts": 1791563400
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
+      "link": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 16:22:45 +0000",
+      "ts": 1791562965
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
+      "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 16:22:00 GMT",
+      "ts": 1791562920
+    },
     {
       "source": "MarketWatch",
       "title": "Hurricane Isaias to ‘stress test’ oil markets already hobbled by tight fuel supplies",
@@ -60,32 +88,11 @@
       "ts": 1791557723
     },
     {
-      "source": "MarketWatch",
-      "title": "Mortgage rates are soaring. In America, the smart money rents.",
-      "link": "https://www.marketwatch.com/story/with-mortgage-rates-soaring-above-7-5-the-smart-money-rents-in-america-ef0eb5aa?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 14:55:00 GMT",
-      "ts": 1791557700
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
-      "link": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 14:50:00 GMT",
-      "ts": 1791557400
-    },
-    {
       "source": "CoinDesk",
       "title": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
       "link": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
       "published": "Fri, 09 Oct 2026 14:47:27 +0000",
       "ts": 1791557247
-    },
-    {
-      "source": "MarketWatch",
-      "title": "GLP-1 drugs could ease back and knee pain, but doctors say there are risks for older adults",
-      "link": "https://www.marketwatch.com/story/glp-1s-could-offer-unexpected-relief-from-back-and-knee-pain-but-doctors-urge-caution-b0de1609?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 14:38:00 GMT",
-      "ts": 1791556680
     },
     {
       "source": "Investing Forex",
@@ -184,13 +191,6 @@
       "link": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
       "published": "Fri, 09 Oct 2026 10:16:55 +0000",
       "ts": 1791541015
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "French lawmakers back stablecoin swap tax in 2027 budget bill",
-      "link": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 09 Oct 2026 10:16:48 +0000",
-      "ts": 1791541008
     },
     {
       "source": "CoinDesk",
