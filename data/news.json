@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-09T15:25:27.506843+00:00",
+  "updated_utc": "2026-10-09T15:44:50.213553+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 15:27:00 GMT",
+      "ts": 1791559620
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin consolidates near $82.5K as crypto weathers Ledger theft reports",
+      "link": "https://cointelegraph.com/markets/bitcoin-consolidates-crypto-weathers-ledger-theft-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 15:20:36 +0000",
+      "ts": 1791559236
+    },
     {
       "source": "MarketWatch",
       "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
@@ -65,13 +79,6 @@
       "link": "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories",
       "published": "Fri, 09 Oct 2026 14:34:00 GMT",
       "ts": 1791556440
-    },
-    {
-      "source": "MarketWatch",
-      "title": "College students have to use credit cards just to cover basic living expenses. Here’s what it’s costing them.",
-      "link": "https://www.marketwatch.com/story/more-college-students-have-to-use-credit-cards-just-to-cover-basic-living-expenses-heres-what-its-costing-them-cfd82561?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 14:33:00 GMT",
-      "ts": 1791556380
     },
     {
       "source": "Investing Forex",
@@ -219,13 +226,6 @@
       "link": "https://www.investing.com/news/forex-news/french-yields-pause-near-peak-as-markets-fret-over-pariss-record-debt-load-4940344",
       "published": "2026-10-09 07:46:13",
       "ts": 1791531973
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin, Ether ETFs’ October outflows swell toward $1B",
-      "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 09 Oct 2026 07:34:44 +0000",
-      "ts": 1791531284
     },
     {
       "source": "Investing Crypto",
