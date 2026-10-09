@@ -1,8 +1,43 @@
 {
-  "updated_utc": "2026-10-09T13:33:42.002140+00:00",
+  "updated_utc": "2026-10-09T13:53:07.296871+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Should I put my nest egg in a 30-year Treasury bond?",
+      "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 13:51:00 GMT",
+      "ts": 1791553860
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+      "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 13:47:00 GMT",
+      "ts": 1791553620
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin steadies above $82k, heads for weekly losses amid yield pressure",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-82k-heads-for-weekly-losses-amid-yield-pressure-4940276",
+      "published": "2026-10-09 13:42:49",
+      "ts": 1791553369
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 13:31:41 +0000",
+      "ts": 1791552701
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "France is world’s most dangerous place for Bitcoiners: 90 attacks in 7 months",
+      "link": "https://cointelegraph.com/magazine/france-is-worlds-most-dangerous-place-for-bitcoiners-90-attacks-in-7-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 13:30:00 +0000",
+      "ts": 1791552600
+    },
     {
       "source": "MarketWatch",
       "title": "Aging bull: Why this 4-year-old stock-market rally still packs a punch",
@@ -116,13 +151,6 @@
       "ts": 1791541008
     },
     {
-      "source": "MarketWatch",
-      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-      "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 10:15:00 GMT",
-      "ts": 1791540900
-    },
-    {
       "source": "CoinDesk",
       "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
       "link": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
@@ -137,13 +165,6 @@
       "ts": 1791540443
     },
     {
-      "source": "MarketWatch",
-      "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
-      "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 10:04:00 GMT",
-      "ts": 1791540240
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations",
       "link": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-crypto-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -156,13 +177,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-as-dollar-dips-on-treasury-pause-4940524",
       "published": "2026-10-09 09:46:00",
       "ts": 1791539160
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin edges lower to $82k, heads for weekly losses amid yield pressure",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-82k-heads-for-weekly-losses-amid-yield-pressure-4940276",
-      "published": "2026-10-09 09:21:23",
-      "ts": 1791537683
     },
     {
       "source": "CoinDesk",
@@ -222,24 +236,10 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 09 Oct 2026 05:38:03 +0000",
-      "ts": 1791524283
-    },
-    {
-      "source": "Cointelegraph",
       "title": "Crypto projects apply for Anthropic’s new frontier AI security scanner",
       "link": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 09 Oct 2026 05:34:33 +0000",
       "ts": 1791524073
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Trump administration outlines quantum, AI initiatives in $6B science push",
-      "link": "https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 09 Oct 2026 05:25:27 +0000",
-      "ts": 1791523527
     },
     {
       "source": "Investing Crypto",
