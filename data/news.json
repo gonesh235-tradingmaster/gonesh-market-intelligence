@@ -1,14 +1,28 @@
 {
-  "updated_utc": "2026-10-09T06:47:31.875233+00:00",
+  "updated_utc": "2026-10-09T07:06:11.471467+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: XRP ETFs the only ones in green as BTC, ETH, ZEC funds post outflows",
+      "link": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
+      "published": "Fri, 09 Oct 2026 06:51:32 +0000",
+      "ts": 1791528692
+    },
     {
       "source": "CoinDesk",
       "title": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
       "link": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
       "published": "Fri, 09 Oct 2026 06:40:54 +0000",
       "ts": 1791528054
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin falls to $82k, heads for weekly losses amid yield pressure",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-82k-heads-for-weekly-losses-amid-yield-pressure-4940276",
+      "published": "2026-10-09 06:35:55",
+      "ts": 1791527755
     },
     {
       "source": "Investing Forex",
@@ -221,13 +235,6 @@
       "ts": 1791486045
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto crumbles as anniversary of flash crash nears",
-      "link": "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears",
-      "published": "Thu, 08 Oct 2026 18:14:39 +0000",
-      "ts": 1791483279
-    },
-    {
       "source": "Investing Crypto",
       "title": "Cardano Falls 10% In Bearish Trade",
       "link": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-bearish-trade-4939477",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-84k-amid-pressure-from-rising-oil-prices-yields-4935676",
       "published": "2026-10-07 21:50:27",
       "ts": 1791409827
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "EOS Falls 10% In Bearish Trade",
-      "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-10-in-bearish-trade-4937373",
-      "published": "2026-10-07 19:26:58",
-      "ts": 1791401218
     }
   ]
 }
