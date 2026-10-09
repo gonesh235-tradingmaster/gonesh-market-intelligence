@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-09T07:06:11.471467+00:00",
+  "updated_utc": "2026-10-09T07:27:14.152836+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin breaks below range, tests $81K support: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
+      "published": "2026-10-09 07:11:29",
+      "ts": 1791529889
+    },
     {
       "source": "CoinDesk",
       "title": "Live updates: XRP ETFs the only ones in green as BTC, ETH, ZEC funds post outflows",
@@ -75,7 +82,7 @@
     },
     {
       "source": "Investing Forex",
-      "title": "Asia FX muted, dollar heads for fourth straight week of gains",
+      "title": "Dollar treads water but set for fourth straight week of gains",
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-dollar-heads-for-fourth-straight-week-of-gains-4940141",
       "published": "2026-10-09 03:44:49",
       "ts": 1791517489
@@ -212,13 +219,6 @@
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-gains-as-oil-rally-narrower-yield-gap-support-loonie-4939654",
       "published": "2026-10-08 19:22:09",
       "ts": 1791487329
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin clings to $81K above 200 SMA after Double Top: Live",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
-      "published": "2026-10-08 19:19:12",
-      "ts": 1791487152
     },
     {
       "source": "Cointelegraph",
