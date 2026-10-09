@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-09T12:29:42.897904+00:00",
+  "updated_utc": "2026-10-09T12:54:14.965972+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Euro zone ministers tell France to pass 2027 budget to calm markets",
+      "link": "https://www.investing.com/news/forex-news/euro-zone-ministers-to-tell-france-to-pass-2027-budget-to-calm-markets-4938661",
+      "published": "2026-10-09 12:24:47",
+      "ts": 1791548687
+    },
     {
       "source": "CoinDesk",
       "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
@@ -180,7 +187,7 @@
     },
     {
       "source": "Investing Forex",
-      "title": "French yields pause near peak as markets fret over Paris’s record debt load",
+      "title": "Treasuries pause after reaching 24-year highs as $20 billion inflow absorbs supply",
       "link": "https://www.investing.com/news/forex-news/french-yields-pause-near-peak-as-markets-fret-over-pariss-record-debt-load-4940344",
       "published": "2026-10-09 07:46:13",
       "ts": 1791531973
@@ -247,13 +254,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-rangebound-as-dollar-holds-near-18month-high-yen-slips-4937859",
       "published": "2026-10-08 19:56:52",
       "ts": 1791489412
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Canadian dollar gains as oil rally, narrower yield gap support loonie",
-      "link": "https://www.investing.com/news/forex-news/canadian-dollar-gains-as-oil-rally-narrower-yield-gap-support-loonie-4939654",
-      "published": "2026-10-08 19:22:09",
-      "ts": 1791487329
     },
     {
       "source": "Investing Crypto",
