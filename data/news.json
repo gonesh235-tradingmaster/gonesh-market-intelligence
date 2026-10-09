@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-09T09:38:16.048850+00:00",
+  "updated_utc": "2026-10-09T09:55:19.965399+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound edges up as dollar dips on Treasury pause",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-as-dollar-dips-on-treasury-pause-4940524",
+      "published": "2026-10-09 09:46:00",
+      "ts": 1791539160
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin edges lower to $82k, heads for weekly losses amid yield pressure",
@@ -26,7 +33,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Why the price of this one exchange-traded fund has suddenly gone exponential",
+      "title": "Why the price of this one ETF has gone exponential",
       "link": "https://www.marketwatch.com/story/why-the-price-of-this-one-exchange-traded-fund-has-suddenly-gone-exponential-7ef3d93d?mod=mw_rss_topstories",
       "published": "Fri, 09 Oct 2026 09:12:00 GMT",
       "ts": 1791537120
@@ -247,13 +254,6 @@
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-gains-as-oil-rally-narrower-yield-gap-support-loonie-4939654",
       "published": "2026-10-08 19:22:09",
       "ts": 1791487329
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Euro zone ministers tell France to pass 2027 budget to calm markets",
-      "link": "https://www.investing.com/news/forex-news/euro-zone-ministers-to-tell-france-to-pass-2027-budget-to-calm-markets-4938661",
-      "published": "2026-10-08 19:00:45",
-      "ts": 1791486045
     },
     {
       "source": "Investing Crypto",
