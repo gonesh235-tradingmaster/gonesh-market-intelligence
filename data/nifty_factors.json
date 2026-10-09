@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-09T21:23:57.379505+00:00",
+  "updated_utc": "2026-10-09T21:40:59.009606+00:00",
   "source": "Yahoo Finance",
   "us_markets": {
     "sp500": {
@@ -67,10 +67,10 @@
       "market_state": ""
     },
     "wti": {
-      "value": 91.67,
+      "value": 91.66,
       "previous_close": 89.43,
-      "change": 2.24,
-      "change_percent": 2.5,
+      "change": 2.23,
+      "change_percent": 2.49,
       "day_high": 92.16,
       "day_low": 90.01,
       "currency": "USD",

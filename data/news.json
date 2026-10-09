@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-10-09T21:23:59.266929+00:00",
+  "updated_utc": "2026-10-09T21:41:00.477675+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
+      "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 21:30:00 GMT",
+      "ts": 1791581400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
+      "link": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 21:27:00 GMT",
+      "ts": 1791581220
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Microsoft is nearing a big milestone that solidifies its revival",
+      "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 21:24:00 GMT",
+      "ts": 1791581040
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
@@ -74,20 +95,6 @@
       "ts": 1791576842
     },
     {
-      "source": "MarketWatch",
-      "title": "Here’s how Treasury yields could rise to 6% — even without market upheaval",
-      "link": "https://www.marketwatch.com/story/heres-how-treasury-yields-could-rise-to-6-even-without-market-upheaval-7d9fac9c?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 20:03:00 GMT",
-      "ts": 1791576180
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Country music star Zach Bryan buys $18 million, 40-acre Tennessee estate after getting married",
-      "link": "https://www.marketwatch.com/story/country-music-star-zach-bryan-buys-18-million-40-acre-tennessee-estate-after-getting-married-cb4d20eb?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 19:48:00 GMT",
-      "ts": 1791575280
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin clings to $81,121 macro support on 5h chart: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
@@ -100,13 +107,6 @@
       "link": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 09 Oct 2026 19:04:03 +0000",
       "ts": 1791572643
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Elon Musk is now richer than any American ever — and it’s not even close",
-      "link": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 19:04:00 GMT",
-      "ts": 1791572640
     },
     {
       "source": "Cointelegraph",
