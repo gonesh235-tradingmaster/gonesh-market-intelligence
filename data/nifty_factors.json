@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-09T22:29:23.101991+00:00",
+  "updated_utc": "2026-10-09T22:47:23.831011+00:00",
   "source": "Yahoo Finance",
   "us_markets": {
     "sp500": {
@@ -71,7 +71,7 @@
       "previous_close": 89.43,
       "change": 2.23,
       "change_percent": 2.49,
-      "day_high": 92.16,
+      "day_high": 92.17,
       "day_low": 90.01,
       "currency": "USD",
       "market_state": ""
@@ -81,7 +81,7 @@
       "previous_close": 4156.8,
       "change": 63.5,
       "change_percent": 1.53,
-      "day_high": 4232.7,
+      "day_high": 4233.7,
       "day_low": 4156.1,
       "currency": "USD",
       "market_state": ""
