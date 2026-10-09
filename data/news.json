@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-09T10:50:31.960477+00:00",
+  "updated_utc": "2026-10-09T11:02:20.555180+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
+      "link": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 10:49:24 +0000",
+      "ts": 1791542964
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
@@ -205,13 +212,6 @@
       "link": "https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 09 Oct 2026 05:25:27 +0000",
       "ts": 1791523527
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
-      "link": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 09 Oct 2026 03:08:51 +0000",
-      "ts": 1791515331
     },
     {
       "source": "MarketWatch",
