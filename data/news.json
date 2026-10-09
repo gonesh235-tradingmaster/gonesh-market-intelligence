@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-09T10:31:35.053062+00:00",
+  "updated_utc": "2026-10-09T10:50:31.960477+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
+      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
+      "published": "Fri, 09 Oct 2026 10:44:22 +0000",
+      "ts": 1791542662
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "UK sanctions three crypto exchanges tied to Russian illicit funds",
+      "link": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 10:34:37 +0000",
+      "ts": 1791542077
+    },
     {
       "source": "CoinDesk",
       "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
@@ -193,13 +207,6 @@
       "ts": 1791523527
     },
     {
-      "source": "CoinDesk",
-      "title": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
-      "link": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
-      "published": "Fri, 09 Oct 2026 05:00:52 +0000",
-      "ts": 1791522052
-    },
-    {
       "source": "Cointelegraph",
       "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
       "link": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -212,13 +219,6 @@
       "link": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
       "published": "Fri, 09 Oct 2026 00:52:00 GMT",
       "ts": 1791507120
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties",
-      "link": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 09 Oct 2026 00:46:27 +0000",
-      "ts": 1791506787
     },
     {
       "source": "MarketWatch",
