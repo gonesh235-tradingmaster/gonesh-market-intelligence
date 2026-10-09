@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-09T08:22:57.303735+00:00",
+  "updated_utc": "2026-10-09T08:41:57.459767+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "UBS sees stronger outlook for Brazilian real after election",
+      "link": "https://www.investing.com/news/forex-news/ubs-sees-stronger-outlook-for-brazilian-real-after-election-93CH-4940395",
+      "published": "2026-10-09 08:15:39",
+      "ts": 1791533739
+    },
     {
       "source": "Investing Forex",
       "title": "French yields pause near peak as markets fret over Paris’s record debt load",
@@ -247,13 +254,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-bearish-trade-4939477",
       "published": "2026-10-08 16:07:57",
       "ts": 1791475677
-    },
-    {
-      "source": "Investing Forex",
-      "title": "South African rand holds steady ahead of manufacturing data",
-      "link": "https://www.investing.com/news/forex-news/south-african-rand-holds-steady-ahead-of-manufacturing-data-93CH-4939314",
-      "published": "2026-10-08 14:18:10",
-      "ts": 1791469090
     },
     {
       "source": "Investing Crypto",
