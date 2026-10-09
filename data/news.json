@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-09T05:43:17.667359+00:00",
+  "updated_utc": "2026-10-09T05:59:12.687266+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 05:38:03 +0000",
+      "ts": 1791524283
+    },
     {
       "source": "Cointelegraph",
       "title": "Crypto projects apply for Anthropic’s new frontier AI security scanner",
@@ -191,13 +198,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-zone-ministers-to-tell-france-to-pass-2027-budget-to-calm-markets-4938661",
       "published": "2026-10-08 19:00:45",
       "ts": 1791486045
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 08 Oct 2026 18:29:33 +0000",
-      "ts": 1791484173
     },
     {
       "source": "CoinDesk",
