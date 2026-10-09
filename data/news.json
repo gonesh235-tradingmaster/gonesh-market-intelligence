@@ -1,14 +1,35 @@
 {
-  "updated_utc": "2026-10-09T13:53:07.296871+00:00",
+  "updated_utc": "2026-10-09T14:07:37.053486+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Dollar heads for fourth straight weekly gain as euro slumps on fiscal worries",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-dollar-heads-for-fourth-straight-week-of-gains-4940141",
+      "published": "2026-10-09 14:00:47",
+      "ts": 1791554447
+    },
+    {
+      "source": "MarketWatch",
+      "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
+      "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 13:59:00 GMT",
+      "ts": 1791554340
+    },
     {
       "source": "MarketWatch",
       "title": "Should I put my nest egg in a 30-year Treasury bond?",
       "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
       "published": "Fri, 09 Oct 2026 13:51:00 GMT",
       "ts": 1791553860
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures",
+      "link": "https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 13:49:22 +0000",
+      "ts": 1791553762
     },
     {
       "source": "MarketWatch",
@@ -102,13 +123,6 @@
       "ts": 1791545945
     },
     {
-      "source": "MarketWatch",
-      "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
-      "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 11:15:00 GMT",
-      "ts": 1791544500
-    },
-    {
       "source": "CoinDesk",
       "title": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
       "link": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
@@ -156,13 +170,6 @@
       "link": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
       "published": "Fri, 09 Oct 2026 10:14:59 +0000",
       "ts": 1791540899
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Euro limps toward 5th weekly loss as dollar pause fails to erase rate hike bets",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-dollar-heads-for-fourth-straight-week-of-gains-4940141",
-      "published": "2026-10-09 10:07:23",
-      "ts": 1791540443
     },
     {
       "source": "Cointelegraph",
@@ -233,13 +240,6 @@
       "link": "https://www.investing.com/news/forex-news/citi-sees-limited-upside-for-eurjpy-amid-intervention-expectations-93CH-4940266",
       "published": "2026-10-09 06:20:38",
       "ts": 1791526838
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto projects apply for Anthropic’s new frontier AI security scanner",
-      "link": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 09 Oct 2026 05:34:33 +0000",
-      "ts": 1791524073
     },
     {
       "source": "Investing Crypto",
