@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-09T09:55:19.965399+00:00",
+  "updated_utc": "2026-10-09T10:10:45.204866+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders",
+      "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 10:04:00 GMT",
+      "ts": 1791540240
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations",
+      "link": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-crypto-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 09:50:01 +0000",
+      "ts": 1791539401
+    },
     {
       "source": "Investing Forex",
       "title": "Sterling today: Pound edges up as dollar dips on Treasury pause",
@@ -214,13 +228,6 @@
       "ts": 1791498900
     },
     {
-      "source": "MarketWatch",
-      "title": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’",
-      "link": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories",
-      "published": "Thu, 08 Oct 2026 22:08:00 GMT",
-      "ts": 1791497280
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin slips under $82k amid surging oil prices, hit to Wall Street tech stocks",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-83k-as-meast-tensions-soaring-yields-dent-crypto-appetite-4937967",
@@ -240,13 +247,6 @@
       "link": "https://www.investing.com/news/forex-news/asian-currencies-rangebound-as-dollar-holds-near-18month-high-yen-slips-4937859",
       "published": "2026-10-08 19:56:52",
       "ts": 1791489412
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Securitize stock jumps over 10% after launching tokenized US equities on Solana",
-      "link": "https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 08 Oct 2026 19:31:38 +0000",
-      "ts": 1791487898
     },
     {
       "source": "Investing Forex",
