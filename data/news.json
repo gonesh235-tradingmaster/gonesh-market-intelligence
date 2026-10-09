@@ -1,15 +1,8 @@
 {
-  "updated_utc": "2026-10-09T04:53:01.458710+00:00",
+  "updated_utc": "2026-10-09T05:05:30.905073+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
-    {
-      "source": "CoinDesk",
-      "title": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
-      "link": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
-      "published": "Fri, 09 Oct 2026 04:35:52 +0000",
-      "ts": 1791520552
-    },
     {
       "source": "CoinDesk",
       "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
@@ -226,6 +219,13 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-bearish-trade-4939477",
       "published": "2026-10-08 16:07:57",
       "ts": 1791475677
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. government moves $1 billion in bitcoin tied to Bitfinex hack, with no sign of sale",
+      "link": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+      "published": "Thu, 08 Oct 2026 15:43:04 +0000",
+      "ts": 1791474184
     },
     {
       "source": "Investing Forex",
