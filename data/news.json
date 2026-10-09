@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-09T06:22:37.366472+00:00",
+  "updated_utc": "2026-10-09T06:47:31.875233+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
+      "link": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
+      "published": "Fri, 09 Oct 2026 06:40:54 +0000",
+      "ts": 1791528054
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Citi sees limited upside for EUR/JPY amid intervention expectations",
+      "link": "https://www.investing.com/news/forex-news/citi-sees-limited-upside-for-eurjpy-amid-intervention-expectations-93CH-4940266",
+      "published": "2026-10-09 06:20:38",
+      "ts": 1791526838
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -23,6 +37,13 @@
       "link": "https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 09 Oct 2026 05:25:27 +0000",
       "ts": 1791523527
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
+      "link": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
+      "published": "Fri, 09 Oct 2026 05:00:52 +0000",
+      "ts": 1791522052
     },
     {
       "source": "CoinDesk",
@@ -207,25 +228,11 @@
       "ts": 1791483279
     },
     {
-      "source": "CoinDesk",
-      "title": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
-      "link": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
-      "published": "Thu, 08 Oct 2026 18:06:41 +0000",
-      "ts": 1791482801
-    },
-    {
       "source": "Investing Crypto",
       "title": "Cardano Falls 10% In Bearish Trade",
       "link": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-bearish-trade-4939477",
       "published": "2026-10-08 16:07:57",
       "ts": 1791475677
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. government moves $1 billion in bitcoin tied to Bitfinex hack, with no sign of sale",
-      "link": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
-      "published": "Thu, 08 Oct 2026 15:43:04 +0000",
-      "ts": 1791474184
     },
     {
       "source": "Investing Forex",
@@ -254,13 +261,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-hawkish-fed-minutes-lift-dollar-4938198",
       "published": "2026-10-08 09:02:01",
       "ts": 1791450121
-    },
-    {
-      "source": "Investing Forex",
-      "title": "BofA sees downside risks for USD/JPY",
-      "link": "https://www.investing.com/news/forex-news/bofa-sees-downside-risks-for-usdjpy-93CH-4938182",
-      "published": "2026-10-08 08:58:55",
-      "ts": 1791449935
     },
     {
       "source": "Investing Crypto",
