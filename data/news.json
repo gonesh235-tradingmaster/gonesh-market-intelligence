@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-09T17:28:54.973309+00:00",
+  "updated_utc": "2026-10-09T17:46:37.115403+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
+      "link": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
+      "published": "Fri, 09 Oct 2026 17:35:00 GMT",
+      "ts": 1791567300
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
+      "link": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 09 Oct 2026 17:21:07 +0000",
+      "ts": 1791566467
+    },
     {
       "source": "Cointelegraph",
       "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
@@ -33,7 +47,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. She wants me to leave my home to her two children.",
+      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
       "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
       "published": "Fri, 09 Oct 2026 16:30:00 GMT",
       "ts": 1791563400
@@ -72,13 +86,6 @@
       "link": "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 09 Oct 2026 15:51:53 +0000",
       "ts": 1791561113
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
-      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "published": "Fri, 09 Oct 2026 15:27:00 GMT",
-      "ts": 1791559620
     },
     {
       "source": "Cointelegraph",
@@ -170,13 +177,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
       "published": "Fri, 09 Oct 2026 11:09:04 +0000",
       "ts": 1791544144
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
-      "link": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 09 Oct 2026 10:49:24 +0000",
-      "ts": 1791542964
     },
     {
       "source": "CoinDesk",
