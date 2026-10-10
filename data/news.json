@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-10T10:18:46.194991+00:00",
+  "updated_utc": "2026-10-10T10:35:12.688984+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Should I be worried?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "published": "Sat, 10 Oct 2026 10:30:00 GMT",
+      "ts": 1791628200
+    },
     {
       "source": "Cointelegraph",
       "title": "Tech chief says EU can fend off rogue AI risk: Report",
@@ -58,13 +65,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
       "published": "2026-10-10 03:59:57",
       "ts": 1791604797
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Should I be worried?",
-      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "published": "Sat, 10 Oct 2026 03:15:00 GMT",
-      "ts": 1791602100
     },
     {
       "source": "CoinDesk",
