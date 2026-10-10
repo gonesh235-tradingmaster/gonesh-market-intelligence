@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-10T11:33:03.278315+00:00",
+  "updated_utc": "2026-10-10T11:48:16.922718+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin falls nearly 3% over past week as security fears weigh on sentiment",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
+      "published": "2026-10-10 11:41:25",
+      "ts": 1791632485
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin's $19 billion wake-up call: One-year later, has crypto learned anything?",
@@ -79,13 +86,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
       "published": "Sat, 10 Oct 2026 04:20:07 +0000",
       "ts": 1791606007
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin trades above $82,000 as rising oil prices, Fed outlook weigh",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
-      "published": "2026-10-10 03:59:57",
-      "ts": 1791604797
     },
     {
       "source": "CoinDesk",
