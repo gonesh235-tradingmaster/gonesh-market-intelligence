@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-10T05:36:12.563536+00:00",
+  "updated_utc": "2026-10-10T05:50:53.288766+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+      "published": "Sat, 10 Oct 2026 05:43:00 +0000",
+      "ts": 1791610980
+    },
     {
       "source": "CoinDesk",
       "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
@@ -205,13 +212,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-zone-ministers-to-tell-france-to-pass-2027-budget-to-calm-markets-4938661",
       "published": "2026-10-09 12:24:47",
       "ts": 1791548687
-    },
-    {
-      "source": "CoinDesk",
-      "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
-      "link": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
-      "published": "Fri, 09 Oct 2026 12:23:54 +0000",
-      "ts": 1791548634
     },
     {
       "source": "Investing Forex",
