@@ -1,11 +1,11 @@
 {
-  "updated_utc": "2026-10-10T07:02:18.727589+00:00",
+  "updated_utc": "2026-10-10T07:20:52.524154+00:00",
   "source": "Yahoo Finance",
   "source_url": "https://finance.yahoo.com/quote/%5ENSEI",
   "data": {
-    "value": 22520.45,
+    "value": 22520.4,
     "previous_close": 22555.75,
-    "change": -35.3,
+    "change": -35.35,
     "change_percent": -0.16,
     "day_high": 22580.75,
     "day_low": 22294.75,
