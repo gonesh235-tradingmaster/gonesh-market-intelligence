@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-10T04:30:53.579937+00:00",
+  "updated_utc": "2026-10-10T04:50:27.587063+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+      "link": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+      "published": "Sat, 10 Oct 2026 04:44:35 +0000",
+      "ts": 1791607475
+    },
     {
       "source": "CoinDesk",
       "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
@@ -205,13 +212,6 @@
       "link": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
       "published": "Fri, 09 Oct 2026 12:23:54 +0000",
       "ts": 1791548634
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Zcash developers set January target for quantum-resistant payments after ‘bunker mode’ scare",
-      "link": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
-      "published": "Fri, 09 Oct 2026 11:39:05 +0000",
-      "ts": 1791545945
     },
     {
       "source": "Investing Forex",
