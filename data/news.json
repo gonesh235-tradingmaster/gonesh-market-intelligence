@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-10T15:15:34.130299+00:00",
+  "updated_utc": "2026-10-10T15:32:13.868682+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "published": "Sat, 10 Oct 2026 15:30:00 GMT",
+      "ts": 1791646200
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin steadies near $83,000 as spot ETF outflows top $680 million",
@@ -92,13 +99,6 @@
       "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
       "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
       "published": "Sat, 10 Oct 2026 11:00:00 +0000",
-      "ts": 1791630000
-    },
-    {
-      "source": "MarketWatch",
-      "title": "S&P 500 at 10,000 or bust: New ETF offers investors all-or-nothing bet on the index",
-      "link": "https://www.marketwatch.com/story/s-p-500-at-10-000-or-bust-new-etf-offers-investors-all-or-nothing-bet-on-the-index-c7d9269f?mod=mw_rss_topstories",
-      "published": "Sat, 10 Oct 2026 11:00:00 GMT",
       "ts": 1791630000
     },
     {
