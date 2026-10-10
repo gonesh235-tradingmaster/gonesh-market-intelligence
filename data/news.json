@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-10T02:53:11.885232+00:00",
+  "updated_utc": "2026-10-10T03:05:19.580946+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
+      "link": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
+      "published": "Sat, 10 Oct 2026 03:00:00 +0000",
+      "ts": 1791601200
+    },
     {
       "source": "MarketWatch",
       "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
@@ -198,13 +205,6 @@
       "link": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
       "published": "Fri, 09 Oct 2026 11:09:04 +0000",
       "ts": 1791544144
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
-      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
-      "published": "Fri, 09 Oct 2026 10:44:22 +0000",
-      "ts": 1791542662
     },
     {
       "source": "Investing Forex",
