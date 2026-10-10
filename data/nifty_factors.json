@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-10T03:05:17.524172+00:00",
+  "updated_utc": "2026-10-10T03:23:44.054390+00:00",
   "source": "Yahoo Finance",
   "us_markets": {
     "sp500": {
@@ -23,9 +23,9 @@
       "market_state": ""
     },
     "dow": {
-      "value": 51654.95,
+      "value": 51654.9,
       "previous_close": 51176.96,
-      "change": 477.99,
+      "change": 477.94,
       "change_percent": 0.93,
       "day_high": 51765.11,
       "day_low": 51258.95,
