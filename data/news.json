@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-10T04:12:05.829114+00:00",
+  "updated_utc": "2026-10-10T04:30:53.579937+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+      "link": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+      "published": "Sat, 10 Oct 2026 04:20:07 +0000",
+      "ts": 1791606007
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin trades above $82,000 as rising oil prices, Fed outlook weigh",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
+      "published": "2026-10-10 03:59:57",
+      "ts": 1791604797
+    },
     {
       "source": "MarketWatch",
       "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Should I be worried?",
@@ -200,13 +214,6 @@
       "ts": 1791545945
     },
     {
-      "source": "CoinDesk",
-      "title": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
-      "published": "Fri, 09 Oct 2026 11:09:04 +0000",
-      "ts": 1791544144
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound edges up as dollar dips on Treasury pause",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-as-dollar-dips-on-treasury-pause-4940524",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/travala-launches-native-ai-travel-agent-with-bnb-chain--binance-pay-4938960",
       "published": "2026-10-08 12:30:10",
       "ts": 1791462610
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Hashi Mainnet to Launch With $500M in Capital Backing, Adds Anchorage Digital to Coalition",
-      "link": "https://www.investing.com/news/cryptocurrency-news/hashi-mainnet-to-launch-with-500m-in-capital-backing-adds-anchorage-digital-to-coalition-4937792",
-      "published": "2026-10-08 01:30:09",
-      "ts": 1791423009
     }
   ]
 }
