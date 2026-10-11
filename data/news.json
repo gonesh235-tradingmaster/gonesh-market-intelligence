@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-11T12:32:20.092897+00:00",
+  "updated_utc": "2026-10-11T12:54:32.932340+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 11 Oct 2026 12:45:00 +0000",
+      "ts": 1791722700
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "published": "Sun, 11 Oct 2026 12:30:00 GMT",
+      "ts": 1791721800
+    },
     {
       "source": "MarketWatch",
       "title": "Bank earnings to shed the first light on how higher yields are affecting the economy",
@@ -102,25 +116,11 @@
       "ts": 1791661440
     },
     {
-      "source": "MarketWatch",
-      "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
-      "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
-      "published": "Sat, 10 Oct 2026 19:44:00 GMT",
-      "ts": 1791661440
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin rebounds above $83,000 after weekly slide as oil, yields and security fear",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
       "published": "2026-10-10 18:48:08",
       "ts": 1791658088
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 10 Oct 2026 12:30:00 +0000",
-      "ts": 1791635400
     },
     {
       "source": "CoinDesk",
