@@ -1,8 +1,17 @@
 {
-  "updated_utc": "2026-10-11T19:30:24.390769+00:00",
+  "updated_utc": "2026-10-11T19:46:27.524828+00:00",
   "source": "Yahoo Finance",
   "us_markets": {
-    "sp500": null,
+    "sp500": {
+      "value": 7811.54,
+      "previous_close": 7722.72,
+      "change": 88.82,
+      "change_percent": 1.15,
+      "day_high": 7820.57,
+      "day_low": 7779.34,
+      "currency": "USD",
+      "market_state": ""
+    },
     "nasdaq": {
       "value": 27366.17,
       "previous_close": 27190.86,
