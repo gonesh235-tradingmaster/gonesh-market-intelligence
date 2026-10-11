@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-11T09:04:48.439312+00:00",
+  "updated_utc": "2026-10-11T09:23:06.261568+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Ledger confirms unauthorized hardware implant; losses may exceed $86M",
+      "link": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 11 Oct 2026 09:01:51 +0000",
+      "ts": 1791709311
+    },
     {
       "source": "Investing Forex",
       "title": "Yen weakness since 2025 has been limited to offshore hours: analysis",
@@ -212,13 +219,6 @@
       "link": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 09 Oct 2026 20:14:02 +0000",
       "ts": 1791576842
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
-      "link": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 09 Oct 2026 19:04:03 +0000",
-      "ts": 1791572643
     },
     {
       "source": "Investing Forex",
