@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-11T19:58:20.946870+00:00",
+  "updated_utc": "2026-10-11T20:13:37.611387+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
+      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+      "published": "Sun, 11 Oct 2026 20:00:00 GMT",
+      "ts": 1791748800
+    },
     {
       "source": "MarketWatch",
       "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
@@ -93,13 +100,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 11 Oct 2026 12:59:00 +0000",
       "ts": 1791723540
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
-      "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "published": "Sun, 11 Oct 2026 12:30:00 GMT",
-      "ts": 1791721800
     },
     {
       "source": "MarketWatch",
