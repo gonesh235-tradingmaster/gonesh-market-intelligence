@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-11T13:09:06.463889+00:00",
+  "updated_utc": "2026-10-11T13:27:35.292244+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Climbs 11% As Investors Gain Confidence",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-11-as-investors-gain-confidence-4942660",
+      "published": "2026-10-11 13:03:01",
+      "ts": 1791723781
+    },
     {
       "source": "CoinDesk",
       "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/citi-sees-limited-upside-for-eurjpy-amid-intervention-expectations-93CH-4940266",
       "published": "2026-10-09 06:20:38",
       "ts": 1791526838
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin slips under $82k amid surging oil prices, hit to Wall Street tech stocks",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-83k-as-meast-tensions-soaring-yields-dent-crypto-appetite-4937967",
-      "published": "2026-10-08 21:56:08",
-      "ts": 1791496568
     }
   ]
 }
