@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-11T15:32:33.492420+00:00",
+  "updated_utc": "2026-10-11T15:48:46.013040+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
+      "link": "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
+      "published": "Sun, 11 Oct 2026 15:40:47 +0000",
+      "ts": 1791733247
+    },
     {
       "source": "MarketWatch",
       "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
@@ -70,8 +77,8 @@
       "source": "Cointelegraph",
       "title": "Coldcard says it’s investigating how phishing link appeared on its X account",
       "link": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 11 Oct 2026 10:22:44 +0000",
-      "ts": 1791714164
+      "published": "Sun, 11 Oct 2026 10:32:00 +0000",
+      "ts": 1791714720
     },
     {
       "source": "Cointelegraph",
@@ -205,13 +212,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
       "published": "Sat, 10 Oct 2026 04:20:07 +0000",
       "ts": 1791606007
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
-      "link": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
-      "published": "Sat, 10 Oct 2026 03:00:00 +0000",
-      "ts": 1791601200
     },
     {
       "source": "Investing Crypto",
