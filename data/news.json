@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-11T12:54:32.932340+00:00",
+  "updated_utc": "2026-10-11T13:09:06.463889+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+      "link": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
+      "published": "Sun, 11 Oct 2026 13:00:00 +0000",
+      "ts": 1791723600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The bull market is turning 4 years old — but yields could crash the party",
+      "link": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories",
+      "published": "Sun, 11 Oct 2026 13:00:00 GMT",
+      "ts": 1791723600
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -109,13 +123,6 @@
       "ts": 1791661440
     },
     {
-      "source": "MarketWatch",
-      "title": "Rising interest rates: The good, the bad and the ugly for retirees",
-      "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
-      "published": "Sat, 10 Oct 2026 19:44:00 GMT",
-      "ts": 1791661440
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin rebounds above $83,000 after weekly slide as oil, yields and security fear",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-toward-82000-as-rising-oil-prices-fed-outlook-weigh-4941955",
@@ -198,13 +205,6 @@
       "link": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
       "published": "Sat, 10 Oct 2026 03:00:00 +0000",
       "ts": 1791601200
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
-      "link": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
-      "published": "Fri, 09 Oct 2026 21:21:54 +0000",
-      "ts": 1791580914
     },
     {
       "source": "Investing Crypto",
