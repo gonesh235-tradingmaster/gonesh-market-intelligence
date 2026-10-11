@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-11T18:58:20.650049+00:00",
+  "updated_utc": "2026-10-11T19:13:45.390360+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin trapped in $81K-$84K range: Breakout watch live",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
+      "published": "2026-10-11 19:02:17",
+      "ts": 1791745337
+    },
     {
       "source": "CoinDesk",
       "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
@@ -14,8 +21,8 @@
       "source": "Cointelegraph",
       "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
       "link": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 11 Oct 2026 17:03:00 +0000",
-      "ts": 1791738180
+      "published": "Sun, 11 Oct 2026 17:07:00 +0000",
+      "ts": 1791738420
     },
     {
       "source": "MarketWatch",
@@ -105,8 +112,8 @@
       "source": "Cointelegraph",
       "title": "Coldcard says it’s investigating how phishing link appeared on its X account",
       "link": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 11 Oct 2026 10:32:00 +0000",
-      "ts": 1791714720
+      "published": "Sun, 11 Oct 2026 10:40:00 +0000",
+      "ts": 1791715200
     },
     {
       "source": "Cointelegraph",
@@ -128,13 +135,6 @@
       "link": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 11 Oct 2026 07:50:00 +0000",
       "ts": 1791705000
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin stuck in $81,300-$85,200 range: Live breakout levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
-      "published": "2026-10-11 07:02:24",
-      "ts": 1791702144
     },
     {
       "source": "Investing Crypto",
