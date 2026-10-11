@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-11T07:47:21.436131+00:00",
+  "updated_utc": "2026-10-11T07:59:37.114280+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+      "link": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 11 Oct 2026 07:44:51 +0000",
+      "ts": 1791704691
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin stuck in $81,300-$85,200 range: Live breakout levels",
@@ -205,13 +212,6 @@
       "link": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 09 Oct 2026 19:04:03 +0000",
       "ts": 1791572643
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
-      "link": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 09 Oct 2026 17:21:07 +0000",
-      "ts": 1791566467
     },
     {
       "source": "Investing Forex",
