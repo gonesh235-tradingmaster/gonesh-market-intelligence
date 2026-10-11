@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-11T16:00:07.776474+00:00",
+  "updated_utc": "2026-10-11T16:18:16.174007+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+      "link": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
+      "published": "Sun, 11 Oct 2026 16:00:00 +0000",
+      "ts": 1791734400
+    },
     {
       "source": "CoinDesk",
       "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
@@ -205,13 +212,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
       "published": "Sat, 10 Oct 2026 04:44:35 +0000",
       "ts": 1791607475
-    },
-    {
-      "source": "CoinDesk",
-      "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
-      "link": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
-      "published": "Sat, 10 Oct 2026 04:20:07 +0000",
-      "ts": 1791606007
     },
     {
       "source": "Investing Crypto",
