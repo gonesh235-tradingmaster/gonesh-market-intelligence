@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-11T18:21:31.127212+00:00",
+  "updated_utc": "2026-10-11T18:41:47.978820+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
+      "published": "Sun, 11 Oct 2026 18:30:00 +0000",
+      "ts": 1791743400
+    },
     {
       "source": "Cointelegraph",
       "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
@@ -212,13 +219,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
       "published": "Sat, 10 Oct 2026 05:43:00 +0000",
       "ts": 1791610980
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
-      "link": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
-      "published": "Sat, 10 Oct 2026 04:44:35 +0000",
-      "ts": 1791607475
     },
     {
       "source": "Investing Crypto",
