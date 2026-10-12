@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-12T06:42:17.891789+00:00",
+  "updated_utc": "2026-10-12T07:09:40.124762+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin recovers to near $84k as falling oil prices offer some support",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-near-84k-as-falling-oil-prices-offer-some-support-4943235",
+      "published": "2026-10-12 06:38:56",
+      "ts": 1791787136
+    },
     {
       "source": "Cointelegraph",
       "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
@@ -240,13 +247,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-17-in-a-green-day-4942011",
       "published": "2026-10-10 06:16:02",
       "ts": 1791612962
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin holds ground above $82k, heads for weekly losses amid yield pressure",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-82k-heads-for-weekly-losses-amid-yield-pressure-4940276",
-      "published": "2026-10-09 20:46:24",
-      "ts": 1791578784
     },
     {
       "source": "Investing Forex",
