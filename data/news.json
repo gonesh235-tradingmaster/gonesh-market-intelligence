@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-10-12T04:36:40.323184+00:00",
+  "updated_utc": "2026-10-12T04:56:57.838578+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
+      "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
+      "published": "Mon, 12 Oct 2026 04:49:30 +0000",
+      "ts": 1791780570
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "French lawmakers back reporting rule for crypto wallets over $112K",
+      "link": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 12 Oct 2026 04:45:15 +0000",
+      "ts": 1791780315
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Indian rupee surges after RBI unveils measures to support currency",
+      "link": "https://www.investing.com/news/forex-news/indian-rupee-surges-after-rbi-unveils-measures-to-support-currency-4943076",
+      "published": "2026-10-12 04:38:52",
+      "ts": 1791779932
+    },
     {
       "source": "Investing Forex",
       "title": "Asia FX steady as dollar holds near 18-mth high; rupee jumps on RBI measures",
@@ -207,13 +228,6 @@
       "ts": 1791633600
     },
     {
-      "source": "Cointelegraph",
-      "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
-      "link": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 10 Oct 2026 11:52:14 +0000",
-      "ts": 1791633134
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
       "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
@@ -226,13 +240,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-17-in-a-green-day-4942011",
       "published": "2026-10-10 06:16:02",
       "ts": 1791612962
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
-      "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
-      "published": "Sat, 10 Oct 2026 05:43:00 +0000",
-      "ts": 1791610980
     },
     {
       "source": "Investing Crypto",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/ubs-sees-stronger-outlook-for-brazilian-real-after-election-93CH-4940395",
       "published": "2026-10-09 08:15:39",
       "ts": 1791533739
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Treasuries pause after reaching 24-year highs as $20 billion inflow absorbs supply",
-      "link": "https://www.investing.com/news/forex-news/french-yields-pause-near-peak-as-markets-fret-over-pariss-record-debt-load-4940344",
-      "published": "2026-10-09 07:46:13",
-      "ts": 1791531973
     }
   ]
 }
