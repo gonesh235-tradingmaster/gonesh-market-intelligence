@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-12T03:34:03.881813+00:00",
+  "updated_utc": "2026-10-12T03:56:33.401986+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "DATA Network joins Sui and Walrus to scale the supply chain for AI training data",
+      "link": "https://www.investing.com/news/cryptocurrency-news/data-network-joins-sui-and-walrus-to-scale-the-supply-chain-for-ai-training-data-4943027",
+      "published": "2026-10-12 03:30:06",
+      "ts": 1791775806
+    },
     {
       "source": "Cointelegraph",
       "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
@@ -254,13 +261,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-as-dollar-dips-on-treasury-pause-4940524",
       "published": "2026-10-09 09:46:00",
       "ts": 1791539160
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "OceanBase Launches EvolvingX: A Database Solution for Always-On Performance and Seamless Growth",
-      "link": "https://www.investing.com/news/cryptocurrency-news/oceanbase-launches-evolvingx-a-database-solution-for-alwayson-performance-and-seamless-growth-4940421",
-      "published": "2026-10-09 09:00:09",
-      "ts": 1791536409
     },
     {
       "source": "Investing Forex",
