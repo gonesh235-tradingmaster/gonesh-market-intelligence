@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-12T23:07:11.788159+00:00",
+  "updated_utc": "2026-10-12T23:26:02.601189+00:00",
   "source": "Yahoo Finance",
   "us_markets": {
     "sp500": {
@@ -61,7 +61,7 @@
       "previous_close": 100.2,
       "change": 5.99,
       "change_percent": 5.98,
-      "day_high": 106.19,
+      "day_high": 106.27,
       "day_low": 106.0,
       "currency": "USD",
       "market_state": ""
@@ -71,18 +71,18 @@
       "previous_close": 88.28,
       "change": 5.13,
       "change_percent": 5.81,
-      "day_high": 93.41,
+      "day_high": 93.49,
       "day_low": 93.2,
       "currency": "USD",
       "market_state": ""
     },
     "gold": {
-      "value": 4193.8,
+      "value": 4192.1,
       "previous_close": 4140.7,
-      "change": 53.1,
-      "change_percent": 1.28,
+      "change": 51.4,
+      "change_percent": 1.24,
       "day_high": 4201.7,
-      "day_low": 4193.0,
+      "day_low": 4190.6,
       "currency": "USD",
       "market_state": ""
     }
