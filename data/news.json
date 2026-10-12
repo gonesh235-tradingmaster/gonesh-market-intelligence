@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-12T18:48:42.695146+00:00",
+  "updated_utc": "2026-10-12T19:05:07.301073+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto PACs report $2.7M spending blitz on House races as midterms loom",
+      "link": "https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 12 Oct 2026 18:55:49 +0000",
+      "ts": 1791831349
+    },
     {
       "source": "Cointelegraph",
       "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo",
@@ -163,13 +170,6 @@
       "link": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
       "published": "Mon, 12 Oct 2026 12:01:53 +0000",
       "ts": 1791806513
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Australia proposes leverage caps for crypto-settled derivatives",
-      "link": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 11:41:58 +0000",
-      "ts": 1791805318
     },
     {
       "source": "CoinDesk",
