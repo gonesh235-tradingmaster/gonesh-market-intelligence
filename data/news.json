@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-12T08:15:28.494971+00:00",
+  "updated_utc": "2026-10-12T08:41:57.682502+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
+      "link": "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years",
+      "published": "Mon, 12 Oct 2026 08:32:17 +0000",
+      "ts": 1791793937
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Eurozone yields ease as energy pullback temporarily soothes duration fears",
+      "link": "https://www.investing.com/news/forex-news/eurozone-yields-ease-as-energy-pullback-temporarily-soothesduration-fears-4943436",
+      "published": "2026-10-12 08:17:56",
+      "ts": 1791793076
+    },
     {
       "source": "CoinDesk",
       "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
@@ -242,13 +256,6 @@
       "ts": 1791633600
     },
     {
-      "source": "CoinDesk",
-      "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
-      "link": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
-      "published": "Sat, 10 Oct 2026 12:00:00 +0000",
-      "ts": 1791633600
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar gains for fourth straight week on Fed rate outlook",
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-dollar-heads-for-fourth-straight-week-of-gains-4940141",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-as-dollar-dips-on-treasury-pause-4940524",
       "published": "2026-10-09 09:46:00",
       "ts": 1791539160
-    },
-    {
-      "source": "Investing Forex",
-      "title": "UBS sees stronger outlook for Brazilian real after election",
-      "link": "https://www.investing.com/news/forex-news/ubs-sees-stronger-outlook-for-brazilian-real-after-election-93CH-4940395",
-      "published": "2026-10-09 08:15:39",
-      "ts": 1791533739
     }
   ]
 }
