@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-12T19:23:48.637805+00:00",
+  "updated_utc": "2026-10-12T19:41:59.030198+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 12 Oct 2026 19:26:13 +0000",
+      "ts": 1791833173
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin clings to $81,479 support under heavy resistance: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
+      "published": "2026-10-12 19:18:23",
+      "ts": 1791832703
+    },
     {
       "source": "Cointelegraph",
       "title": "Crypto PACs report $2.7M spending blitz on House races as midterms loom",
@@ -131,13 +145,6 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 12:46:51 +0000",
-      "ts": 1791809211
-    },
-    {
-      "source": "Cointelegraph",
       "title": "Strategy adds 250 Bitcoin as holdings reach 848,250 BTC",
       "link": "https://cointelegraph.com/news/michael-saylor-strategy-250-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 12 Oct 2026 12:31:51 +0000",
@@ -212,13 +219,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-euro-slips-as-fed-bets-back-dollar-4943503",
       "published": "2026-10-12 08:40:09",
       "ts": 1791794409
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin wedged at $84,175 between key support and resistance: Live",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
-      "published": "2026-10-12 07:11:33",
-      "ts": 1791789093
     },
     {
       "source": "Investing Forex",
