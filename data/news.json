@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-12T11:48:05.490070+00:00",
+  "updated_utc": "2026-10-12T12:05:51.580752+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Ledger claims CryptoBilis cases are limited as up to $93M is traced, $10M frozen",
+      "link": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
+      "published": "Mon, 12 Oct 2026 12:01:53 +0000",
+      "ts": 1791806513
+    },
     {
       "source": "Cointelegraph",
       "title": "Australia proposes leverage caps for crypto-settled derivatives",
@@ -177,13 +184,6 @@
       "link": "https://www.investing.com/news/forex-news/eurozone-yields-ease-as-energy-pullback-temporarily-soothesduration-fears-4943436",
       "published": "2026-10-12 08:17:56",
       "ts": 1791793076
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
-      "link": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
-      "published": "Mon, 12 Oct 2026 07:49:40 +0000",
-      "ts": 1791791380
     },
     {
       "source": "Investing Crypto",
