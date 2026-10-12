@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-12T17:12:39.948279+00:00",
+  "updated_utc": "2026-10-12T17:33:03.813933+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 17:15:00 GMT",
+      "ts": 1791825300
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin miners face widening AI financing costs as lenders scrutinize deals",
@@ -107,13 +114,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-near-84k-as-falling-oil-prices-offer-some-support-4943235",
       "published": "2026-10-12 13:56:30",
       "ts": 1791813390
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Winter heating costs are expected to be 8.3% higher than last year. But could El Niño help?",
-      "link": "https://www.marketwatch.com/story/winter-is-coming-and-energy-bills-are-climbing-everything-just-keeps-going-up-983cfd2d?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 13:54:00 GMT",
-      "ts": 1791813240
     },
     {
       "source": "Cointelegraph",
