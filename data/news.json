@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-12T19:41:59.030198+00:00",
+  "updated_utc": "2026-10-12T19:57:56.749251+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Meta is back on the AI leaderboard with its new family of Wonder models",
+      "link": "https://www.marketwatch.com/story/meta-is-back-on-the-ai-leaderboard-with-its-new-family-of-wonder-models-a704b6cc?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 19:43:00 GMT",
+      "ts": 1791834180
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -107,13 +114,6 @@
       "link": "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
       "published": "Mon, 12 Oct 2026 15:27:09 +0000",
       "ts": 1791818829
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Micron makes a statement with the latest clue about its cash windfall",
-      "link": "https://www.marketwatch.com/story/micron-makes-a-statement-with-the-latest-clue-about-its-cash-windfall-c9e33f7d?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 15:06:00 GMT",
-      "ts": 1791817560
     },
     {
       "source": "CoinDesk",
