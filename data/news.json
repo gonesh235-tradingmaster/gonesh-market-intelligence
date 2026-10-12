@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-12T10:04:41.099424+00:00",
+  "updated_utc": "2026-10-12T10:27:04.449185+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 10:15:00 GMT",
+      "ts": 1791800100
+    },
     {
       "source": "Cointelegraph",
       "title": "Kraken parent clears Dubai’s final hurdle for dirham trading rollout",
@@ -184,13 +191,6 @@
       "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
       "published": "Sun, 11 Oct 2026 20:00:00 GMT",
       "ts": 1791748800
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-      "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-      "published": "Sun, 11 Oct 2026 19:32:00 GMT",
-      "ts": 1791747120
     },
     {
       "source": "Investing Crypto",
