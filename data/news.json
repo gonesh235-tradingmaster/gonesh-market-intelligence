@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-12T22:18:49.480570+00:00",
+  "updated_utc": "2026-10-12T22:37:03.275761+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Investors worry the bull market is getting old. But history shows it can continue to age gracefully.",
+      "link": "https://www.marketwatch.com/story/investors-worry-the-bull-market-is-getting-old-but-history-shows-it-can-continue-to-age-gracefully-0402e69c?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 22:27:00 GMT",
+      "ts": 1791844020
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin slips to $82.6k as rise in oil prices weigh on risk sentiment",
@@ -72,13 +79,6 @@
       "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
       "published": "Mon, 12 Oct 2026 20:40:00 GMT",
       "ts": 1791837600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Meta is back on the AI leaderboard with its new family of Wonder models",
-      "link": "https://www.marketwatch.com/story/meta-is-back-on-the-ai-leaderboard-with-its-new-family-of-wonder-models-a704b6cc?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 19:43:00 GMT",
-      "ts": 1791834180
     },
     {
       "source": "Cointelegraph",
