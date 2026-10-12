@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-10-12T11:04:33.923613+00:00",
+  "updated_utc": "2026-10-12T11:26:17.996555+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin holds $83,000 as dollar strength keeps markets on edge",
+      "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
+      "published": "Mon, 12 Oct 2026 11:21:11 +0000",
+      "ts": 1791804071
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BTC price support holds ahead of US CPI data: Three things Bitcoin traders need to know this week",
+      "link": "https://cointelegraph.com/markets/btc-price-support-holds-ahead-of-us-cpi-data-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 12 Oct 2026 11:14:10 +0000",
+      "ts": 1791803650
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Bank earnings to shed the first light on how higher yields are affecting the economy",
+      "link": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 11:07:00 GMT",
+      "ts": 1791803220
+    },
     {
       "source": "CoinDesk",
       "title": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
@@ -116,13 +137,6 @@
       "ts": 1791795900
     },
     {
-      "source": "MarketWatch",
-      "title": "Dr. Phil lists his lavish Beverly Hills estate for a whopping $67.5 million",
-      "link": "https://www.marketwatch.com/story/dr-phil-lists-his-lavish-beverly-hills-estate-for-a-whopping-67-5-million-5992b370?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 09:02:00 GMT",
-      "ts": 1791795720
-    },
-    {
       "source": "CoinDesk",
       "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
       "link": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
@@ -193,13 +207,6 @@
       "ts": 1791782143
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin pulls back from $84,000 as oil recovers, ETFs bleed over $600 million",
-      "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
-      "published": "Mon, 12 Oct 2026 04:49:30 +0000",
-      "ts": 1791780570
-    },
-    {
       "source": "Cointelegraph",
       "title": "French lawmakers back reporting rule for crypto wallets over $112K",
       "link": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -219,13 +226,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/data-network-joins-sui-and-walrus-to-scale-the-supply-chain-for-ai-training-data-4943027",
       "published": "2026-10-12 03:30:06",
       "ts": 1791775806
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
-      "link": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 01:21:29 +0000",
-      "ts": 1791768089
     },
     {
       "source": "Investing Crypto",
