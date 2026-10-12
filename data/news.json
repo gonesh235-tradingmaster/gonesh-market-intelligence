@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-12T15:23:18.644336+00:00",
+  "updated_utc": "2026-10-12T15:44:03.812406+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
+      "link": "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
+      "published": "Mon, 12 Oct 2026 15:27:09 +0000",
+      "ts": 1791818829
+    },
     {
       "source": "MarketWatch",
       "title": "Micron makes a statement with the latest clue about its cash windfall",
@@ -177,13 +184,6 @@
       "link": "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai",
       "published": "Mon, 12 Oct 2026 10:27:00 +0000",
       "ts": 1791800820
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Altcoins rally on thin trading as bitcoin holds below $83,500",
-      "link": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000",
-      "published": "Mon, 12 Oct 2026 10:20:54 +0000",
-      "ts": 1791800454
     },
     {
       "source": "Cointelegraph",
