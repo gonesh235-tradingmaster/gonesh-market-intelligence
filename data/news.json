@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-12T05:35:35.739749+00:00",
+  "updated_utc": "2026-10-12T05:54:09.050682+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
@@ -26,7 +26,7 @@
     },
     {
       "source": "Investing Forex",
-      "title": "Indian rupee surges after RBI unveils measures to support currency",
+      "title": "Indian rupee rebounds from near record low after RBI unveils support measures",
       "link": "https://www.investing.com/news/forex-news/indian-rupee-surges-after-rbi-unveils-measures-to-support-currency-4943076",
       "published": "2026-10-12 04:38:52",
       "ts": 1791779932
@@ -158,13 +158,6 @@
       "ts": 1791723600
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 11 Oct 2026 12:59:00 +0000",
-      "ts": 1791723540
-    },
-    {
       "source": "MarketWatch",
       "title": "Bank earnings to shed the first light on how higher yields are affecting the economy",
       "link": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories",
@@ -198,6 +191,13 @@
       "link": "https://www.investing.com/news/forex-news/yen-weakness-since-2025-has-been-limited-to-offshore-hours-analysis-4942531",
       "published": "2026-10-11 08:39:26",
       "ts": 1791707966
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+      "link": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 11 Oct 2026 07:50:00 +0000",
+      "ts": 1791705000
     },
     {
       "source": "Investing Crypto",
