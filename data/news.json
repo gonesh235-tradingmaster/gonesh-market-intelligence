@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-12T06:11:30.675710+00:00",
+  "updated_utc": "2026-10-12T06:42:17.891789+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
+      "link": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 12 Oct 2026 06:30:21 +0000",
+      "ts": 1791786621
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -184,13 +191,6 @@
       "link": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 11 Oct 2026 10:40:00 +0000",
       "ts": 1791715200
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ledger confirms unauthorized hardware implant, says losses may exceed $86M",
-      "link": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 11 Oct 2026 09:05:00 +0000",
-      "ts": 1791709500
     },
     {
       "source": "Investing Forex",
