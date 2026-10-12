@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-12T13:20:07.228858+00:00",
+  "updated_utc": "2026-10-12T13:52:06.242095+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The bull market is turning 4 years old — but yields could crash the party",
+      "link": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 13:42:00 GMT",
+      "ts": 1791812520
+    },
     {
       "source": "MarketWatch",
       "title": "‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
@@ -75,7 +82,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Ledger claims CryptoBilis cases are limited as up to $93M is traced, $10M frozen",
+      "title": "Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen",
       "link": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
       "published": "Mon, 12 Oct 2026 12:01:53 +0000",
       "ts": 1791806513
@@ -96,7 +103,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin holds $83,000 as dollar strength keeps markets on edge",
+      "title": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
       "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
       "published": "Mon, 12 Oct 2026 11:21:11 +0000",
       "ts": 1791804071
@@ -121,13 +128,6 @@
       "link": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
       "published": "Mon, 12 Oct 2026 11:02:38 +0000",
       "ts": 1791802958
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Fed officials want to hold off a rate hike this month. Will this week’s inflation data let them?",
-      "link": "https://www.marketwatch.com/story/fed-officials-want-to-hold-off-a-rate-hike-this-month-will-this-weeks-inflation-data-let-them-a82754d1?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 11:00:00 GMT",
-      "ts": 1791802800
     },
     {
       "source": "CoinDesk",
