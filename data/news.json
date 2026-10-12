@@ -1,8 +1,43 @@
 {
-  "updated_utc": "2026-10-12T09:02:00.200646+00:00",
+  "updated_utc": "2026-10-12T09:24:23.429586+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "The bond market is doing the Fed’s job, and that could be good news for stocks, says Morgan Stanley strategist",
+      "link": "https://www.marketwatch.com/story/the-bond-market-is-doing-the-feds-job-and-that-could-be-good-news-for-stocks-says-morgan-stanley-strategist-ec57b81a?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 09:23:00 GMT",
+      "ts": 1791796980
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My sister moved in with our widowed mother, 78, and says she deserves the family home. Is she right?",
+      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 09:15:00 GMT",
+      "ts": 1791796500
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Here’s why Goldman Sachs just flipped bullish on stocks for the rest of the year",
+      "link": "https://www.marketwatch.com/story/heres-why-goldman-sachs-just-flipped-bullish-on-stocks-for-the-rest-of-the-year-dfa3b0af?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 09:14:00 GMT",
+      "ts": 1791796440
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Legal battle continues as Dolly Parton’s estate claims nephew put up barbed wire to avoid summons",
+      "link": "https://www.marketwatch.com/story/legal-battle-continues-as-dolly-partons-estate-claims-nephew-put-up-barbed-wire-to-avoid-summons-e4ed0f9a?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 09:05:00 GMT",
+      "ts": 1791795900
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Dr. Phil lists his lavish Beverly Hills estate for a whopping $67.5 million",
+      "link": "https://www.marketwatch.com/story/dr-phil-lists-his-lavish-beverly-hills-estate-for-a-whopping-67-5-million-5992b370?mod=mw_rss_topstories",
+      "published": "Mon, 12 Oct 2026 09:02:00 GMT",
+      "ts": 1791795720
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
@@ -16,6 +51,13 @@
       "link": "https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 12 Oct 2026 08:45:58 +0000",
       "ts": 1791794758
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound edges up, euro slips as Fed bets back dollar",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-euro-slips-as-fed-bets-back-dollar-4943503",
+      "published": "2026-10-12 08:40:09",
+      "ts": 1791794409
     },
     {
       "source": "CoinDesk",
@@ -144,13 +186,6 @@
       "ts": 1791747120
     },
     {
-      "source": "MarketWatch",
-      "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-      "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-      "published": "Sun, 11 Oct 2026 19:32:00 GMT",
-      "ts": 1791747120
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin trapped in $81K-$84K range: Breakout watch live",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
@@ -172,13 +207,6 @@
       "ts": 1791738660
     },
     {
-      "source": "MarketWatch",
-      "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
-      "link": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
-      "published": "Sun, 11 Oct 2026 16:35:00 GMT",
-      "ts": 1791736500
-    },
-    {
       "source": "CoinDesk",
       "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
       "link": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
@@ -193,13 +221,6 @@
       "ts": 1791733247
     },
     {
-      "source": "MarketWatch",
-      "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
-      "link": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
-      "published": "Sun, 11 Oct 2026 14:00:00 GMT",
-      "ts": 1791727200
-    },
-    {
       "source": "Investing Crypto",
       "title": "EOS Climbs 11% As Investors Gain Confidence",
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-11-as-investors-gain-confidence-4942660",
@@ -212,20 +233,6 @@
       "link": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
       "published": "Sun, 11 Oct 2026 13:00:00 +0000",
       "ts": 1791723600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The bull market is turning 4 years old — but yields could crash the party",
-      "link": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories",
-      "published": "Sun, 11 Oct 2026 13:00:00 GMT",
-      "ts": 1791723600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Bank earnings to shed the first light on how higher yields are affecting the economy",
-      "link": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories",
-      "published": "Sun, 11 Oct 2026 12:00:00 GMT",
-      "ts": 1791720000
     },
     {
       "source": "Investing Crypto",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-zone-ministers-to-tell-france-to-pass-2027-budget-to-calm-markets-4938661",
       "published": "2026-10-09 12:24:47",
       "ts": 1791548687
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound edges up as dollar dips on Treasury pause",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-as-dollar-dips-on-treasury-pause-4940524",
-      "published": "2026-10-09 09:46:00",
-      "ts": 1791539160
     }
   ]
 }
