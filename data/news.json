@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-13T01:16:40.212281+00:00",
+  "updated_utc": "2026-10-13T01:39:04.812609+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Cardano Falls 10% In Selloff",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-selloff-4945289",
+      "published": "2026-10-13 00:52:59",
+      "ts": 1791852779
+    },
     {
       "source": "Cointelegraph",
       "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
@@ -247,13 +254,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-11-as-investors-gain-confidence-4942660",
       "published": "2026-10-11 13:03:01",
       "ts": 1791723781
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "EXIT HOUSE Launches on Ethereum, Letting Holders Exit Unwanted NFTs and Tokens for EXIT",
-      "link": "https://www.investing.com/news/cryptocurrency-news/exit-house-launches-on-ethereum-letting-holders-exit-unwanted-nfts-and-tokens-for-exit-4942590",
-      "published": "2026-10-11 11:00:07",
-      "ts": 1791716407
     },
     {
       "source": "Investing Forex",
