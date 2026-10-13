@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-13T04:06:52.780438+00:00",
+  "updated_utc": "2026-10-13T04:28:37.663888+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures",
+      "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
+      "published": "Tue, 13 Oct 2026 04:18:20 +0000",
+      "ts": 1791865100
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asia FX steady as dollar holds near 18-mth high, U.S. CPI awaited",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-steady-as-dollar-holds-near-18mth-high-us-cpi-awaited-4945383",
+      "published": "2026-10-13 04:04:52",
+      "ts": 1791864292
+    },
     {
       "source": "Cointelegraph",
       "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
@@ -207,13 +221,6 @@
       "ts": 1791802958
     },
     {
-      "source": "CoinDesk",
-      "title": "South Korea just got its first traditional bank loans backed by bitcoin",
-      "link": "https://www.coindesk.com/business/2026/10/12/south-korea-just-got-its-first-traditional-bank-loans-backed-by-bitcoin",
-      "published": "Mon, 12 Oct 2026 10:57:37 +0000",
-      "ts": 1791802657
-    },
-    {
       "source": "Investing Crypto",
       "title": "Qore3 and Bhutan’s GCIT Partner to Bring Blockchain Technology to a Himalayan Village",
       "link": "https://www.investing.com/news/cryptocurrency-news/qore3-and-bhutans-gcit-partner-to-bring-blockchain-technology-to-a-himalayan-village-4943834",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/eurusd-outlook-as-euro-stays-pinned-near-multi-month-lows-93CH-4941222",
       "published": "2026-10-09 13:14:38",
       "ts": 1791551678
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Euro zone ministers tell France to pass 2027 budget to calm markets",
-      "link": "https://www.investing.com/news/forex-news/euro-zone-ministers-to-tell-france-to-pass-2027-budget-to-calm-markets-4938661",
-      "published": "2026-10-09 12:24:47",
-      "ts": 1791548687
     }
   ]
 }
