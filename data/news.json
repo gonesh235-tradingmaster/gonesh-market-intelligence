@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-13T07:48:23.075656+00:00",
+  "updated_utc": "2026-10-13T08:04:43.432109+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Euro bonds stagger on French deficit fears and  AI corporate issuance squeeze",
+      "link": "https://www.investing.com/news/forex-news/euro-bonds-stagger-on-french-deficit-fears-and--ai-corporate-issuance-squeeze-4945526",
+      "published": "2026-10-13 07:45:59",
+      "ts": 1791877559
+    },
     {
       "source": "Investing Forex",
       "title": "Dollar dips from 18-mth high; rupee extends gains after RBI intervention",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-dollar-heads-for-fourth-straight-week-of-gains-4940141",
       "published": "2026-10-09 20:30:15",
       "ts": 1791577815
-    },
-    {
-      "source": "Investing Forex",
-      "title": "EUR/USD outlook as euro stays pinned near multi month lows",
-      "link": "https://www.investing.com/news/forex-news/eurusd-outlook-as-euro-stays-pinned-near-multi-month-lows-93CH-4941222",
-      "published": "2026-10-09 13:14:38",
-      "ts": 1791551678
     }
   ]
 }
