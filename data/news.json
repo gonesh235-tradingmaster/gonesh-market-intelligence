@@ -1,14 +1,28 @@
 {
-  "updated_utc": "2026-10-13T05:47:51.425837+00:00",
+  "updated_utc": "2026-10-13T06:03:20.977479+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 05:51:31 +0000",
+      "ts": 1791870691
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
       "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million",
       "published": "Tue, 13 Oct 2026 05:45:10 +0000",
       "ts": 1791870310
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
+      "link": "https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 05:38:37 +0000",
+      "ts": 1791869917
     },
     {
       "source": "Investing Crypto",
@@ -158,13 +172,6 @@
       "ts": 1791839486
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 19:26:13 +0000",
-      "ts": 1791833173
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin clings to $81,479 support under heavy resistance: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
@@ -177,13 +184,6 @@
       "link": "https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 12 Oct 2026 18:55:49 +0000",
       "ts": 1791831349
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo",
-      "link": "https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 18:38:14 +0000",
-      "ts": 1791830294
     },
     {
       "source": "CoinDesk",
