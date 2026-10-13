@@ -1,16 +1,16 @@
 {
-  "updated_utc": "2026-10-13T05:27:20.856639+00:00",
+  "updated_utc": "2026-10-13T05:47:49.691982+00:00",
   "source": "CoinGecko",
   "source_url": "https://www.coingecko.com/en/coins/bitcoin",
   "data": {
-    "price": 83701,
-    "previous_close": 84007.56,
-    "change_24h": -306.56,
-    "change_24h_percent": -0.36,
+    "price": 83528,
+    "previous_close": 83903.39,
+    "change_24h": -375.39,
+    "change_24h_percent": -0.45,
     "high_24h": 84231,
     "low_24h": 81018,
-    "volume_24h": 31974430285,
+    "volume_24h": 31916955800,
     "mood_score": -4,
-    "mood_reason": "Funding elevated (0.558%) — longs overheated"
+    "mood_reason": "Funding elevated (0.581%) — longs overheated"
   }
 }
