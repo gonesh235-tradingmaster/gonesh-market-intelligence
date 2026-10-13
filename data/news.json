@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-13T07:26:00.421223+00:00",
+  "updated_utc": "2026-10-13T07:48:23.075656+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Dollar dips from 18-mth high; rupee extends gains after RBI intervention",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-steady-as-dollar-holds-near-18mth-high-us-cpi-awaited-4945383",
+      "published": "2026-10-13 07:21:48",
+      "ts": 1791876108
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin consolidates between $82,650 and $84,643: Live levels",
@@ -72,13 +79,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
       "published": "Tue, 13 Oct 2026 04:18:20 +0000",
       "ts": 1791865100
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asia FX steady as dollar holds near 18-mth high, U.S. CPI awaited",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-steady-as-dollar-holds-near-18mth-high-us-cpi-awaited-4945383",
-      "published": "2026-10-13 04:04:52",
-      "ts": 1791864292
     },
     {
       "source": "Cointelegraph",
