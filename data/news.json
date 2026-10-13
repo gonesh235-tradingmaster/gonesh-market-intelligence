@@ -1,56 +1,105 @@
 {
-  "updated_utc": "2026-10-13T17:43:12.597956+00:00",
+  "updated_utc": "2026-10-13T21:57:55.987608+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
+      "source": "CoinDesk",
+      "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+      "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+      "published": "Tue, 13 Oct 2026 21:52:00 +0000",
+      "ts": 1791928320
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar dips a day ahead of CPI, while euro rises and Indian rupee extends rally",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-steady-as-dollar-holds-near-18mth-high-us-cpi-awaited-4945383",
+      "published": "2026-10-13 21:04:42",
+      "ts": 1791925482
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
+      "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
+      "published": "Tue, 13 Oct 2026 21:02:00 GMT",
+      "ts": 1791925320
+    },
+    {
       "source": "MarketWatch",
       "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
       "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "published": "Tue, 13 Oct 2026 17:30:00 GMT",
-      "ts": 1791912600
+      "published": "Tue, 13 Oct 2026 21:01:00 GMT",
+      "ts": 1791925260
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bybit Expands Beyond Crypto as CEO Outlines Next Phase of Financial Platform",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bybit-expands-beyond-crypto-as-ceo-outlines-next-phase-of-financial-platform-4947564",
+      "published": "2026-10-13 21:00:08",
+      "ts": 1791925208
     },
     {
       "source": "MarketWatch",
-      "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
-      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "published": "Tue, 13 Oct 2026 17:30:00 GMT",
-      "ts": 1791912600
+      "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
+      "link": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
+      "published": "Tue, 13 Oct 2026 20:42:00 GMT",
+      "ts": 1791924120
     },
     {
       "source": "MarketWatch",
-      "title": "How to read your body’s warning signs years before you get sick",
-      "link": "https://www.marketwatch.com/story/how-to-read-your-bodys-warning-signs-years-before-you-get-sick-3fb8c82d?mod=mw_rss_topstories",
-      "published": "Tue, 13 Oct 2026 17:22:00 GMT",
-      "ts": 1791912120
+      "title": "Six Flags’ stock slumps near 17-year low after fatal incident",
+      "link": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
+      "published": "Tue, 13 Oct 2026 20:41:00 GMT",
+      "ts": 1791924060
     },
     {
       "source": "MarketWatch",
       "title": "AST SpaceMobile’s stock is feeling the heat from SpaceX’s wireless plans",
       "link": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-feeling-the-heat-from-spacexs-wireless-plans-7e2fafb4?mod=mw_rss_topstories",
-      "published": "Tue, 13 Oct 2026 17:18:00 GMT",
-      "ts": 1791911880
+      "published": "Tue, 13 Oct 2026 20:32:00 GMT",
+      "ts": 1791923520
     },
     {
       "source": "MarketWatch",
-      "title": "Who should pay for my birthday dinner — me, or my guests?",
-      "link": "https://www.marketwatch.com/story/who-should-pay-for-a-birthday-dinner-i-always-treat-my-guests-5bbd1880?mod=mw_rss_topstories",
-      "published": "Tue, 13 Oct 2026 17:14:00 GMT",
-      "ts": 1791911640
+      "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
+      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "published": "Tue, 13 Oct 2026 20:30:00 GMT",
+      "ts": 1791923400
     },
     {
       "source": "MarketWatch",
-      "title": "I keep comparing myself to my more financially successful friends. How can I stop?",
-      "link": "https://www.marketwatch.com/story/i-keep-comparing-myself-to-my-more-financially-successful-friends-how-can-i-stop-716a2009?mod=mw_rss_topstories",
-      "published": "Tue, 13 Oct 2026 17:05:00 GMT",
-      "ts": 1791911100
+      "title": "UnitedHealth keeps medical costs under control — and raises its outlook again",
+      "link": "https://www.marketwatch.com/story/unitedhealth-keeps-medical-costs-under-control-and-raises-its-outlook-again-71abc99c?mod=mw_rss_topstories",
+      "published": "Tue, 13 Oct 2026 20:29:00 GMT",
+      "ts": 1791923340
     },
     {
       "source": "MarketWatch",
-      "title": "AI fatigue is gripping the market and driving chip stocks toward their worst stretch in 16 months",
-      "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
-      "published": "Tue, 13 Oct 2026 16:52:00 GMT",
-      "ts": 1791910320
+      "title": "Was Broadcom CEO bullish or bearish on AI? ‘Gamblers’ comment creates storm.",
+      "link": "https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787?mod=mw_rss_topstories",
+      "published": "Tue, 13 Oct 2026 20:27:00 GMT",
+      "ts": 1791923220
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
+      "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 19:48:06 +0000",
+      "ts": 1791920886
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 19:33:57 +0000",
+      "ts": 1791920037
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
+      "link": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 19:07:04 +0000",
+      "ts": 1791918424
     },
     {
       "source": "Cointelegraph",
@@ -58,13 +107,6 @@
       "link": "https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 13 Oct 2026 16:51:25 +0000",
       "ts": 1791910285
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘Superintelligence’ may never arrive, Deutsche Bank says. What that could mean for the U.S. economy.",
-      "link": "https://www.marketwatch.com/story/superintelligence-may-never-arrive-deutsche-bank-says-what-that-could-mean-for-the-u-s-economy-765b89a8?mod=mw_rss_topstories",
-      "published": "Tue, 13 Oct 2026 16:21:00 GMT",
-      "ts": 1791908460
     },
     {
       "source": "Cointelegraph",
@@ -75,7 +117,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto exchange MNX takes on OKX, BitGet offering pre-IPO futures for AI giants",
+      "title": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
       "link": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
       "published": "Tue, 13 Oct 2026 15:52:09 +0000",
       "ts": 1791906729
@@ -89,7 +131,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "UK crypto trader says almost $800,000 lost in knife attack as wrench attacks proliferate",
+      "title": "UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate",
       "link": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
       "published": "Tue, 13 Oct 2026 15:24:52 +0000",
       "ts": 1791905092
@@ -123,20 +165,6 @@
       "ts": 1791898200
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 13 Oct 2026 13:26:42 +0000",
-      "ts": 1791898002
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Digital cash offers ‘cash-like privacy,’ but bank data breaches threaten users: BIS",
-      "link": "https://cointelegraph.com/news/bis-digital-cash-privacy-bank-data-breaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 13 Oct 2026 13:17:17 +0000",
-      "ts": 1791897437
-    },
-    {
       "source": "Investing Forex",
       "title": "Italy’s bond spread to Germany widens amid French debt pressures",
       "link": "https://www.investing.com/news/forex-news/italys-bond-spread-to-germany-widens-amid-french-debt-pressures-93CH-4946809",
@@ -149,13 +177,6 @@
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-gains-as-us-dollar-retreats-from-18month-high-4946655",
       "published": "2026-10-13 12:40:08",
       "ts": 1791895208
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Russia clears Sberbank for crypto trading ahead of December launch",
-      "link": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 13 Oct 2026 12:22:24 +0000",
-      "ts": 1791894144
     },
     {
       "source": "Investing Forex",
@@ -198,20 +219,6 @@
       "link": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
       "published": "Tue, 13 Oct 2026 11:02:47 +0000",
       "ts": 1791889367
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin trading in tight range near $83,000 ahead of key U.S. inflation data",
-      "link": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
-      "published": "Tue, 13 Oct 2026 10:46:57 +0000",
-      "ts": 1791888417
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Rupee extends surge; Dollar consolidates near peaks ahead of inflation data",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-steady-as-dollar-holds-near-18mth-high-us-cpi-awaited-4945383",
-      "published": "2026-10-13 09:19:48",
-      "ts": 1791883188
     },
     {
       "source": "Investing Crypto",
@@ -261,13 +268,6 @@
       "link": "https://www.investing.com/news/forex-news/eurozone-yields-ease-as-energy-pullback-temporarily-soothesduration-fears-4943436",
       "published": "2026-10-12 12:26:11",
       "ts": 1791807971
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Qore3 and Bhutan’s GCIT Partner to Bring Blockchain Technology to a Himalayan Village",
-      "link": "https://www.investing.com/news/cryptocurrency-news/qore3-and-bhutans-gcit-partner-to-bring-blockchain-technology-to-a-himalayan-village-4943834",
-      "published": "2026-10-12 10:30:07",
-      "ts": 1791801007
     },
     {
       "source": "Investing Forex",
