@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-10-13T09:04:56.293079+00:00",
+  "updated_utc": "2026-10-13T09:27:43.613003+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "UK court ruling boosts government’s chances of keeping $5 billion in seized bitcoin",
+      "link": "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin",
+      "published": "Tue, 13 Oct 2026 09:25:03 +0000",
+      "ts": 1791883503
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My wife says we can’t afford to retire. We have $4 million. Do I just keep working?",
+      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "published": "Tue, 13 Oct 2026 09:15:00 GMT",
+      "ts": 1791882900
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Chinese fraud victims lose key court battle over 61,000 Bitcoin",
+      "link": "https://cointelegraph.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 09:03:06 +0000",
+      "ts": 1791882186
+    },
     {
       "source": "MarketWatch",
       "title": "‘Breaking Bad’ star Aaron Paul sells L.A. home for $7.5 million; he now lives in Paris",
@@ -172,13 +193,6 @@
       "ts": 1791850680
     },
     {
-      "source": "MarketWatch",
-      "title": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
-      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "published": "Mon, 12 Oct 2026 23:31:00 GMT",
-      "ts": 1791847860
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin slips to $82.6k as rise in oil prices weigh on risk sentiment",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-near-84k-as-falling-oil-prices-offer-some-support-4943235",
@@ -191,13 +205,6 @@
       "link": "https://www.investing.com/news/forex-news/asia-fx-steady-as-dollar-holds-near-18mth-high-rupee-jumps-on-rbi-measures-4943051",
       "published": "2026-10-12 21:26:34",
       "ts": 1791840394
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "FTX’s crypto mining venture is now used to advance AI",
-      "link": "https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 12 Oct 2026 21:11:26 +0000",
-      "ts": 1791839486
     },
     {
       "source": "CoinDesk",
@@ -233,13 +240,6 @@
       "link": "https://www.investing.com/news/forex-news/eurozone-yields-ease-as-energy-pullback-temporarily-soothesduration-fears-4943436",
       "published": "2026-10-12 12:26:11",
       "ts": 1791807971
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
-      "link": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
-      "published": "Mon, 12 Oct 2026 12:09:09 +0000",
-      "ts": 1791806949
     },
     {
       "source": "Investing Crypto",
