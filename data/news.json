@@ -1,14 +1,35 @@
 {
-  "updated_utc": "2026-10-13T09:27:43.613003+00:00",
+  "updated_utc": "2026-10-13T09:48:28.365271+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "What to expect from Europe’s most valuable company before it kicks off tech earnings",
+      "link": "https://www.marketwatch.com/story/what-to-expect-from-europes-most-valuable-company-before-it-kicks-off-tech-earnings-a6272cc0?mod=mw_rss_topstories",
+      "published": "Tue, 13 Oct 2026 09:33:00 GMT",
+      "ts": 1791883980
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
+      "link": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
+      "published": "Tue, 13 Oct 2026 09:27:47 +0000",
+      "ts": 1791883667
+    },
     {
       "source": "CoinDesk",
       "title": "UK court ruling boosts government’s chances of keeping $5 billion in seized bitcoin",
       "link": "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin",
       "published": "Tue, 13 Oct 2026 09:25:03 +0000",
       "ts": 1791883503
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Rupee extends surge;  Dollar consolidates near peaks ahead of inflation data",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-steady-as-dollar-holds-near-18mth-high-us-cpi-awaited-4945383",
+      "published": "2026-10-13 09:19:48",
+      "ts": 1791883188
     },
     {
       "source": "MarketWatch",
@@ -72,13 +93,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-bonds-stagger-on-french-deficit-fears-and--ai-corporate-issuance-squeeze-4945526",
       "published": "2026-10-13 07:45:59",
       "ts": 1791877559
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar dips from 18-mth high; rupee extends gains after RBI intervention",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-steady-as-dollar-holds-near-18mth-high-us-cpi-awaited-4945383",
-      "published": "2026-10-13 07:21:48",
-      "ts": 1791876108
     },
     {
       "source": "Investing Crypto",
@@ -186,13 +200,6 @@
       "ts": 1791852772
     },
     {
-      "source": "MarketWatch",
-      "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
-      "link": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
-      "published": "Tue, 13 Oct 2026 00:18:00 GMT",
-      "ts": 1791850680
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin slips to $82.6k as rise in oil prices weigh on risk sentiment",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-near-84k-as-falling-oil-prices-offer-some-support-4943235",
@@ -219,13 +226,6 @@
       "link": "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
       "published": "Mon, 12 Oct 2026 15:27:09 +0000",
       "ts": 1791818829
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
-      "link": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
-      "published": "Mon, 12 Oct 2026 15:00:00 +0000",
-      "ts": 1791817200
     },
     {
       "source": "Investing Crypto",
