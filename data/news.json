@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-13T06:31:23.925476+00:00",
+  "updated_utc": "2026-10-13T07:01:12.669492+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin pinned below $84k as tech selldown weighs",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-84k-as-tech-selldown-weighs-4945552",
+      "published": "2026-10-13 06:42:23",
+      "ts": 1791873743
+    },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
@@ -254,13 +261,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/data-network-joins-sui-and-walrus-to-scale-the-supply-chain-for-ai-training-data-4943027",
       "published": "2026-10-12 03:30:06",
       "ts": 1791775806
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin trapped in $81K-$84K range: Breakout watch live",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-87363-resistance-with-fading-momentum-live-levels-93CH-4931135",
-      "published": "2026-10-11 19:02:17",
-      "ts": 1791745337
     },
     {
       "source": "Investing Forex",
