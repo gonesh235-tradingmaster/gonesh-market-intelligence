@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-13T09:48:28.365271+00:00",
+  "updated_utc": "2026-10-13T10:04:16.829430+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin hits $84K resistance as Korean tech rout deepens KOSPI losses",
+      "link": "https://cointelegraph.com/markets/bitcoin-hits-84k-resistance-as-korea-tech-sell-off-sends-kospi-down-74?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 09:42:00 +0000",
+      "ts": 1791884520
+    },
     {
       "source": "MarketWatch",
       "title": "What to expect from Europe’s most valuable company before it kicks off tech earnings",
@@ -191,13 +198,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-selloff-4945289",
       "published": "2026-10-13 00:52:59",
       "ts": 1791852779
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
-      "link": "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 13 Oct 2026 00:52:52 +0000",
-      "ts": 1791852772
     },
     {
       "source": "Investing Crypto",
