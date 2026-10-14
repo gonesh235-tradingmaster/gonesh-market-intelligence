@@ -1,14 +1,35 @@
 {
-  "updated_utc": "2026-10-13T21:57:55.987608+00:00",
+  "updated_utc": "2026-10-14T00:57:53.456830+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
+      "link": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 13 Oct 2026 23:28:19 +0000",
+      "ts": 1791934099
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+      "link": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+      "published": "Tue, 13 Oct 2026 23:23:05 +0000",
+      "ts": 1791933785
+    },
     {
       "source": "CoinDesk",
       "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
       "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
       "published": "Tue, 13 Oct 2026 21:52:00 +0000",
       "ts": 1791928320
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin up 1% to $83.4k, but gains capped as risk appetite takes a hit",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-84k-as-tech-selldown-weighs-4945552",
+      "published": "2026-10-13 21:40:52",
+      "ts": 1791927652
     },
     {
       "source": "Investing Forex",
@@ -144,25 +165,11 @@
       "ts": 1791901810
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin subdued below $84k as tech selldown hurts risk appetite",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-84k-as-tech-selldown-weighs-4945552",
-      "published": "2026-10-13 14:02:39",
-      "ts": 1791900159
-    },
-    {
       "source": "Cointelegraph",
       "title": "Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus",
       "link": "https://cointelegraph.com/news/anthropic-ai-worms-autonomously-spread-devices-virus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 13 Oct 2026 13:55:09 +0000",
       "ts": 1791899709
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Is Bitcoin kidding itself about the Lightning Network?",
-      "link": "https://cointelegraph.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 13 Oct 2026 13:30:00 +0000",
-      "ts": 1791898200
     },
     {
       "source": "Investing Forex",
@@ -212,13 +219,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
       "published": "Tue, 13 Oct 2026 11:06:39 +0000",
       "ts": 1791889599
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Russia’s largest bank Sberbank secures approval to trade crypto",
-      "link": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
-      "published": "Tue, 13 Oct 2026 11:02:47 +0000",
-      "ts": 1791889367
     },
     {
       "source": "Investing Crypto",
