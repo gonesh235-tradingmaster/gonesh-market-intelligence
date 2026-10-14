@@ -1,8 +1,92 @@
 {
-  "updated_utc": "2026-10-14T00:57:53.456830+00:00",
+  "updated_utc": "2026-10-14T05:55:11.437350+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+      "link": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
+      "published": "Wed, 14 Oct 2026 05:44:51 +0000",
+      "ts": 1791956691
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 14 Oct 2026 05:35:52 +0000",
+      "ts": 1791956152
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Starknet introduces wallet privacy feature for DeFi activity",
+      "link": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 14 Oct 2026 05:32:14 +0000",
+      "ts": 1791955934
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Fed’s Williams sees AI supply squeeze lasting beyond 2 years",
+      "link": "https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 14 Oct 2026 05:30:10 +0000",
+      "ts": 1791955810
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
+      "link": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
+      "published": "Wed, 14 Oct 2026 05:24:12 +0000",
+      "ts": 1791955452
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+      "link": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+      "published": "Wed, 14 Oct 2026 04:11:16 +0000",
+      "ts": 1791951076
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asia FX subdued ahead of U.S. CPI;  China data, Singapore GDP in focus",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-ahead-of-us-cpi-china-data-singapore-gdp-in-focus-4947972",
+      "published": "2026-10-14 04:10:40",
+      "ts": 1791951040
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
+      "link": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
+      "published": "Wed, 14 Oct 2026 03:50:54 +0000",
+      "ts": 1791949854
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitwise’s Hougan says Q3 charts point to ‘crypto spring’",
+      "link": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 14 Oct 2026 02:19:56 +0000",
+      "ts": 1791944396
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "published": "Wed, 14 Oct 2026 01:31:00 GMT",
+      "ts": 1791941460
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
+      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "published": "Wed, 14 Oct 2026 01:25:00 GMT",
+      "ts": 1791941100
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+      "link": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+      "published": "Wed, 14 Oct 2026 01:00:00 +0000",
+      "ts": 1791939600
+    },
     {
       "source": "Cointelegraph",
       "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
@@ -46,13 +130,6 @@
       "ts": 1791925320
     },
     {
-      "source": "MarketWatch",
-      "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "published": "Tue, 13 Oct 2026 21:01:00 GMT",
-      "ts": 1791925260
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bybit Expands Beyond Crypto as CEO Outlines Next Phase of Financial Platform",
       "link": "https://www.investing.com/news/cryptocurrency-news/bybit-expands-beyond-crypto-as-ceo-outlines-next-phase-of-financial-platform-4947564",
@@ -82,13 +159,6 @@
     },
     {
       "source": "MarketWatch",
-      "title": "My wife says we can’t afford to retire, yet she wants to take an $8,000 trip to Italy. We have $4 million. Do I keep working?",
-      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "published": "Tue, 13 Oct 2026 20:30:00 GMT",
-      "ts": 1791923400
-    },
-    {
-      "source": "MarketWatch",
       "title": "UnitedHealth keeps medical costs under control — and raises its outlook again",
       "link": "https://www.marketwatch.com/story/unitedhealth-keeps-medical-costs-under-control-and-raises-its-outlook-again-71abc99c?mod=mw_rss_topstories",
       "published": "Tue, 13 Oct 2026 20:29:00 GMT",
@@ -110,13 +180,6 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 13 Oct 2026 19:33:57 +0000",
-      "ts": 1791920037
-    },
-    {
-      "source": "Cointelegraph",
       "title": "Trezor reduces resellers as a ‘preventative step’ amid Ledger tampering reports",
       "link": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 13 Oct 2026 19:07:04 +0000",
@@ -130,13 +193,6 @@
       "ts": 1791910285
     },
     {
-      "source": "Cointelegraph",
-      "title": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%",
-      "link": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 13 Oct 2026 15:57:55 +0000",
-      "ts": 1791907075
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
       "link": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
@@ -144,32 +200,11 @@
       "ts": 1791906729
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
-      "link": "https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 13 Oct 2026 15:27:32 +0000",
-      "ts": 1791905252
-    },
-    {
-      "source": "CoinDesk",
-      "title": "UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate",
-      "link": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
-      "published": "Tue, 13 Oct 2026 15:24:52 +0000",
-      "ts": 1791905092
-    },
-    {
       "source": "Investing Crypto",
       "title": "Privacy by Default. Disclosure by Choice: Ricchezza Coin Prepares to Launch Layer 1 Privacy Ecosystem",
       "link": "https://www.investing.com/news/cryptocurrency-news/privacy-by-default-disclosure-by-choice-ricchezza-coin-prepares-to-launch-layer-1-privacy-ecosystem-4947123",
       "published": "2026-10-13 14:30:10",
       "ts": 1791901810
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Anthropic warns ‘AI worms’ may autonomously spread across devices like a virus",
-      "link": "https://cointelegraph.com/news/anthropic-ai-worms-autonomously-spread-devices-virus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 13 Oct 2026 13:55:09 +0000",
-      "ts": 1791899709
     },
     {
       "source": "Investing Forex",
@@ -191,34 +226,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-bonds-stagger-on-french-deficit-fears-and--ai-corporate-issuance-squeeze-4945526",
       "published": "2026-10-13 12:12:02",
       "ts": 1791893522
-    },
-    {
-      "source": "CoinDesk",
-      "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
-      "link": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
-      "published": "Tue, 13 Oct 2026 11:58:04 +0000",
-      "ts": 1791892684
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
-      "link": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
-      "published": "Tue, 13 Oct 2026 11:56:04 +0000",
-      "ts": 1791892564
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
-      "published": "Tue, 13 Oct 2026 11:26:45 +0000",
-      "ts": 1791890805
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
-      "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
-      "published": "Tue, 13 Oct 2026 11:06:39 +0000",
-      "ts": 1791889599
     },
     {
       "source": "Investing Crypto",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-euro-slips-as-fed-bets-back-dollar-4943503",
       "published": "2026-10-12 08:40:09",
       "ts": 1791794409
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Indian rupee rebounds from near record low after RBI unveils support measures",
-      "link": "https://www.investing.com/news/forex-news/indian-rupee-surges-after-rbi-unveils-measures-to-support-currency-4943076",
-      "published": "2026-10-12 04:38:52",
-      "ts": 1791779932
     }
   ]
 }
