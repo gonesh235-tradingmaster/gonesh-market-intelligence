@@ -1,70 +1,217 @@
 {
-  "updated_utc": "2026-10-14T11:04:26.395330+00:00",
+  "updated_utc": "2026-10-14T15:48:04.533579+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
+      "source": "CoinDesk",
+      "title": "AI agents make 138 million crypto payments as U.S. dominates spending on AI models",
+      "link": "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
+      "published": "Wed, 14 Oct 2026 15:35:36 +0000",
+      "ts": 1791992136
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Your Social Security check will rise 3.6% next year, but will it be able to keep up with inflation?",
+      "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+      "published": "Wed, 14 Oct 2026 15:33:00 GMT",
+      "ts": 1791991980
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "published": "Wed, 14 Oct 2026 15:18:00 GMT",
+      "ts": 1791991080
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron wins praise from Elon Musk for not being too greedy",
+      "link": "https://www.marketwatch.com/story/micron-wins-praise-from-elon-musk-for-not-being-too-greedy-616fa15f?mod=mw_rss_topstories",
+      "published": "Wed, 14 Oct 2026 15:07:00 GMT",
+      "ts": 1791990420
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio",
+      "published": "Wed, 14 Oct 2026 15:05:15 +0000",
+      "ts": 1791990315
+    },
+    {
+      "source": "CoinDesk",
+      "title": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
+      "link": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
+      "published": "Wed, 14 Oct 2026 14:49:32 +0000",
+      "ts": 1791989372
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
+      "link": "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
+      "published": "Wed, 14 Oct 2026 14:31:14 +0000",
+      "ts": 1791988274
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 14 Oct 2026 14:21:15 +0000",
+      "ts": 1791987675
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
+      "link": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
+      "published": "Wed, 14 Oct 2026 14:17:00 GMT",
+      "ts": 1791987420
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How Iran’s $2 trillion threat puts your AI stocks at risk",
+      "link": "https://www.marketwatch.com/story/how-irans-2-trillion-threat-puts-your-ai-stocks-at-risk-2721af43?mod=mw_rss_topstories",
+      "published": "Wed, 14 Oct 2026 14:17:00 GMT",
+      "ts": 1791987420
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
+      "link": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
+      "published": "Wed, 14 Oct 2026 14:08:43 +0000",
+      "ts": 1791986923
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
+      "link": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
+      "published": "Wed, 14 Oct 2026 14:08:00 GMT",
+      "ts": 1791986880
+    },
+    {
+      "source": "Investing Forex",
+      "title": "UBS sticks to buy-dollar-on-dips call. Here is why",
+      "link": "https://www.investing.com/news/forex-news/ubs-sticks-to-buydollarondips-call-here-is-why-4949579",
+      "published": "2026-10-14 14:05:41",
+      "ts": 1791986741
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin dips below $83k after hot U.S. inflation data",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-83k-as-markets-await-us-inflation-data-4948178",
+      "published": "2026-10-14 14:01:39",
+      "ts": 1791986499
+    },
+    {
+      "source": "CoinDesk",
+      "title": "America's growing digital economy requires power grid updates. Who will foot the bill?",
+      "link": "https://www.coindesk.com/opinion/2026/10/14/the-battle-over-the-ratepayer-protection-act-is-just-getting-started",
+      "published": "Wed, 14 Oct 2026 13:51:12 +0000",
+      "ts": 1791985872
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Climbs 10% As Investors Gain Confidence",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-10-as-investors-gain-confidence-4949545",
+      "published": "2026-10-14 13:46:59",
+      "ts": 1791985619
+    },
+    {
+      "source": "MarketWatch",
+      "title": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth",
+      "link": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories",
+      "published": "Wed, 14 Oct 2026 13:46:00 GMT",
+      "ts": 1791985560
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I lost my home in the Great Recession. I still rent in my 50s. Why is that judged as failure?",
+      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "published": "Wed, 14 Oct 2026 13:45:00 GMT",
+      "ts": 1791985500
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 14 Oct 2026 13:36:56 +0000",
+      "ts": 1791985016
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "‘Bunker mode’ won’t protect your crypto, critics say",
+      "link": "https://cointelegraph.com/magazine/bunker-mode-wont-protect-your-crypto-critics-say?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 14 Oct 2026 13:30:00 +0000",
+      "ts": 1791984600
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound falls as hotter U.S. core inflation boosts dollar",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-as-dollar-softens-before-us-cpi-4948452",
+      "published": "2026-10-14 13:28:09",
+      "ts": 1791984489
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
+      "link": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
+      "published": "Wed, 14 Oct 2026 13:07:45 +0000",
+      "ts": 1791983265
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Canada crypto remittances to Asian countries surge 141% to $2.36B: Chainalysis",
+      "link": "https://cointelegraph.com/news/canada-crypto-remittances-asia-surge-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 14 Oct 2026 13:00:00 +0000",
+      "ts": 1791982800
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Qivalis wins Dutch e-money license for euro stablecoin",
+      "link": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 14 Oct 2026 12:53:41 +0000",
+      "ts": 1791982421
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar pops as hot inflation triggers rate hike fears",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-ahead-of-us-cpi-china-data-singapore-gdp-in-focus-4947972",
+      "published": "2026-10-14 12:51:48",
+      "ts": 1791982308
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. 10-year yield jumps as hot inflation re-injects rate-hike fears",
+      "link": "https://www.investing.com/news/forex-news/eurozone-debt-bourses-consolidate-as-lagarde-rejects-french-bond-backstop-4948176",
+      "published": "2026-10-14 12:40:32",
+      "ts": 1791981632
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. September CPI comes in hot, sending bitcoin sharply lower",
+      "link": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower",
+      "published": "Wed, 14 Oct 2026 12:33:56 +0000",
+      "ts": 1791981236
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kraken parent to buy Lithuanian Saldo Bank amid TradFi expansion",
+      "link": "https://cointelegraph.com/news/krakens-parent-buy-lithuanian-saldo-bank-tradfi-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 14 Oct 2026 12:26:05 +0000",
+      "ts": 1791980765
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Can crypto users trust the supply chain behind hardware wallets?",
+      "link": "https://cointelegraph.com/news/hardware-wallet-supply-chain-risk-ledger-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 14 Oct 2026 11:59:42 +0000",
+      "ts": 1791979182
+    },
+    {
       "source": "Cointelegraph",
       "title": "Coins.ph says Philippine central bank license intact amid revocation claims",
       "link": "https://cointelegraph.com/news/coinsph-says-bsp-license-intact-amid-claims-of-potential-revocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 14 Oct 2026 10:55:55 +0000",
-      "ts": 1791975355
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",
-      "link": "https://www.coindesk.com/markets/2026/10/14/bitcoin-holds-above-usd83-000-ahead-of-u-s-inflation-data-as-altcoins-lag",
-      "published": "Wed, 14 Oct 2026 10:51:39 +0000",
-      "ts": 1791975099
-    },
-    {
-      "source": "MarketWatch",
-      "title": "BlackRock now has assets equal to half the size of the U.S. economy after 15% growth",
-      "link": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories",
-      "published": "Wed, 14 Oct 2026 10:41:00 GMT",
-      "ts": 1791974460
-    },
-    {
-      "source": "CoinDesk",
-      "title": "S&P 500 options are the hottest bet on this Hyperliquid exchange",
-      "link": "https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange",
-      "published": "Wed, 14 Oct 2026 10:38:47 +0000",
-      "ts": 1791974327
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "CryptoQuant’s 3 charts keeping Bitcoin’s ‘Uptober’ thesis valid",
-      "link": "https://cointelegraph.com/markets/cryptoquant-charts-bitcoin-uptober-thesis-valid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 14 Oct 2026 10:38:22 +0000",
-      "ts": 1791974302
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Sam Bankman-Fried’s lawyer lays out ex-FTX CEO’s Supreme Court case",
-      "link": "https://cointelegraph.com/news/ftx-sam-bankman-fried-lawyer-supreme-court-appeal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 14 Oct 2026 10:29:47 +0000",
-      "ts": 1791973787
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author",
-      "link": "https://cointelegraph.com/news/bitcoin-less-volatile-larger-gold-bitcoin-standard-author?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 14 Oct 2026 10:25:53 +0000",
-      "ts": 1791973553
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My wife says we can’t afford to retire, so I vetoed her $8,000 trip to Italy. We have $4 million saved. Do I keep working?",
-      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "published": "Wed, 14 Oct 2026 10:16:00 GMT",
-      "ts": 1791972960
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
-      "link": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 14 Oct 2026 10:07:03 +0000",
-      "ts": 1791972423
+      "published": "Wed, 14 Oct 2026 11:05:00 +0000",
+      "ts": 1791975900
     },
     {
       "source": "Investing Crypto",
@@ -81,62 +228,6 @@
       "ts": 1791972008
     },
     {
-      "source": "MarketWatch",
-      "title": "The truth about being a landlord in retirement",
-      "link": "https://www.marketwatch.com/story/the-truth-about-being-a-landlord-in-retirement-5d1daf4c?mod=mw_rss_topstories",
-      "published": "Wed, 14 Oct 2026 10:00:00 GMT",
-      "ts": 1791972000
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Investors have made big bets on tech stocks. Why one strategist just downgraded the sector.",
-      "link": "https://www.marketwatch.com/story/investors-have-made-big-bets-on-tech-stocks-why-one-strategist-just-downgraded-the-sector-4c893077?mod=mw_rss_topstories",
-      "published": "Wed, 14 Oct 2026 10:00:00 GMT",
-      "ts": 1791972000
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin tumbles from near $84,000 ahead of U.S. inflation data",
-      "link": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
-      "published": "Wed, 14 Oct 2026 09:45:53 +0000",
-      "ts": 1791971153
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar languishes as inflation awaited; Euro edges up on Lagarde warning",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-ahead-of-us-cpi-china-data-singapore-gdp-in-focus-4947972",
-      "published": "2026-10-14 09:20:27",
-      "ts": 1791969627
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin flat at $83.5k as markets await U.S. inflation data",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-83k-as-markets-await-us-inflation-data-4948178",
-      "published": "2026-10-14 09:17:32",
-      "ts": 1791969452
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I earn $110,000 a year’: I lost my home in the Great Recession. I’m renting in my 50s. Why is that judged as failure?",
-      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "published": "Wed, 14 Oct 2026 09:15:00 GMT",
-      "ts": 1791969300
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound edges up as dollar softens before U.S. CPI",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-as-dollar-softens-before-us-cpi-4948452",
-      "published": "2026-10-14 09:12:09",
-      "ts": 1791969129
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘Sopranos’ star Steven Van Zandt is selling his Greenwich Village penthouse for $19 million",
-      "link": "https://www.marketwatch.com/story/sopranos-star-steven-van-zandt-is-selling-his-greenwich-village-penthouse-for-19-million-ad250720?mod=mw_rss_topstories",
-      "published": "Wed, 14 Oct 2026 09:03:00 GMT",
-      "ts": 1791968580
-    },
-    {
       "source": "Investing Forex",
       "title": "India importers press on with rupee hedges despite RBI’s higher-cost deterrent",
       "link": "https://www.investing.com/news/forex-news/india-importers-press-on-with-rupee-hedges-despite-rbis-highercost-deterrent-4948416",
@@ -144,88 +235,11 @@
       "ts": 1791968425
     },
     {
-      "source": "CoinDesk",
-      "title": "Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore",
-      "link": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
-      "published": "Wed, 14 Oct 2026 08:48:11 +0000",
-      "ts": 1791967691
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Chip bellwether ASML says customers are already asking to place orders — for 2030",
-      "link": "https://www.marketwatch.com/story/chip-bellwether-asml-says-customers-are-already-asking-to-place-orders-for-2030-b3aa1a90?mod=mw_rss_topstories",
-      "published": "Wed, 14 Oct 2026 08:41:00 GMT",
-      "ts": 1791967260
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
-      "link": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
-      "published": "Wed, 14 Oct 2026 08:10:07 +0000",
-      "ts": 1791965407
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Eurozone debt bourses consolidate as Lagarde rejects French bond backstop",
-      "link": "https://www.investing.com/news/forex-news/eurozone-debt-bourses-consolidate-as-lagarde-rejects-french-bond-backstop-4948176",
-      "published": "2026-10-14 07:48:17",
-      "ts": 1791964097
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin stuck in Ichimoku cloud near $83,517: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
       "published": "2026-10-14 07:11:53",
       "ts": 1791961913
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
-      "link": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
-      "published": "Wed, 14 Oct 2026 05:44:51 +0000",
-      "ts": 1791956691
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 14 Oct 2026 05:35:52 +0000",
-      "ts": 1791956152
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Starknet introduces wallet privacy feature for DeFi activity",
-      "link": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 14 Oct 2026 05:32:14 +0000",
-      "ts": 1791955934
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Fed’s Williams sees AI supply squeeze lasting beyond 2 years",
-      "link": "https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 14 Oct 2026 05:30:10 +0000",
-      "ts": 1791955810
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
-      "link": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
-      "published": "Wed, 14 Oct 2026 05:24:12 +0000",
-      "ts": 1791955452
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
-      "link": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
-      "published": "Wed, 14 Oct 2026 04:11:16 +0000",
-      "ts": 1791951076
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "published": "Wed, 14 Oct 2026 01:31:00 GMT",
-      "ts": 1791941460
     },
     {
       "source": "Investing Crypto",
@@ -268,20 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-gains-as-us-dollar-retreats-from-18month-high-4946655",
       "published": "2026-10-13 12:40:08",
       "ts": 1791895208
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S.  debt finds breathing room, countering energy spike",
-      "link": "https://www.investing.com/news/forex-news/euro-bonds-stagger-on-french-deficit-fears-and--ai-corporate-issuance-squeeze-4945526",
-      "published": "2026-10-13 12:12:02",
-      "ts": 1791893522
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "TrustLinq Expands Ripple Partnership, Enabling RLUSD-Funded Bank Payments to 190+ Countries",
-      "link": "https://www.investing.com/news/cryptocurrency-news/trustlinq-expands-ripple-partnership-enabling-rlusdfunded-bank-payments-to-190-countries-4945455",
-      "published": "2026-10-13 05:30:10",
-      "ts": 1791869410
     }
   ]
 }
