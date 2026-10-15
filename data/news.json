@@ -1,8 +1,120 @@
 {
-  "updated_utc": "2026-10-15T18:59:36.142690+00:00",
+  "updated_utc": "2026-10-15T22:06:26.439599+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
+      "link": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
+      "published": "Thu, 15 Oct 2026 21:56:00 GMT",
+      "ts": 1792101360
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin ticks up slightly above $82k as U.S. bond rally lifts risk sentiment",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-81k-as-hot-us-cpi-spurs-rate-hike-bets-4950559",
+      "published": "2026-10-15 21:43:22",
+      "ts": 1792100602
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "ChangeNOW Announces NOW AI After Resolving Website Integration Vulnerability",
+      "link": "https://www.investing.com/news/cryptocurrency-news/changenow-announces-now-ai-after-resolving-website-integration-vulnerability-4952721",
+      "published": "2026-10-15 21:30:12",
+      "ts": 1792099812
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
+      "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
+      "published": "Thu, 15 Oct 2026 21:23:00 GMT",
+      "ts": 1792099380
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Don’t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.",
+      "link": "https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories",
+      "published": "Thu, 15 Oct 2026 21:21:00 GMT",
+      "ts": 1792099260
+    },
+    {
+      "source": "MarketWatch",
+      "title": "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending",
+      "link": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
+      "published": "Thu, 15 Oct 2026 21:03:00 GMT",
+      "ts": 1792098180
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Pixagram Announces Free Account Creation for 250 New Users Daily Through 2026",
+      "link": "https://www.investing.com/news/cryptocurrency-news/pixagram-announces-free-account-creation-for-250-new-users-daily-through-2026-4952682",
+      "published": "2026-10-15 21:00:13",
+      "ts": 1792098013
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar slips as U.S. bond rally offsets hot PPI; euro sees best day in two months",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-dollar-slips-after-hot-us-cpi-yen-firmson-intervention-warnings-4950494",
+      "published": "2026-10-15 20:47:27",
+      "ts": 1792097247
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now.",
+      "link": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
+      "published": "Thu, 15 Oct 2026 20:40:00 GMT",
+      "ts": 1792096800
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Big pharma stocks close near all-time highs as tech selloff pushes investors toward safer bets",
+      "link": "https://www.marketwatch.com/story/big-pharma-stocks-near-all-time-highs-as-tech-selloff-pushes-investors-toward-safer-bets-0a5d5d07?mod=mw_rss_topstories",
+      "published": "Thu, 15 Oct 2026 20:29:00 GMT",
+      "ts": 1792096140
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
+      "link": "https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 15 Oct 2026 20:21:11 +0000",
+      "ts": 1792095671
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Canadian dollar gains as dollar retreats, hot U.S. PPI clouds outlook",
+      "link": "https://www.investing.com/news/forex-news/canadian-dollar-gains-as-dollar-retreats-hot-us-ppi-clouds-outlook-4952606",
+      "published": "2026-10-15 20:20:09",
+      "ts": 1792095609
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 15 Oct 2026 19:37:27 +0000",
+      "ts": 1792093047
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Argentina halts local dollar bond sales as yields surge",
+      "link": "https://www.investing.com/news/forex-news/argentina-halts-local-dollar-bond-sales-as-yields-surge-93CH-4952498",
+      "published": "2026-10-15 19:30:14",
+      "ts": 1792092614
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin holds $81,500 support as momentum fades: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
+      "published": "2026-10-15 19:19:22",
+      "ts": 1792091962
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This one governor’s race could derail the AI trade that’s powered the stock market",
+      "link": "https://www.marketwatch.com/story/this-one-governors-race-could-derail-the-ai-trade-thats-powered-the-stock-market-6bbf06f8?mod=mw_rss_topstories",
+      "published": "Thu, 15 Oct 2026 19:00:00 GMT",
+      "ts": 1792090800
+    },
     {
       "source": "CoinDesk",
       "title": "At the White House, crypto policy vacancy looms large",
@@ -12,38 +124,10 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Big pharma stocks near all-time highs as tech selloff pushes investors toward safer bets",
-      "link": "https://www.marketwatch.com/story/big-pharma-stocks-near-all-time-highs-as-tech-selloff-pushes-investors-toward-safer-bets-0a5d5d07?mod=mw_rss_topstories",
-      "published": "Thu, 15 Oct 2026 18:25:00 GMT",
-      "ts": 1792088700
-    },
-    {
-      "source": "MarketWatch",
       "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
       "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
       "published": "Thu, 15 Oct 2026 18:01:00 GMT",
       "ts": 1792087260
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
-      "link": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
-      "published": "Thu, 15 Oct 2026 17:52:00 GMT",
-      "ts": 1792086720
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
-      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "published": "Thu, 15 Oct 2026 17:30:00 GMT",
-      "ts": 1792085400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I like the idea of a big return’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-      "published": "Thu, 15 Oct 2026 17:15:00 GMT",
-      "ts": 1792084500
     },
     {
       "source": "Cointelegraph",
@@ -51,27 +135,6 @@
       "link": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 15 Oct 2026 17:14:45 +0000",
       "ts": 1792084485
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.",
-      "link": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
-      "published": "Thu, 15 Oct 2026 17:07:00 GMT",
-      "ts": 1792084020
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The COLA wars are coming for Social Security",
-      "link": "https://www.marketwatch.com/story/the-cola-wars-are-coming-for-social-security-10c177f1?mod=mw_rss_topstories",
-      "published": "Thu, 15 Oct 2026 17:07:00 GMT",
-      "ts": 1792084020
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
-      "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
-      "published": "Thu, 15 Oct 2026 17:06:00 GMT",
-      "ts": 1792083960
     },
     {
       "source": "Investing Crypto",
@@ -123,34 +186,6 @@
       "ts": 1792073815
     },
     {
-      "source": "Cointelegraph",
-      "title": "Can the SEC and CFTC’s pro-crypto rules be overturned? Legal opinion",
-      "link": "https://cointelegraph.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 15 Oct 2026 13:30:00 +0000",
-      "ts": 1792071000
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin drops to one-month low of $80k as hot U.S. CPI spurs rate hike bets",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-81k-as-hot-us-cpi-spurs-rate-hike-bets-4950559",
-      "published": "2026-10-15 13:23:52",
-      "ts": 1792070632
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 15 Oct 2026 13:17:45 +0000",
-      "ts": 1792070265
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar retreats from 18-month peaks despite hotter U.S. producer prices",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-dollar-slips-after-hot-us-cpi-yen-firmson-intervention-warnings-4950494",
-      "published": "2026-10-15 12:48:16",
-      "ts": 1792068496
-    },
-    {
       "source": "CoinDesk",
       "title": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
       "link": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
@@ -187,7 +222,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin bounces after first fall below $80,000 in one month",
+      "title": "Live updates: Bitcoin bounces back to $82,000 after first fall below $80,000 in one month",
       "link": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
       "published": "Thu, 15 Oct 2026 10:16:15 +0000",
       "ts": 1792059375
@@ -212,13 +247,6 @@
       "link": "https://www.investing.com/news/forex-news/euro-bonds-reclaim-safehaven-status-as-equities-falter-on-ai-debt-4950664",
       "published": "2026-10-15 07:45:37",
       "ts": 1792050337
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin tests $80K after breaking 200-SMA: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
-      "published": "2026-10-15 07:14:05",
-      "ts": 1792048445
     },
     {
       "source": "Investing Crypto",
@@ -254,34 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-as-dollar-softens-before-us-cpi-4948452",
       "published": "2026-10-14 13:28:09",
       "ts": 1791984489
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. 10-year yield jumps as hot inflation re-injects rate-hike fears",
-      "link": "https://www.investing.com/news/forex-news/eurozone-debt-bourses-consolidate-as-lagarde-rejects-french-bond-backstop-4948176",
-      "published": "2026-10-14 12:40:32",
-      "ts": 1791981632
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "myXRP.fi Opens Public Access After 8.1 Million XRP Institutional Phase",
-      "link": "https://www.investing.com/news/cryptocurrency-news/myxrpfi-opens-public-access-after-81-million-xrp-institutional-phase-4948538",
-      "published": "2026-10-14 10:00:08",
-      "ts": 1791972008
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bybit Kazakhstan Signs MoC with AIFC: Digital Asset Investments on Bybit KZ Now Recognised under AIFC’s ITRP",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bybit-kazakhstan-signs-moc-with-aifc-digital-asset-investments-on-bybit-kz-now-recognised-under-aifcs-itrp-4948539",
-      "published": "2026-10-14 10:00:08",
-      "ts": 1791972008
-    },
-    {
-      "source": "Investing Forex",
-      "title": "India importers press on with rupee hedges despite RBI’s higher-cost deterrent",
-      "link": "https://www.investing.com/news/forex-news/india-importers-press-on-with-rupee-hedges-despite-rbis-highercost-deterrent-4948416",
-      "published": "2026-10-14 09:00:25",
-      "ts": 1791968425
     }
   ]
 }
