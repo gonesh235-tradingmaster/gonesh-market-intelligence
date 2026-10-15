@@ -1,8 +1,113 @@
 {
-  "updated_utc": "2026-10-15T14:59:24.401026+00:00",
+  "updated_utc": "2026-10-15T18:59:36.142690+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "At the White House, crypto policy vacancy looms large",
+      "link": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
+      "published": "Thu, 15 Oct 2026 18:48:02 +0000",
+      "ts": 1792090082
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Big pharma stocks near all-time highs as tech selloff pushes investors toward safer bets",
+      "link": "https://www.marketwatch.com/story/big-pharma-stocks-near-all-time-highs-as-tech-selloff-pushes-investors-toward-safer-bets-0a5d5d07?mod=mw_rss_topstories",
+      "published": "Thu, 15 Oct 2026 18:25:00 GMT",
+      "ts": 1792088700
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "published": "Thu, 15 Oct 2026 18:01:00 GMT",
+      "ts": 1792087260
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
+      "link": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
+      "published": "Thu, 15 Oct 2026 17:52:00 GMT",
+      "ts": 1792086720
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "published": "Thu, 15 Oct 2026 17:30:00 GMT",
+      "ts": 1792085400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I like the idea of a big return’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+      "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+      "published": "Thu, 15 Oct 2026 17:15:00 GMT",
+      "ts": 1792084500
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
+      "link": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 15 Oct 2026 17:14:45 +0000",
+      "ts": 1792084485
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.",
+      "link": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
+      "published": "Thu, 15 Oct 2026 17:07:00 GMT",
+      "ts": 1792084020
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The COLA wars are coming for Social Security",
+      "link": "https://www.marketwatch.com/story/the-cola-wars-are-coming-for-social-security-10c177f1?mod=mw_rss_topstories",
+      "published": "Thu, 15 Oct 2026 17:07:00 GMT",
+      "ts": 1792084020
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+      "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+      "published": "Thu, 15 Oct 2026 17:06:00 GMT",
+      "ts": 1792083960
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Crypto firm Binance.US seeks to raise $100m at $1bn valuation",
+      "link": "https://www.investing.com/news/cryptocurrency-news/crypto-firm-binanceus-seeks-to-raise-100m-at-1bn-valuation-4952383",
+      "published": "2026-10-15 16:58:22",
+      "ts": 1792083502
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Sweden revisits digital krona as ECB advances digital euro plans",
+      "link": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 15 Oct 2026 16:49:59 +0000",
+      "ts": 1792082999
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Mastercard brings stablecoin balances into traditional banking and card payments",
+      "link": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 15 Oct 2026 15:46:05 +0000",
+      "ts": 1792079165
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin slips under $80K after US PPI gains most in four years",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 15 Oct 2026 15:10:44 +0000",
+      "ts": 1792077044
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
+      "published": "Thu, 15 Oct 2026 15:00:00 +0000",
+      "ts": 1792076400
+    },
     {
       "source": "Cointelegraph",
       "title": "Russia to ban direct peer-to-peer crypto trades starting July 2027",
@@ -16,13 +121,6 @@
       "link": "https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 15 Oct 2026 14:16:55 +0000",
       "ts": 1792073815
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Micron, Nvidia and other chip stocks face renewed pressure as AI fears swell",
-      "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
-      "published": "Thu, 15 Oct 2026 13:48:00 GMT",
-      "ts": 1792072080
     },
     {
       "source": "Cointelegraph",
@@ -46,46 +144,11 @@
       "ts": 1792070265
     },
     {
-      "source": "MarketWatch",
-      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "published": "Thu, 15 Oct 2026 13:16:00 GMT",
-      "ts": 1792070160
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Will mortgage rates stay above 7% in 2027? Signs point to yes.",
-      "link": "https://www.marketwatch.com/story/will-mortgage-rates-stay-above-7-in-2027-437873bd?mod=mw_rss_topstories",
-      "published": "Thu, 15 Oct 2026 13:14:00 GMT",
-      "ts": 1792070040
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Meet the baby chasers — they’re transforming the housing market and solving the childcare crisis",
-      "link": "https://www.marketwatch.com/story/meet-the-baby-chasers-theyre-transforming-the-housing-market-and-solving-the-childcare-crisis-574b5bcc?mod=mw_rss_topstories",
-      "published": "Thu, 15 Oct 2026 13:09:00 GMT",
-      "ts": 1792069740
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Medicare open enrollment is here. What to know about deadlines, options and more.",
-      "link": "https://www.marketwatch.com/story/medicare-open-enrollment-is-here-what-to-know-about-deadlines-options-and-more-eac92756?mod=mw_rss_topstories",
-      "published": "Thu, 15 Oct 2026 13:02:00 GMT",
-      "ts": 1792069320
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar retreats from 18-month peaks despite hotter U.S. producer prices",
       "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-dollar-slips-after-hot-us-cpi-yen-firmson-intervention-warnings-4950494",
       "published": "2026-10-15 12:48:16",
       "ts": 1792068496
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This 30-year market veteran is alarmed by a record-chasing S&P 500. Here’s where he’s investing instead.",
-      "link": "https://www.marketwatch.com/story/this-30-year-market-veteran-is-alarmed-by-a-near-record-s-p-500-heres-where-hes-investing-instead-c6611143?mod=mw_rss_topstories",
-      "published": "Thu, 15 Oct 2026 12:40:00 GMT",
-      "ts": 1792068000
     },
     {
       "source": "CoinDesk",
@@ -95,39 +158,11 @@
       "ts": 1792067724
     },
     {
-      "source": "Cointelegraph",
-      "title": "HEX token sellers erase $160M following reports of founder Richard Schueler arrest",
-      "link": "https://cointelegraph.com/news/hex-token-erases-160m-reports-founder-schuelers-arrest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 15 Oct 2026 12:12:57 +0000",
-      "ts": 1792066377
-    },
-    {
-      "source": "MarketWatch",
-      "title": "There’s a ‘monstrous bull market’ developing under the surface of the S&P 500. This hedge-fund manager tells you where it’s at.",
-      "link": "https://www.marketwatch.com/story/theres-a-monstrous-bull-market-developing-under-the-surface-of-the-s-p-500-this-hedge-fund-manager-tells-you-where-its-at-98450ef4?mod=mw_rss_topstories",
-      "published": "Thu, 15 Oct 2026 12:08:00 GMT",
-      "ts": 1792066080
-    },
-    {
       "source": "CoinDesk",
       "title": "Under pressure, Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
       "link": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
       "published": "Thu, 15 Oct 2026 12:00:00 +0000",
       "ts": 1792065600
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ledger’s answer to wallet tampering costs $849 and ships next year",
-      "link": "https://cointelegraph.com/news/ledger-new-hardware-device-asia-wallet-tampering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 15 Oct 2026 12:00:00 +0000",
-      "ts": 1792065600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "CoreWeave’s AI bonds tumble, raising red flags for the wider market",
-      "link": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
-      "published": "Thu, 15 Oct 2026 11:17:00 GMT",
-      "ts": 1792063020
     },
     {
       "source": "CoinDesk",
@@ -151,20 +186,6 @@
       "ts": 1792061531
     },
     {
-      "source": "Cointelegraph",
-      "title": "White House crypto council chief Patrick Witt steps down",
-      "link": "https://cointelegraph.com/news/white-house-crypto-council-director-steps-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 15 Oct 2026 10:41:09 +0000",
-      "ts": 1792060869
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Starknet opens vote on potential Ethereum L2 exit over quantum risks",
-      "link": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 15 Oct 2026 10:22:00 +0000",
-      "ts": 1792059720
-    },
-    {
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin bounces after first fall below $80,000 in one month",
       "link": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
@@ -177,20 +198,6 @@
       "link": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain",
       "published": "Thu, 15 Oct 2026 10:00:56 +0000",
       "ts": 1792058456
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Australia’s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
-      "link": "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline",
-      "published": "Thu, 15 Oct 2026 09:53:37 +0000",
-      "ts": 1792058017
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
-      "link": "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report",
-      "published": "Thu, 15 Oct 2026 09:20:57 +0000",
-      "ts": 1792056057
     },
     {
       "source": "Investing Forex",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/india-importers-press-on-with-rupee-hedges-despite-rbis-highercost-deterrent-4948416",
       "published": "2026-10-14 09:00:25",
       "ts": 1791968425
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin up 1% to $83.4k, but gains capped as risk appetite takes a hit",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-84k-as-tech-selldown-weighs-4945552",
-      "published": "2026-10-13 21:40:52",
-      "ts": 1791927652
     }
   ]
 }
