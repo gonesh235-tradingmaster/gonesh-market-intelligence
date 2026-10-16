@@ -1,8 +1,43 @@
 {
-  "updated_utc": "2026-10-16T00:20:53.539704+00:00",
+  "updated_utc": "2026-10-16T04:44:10.262747+00:00",
   "source": "RSS feeds",
-  "count": 32,
+  "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+      "link": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
+      "published": "Fri, 16 Oct 2026 04:29:19 +0000",
+      "ts": 1792124959
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asia FX subdued, dollar weakens after bond rally; rupee set for 2% weekly jump",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-dollar-weakens-after-bond-rally-rupee-set-for-2-weekly-jump-4953070",
+      "published": "2026-10-16 04:20:50",
+      "ts": 1792124450
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
+      "link": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
+      "published": "Fri, 16 Oct 2026 04:14:22 +0000",
+      "ts": 1792124062
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Tesla finally delivers on its promise to create a flying car",
+      "link": "https://www.marketwatch.com/story/tesla-may-finally-debut-a-flying-car-today-after-testing-fans-patience-for-nearly-a-decade-9a23c8e8?mod=mw_rss_topstories",
+      "published": "Fri, 16 Oct 2026 02:42:00 GMT",
+      "ts": 1792118520
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "MSCI adopts index exclusion rules that could oust Strategy",
+      "link": "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 16 Oct 2026 00:48:20 +0000",
+      "ts": 1792111700
+    },
     {
       "source": "Cointelegraph",
       "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
@@ -11,11 +46,39 @@
       "ts": 1792107259
     },
     {
+      "source": "MarketWatch",
+      "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
+      "link": "https://www.marketwatch.com/story/pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to-coke-49b1ef53?mod=mw_rss_topstories",
+      "published": "Thu, 15 Oct 2026 23:29:00 GMT",
+      "ts": 1792106940
+    },
+    {
       "source": "Cointelegraph",
       "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
       "link": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 15 Oct 2026 22:42:58 +0000",
       "ts": 1792104178
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "published": "Thu, 15 Oct 2026 22:31:00 GMT",
+      "ts": 1792103460
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+      "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+      "published": "Thu, 15 Oct 2026 22:15:00 GMT",
+      "ts": 1792102500
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
+      "link": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
+      "published": "Thu, 15 Oct 2026 21:56:00 GMT",
+      "ts": 1792101360
     },
     {
       "source": "Investing Crypto",
@@ -30,6 +93,27 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/changenow-announces-now-ai-after-resolving-website-integration-vulnerability-4952721",
       "published": "2026-10-15 21:30:12",
       "ts": 1792099812
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
+      "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
+      "published": "Thu, 15 Oct 2026 21:23:00 GMT",
+      "ts": 1792099380
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Don’t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.",
+      "link": "https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories",
+      "published": "Thu, 15 Oct 2026 21:21:00 GMT",
+      "ts": 1792099260
+    },
+    {
+      "source": "MarketWatch",
+      "title": "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending",
+      "link": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
+      "published": "Thu, 15 Oct 2026 21:03:00 GMT",
+      "ts": 1792098180
     },
     {
       "source": "Investing Crypto",
@@ -116,13 +200,6 @@
       "ts": 1792079165
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin slips under $80K after US PPI gains most in four years",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 15 Oct 2026 15:10:44 +0000",
-      "ts": 1792077044
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
       "link": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
@@ -165,20 +242,6 @@
       "ts": 1792061531
     },
     {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin bounces back to $82,000 after first fall below $80,000 in one month",
-      "link": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
-      "published": "Thu, 15 Oct 2026 10:16:15 +0000",
-      "ts": 1792059375
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain",
-      "link": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain",
-      "published": "Thu, 15 Oct 2026 10:00:56 +0000",
-      "ts": 1792058456
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound rises as UK growth beats forecasts, dollar retreats",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-rises-as-uk-growth-beats-forecasts-dollar-retreats-4950829",
@@ -219,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-10-as-investors-gain-confidence-4949545",
       "published": "2026-10-14 13:46:59",
       "ts": 1791985619
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound falls as hotter U.S. core inflation boosts dollar",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-as-dollar-softens-before-us-cpi-4948452",
-      "published": "2026-10-14 13:28:09",
-      "ts": 1791984489
     }
   ]
 }
