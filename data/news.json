@@ -1,21 +1,84 @@
 {
-  "updated_utc": "2026-10-16T17:58:02.620646+00:00",
+  "updated_utc": "2026-10-16T20:42:11.420229+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "EchoStar’s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says",
+      "link": "https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories",
+      "published": "Fri, 16 Oct 2026 20:05:00 GMT",
+      "ts": 1792181100
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
+      "link": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
+      "published": "Fri, 16 Oct 2026 19:46:00 GMT",
+      "ts": 1792179960
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+      "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+      "published": "Fri, 16 Oct 2026 19:45:00 GMT",
+      "ts": 1792179900
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.",
+      "link": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
+      "published": "Fri, 16 Oct 2026 19:45:00 GMT",
+      "ts": 1792179900
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The COLA wars are coming for Social Security",
+      "link": "https://www.marketwatch.com/story/the-cola-wars-are-coming-for-social-security-10c177f1?mod=mw_rss_topstories",
+      "published": "Fri, 16 Oct 2026 19:45:00 GMT",
+      "ts": 1792179900
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Microsoft wants to make AI cheaper. Will investors actually see the savings?",
+      "link": "https://www.marketwatch.com/story/microsoft-wants-to-make-ai-cheaper-will-investors-actually-see-the-savings-0a3c3ac0?mod=mw_rss_topstories",
+      "published": "Fri, 16 Oct 2026 19:35:00 GMT",
+      "ts": 1792179300
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin tests $81,120 support as double top plays out: Live",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
+      "published": "2026-10-16 19:18:23",
+      "ts": 1792178303
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 16 Oct 2026 19:17:04 +0000",
+      "ts": 1792178224
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "published": "Fri, 16 Oct 2026 19:00:00 GMT",
+      "ts": 1792177200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "AI investors have woken up to the bond market’s warning signs",
+      "link": "https://www.marketwatch.com/story/ai-investors-have-woken-up-to-the-bond-markets-warning-signs-6f604c61?mod=mw_rss_topstories",
+      "published": "Fri, 16 Oct 2026 18:52:00 GMT",
+      "ts": 1792176720
+    },
     {
       "source": "Investing Forex",
       "title": "Swiss finance minister warns steep European debt could trigger euro crisis",
       "link": "https://www.investing.com/news/forex-news/swiss-finance-minister-warns-steep-european-debt-could-trigger-euro-crisis-4954687",
       "published": "2026-10-16 17:36:26",
       "ts": 1792172186
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-      "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-      "published": "Fri, 16 Oct 2026 17:35:00 GMT",
-      "ts": 1792172100
     },
     {
       "source": "Cointelegraph",
@@ -30,41 +93,6 @@
       "link": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 16 Oct 2026 17:21:45 +0000",
       "ts": 1792171305
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Here’s how the Fed should reveal its outlook for the economy",
-      "link": "https://www.marketwatch.com/story/heres-how-the-fed-should-reveal-its-outlook-for-the-economy-79629f25?mod=mw_rss_topstories",
-      "published": "Fri, 16 Oct 2026 17:07:00 GMT",
-      "ts": 1792170420
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
-      "link": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
-      "published": "Fri, 16 Oct 2026 16:39:00 GMT",
-      "ts": 1792168740
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Elon Musk may have just taken a major step toward consolidating his empire",
-      "link": "https://www.marketwatch.com/story/elon-musk-may-have-just-taken-a-major-step-toward-consolidating-his-empire-7d82dea6?mod=mw_rss_topstories",
-      "published": "Fri, 16 Oct 2026 16:39:00 GMT",
-      "ts": 1792168740
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Many of 2026’s hottest stocks have seen dramatic comedowns this week",
-      "link": "https://www.marketwatch.com/story/many-of-2026s-hottest-stocks-have-seen-dramatic-comedowns-this-week-e5ae5d06?mod=mw_rss_topstories",
-      "published": "Fri, 16 Oct 2026 16:09:00 GMT",
-      "ts": 1792166940
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
-      "link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
-      "published": "Fri, 16 Oct 2026 16:05:00 GMT",
-      "ts": 1792166700
     },
     {
       "source": "Investing Forex",
@@ -95,20 +123,6 @@
       "ts": 1792165543
     },
     {
-      "source": "MarketWatch",
-      "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-      "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-      "published": "Fri, 16 Oct 2026 15:00:00 GMT",
-      "ts": 1792162800
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Retiring abroad? Don’t cut these financial ties to the U.S.",
-      "link": "https://www.marketwatch.com/story/retiring-abroad-dont-cut-these-financial-ties-to-the-u-s-5e7e4fc2?mod=mw_rss_topstories",
-      "published": "Fri, 16 Oct 2026 15:00:00 GMT",
-      "ts": 1792162800
-    },
-    {
       "source": "CoinDesk",
       "title": "Big Tech's AI auditors will only see what they're shown",
       "link": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
@@ -135,13 +149,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-82k-but-set-for-second-week-in-red-4953175",
       "published": "2026-10-16 13:57:23",
       "ts": 1792159043
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 16 Oct 2026 13:56:15 +0000",
-      "ts": 1792158975
     },
     {
       "source": "Cointelegraph",
@@ -243,7 +250,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Crypto gives up some ground as AI selloff picks up steam",
+      "title": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
       "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
       "published": "Fri, 16 Oct 2026 09:48:14 +0000",
       "ts": 1792144094
@@ -254,13 +261,6 @@
       "link": "https://www.investing.com/news/forex-news/bofa-forecasts-eurusd-at-115-by-yearend-120-by-end2027-93CH-4953416",
       "published": "2026-10-16 09:02:02",
       "ts": 1792141322
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin consolidates in $81,500-$83,500 range: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
-      "published": "2026-10-16 07:11:48",
-      "ts": 1792134708
     },
     {
       "source": "Investing Crypto",
