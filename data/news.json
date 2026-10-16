@@ -1,14 +1,147 @@
 {
-  "updated_utc": "2026-10-16T14:02:59.360453+00:00",
+  "updated_utc": "2026-10-16T17:58:02.620646+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
+      "source": "Investing Forex",
+      "title": "Swiss finance minister warns steep European debt could trigger euro crisis",
+      "link": "https://www.investing.com/news/forex-news/swiss-finance-minister-warns-steep-european-debt-could-trigger-euro-crisis-4954687",
+      "published": "2026-10-16 17:36:26",
+      "ts": 1792172186
+    },
+    {
       "source": "MarketWatch",
-      "title": "Influencers and biohackers swear by fasting. Here’s what the science says.",
-      "link": "https://www.marketwatch.com/story/influencers-and-biohackers-swear-by-fasting-heres-what-the-science-says-3318191f?mod=mw_rss_topstories",
-      "published": "Fri, 16 Oct 2026 14:00:00 GMT",
-      "ts": 1792159200
+      "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+      "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+      "published": "Fri, 16 Oct 2026 17:35:00 GMT",
+      "ts": 1792172100
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
+      "link": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 16 Oct 2026 17:30:09 +0000",
+      "ts": 1792171809
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
+      "link": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 16 Oct 2026 17:21:45 +0000",
+      "ts": 1792171305
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Here’s how the Fed should reveal its outlook for the economy",
+      "link": "https://www.marketwatch.com/story/heres-how-the-fed-should-reveal-its-outlook-for-the-economy-79629f25?mod=mw_rss_topstories",
+      "published": "Fri, 16 Oct 2026 17:07:00 GMT",
+      "ts": 1792170420
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
+      "link": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
+      "published": "Fri, 16 Oct 2026 16:39:00 GMT",
+      "ts": 1792168740
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Elon Musk may have just taken a major step toward consolidating his empire",
+      "link": "https://www.marketwatch.com/story/elon-musk-may-have-just-taken-a-major-step-toward-consolidating-his-empire-7d82dea6?mod=mw_rss_topstories",
+      "published": "Fri, 16 Oct 2026 16:39:00 GMT",
+      "ts": 1792168740
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Many of 2026’s hottest stocks have seen dramatic comedowns this week",
+      "link": "https://www.marketwatch.com/story/many-of-2026s-hottest-stocks-have-seen-dramatic-comedowns-this-week-e5ae5d06?mod=mw_rss_topstories",
+      "published": "Fri, 16 Oct 2026 16:09:00 GMT",
+      "ts": 1792166940
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
+      "link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
+      "published": "Fri, 16 Oct 2026 16:05:00 GMT",
+      "ts": 1792166700
+    },
+    {
+      "source": "Investing Forex",
+      "title": "CIBC warns of inflation risks as ‘leaky loonie’ faces further slide",
+      "link": "https://www.investing.com/news/forex-news/cibc-warns-of-inflation-risks-as-leaky-loonie-faces-further-slide-4954580",
+      "published": "2026-10-16 15:56:09",
+      "ts": 1792166169
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Canadian dollar heads for weekly gain as U.S. dollar retreats",
+      "link": "https://www.investing.com/news/forex-news/canadian-dollar-heads-for-weekly-gain-as-us-dollar-retreats-4954575",
+      "published": "2026-10-16 15:54:14",
+      "ts": 1792166054
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
+      "link": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 16 Oct 2026 15:52:28 +0000",
+      "ts": 1792165948
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 16 Oct 2026 15:45:43 +0000",
+      "ts": 1792165543
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+      "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+      "published": "Fri, 16 Oct 2026 15:00:00 GMT",
+      "ts": 1792162800
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Retiring abroad? Don’t cut these financial ties to the U.S.",
+      "link": "https://www.marketwatch.com/story/retiring-abroad-dont-cut-these-financial-ties-to-the-u-s-5e7e4fc2?mod=mw_rss_topstories",
+      "published": "Fri, 16 Oct 2026 15:00:00 GMT",
+      "ts": 1792162800
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Big Tech's AI auditors will only see what they're shown",
+      "link": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
+      "published": "Fri, 16 Oct 2026 14:58:22 +0000",
+      "ts": 1792162702
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Indian rupee posts biggest weekly gain in seven months",
+      "link": "https://www.investing.com/news/forex-news/indian-rupee-posts-biggest-weekly-gain-in-seven-months-93CH-4954501",
+      "published": "2026-10-16 14:55:18",
+      "ts": 1792162518
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strategy conditionally declares daily dividends as STRC hovers below $100",
+      "link": "https://cointelegraph.com/news/strategy-daily-dividends-strc-hovers-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 16 Oct 2026 14:11:03 +0000",
+      "ts": 1792159863
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin rebounds to near $82k but set for second week in red",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-82k-but-set-for-second-week-in-red-4953175",
+      "published": "2026-10-16 13:57:23",
+      "ts": 1792159043
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 16 Oct 2026 13:56:15 +0000",
+      "ts": 1792158975
     },
     {
       "source": "Cointelegraph",
@@ -39,13 +172,6 @@
       "ts": 1792153559
     },
     {
-      "source": "MarketWatch",
-      "title": "Is Apple’s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
-      "link": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
-      "published": "Fri, 16 Oct 2026 12:00:00 GMT",
-      "ts": 1792152000
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. yields edge up after rally as markets digest AI debt worries",
       "link": "https://www.investing.com/news/forex-news/eurozone-yields-languish-near-multiweek-lows-as-safehaven-inflows-4953291",
@@ -53,46 +179,11 @@
       "ts": 1792151829
     },
     {
-      "source": "MarketWatch",
-      "title": "‘It’s a wait-and-see situation’: I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-      "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-      "published": "Fri, 16 Oct 2026 11:30:00 GMT",
-      "ts": 1792150200
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Solana’s Liu says Shanghai event postponed over registration surge",
-      "link": "https://cointelegraph.com/news/solana-shanghai-postponed-exceeding-event-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 16 Oct 2026 11:22:47 +0000",
-      "ts": 1792149767
-    },
-    {
       "source": "CoinDesk",
       "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
       "link": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
       "published": "Fri, 16 Oct 2026 11:15:00 +0000",
       "ts": 1792149300
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "published": "Fri, 16 Oct 2026 11:15:00 GMT",
-      "ts": 1792149300
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Can a $55,000-plus robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
-      "link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
-      "published": "Fri, 16 Oct 2026 11:00:00 GMT",
-      "ts": 1792148400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Nearly 40% of the S&P 500 is in a bear market. Here are 10 of those stocks that analysts say can gain up to 81%.",
-      "link": "https://www.marketwatch.com/story/nearly-40-of-the-s-p-500-is-in-a-bear-market-here-are-10-of-those-stocks-that-analysts-say-can-gain-up-to-81-93a51af6?mod=mw_rss_topstories",
-      "published": "Fri, 16 Oct 2026 10:56:00 GMT",
-      "ts": 1792148160
     },
     {
       "source": "CoinDesk",
@@ -116,13 +207,6 @@
       "ts": 1792147803
     },
     {
-      "source": "MarketWatch",
-      "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
-      "link": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
-      "published": "Fri, 16 Oct 2026 10:49:00 GMT",
-      "ts": 1792147740
-    },
-    {
       "source": "CoinDesk",
       "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
       "link": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
@@ -135,20 +219,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
       "published": "Fri, 16 Oct 2026 10:41:03 +0000",
       "ts": 1792147263
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Jefferies technical analyst finds an encouraging development in Thursday rebound, setting stage for rally into year-end",
-      "link": "https://www.marketwatch.com/story/jefferies-technical-analyst-finds-an-encouraging-development-in-thursday-rebound-setting-stage-for-rally-into-year-end-34ad6e31?mod=mw_rss_topstories",
-      "published": "Fri, 16 Oct 2026 10:38:00 GMT",
-      "ts": 1792147080
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
-      "link": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 16 Oct 2026 10:27:18 +0000",
-      "ts": 1792146438
     },
     {
       "source": "CoinDesk",
@@ -173,31 +243,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin steady near $82,000 after Fed Chair Warsh's comments",
+      "title": "Live updates: Crypto gives up some ground as AI selloff picks up steam",
       "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
       "published": "Fri, 16 Oct 2026 09:48:14 +0000",
       "ts": 1792144094
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. judge rejects Gemini’s appeal to void $5 million settlement despite CFTC backing",
-      "link": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
-      "published": "Fri, 16 Oct 2026 09:36:21 +0000",
-      "ts": 1792143381
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin rebounds to $82k but set for second week in red",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-82k-but-set-for-second-week-in-red-4953175",
-      "published": "2026-10-16 09:33:12",
-      "ts": 1792143192
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
-      "link": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 16 Oct 2026 09:22:13 +0000",
-      "ts": 1792142533
     },
     {
       "source": "Investing Forex",
@@ -207,39 +256,11 @@
       "ts": 1792141322
     },
     {
-      "source": "Investing Forex",
-      "title": "Dollar snaps 4-week Rally; Indonesian rupiah hits July lows on MSCI threat",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-dollar-weakens-after-bond-rally-rupee-set-for-2-weekly-jump-4953070",
-      "published": "2026-10-16 08:57:53",
-      "ts": 1792141073
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
-      "link": "https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 16 Oct 2026 07:59:46 +0000",
-      "ts": 1792137586
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
-      "link": "https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 16 Oct 2026 07:43:29 +0000",
-      "ts": 1792136609
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin consolidates in $81,500-$83,500 range: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
       "published": "2026-10-16 07:11:48",
       "ts": 1792134708
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 16 Oct 2026 06:21:30 +0000",
-      "ts": 1792131690
     },
     {
       "source": "Investing Crypto",
@@ -261,27 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/pixagram-announces-free-account-creation-for-250-new-users-daily-through-2026-4952682",
       "published": "2026-10-15 21:00:13",
       "ts": 1792098013
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar slips as U.S. bond rally offsets hot PPI; euro sees best day in two months",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-dollar-slips-after-hot-us-cpi-yen-firmson-intervention-warnings-4950494",
-      "published": "2026-10-15 20:47:27",
-      "ts": 1792097247
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Canadian dollar gains as dollar retreats, hot U.S. PPI clouds outlook",
-      "link": "https://www.investing.com/news/forex-news/canadian-dollar-gains-as-dollar-retreats-hot-us-ppi-clouds-outlook-4952606",
-      "published": "2026-10-15 20:20:09",
-      "ts": 1792095609
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Argentina halts local dollar bond sales as yields surge",
-      "link": "https://www.investing.com/news/forex-news/argentina-halts-local-dollar-bond-sales-as-yields-surge-93CH-4952498",
-      "published": "2026-10-15 19:30:14",
-      "ts": 1792092614
     }
   ]
 }
