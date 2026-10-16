@@ -1,21 +1,119 @@
 {
-  "updated_utc": "2026-10-16T04:44:10.262747+00:00",
+  "updated_utc": "2026-10-16T09:19:23.930744+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night",
+      "link": "https://www.marketwatch.com/story/here-are-the-key-things-fed-chairman-kevin-warsh-said-and-didnt-say-while-americans-were-sleeping-thursday-night-b82238a1?mod=mw_rss_topstories",
+      "published": "Fri, 16 Oct 2026 09:16:00 GMT",
+      "ts": 1792142160
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘It’s a wait-and-see situation’: I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+      "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+      "published": "Fri, 16 Oct 2026 09:15:00 GMT",
+      "ts": 1792142100
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The pull of Nashville: A dozen celebrities who have moved to Tennessee, and why",
+      "link": "https://www.marketwatch.com/story/the-pull-of-nashville-a-dozen-celebrities-who-have-moved-to-tennessee-and-why-68446959?mod=mw_rss_topstories",
+      "published": "Fri, 16 Oct 2026 09:05:00 GMT",
+      "ts": 1792141500
+    },
+    {
+      "source": "Investing Forex",
+      "title": "BofA forecasts EUR/USD at 1.15 by year-end, 1.20 by end-2027",
+      "link": "https://www.investing.com/news/forex-news/bofa-forecasts-eurusd-at-115-by-yearend-120-by-end2027-93CH-4953416",
+      "published": "2026-10-16 09:02:02",
+      "ts": 1792141322
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar snaps 4-week Rally; Indonesian rupiah hits July lows on MSCI threat",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-dollar-weakens-after-bond-rally-rupee-set-for-2-weekly-jump-4953070",
+      "published": "2026-10-16 08:57:53",
+      "ts": 1792141073
+    },
+    {
+      "source": "CoinDesk",
+      "title": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
+      "link": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
+      "published": "Fri, 16 Oct 2026 08:34:48 +0000",
+      "ts": 1792139688
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
+      "link": "https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 16 Oct 2026 07:59:46 +0000",
+      "ts": 1792137586
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
+      "link": "https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 16 Oct 2026 07:43:29 +0000",
+      "ts": 1792136609
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Eurozone yields languish near multi-week lows as safe-haven inflows",
+      "link": "https://www.investing.com/news/forex-news/eurozone-yields-languish-near-multiweek-lows-as-safehaven-inflows-4953291",
+      "published": "2026-10-16 07:42:46",
+      "ts": 1792136566
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin consolidates in $81,500-$83,500 range: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
+      "published": "2026-10-16 07:11:48",
+      "ts": 1792134708
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin recovers to $82k but set for second week in red",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-82k-but-set-for-second-week-in-red-4953175",
+      "published": "2026-10-16 06:26:08",
+      "ts": 1792131968
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 16 Oct 2026 06:21:30 +0000",
+      "ts": 1792131690
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
+      "link": "https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 16 Oct 2026 06:11:22 +0000",
+      "ts": 1792131082
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
+      "link": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
+      "published": "Fri, 16 Oct 2026 05:53:58 +0000",
+      "ts": 1792130038
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Balaji’s ‘Singapore of social media’ begins with a wave of bans",
+      "link": "https://cointelegraph.com/news/balajis-singapore-of-social-media-begins-with-a-wave-of-bans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 16 Oct 2026 05:16:11 +0000",
+      "ts": 1792127771
+    },
     {
       "source": "CoinDesk",
       "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
       "link": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
       "published": "Fri, 16 Oct 2026 04:29:19 +0000",
       "ts": 1792124959
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asia FX subdued, dollar weakens after bond rally; rupee set for 2% weekly jump",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-dollar-weakens-after-bond-rally-rupee-set-for-2-weekly-jump-4953070",
-      "published": "2026-10-16 04:20:50",
-      "ts": 1792124450
     },
     {
       "source": "CoinDesk",
@@ -68,7 +166,7 @@
     },
     {
       "source": "MarketWatch",
-      "title": "I’m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+      "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
       "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
       "published": "Thu, 15 Oct 2026 22:15:00 GMT",
       "ts": 1792102500
@@ -95,27 +193,6 @@
       "ts": 1792099812
     },
     {
-      "source": "MarketWatch",
-      "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
-      "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
-      "published": "Thu, 15 Oct 2026 21:23:00 GMT",
-      "ts": 1792099380
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Don’t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.",
-      "link": "https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories",
-      "published": "Thu, 15 Oct 2026 21:21:00 GMT",
-      "ts": 1792099260
-    },
-    {
-      "source": "MarketWatch",
-      "title": "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending",
-      "link": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
-      "published": "Thu, 15 Oct 2026 21:03:00 GMT",
-      "ts": 1792098180
-    },
-    {
       "source": "Investing Crypto",
       "title": "Pixagram Announces Free Account Creation for 250 New Users Daily Through 2026",
       "link": "https://www.investing.com/news/cryptocurrency-news/pixagram-announces-free-account-creation-for-250-new-users-daily-through-2026-4952682",
@@ -130,25 +207,11 @@
       "ts": 1792097247
     },
     {
-      "source": "Cointelegraph",
-      "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
-      "link": "https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 15 Oct 2026 20:21:11 +0000",
-      "ts": 1792095671
-    },
-    {
       "source": "Investing Forex",
       "title": "Canadian dollar gains as dollar retreats, hot U.S. PPI clouds outlook",
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-gains-as-dollar-retreats-hot-us-ppi-clouds-outlook-4952606",
       "published": "2026-10-15 20:20:09",
       "ts": 1792095609
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 15 Oct 2026 19:37:27 +0000",
-      "ts": 1792093047
     },
     {
       "source": "Investing Forex",
@@ -158,13 +221,6 @@
       "ts": 1792092614
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin holds $81,500 support as momentum fades: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
-      "published": "2026-10-15 19:19:22",
-      "ts": 1792091962
-    },
-    {
       "source": "CoinDesk",
       "title": "At the White House, crypto policy vacancy looms large",
       "link": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
@@ -172,32 +228,11 @@
       "ts": 1792090082
     },
     {
-      "source": "Cointelegraph",
-      "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
-      "link": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 15 Oct 2026 17:14:45 +0000",
-      "ts": 1792084485
-    },
-    {
       "source": "Investing Crypto",
       "title": "Crypto firm Binance.US seeks to raise $100m at $1bn valuation",
       "link": "https://www.investing.com/news/cryptocurrency-news/crypto-firm-binanceus-seeks-to-raise-100m-at-1bn-valuation-4952383",
       "published": "2026-10-15 16:58:22",
       "ts": 1792083502
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Sweden revisits digital krona as ECB advances digital euro plans",
-      "link": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 15 Oct 2026 16:49:59 +0000",
-      "ts": 1792082999
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Mastercard brings stablecoin balances into traditional banking and card payments",
-      "link": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 15 Oct 2026 15:46:05 +0000",
-      "ts": 1792079165
     },
     {
       "source": "CoinDesk",
@@ -221,25 +256,11 @@
       "ts": 1792065600
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin, copper, stocks, yields all fall; gold rises",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
-      "published": "Thu, 15 Oct 2026 11:15:00 +0000",
-      "ts": 1792062900
-    },
-    {
       "source": "Investing Crypto",
       "title": "EOS Falls 10% In Rout",
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-10-in-rout-4951244",
       "published": "2026-10-15 11:06:58",
       "ts": 1792062418
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight",
-      "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
-      "published": "Thu, 15 Oct 2026 10:52:11 +0000",
-      "ts": 1792061531
     },
     {
       "source": "Investing Forex",
@@ -261,27 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-flat-at-83k-as-markets-await-us-inflation-data-4948178",
       "published": "2026-10-14 21:39:14",
       "ts": 1792013954
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar firms to near 18-month high as hot CPI puts October Fed hike back in play",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-ahead-of-us-cpi-china-data-singapore-gdp-in-focus-4947972",
-      "published": "2026-10-14 20:04:18",
-      "ts": 1792008258
-    },
-    {
-      "source": "Investing Forex",
-      "title": "UBS sticks to buy-dollar-on-dips call. Here is why",
-      "link": "https://www.investing.com/news/forex-news/ubs-sticks-to-buydollarondips-call-here-is-why-4949579",
-      "published": "2026-10-14 14:05:41",
-      "ts": 1791986741
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "EOS Climbs 10% As Investors Gain Confidence",
-      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-10-as-investors-gain-confidence-4949545",
-      "published": "2026-10-14 13:46:59",
-      "ts": 1791985619
     }
   ]
 }
