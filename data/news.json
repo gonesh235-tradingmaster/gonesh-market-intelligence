@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-17T01:14:43.426011+00:00",
+  "updated_utc": "2026-10-17T05:38:10.932874+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+      "link": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+      "published": "Sat, 17 Oct 2026 02:30:00 +0000",
+      "ts": 1792204200
+    },
     {
       "source": "MarketWatch",
       "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
@@ -254,13 +261,6 @@
       "link": "https://www.investing.com/news/forex-news/usdkrw-goldman-sachs-sees-korean-won-strengthening-93CH-4953507",
       "published": "2026-10-16 09:50:55",
       "ts": 1792144255
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin dips to $81,000 as stocks slide, VIX soars ahead of Black Monday anniversary",
-      "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
-      "published": "Fri, 16 Oct 2026 09:48:14 +0000",
-      "ts": 1792144094
     },
     {
       "source": "Investing Crypto",
