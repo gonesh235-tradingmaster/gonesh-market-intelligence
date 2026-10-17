@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-10-17T16:25:29.059921+00:00",
+  "updated_utc": "2026-10-17T18:42:10.948584+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Is Apple’s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
+      "link": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
+      "published": "Sat, 17 Oct 2026 18:40:00 GMT",
+      "ts": 1792262400
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Climbs 18% In a Green Day",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-18-in-a-green-day-4955523",
+      "published": "2026-10-17 18:03:00",
+      "ts": 1792260180
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
+      "link": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
+      "published": "Sat, 17 Oct 2026 17:00:00 +0000",
+      "ts": 1792256400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "published": "Sat, 17 Oct 2026 16:47:00 GMT",
+      "ts": 1792255620
+    },
     {
       "source": "CoinDesk",
       "title": "Citrini sees a tokenization boom. The harder question is who profits",
@@ -30,13 +58,6 @@
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 17 Oct 2026 13:29:00 +0000",
       "ts": 1792243740
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "published": "Sat, 17 Oct 2026 13:00:00 GMT",
-      "ts": 1792242000
     },
     {
       "source": "MarketWatch",
@@ -93,13 +114,6 @@
       "link": "https://www.marketwatch.com/story/it-was-another-great-week-for-the-average-stock-as-market-leadership-shifts-away-from-tech-8e8516da?mod=mw_rss_topstories",
       "published": "Sat, 17 Oct 2026 11:30:00 GMT",
       "ts": 1792236600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-      "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-      "published": "Sat, 17 Oct 2026 11:00:00 GMT",
-      "ts": 1792234800
     },
     {
       "source": "Cointelegraph",
@@ -249,13 +263,6 @@
       "ts": 1792149300
     },
     {
-      "source": "CoinDesk",
-      "title": "Circle targets 40 new markets as stablecoin demand grows globally",
-      "link": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
-      "published": "Fri, 16 Oct 2026 10:54:35 +0000",
-      "ts": 1792148075
-    },
-    {
       "source": "Investing Crypto",
       "title": "Arbitrum pitches European banks as WisdomTree touts network’s revenue model",
       "link": "https://www.investing.com/news/cryptocurrency-news/arbitrum-pitches-european-banks-as-wisdomtree-touts-networks-revenue-model-4953687",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-81k-as-hot-us-cpi-spurs-rate-hike-bets-4950559",
       "published": "2026-10-15 21:43:22",
       "ts": 1792100602
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "ChangeNOW Announces NOW AI After Resolving Website Integration Vulnerability",
-      "link": "https://www.investing.com/news/cryptocurrency-news/changenow-announces-now-ai-after-resolving-website-integration-vulnerability-4952721",
-      "published": "2026-10-15 21:30:12",
-      "ts": 1792099812
     }
   ]
 }
