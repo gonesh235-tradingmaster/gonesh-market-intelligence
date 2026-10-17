@@ -1,8 +1,50 @@
 {
-  "updated_utc": "2026-10-17T05:38:10.932874+00:00",
+  "updated_utc": "2026-10-17T09:39:50.269183+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
+      "link": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 17 Oct 2026 08:32:11 +0000",
+      "ts": 1792225931
+    },
+    {
+      "source": "Investing Forex",
+      "title": "What’s the likelihood of Yen carry trade reversing?",
+      "link": "https://www.investing.com/news/forex-news/whats-the-likelihood-of-yen-carry-trade-reversing-4955329",
+      "published": "2026-10-17 08:18:04",
+      "ts": 1792225084
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitget to discontinue services for some users in one-off exercise",
+      "link": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 17 Oct 2026 07:26:57 +0000",
+      "ts": 1792222017
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin stuck below 200 SMA at $81,621: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
+      "published": "2026-10-17 07:02:26",
+      "ts": 1792220546
+    },
+    {
+      "source": "CoinDesk",
+      "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+      "link": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
+      "published": "Sat, 17 Oct 2026 06:39:48 +0000",
+      "ts": 1792219188
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin price holds above $81,000 as ETF outflows weigh on sentiment",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-above-81000-as-etf-outflows-weigh-on-sentiment-4955253",
+      "published": "2026-10-17 05:59:15",
+      "ts": 1792216755
+    },
     {
       "source": "CoinDesk",
       "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
@@ -88,13 +130,6 @@
       "ts": 1792181100
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin tests $81,120 support as double top plays out: Live",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
-      "published": "2026-10-16 19:18:23",
-      "ts": 1792178303
-    },
-    {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -172,20 +207,6 @@
       "ts": 1792159863
     },
     {
-      "source": "Cointelegraph",
-      "title": "Ledger’s early implant warnings deserved more action, Karpelès says",
-      "link": "https://cointelegraph.com/news/ledger-early-implant-warnings-mark-karpeles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 16 Oct 2026 13:51:35 +0000",
-      "ts": 1792158695
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
-      "link": "https://cointelegraph.com/news/deutsche-bank-crypto-custody-expansion-asia-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 16 Oct 2026 13:33:40 +0000",
-      "ts": 1792157620
-    },
-    {
       "source": "Investing Crypto",
       "title": "BTCC Exchange Wraps TOKEN2049 Singapore, Taking Its Zero-Barrier Theme From Platform to Show Floor",
       "link": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-wraps-token2049-singapore-taking-its-zerobarrier-theme-from-platform-to-show-floor-4954260",
@@ -242,25 +263,11 @@
       "ts": 1792147263
     },
     {
-      "source": "CoinDesk",
-      "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
-      "link": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
-      "published": "Fri, 16 Oct 2026 10:24:30 +0000",
-      "ts": 1792146270
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound set to snap 7-week losing run as dollar slips on AI fears",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-set-to-snap-7week-losing-run-as-dollar-slips-on-ai-fears-4953534",
       "published": "2026-10-16 09:54:01",
       "ts": 1792144441
-    },
-    {
-      "source": "Investing Forex",
-      "title": "USD/KRW: Goldman Sachs sees Korean won strengthening",
-      "link": "https://www.investing.com/news/forex-news/usdkrw-goldman-sachs-sees-korean-won-strengthening-93CH-4953507",
-      "published": "2026-10-16 09:50:55",
-      "ts": 1792144255
     },
     {
       "source": "Investing Crypto",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/changenow-announces-now-ai-after-resolving-website-integration-vulnerability-4952721",
       "published": "2026-10-15 21:30:12",
       "ts": 1792099812
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Pixagram Announces Free Account Creation for 250 New Users Daily Through 2026",
-      "link": "https://www.investing.com/news/cryptocurrency-news/pixagram-announces-free-account-creation-for-250-new-users-daily-through-2026-4952682",
-      "published": "2026-10-15 21:00:13",
-      "ts": 1792098013
     }
   ]
 }
