@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-18T19:01:07.150365+00:00",
+  "updated_utc": "2026-10-18T21:24:20.405993+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin trapped at $80,500 support, breakdown risk: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
+      "published": "2026-10-18 19:03:00",
+      "ts": 1792350180
+    },
     {
       "source": "CoinDesk",
       "title": "The White House's crypto chief departs: State of Crypto",
@@ -156,13 +163,6 @@
       "link": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
       "published": "Sun, 18 Oct 2026 07:13:32 +0000",
       "ts": 1792307612
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin pivots at $81,443 Fib support with resistance near: Live",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
-      "published": "2026-10-18 07:02:27",
-      "ts": 1792306947
     },
     {
       "source": "Investing Crypto",
