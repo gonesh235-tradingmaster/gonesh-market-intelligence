@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-18T16:49:02.292401+00:00",
+  "updated_utc": "2026-10-18T19:01:07.150365+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "The White House's crypto chief departs: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+      "published": "Sun, 18 Oct 2026 18:30:00 +0000",
+      "ts": 1792348200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+      "published": "Sun, 18 Oct 2026 17:00:00 GMT",
+      "ts": 1792342800
+    },
     {
       "source": "CoinDesk",
       "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
@@ -163,20 +177,6 @@
       "link": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 18 Oct 2026 06:29:00 +0000",
       "ts": 1792304940
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
-      "link": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
-      "published": "Sun, 18 Oct 2026 01:06:35 +0000",
-      "ts": 1792285595
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
-      "link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
-      "published": "Sat, 17 Oct 2026 20:53:00 GMT",
-      "ts": 1792270380
     },
     {
       "source": "Investing Crypto",
