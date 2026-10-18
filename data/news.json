@@ -1,8 +1,78 @@
 {
-  "updated_utc": "2026-10-18T13:32:17.472162+00:00",
+  "updated_utc": "2026-10-18T16:49:02.292401+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+      "link": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
+      "published": "Sun, 18 Oct 2026 16:33:00 +0000",
+      "ts": 1792341180
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+      "published": "Sun, 18 Oct 2026 16:15:00 GMT",
+      "ts": 1792340100
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
+      "link": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
+      "published": "Sun, 18 Oct 2026 16:00:00 +0000",
+      "ts": 1792339200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "published": "Sun, 18 Oct 2026 16:00:00 GMT",
+      "ts": 1792339200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?",
+      "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+      "published": "Sun, 18 Oct 2026 15:15:00 GMT",
+      "ts": 1792336500
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+      "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+      "published": "Sun, 18 Oct 2026 15:00:00 GMT",
+      "ts": 1792335600
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+      "link": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+      "published": "Sun, 18 Oct 2026 14:00:00 +0000",
+      "ts": 1792332000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
+      "link": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
+      "published": "Sun, 18 Oct 2026 14:00:00 GMT",
+      "ts": 1792332000
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 18 Oct 2026 13:54:00 +0000",
+      "ts": 1792331640
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Most Americans polled oppose betting on elections: Reuters",
+      "link": "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 18 Oct 2026 13:48:00 +0000",
+      "ts": 1792331280
+    },
     {
       "source": "CoinDesk",
       "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
@@ -42,8 +112,8 @@
       "source": "Cointelegraph",
       "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
       "link": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 18 Oct 2026 10:43:12 +0000",
-      "ts": 1792320192
+      "published": "Sun, 18 Oct 2026 10:46:00 +0000",
+      "ts": 1792320360
     },
     {
       "source": "Cointelegraph",
@@ -91,8 +161,8 @@
       "source": "Cointelegraph",
       "title": "Tether backs AIsa as strategic investor, completing seed extension round",
       "link": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 18 Oct 2026 06:26:53 +0000",
-      "ts": 1792304813
+      "published": "Sun, 18 Oct 2026 06:29:00 +0000",
+      "ts": 1792304940
     },
     {
       "source": "CoinDesk",
@@ -116,27 +186,6 @@
       "ts": 1792263645
     },
     {
-      "source": "MarketWatch",
-      "title": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
-      "link": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
-      "published": "Sat, 17 Oct 2026 18:52:00 GMT",
-      "ts": 1792263120
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters feel successful",
-      "link": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
-      "published": "Sat, 17 Oct 2026 18:40:00 GMT",
-      "ts": 1792262400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Is Apple’s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
-      "link": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
-      "published": "Sat, 17 Oct 2026 18:40:00 GMT",
-      "ts": 1792262400
-    },
-    {
       "source": "Investing Crypto",
       "title": "EOS Climbs 18% In a Green Day",
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-18-in-a-green-day-4955523",
@@ -144,53 +193,11 @@
       "ts": 1792260180
     },
     {
-      "source": "CoinDesk",
-      "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
-      "link": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
-      "published": "Sat, 17 Oct 2026 17:00:00 +0000",
-      "ts": 1792256400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "published": "Sat, 17 Oct 2026 16:47:00 GMT",
-      "ts": 1792255620
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Citrini sees a tokenization boom. The harder question is who profits",
-      "link": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
-      "published": "Sat, 17 Oct 2026 15:00:00 +0000",
-      "ts": 1792249200
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
-      "link": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
-      "published": "Sat, 17 Oct 2026 14:00:00 +0000",
-      "ts": 1792245600
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 17 Oct 2026 13:29:00 +0000",
-      "ts": 1792243740
-    },
-    {
       "source": "Cointelegraph",
       "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
       "link": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 17 Oct 2026 13:01:00 +0000",
       "ts": 1792242060
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
-      "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
-      "published": "Sat, 17 Oct 2026 13:00:00 GMT",
-      "ts": 1792242000
     },
     {
       "source": "Cointelegraph",
@@ -212,13 +219,6 @@
       "link": "https://www.investing.com/news/forex-news/whats-the-likelihood-of-yen-carry-trade-reversing-4955329",
       "published": "2026-10-17 08:18:04",
       "ts": 1792225084
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitget to discontinue services for some users in one-off exercise",
-      "link": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 17 Oct 2026 07:28:00 +0000",
-      "ts": 1792222080
     },
     {
       "source": "Investing Crypto",
