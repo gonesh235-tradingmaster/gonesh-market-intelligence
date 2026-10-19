@@ -1,8 +1,85 @@
 {
-  "updated_utc": "2026-10-19T01:30:15.848827+00:00",
+  "updated_utc": "2026-10-19T06:43:00.797263+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin rises to near $83k amid some relief from falling oil prices",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-near-83k-amid-some-relief-from-falling-oil-prices-4956420",
+      "published": "2026-10-19 06:27:48",
+      "ts": 1792391268
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+      "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
+      "published": "Mon, 19 Oct 2026 06:23:16 +0000",
+      "ts": 1792390996
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Zoom adds ‘proof of human’ badges to show you’re not a deepfake",
+      "link": "https://cointelegraph.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 19 Oct 2026 05:55:44 +0000",
+      "ts": 1792389344
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar steady, euro weakens after French protests turn violent",
+      "link": "https://www.investing.com/news/forex-news/dollar-firmer-euro-weakens-as-french-protests-turn-violent-4956196",
+      "published": "2026-10-19 05:48:41",
+      "ts": 1792388921
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 19 Oct 2026 05:48:07 +0000",
+      "ts": 1792388887
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
+      "link": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
+      "published": "Mon, 19 Oct 2026 05:23:02 +0000",
+      "ts": 1792387382
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "South Korea to meet crypto exchanges amid calls for tax delay",
+      "link": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 19 Oct 2026 05:14:06 +0000",
+      "ts": 1792386846
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP Ledger is set to fix its lending code before anyone can use it",
+      "link": "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it",
+      "published": "Mon, 19 Oct 2026 04:54:31 +0000",
+      "ts": 1792385671
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asia FX ticks higher; yuan hits 4-yr high after China Q3 GDP beat",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-ticks-higher-yuan-hits-4yr-high-after-china-q3-gdp-beat-4956302",
+      "published": "2026-10-19 04:17:35",
+      "ts": 1792383455
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
+      "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
+      "published": "Mon, 19 Oct 2026 03:36:58 +0000",
+      "ts": 1792381018
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+      "link": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
+      "published": "Mon, 19 Oct 2026 02:00:00 +0000",
+      "ts": 1792375200
+    },
     {
       "source": "Cointelegraph",
       "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
@@ -60,13 +137,6 @@
       "ts": 1792340100
     },
     {
-      "source": "CoinDesk",
-      "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
-      "link": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
-      "published": "Sun, 18 Oct 2026 16:00:00 +0000",
-      "ts": 1792339200
-    },
-    {
       "source": "MarketWatch",
       "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
       "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
@@ -88,25 +158,11 @@
       "ts": 1792335600
     },
     {
-      "source": "CoinDesk",
-      "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
-      "link": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
-      "published": "Sun, 18 Oct 2026 14:00:00 +0000",
-      "ts": 1792332000
-    },
-    {
       "source": "MarketWatch",
       "title": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
       "link": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
       "published": "Sun, 18 Oct 2026 14:00:00 GMT",
       "ts": 1792332000
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 18 Oct 2026 13:54:00 +0000",
-      "ts": 1792331640
     },
     {
       "source": "Cointelegraph",
@@ -116,32 +172,11 @@
       "ts": 1792331280
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
-      "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
-      "published": "Sun, 18 Oct 2026 13:00:00 +0000",
-      "ts": 1792328400
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
-      "link": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
-      "published": "Sun, 18 Oct 2026 13:00:00 +0000",
-      "ts": 1792328400
-    },
-    {
       "source": "MarketWatch",
       "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
       "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
       "published": "Sun, 18 Oct 2026 13:00:00 GMT",
       "ts": 1792328400
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
-      "link": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
-      "published": "Sun, 18 Oct 2026 12:00:00 +0000",
-      "ts": 1792324800
     },
     {
       "source": "MarketWatch",
@@ -186,13 +221,6 @@
       "ts": 1792305040
     },
     {
-      "source": "Cointelegraph",
-      "title": "Tether backs AIsa as strategic investor, completing seed extension round",
-      "link": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 18 Oct 2026 06:29:00 +0000",
-      "ts": 1792304940
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin price holds above $81,000 as ETF outflows weigh on sentiment",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-above-81000-as-etf-outflows-weigh-on-sentiment-4955253",
@@ -205,13 +233,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-18-in-a-green-day-4955523",
       "published": "2026-10-17 18:03:00",
       "ts": 1792260180
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
-      "link": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 17 Oct 2026 13:01:00 +0000",
-      "ts": 1792242060
     },
     {
       "source": "Investing Forex",
@@ -261,27 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-heads-for-weekly-gain-as-us-dollar-retreats-4954575",
       "published": "2026-10-16 15:54:14",
       "ts": 1792166054
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Indian rupee posts biggest weekly gain in seven months",
-      "link": "https://www.investing.com/news/forex-news/indian-rupee-posts-biggest-weekly-gain-in-seven-months-93CH-4954501",
-      "published": "2026-10-16 14:55:18",
-      "ts": 1792162518
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "BTCC Exchange Wraps TOKEN2049 Singapore, Taking Its Zero-Barrier Theme From Platform to Show Floor",
-      "link": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-wraps-token2049-singapore-taking-its-zerobarrier-theme-from-platform-to-show-floor-4954260",
-      "published": "2026-10-16 13:30:08",
-      "ts": 1792157408
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound set to snap 7-week losing run as dollar slips on AI fears",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-set-to-snap-7week-losing-run-as-dollar-slips-on-ai-fears-4953534",
-      "published": "2026-10-16 09:54:01",
-      "ts": 1792144441
     }
   ]
 }
