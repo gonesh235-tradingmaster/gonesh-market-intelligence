@@ -1,105 +1,231 @@
 {
-  "updated_utc": "2026-10-19T06:43:00.797263+00:00",
+  "updated_utc": "2026-10-19T13:59:03.237318+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin rises to near $83k amid some relief from falling oil prices",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-near-83k-amid-some-relief-from-falling-oil-prices-4956420",
-      "published": "2026-10-19 06:27:48",
-      "ts": 1792391268
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
-      "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
-      "published": "Mon, 19 Oct 2026 06:23:16 +0000",
-      "ts": 1792390996
+      "source": "MarketWatch",
+      "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
+      "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
+      "published": "Mon, 19 Oct 2026 13:33:00 GMT",
+      "ts": 1792416780
     },
     {
       "source": "Cointelegraph",
-      "title": "Zoom adds ‘proof of human’ badges to show you’re not a deepfake",
-      "link": "https://cointelegraph.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 19 Oct 2026 05:55:44 +0000",
-      "ts": 1792389344
+      "title": "Made an ‘honest’ mistake with crypto taxes? New bill offers way out",
+      "link": "https://cointelegraph.com/magazine/made-an-honest-mistake-with-crypto-taxes-new-bill-offers-way-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 19 Oct 2026 13:30:00 +0000",
+      "ts": 1792416600
     },
     {
-      "source": "Investing Forex",
-      "title": "Dollar steady, euro weakens after French protests turn violent",
-      "link": "https://www.investing.com/news/forex-news/dollar-firmer-euro-weakens-as-french-protests-turn-violent-4956196",
-      "published": "2026-10-19 05:48:41",
-      "ts": 1792388921
+      "source": "MarketWatch",
+      "title": "Micron and other chip stocks spring back to life after bruising selloff",
+      "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+      "published": "Mon, 19 Oct 2026 13:22:00 GMT",
+      "ts": 1792416120
     },
     {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 19 Oct 2026 05:48:07 +0000",
-      "ts": 1792388887
+      "published": "Mon, 19 Oct 2026 13:19:50 +0000",
+      "ts": 1792415990
     },
     {
-      "source": "CoinDesk",
-      "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
-      "link": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
-      "published": "Mon, 19 Oct 2026 05:23:02 +0000",
-      "ts": 1792387382
+      "source": "MarketWatch",
+      "title": "France and the U.S. share the same debt trap. Why the U.S. has an escape valve.",
+      "link": "https://www.marketwatch.com/story/france-and-the-u-s-share-the-same-debt-trap-only-one-has-a-global-lifeline-3ae61b42?mod=mw_rss_topstories",
+      "published": "Mon, 19 Oct 2026 13:19:00 GMT",
+      "ts": 1792415940
     },
     {
       "source": "Cointelegraph",
-      "title": "South Korea to meet crypto exchanges amid calls for tax delay",
-      "link": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 19 Oct 2026 05:14:06 +0000",
-      "ts": 1792386846
+      "title": "Public companies object to OKX-ICE’s tokenized stock plan",
+      "link": "https://cointelegraph.com/news/public-companies-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 19 Oct 2026 13:13:53 +0000",
+      "ts": 1792415633
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strategy buys $22M in Bitcoin, repurchases $193M in STRC",
+      "link": "https://cointelegraph.com/news/strategy-btc-22-million-buy-strc-buyback-193-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 19 Oct 2026 12:30:00 +0000",
+      "ts": 1792413000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
+      "link": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
+      "published": "Mon, 19 Oct 2026 12:30:00 GMT",
+      "ts": 1792413000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+      "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+      "published": "Mon, 19 Oct 2026 12:30:00 GMT",
+      "ts": 1792413000
     },
     {
       "source": "CoinDesk",
-      "title": "XRP Ledger is set to fix its lending code before anyone can use it",
-      "link": "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it",
-      "published": "Mon, 19 Oct 2026 04:54:31 +0000",
-      "ts": 1792385671
+      "title": "Cardano founder Charles Hoskinson is building a new programming language for the network",
+      "link": "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
+      "published": "Mon, 19 Oct 2026 12:16:58 +0000",
+      "ts": 1792412218
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Strategy buys bitcoin and repurchases preferred shares in weekly update",
+      "link": "https://www.investing.com/news/cryptocurrency-news/strategy-buys-bitcoin-and-repurchases-preferred-shares-in-weekly-update-432SI-4957291",
+      "published": "2026-10-19 12:14:02",
+      "ts": 1792412042
     },
     {
       "source": "Investing Forex",
-      "title": "Asia FX ticks higher; yuan hits 4-yr high after China Q3 GDP beat",
+      "title": "U.S. treasury yields ease near 1-month lows; Euro spreads widen amid French unrest",
+      "link": "https://www.investing.com/news/forex-news/eurozone-yields-firm-as-french-unrest-widens-spread-risk-4956418",
+      "published": "2026-10-19 11:58:56",
+      "ts": 1792411136
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "World Liberty’s USD1 stablecoin sheds $400M in market cap in two weeks",
+      "link": "https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 19 Oct 2026 11:57:58 +0000",
+      "ts": 1792411078
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
+      "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
+      "published": "Mon, 19 Oct 2026 11:53:00 GMT",
+      "ts": 1792410780
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Euro drops amid high energy prices and street riots in France",
+      "link": "https://www.investing.com/news/forex-news/dollar-firmer-euro-weakens-as-french-protests-turn-violent-4956196",
+      "published": "2026-10-19 11:36:38",
+      "ts": 1792409798
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BingX, YouHodler added to ESMA MiCA register in latest update",
+      "link": "https://cointelegraph.com/news/bingx-youhodler-esma-mica-register-friday-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 19 Oct 2026 11:32:00 +0000",
+      "ts": 1792409520
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Tech stocks stumbled. Now comes a crucial week for Wall Street.",
+      "link": "https://www.marketwatch.com/story/tech-stocks-stumbled-now-comes-a-crucial-week-for-wall-street-2a093abe?mod=mw_rss_topstories",
+      "published": "Mon, 19 Oct 2026 11:30:00 GMT",
+      "ts": 1792409400
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy's price chart is about to flash a major bullish signal weeks after bitcoin did",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
+      "published": "Mon, 19 Oct 2026 11:15:00 +0000",
+      "ts": 1792408500
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin edges higher as U.S. stocks rebound early Monday",
+      "link": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
+      "published": "Mon, 19 Oct 2026 11:05:54 +0000",
+      "ts": 1792407954
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘My husband suffered a massive stroke at 53’: I’m 64 and will rent for the rest of my life — but I’m still hopeful",
+      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "published": "Mon, 19 Oct 2026 11:00:00 GMT",
+      "ts": 1792407600
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "StakerX’s AI Agent Surpasses Passes $40M Staked Assets on Solana Within Three Months of Launch",
+      "link": "https://www.investing.com/news/cryptocurrency-news/stakerxs-ai-agent-surpasses-passes-40m-staked-assets-on-solana-within-three-months-of-launch-4956865",
+      "published": "2026-10-19 10:30:10",
+      "ts": 1792405810
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
+      "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
+      "published": "Mon, 19 Oct 2026 10:26:33 +0000",
+      "ts": 1792405593
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals",
+      "link": "https://cointelegraph.com/news/france-stablecoin-tax-eyes-self-custodial-wallets-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 19 Oct 2026 10:22:30 +0000",
+      "ts": 1792405350
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Stocks rebound into key tech earnings: Three things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/markets/stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 19 Oct 2026 10:20:00 +0000",
+      "ts": 1792405200
+    },
+    {
+      "source": "CoinDesk",
+      "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum",
+      "link": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
+      "published": "Mon, 19 Oct 2026 10:03:47 +0000",
+      "ts": 1792404227
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar holds steady as French unrest weighs on Euro",
       "link": "https://www.investing.com/news/forex-news/asia-fx-ticks-higher-yuan-hits-4yr-high-after-china-q3-gdp-beat-4956302",
-      "published": "2026-10-19 04:17:35",
-      "ts": 1792383455
+      "published": "2026-10-19 09:47:37",
+      "ts": 1792403257
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin, Korea’s Kospi and Nasdaq futures rally as China GDP beats estimates",
-      "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
-      "published": "Mon, 19 Oct 2026 03:36:58 +0000",
-      "ts": 1792381018
+      "title": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
+      "link": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny",
+      "published": "Mon, 19 Oct 2026 09:32:38 +0000",
+      "ts": 1792402358
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin hovers near $82k amid some relief from falling oil prices",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-to-near-83k-amid-some-relief-from-falling-oil-prices-4956420",
+      "published": "2026-10-19 09:18:26",
+      "ts": 1792401506
     },
     {
       "source": "CoinDesk",
-      "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
-      "link": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
-      "published": "Mon, 19 Oct 2026 02:00:00 +0000",
-      "ts": 1792375200
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
-      "link": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 19 Oct 2026 01:03:27 +0000",
-      "ts": 1792371807
+      "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
+      "link": "https://www.coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s",
+      "published": "Mon, 19 Oct 2026 09:15:00 +0000",
+      "ts": 1792401300
     },
     {
       "source": "CoinDesk",
-      "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
-      "link": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
-      "published": "Sun, 18 Oct 2026 23:28:06 +0000",
-      "ts": 1792366086
+      "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
+      "published": "Mon, 19 Oct 2026 09:12:39 +0000",
+      "ts": 1792401159
     },
     {
-      "source": "Cointelegraph",
-      "title": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
-      "link": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 18 Oct 2026 22:58:17 +0000",
-      "ts": 1792364297
+      "source": "Investing Crypto",
+      "title": "EOS Falls 12% In Selloff",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-12-in-selloff-4956724",
+      "published": "2026-10-19 09:04:01",
+      "ts": 1792400641
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound edges lower; AI jitters cloud dollar outlook",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-lower-ai-jitters-cloud-dollar-outlook-4956619",
+      "published": "2026-10-19 08:24:41",
+      "ts": 1792398281
     },
     {
       "source": "Investing Crypto",
@@ -107,97 +233,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-wedged-at-84175-between-key-support-and-resistance-live-93CH-4943299",
       "published": "2026-10-18 19:03:00",
       "ts": 1792350180
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The White House's crypto chief departs: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
-      "published": "Sun, 18 Oct 2026 18:30:00 +0000",
-      "ts": 1792348200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-      "published": "Sun, 18 Oct 2026 17:00:00 GMT",
-      "ts": 1792342800
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
-      "link": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
-      "published": "Sun, 18 Oct 2026 16:33:00 +0000",
-      "ts": 1792341180
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "published": "Sun, 18 Oct 2026 16:15:00 GMT",
-      "ts": 1792340100
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
-      "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-      "published": "Sun, 18 Oct 2026 16:00:00 GMT",
-      "ts": 1792339200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?",
-      "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-      "published": "Sun, 18 Oct 2026 15:15:00 GMT",
-      "ts": 1792336500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-      "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-      "published": "Sun, 18 Oct 2026 15:00:00 GMT",
-      "ts": 1792335600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
-      "link": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
-      "published": "Sun, 18 Oct 2026 14:00:00 GMT",
-      "ts": 1792332000
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Most Americans polled oppose betting on elections: Reuters",
-      "link": "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 18 Oct 2026 13:48:00 +0000",
-      "ts": 1792331280
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
-      "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
-      "published": "Sun, 18 Oct 2026 13:00:00 GMT",
-      "ts": 1792328400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "There is a silent market rotation inside the S&P 500 that’s warning of more weakness ahead",
-      "link": "https://www.marketwatch.com/story/there-is-a-silent-market-rotation-inside-the-s-p-500-thats-warning-of-more-weakness-ahead-549e7650?mod=mw_rss_topstories",
-      "published": "Sun, 18 Oct 2026 12:00:00 GMT",
-      "ts": 1792324800
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
-      "link": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 18 Oct 2026 10:46:00 +0000",
-      "ts": 1792320360
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
-      "link": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 18 Oct 2026 09:14:26 +0000",
-      "ts": 1792314866
     },
     {
       "source": "Investing Crypto",
@@ -221,32 +256,11 @@
       "ts": 1792305040
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin price holds above $81,000 as ETF outflows weigh on sentiment",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-holds-above-81000-as-etf-outflows-weigh-on-sentiment-4955253",
-      "published": "2026-10-17 19:00:45",
-      "ts": 1792263645
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "EOS Climbs 18% In a Green Day",
-      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-18-in-a-green-day-4955523",
-      "published": "2026-10-17 18:03:00",
-      "ts": 1792260180
-    },
-    {
       "source": "Investing Forex",
       "title": "What’s the likelihood of Yen carry trade reversing?",
       "link": "https://www.investing.com/news/forex-news/whats-the-likelihood-of-yen-carry-trade-reversing-4955329",
       "published": "2026-10-17 08:18:04",
       "ts": 1792225084
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin set for a two-week losing streak as ’uptober’ trend fails to materialize",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-82k-but-set-for-second-week-in-red-4953175",
-      "published": "2026-10-16 21:54:59",
-      "ts": 1792187699
     },
     {
       "source": "Investing Forex",
@@ -268,20 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/swiss-finance-minister-warns-steep-european-debt-could-trigger-euro-crisis-4954687",
       "published": "2026-10-16 17:36:26",
       "ts": 1792172186
-    },
-    {
-      "source": "Investing Forex",
-      "title": "CIBC warns of inflation risks as ‘leaky loonie’ faces further slide",
-      "link": "https://www.investing.com/news/forex-news/cibc-warns-of-inflation-risks-as-leaky-loonie-faces-further-slide-4954580",
-      "published": "2026-10-16 15:56:09",
-      "ts": 1792166169
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Canadian dollar heads for weekly gain as U.S. dollar retreats",
-      "link": "https://www.investing.com/news/forex-news/canadian-dollar-heads-for-weekly-gain-as-us-dollar-retreats-4954575",
-      "published": "2026-10-16 15:54:14",
-      "ts": 1792166054
     }
   ]
 }
