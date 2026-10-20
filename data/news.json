@@ -1,8 +1,43 @@
 {
-  "updated_utc": "2026-10-20T01:46:04.478492+00:00",
+  "updated_utc": "2026-10-20T06:41:56.696717+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 20 Oct 2026 05:39:20 +0000",
+      "ts": 1792474760
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies firm as dollar retreats; yuan hits four-year high",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-firm-asdollar-retreats-yuan-hits-fouryear-high-4958775",
+      "published": "2026-10-20 05:14:34",
+      "ts": 1792473274
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown",
+      "link": "https://cointelegraph.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 20 Oct 2026 05:14:11 +0000",
+      "ts": 1792473251
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US bans DeepSeek from civilian agency IT systems",
+      "link": "https://cointelegraph.com/news/us-bans-deepseek-from-civilian-agency-it-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 20 Oct 2026 04:07:58 +0000",
+      "ts": 1792469278
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Climbs 11% In Rally",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-11-in-rally-4958658",
+      "published": "2026-10-20 01:53:58",
+      "ts": 1792461238
+    },
     {
       "source": "Cointelegraph",
       "title": "Bitcoin rally could revive treasury buying, but easy-money days over",
@@ -137,27 +172,6 @@
       "ts": 1792437508
     },
     {
-      "source": "Cointelegraph",
-      "title": "Visa, Mesh partner to enable crypto spending at 175M merchant locations",
-      "link": "https://cointelegraph.com/news/visa-mesh-partner-crypto-spending-175m-merchant-locations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 19 Oct 2026 19:16:19 +0000",
-      "ts": 1792437379
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Mastercard launches stablecoin risk screening for banks and payment providers",
-      "link": "https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 19 Oct 2026 19:03:23 +0000",
-      "ts": 1792436603
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Revolut secures Gibraltar crypto license to support global expansion",
-      "link": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 19 Oct 2026 17:24:49 +0000",
-      "ts": 1792430689
-    },
-    {
       "source": "CoinDesk",
       "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
       "link": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
@@ -256,13 +270,6 @@
       "ts": 1792314179
     },
     {
-      "source": "Investing Crypto",
-      "title": "Ledger crypto wallets compromised in hardware attack linked to $90M theft",
-      "link": "https://www.investing.com/news/cryptocurrency-news/ledger-crypto-wallets-compromised-in-hardware-attack-linked-to-90m-theft-4955797",
-      "published": "2026-10-18 07:18:32",
-      "ts": 1792307912
-    },
-    {
       "source": "Investing Forex",
       "title": "What’s the likelihood of Yen carry trade reversing?",
       "link": "https://www.investing.com/news/forex-news/whats-the-likelihood-of-yen-carry-trade-reversing-4955329",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/eurozone-yields-languish-near-multiweek-lows-as-safehaven-inflows-4953291",
       "published": "2026-10-16 21:27:03",
       "ts": 1792186023
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. dollar snaps four-week win streak, helping the euro halt a five-week slide",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-dollar-weakens-after-bond-rally-rupee-set-for-2-weekly-jump-4953070",
-      "published": "2026-10-16 20:59:45",
-      "ts": 1792184385
     }
   ]
 }
