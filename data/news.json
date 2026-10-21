@@ -1,14 +1,77 @@
 {
-  "updated_utc": "2026-10-21T20:46:36.135171+00:00",
+  "updated_utc": "2026-10-21T23:43:13.630070+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
       "source": "MarketWatch",
+      "title": "Tesla’s stock falls as Elon Musk leaves investors wanting more",
+      "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories",
+      "published": "Wed, 21 Oct 2026 23:29:00 GMT",
+      "ts": 1792625340
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business",
+      "link": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
+      "published": "Wed, 21 Oct 2026 23:07:00 GMT",
+      "ts": 1792624020
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
+      "link": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 21 Oct 2026 21:53:48 +0000",
+      "ts": 1792619628
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin gains more than 2% to $84.8k as risk sentiment prevails",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-firms-to-82k-but-oil-ai-jitters-limit-upside-4961711",
+      "published": "2026-10-21 21:46:19",
+      "ts": 1792619179
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why investors should be skeptical of a potential Tesla-SpaceX merger",
+      "link": "https://www.marketwatch.com/story/why-investors-should-be-skeptical-of-a-potential-tesla-spacex-merger-9e119d32?mod=mw_rss_topstories",
+      "published": "Wed, 21 Oct 2026 21:44:00 GMT",
+      "ts": 1792619040
+    },
+    {
+      "source": "MarketWatch",
       "title": "Trump says data centers should generate their own electricity — but experts say only states can mandate that",
       "link": "https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad?mod=mw_rss_topstories",
-      "published": "Wed, 21 Oct 2026 20:37:00 GMT",
-      "ts": 1792615020
+      "published": "Wed, 21 Oct 2026 21:31:00 GMT",
+      "ts": 1792618260
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar up slightly, other currencies see small moves ahead of central bank deluge",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-hovers-near-3week-low-rupee-extends-rally-4961573",
+      "published": "2026-10-21 21:14:10",
+      "ts": 1792617250
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
+      "link": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
+      "published": "Wed, 21 Oct 2026 21:14:00 GMT",
+      "ts": 1792617240
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+      "published": "Wed, 21 Oct 2026 21:00:00 GMT",
+      "ts": 1792616400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "7 healthcare stocks that stand out as investors pay up for the sector",
+      "link": "https://www.marketwatch.com/story/7-healthcare-stocks-that-stand-out-as-investors-pay-up-for-the-sector-d9b0c173?mod=mw_rss_topstories",
+      "published": "Wed, 21 Oct 2026 20:59:00 GMT",
+      "ts": 1792616340
     },
     {
       "source": "MarketWatch",
@@ -32,46 +95,11 @@
       "ts": 1792613979
     },
     {
-      "source": "MarketWatch",
-      "title": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
-      "link": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
-      "published": "Wed, 21 Oct 2026 20:18:00 GMT",
-      "ts": 1792613880
-    },
-    {
-      "source": "MarketWatch",
-      "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
-      "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
-      "published": "Wed, 21 Oct 2026 20:15:00 GMT",
-      "ts": 1792613700
-    },
-    {
-      "source": "MarketWatch",
-      "title": "SpaceX’s massive AI targets will test the limits of reality",
-      "link": "https://www.marketwatch.com/story/spacexs-massive-ai-targets-will-test-the-limits-of-reality-4f23a624?mod=mw_rss_topstories",
-      "published": "Wed, 21 Oct 2026 20:15:00 GMT",
-      "ts": 1792613700
-    },
-    {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 21 Oct 2026 20:10:47 +0000",
       "ts": 1792613447
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
-      "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
-      "published": "Wed, 21 Oct 2026 20:01:00 GMT",
-      "ts": 1792612860
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘Super’ El Niño may soon make your coffee super expensive",
-      "link": "https://www.marketwatch.com/story/super-el-nino-risks-driving-up-the-price-of-your-caffeine-fix-bb1d58b1?mod=mw_rss_topstories",
-      "published": "Wed, 21 Oct 2026 19:24:00 GMT",
-      "ts": 1792610640
     },
     {
       "source": "Investing Crypto",
@@ -102,13 +130,6 @@
       "ts": 1792602654
     },
     {
-      "source": "MarketWatch",
-      "title": "Medicare is a bargain. What America can’t afford is private health insurance.",
-      "link": "https://www.marketwatch.com/story/medicare-is-a-bargain-what-america-cant-afford-is-private-health-insurance-8a834023?mod=mw_rss_topstories",
-      "published": "Wed, 21 Oct 2026 16:34:00 GMT",
-      "ts": 1792600440
-    },
-    {
       "source": "CoinDesk",
       "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
       "link": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
@@ -137,13 +158,6 @@
       "ts": 1792596166
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 15:13:17 +0000",
-      "ts": 1792595597
-    },
-    {
       "source": "CoinDesk",
       "title": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
       "link": "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
@@ -156,13 +170,6 @@
       "link": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
       "published": "Wed, 21 Oct 2026 15:00:53 +0000",
       "ts": 1792594853
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin ticks up to $83.4k but oil, AI jitters limit upside",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-firms-to-82k-but-oil-ai-jitters-limit-upside-4961711",
-      "published": "2026-10-21 13:37:37",
-      "ts": 1792589857
     },
     {
       "source": "CoinDesk",
@@ -205,13 +212,6 @@
       "link": "https://www.investing.com/news/forex-news/indias-10year-bond-yield-climbs-above-745-to-multiyear-high-93CH-4962437",
       "published": "2026-10-21 10:55:00",
       "ts": 1792580100
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar holds near 3-week low; euro and yen consolidate as markets gauge Iran war",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-hovers-near-3week-low-rupee-extends-rally-4961573",
-      "published": "2026-10-21 09:50:17",
-      "ts": 1792576217
     },
     {
       "source": "Investing Forex",
