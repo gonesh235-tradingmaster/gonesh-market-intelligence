@@ -1,8 +1,78 @@
 {
-  "updated_utc": "2026-10-22T01:53:35.320714+00:00",
+  "updated_utc": "2026-10-22T06:51:39.992528+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Top HSBC strategist has a warning for retail investors chasing the AI rally",
+      "link": "https://www.marketwatch.com/story/top-hsbc-strategist-has-a-warning-for-retail-investors-chasing-the-ai-rally-e0318ada?mod=mw_rss_topstories",
+      "published": "Thu, 22 Oct 2026 06:46:00 GMT",
+      "ts": 1792651560
+    },
+    {
+      "source": "CoinDesk",
+      "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
+      "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
+      "published": "Thu, 22 Oct 2026 06:24:10 +0000",
+      "ts": 1792650250
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 05:56:18 +0000",
+      "ts": 1792648578
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
+      "link": "https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 05:35:38 +0000",
+      "ts": 1792647338
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
+      "link": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
+      "published": "Thu, 22 Oct 2026 05:24:58 +0000",
+      "ts": 1792646698
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asia FX mixed, dollar slips near 3-wk low as traders eye central bank meetings",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-dollar-slips-near-3wk-low-as-traders-eye-central-bank-meetings-4964617",
+      "published": "2026-10-22 05:11:54",
+      "ts": 1792645914
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
+      "published": "Thu, 22 Oct 2026 04:41:59 +0000",
+      "ts": 1792644119
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+      "link": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
+      "published": "Thu, 22 Oct 2026 04:36:20 +0000",
+      "ts": 1792643780
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
+      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
+      "published": "Thu, 22 Oct 2026 03:51:34 +0000",
+      "ts": 1792641094
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My father-in-law, 81, sold his $75,000 home and paid off his daughter’s $50,000 debt. What happens to him now?",
+      "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+      "published": "Thu, 22 Oct 2026 03:15:00 GMT",
+      "ts": 1792638900
+    },
     {
       "source": "MarketWatch",
       "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
@@ -74,20 +144,6 @@
       "ts": 1792617250
     },
     {
-      "source": "MarketWatch",
-      "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
-      "link": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
-      "published": "Wed, 21 Oct 2026 21:14:00 GMT",
-      "ts": 1792617240
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "published": "Wed, 21 Oct 2026 21:00:00 GMT",
-      "ts": 1792616400
-    },
-    {
       "source": "Cointelegraph",
       "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
       "link": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -100,13 +156,6 @@
       "link": "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 21 Oct 2026 20:19:39 +0000",
       "ts": 1792613979
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 20:10:47 +0000",
-      "ts": 1792613447
     },
     {
       "source": "Investing Crypto",
@@ -128,13 +177,6 @@
       "link": "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 21 Oct 2026 17:25:00 +0000",
       "ts": 1792603500
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform",
-      "link": "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 17:10:54 +0000",
-      "ts": 1792602654
     },
     {
       "source": "CoinDesk",
@@ -165,46 +207,11 @@
       "ts": 1792595362
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
-      "published": "Wed, 21 Oct 2026 15:00:53 +0000",
-      "ts": 1792594853
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
-      "link": "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity",
-      "published": "Wed, 21 Oct 2026 12:12:36 +0000",
-      "ts": 1792584756
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. Treasury yields drop on safe-haven flows; French yields hit 5% mark",
       "link": "https://www.investing.com/news/forex-news/french-yields-hover-near-2002-highs-hotter-uk-inflation-sparks-gilt-pressure-4961706",
       "published": "2026-10-21 12:12:00",
       "ts": 1792584720
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
-      "link": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
-      "published": "Wed, 21 Oct 2026 12:10:39 +0000",
-      "ts": 1792584639
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
-      "link": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
-      "published": "Wed, 21 Oct 2026 12:00:00 +0000",
-      "ts": 1792584000
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
-      "published": "Wed, 21 Oct 2026 11:15:00 +0000",
-      "ts": 1792581300
     },
     {
       "source": "Investing Forex",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-as-dollar-consolidates-4959210",
       "published": "2026-10-20 08:54:09",
       "ts": 1792486449
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar gains as French turmoil due to violent protests drags down the euro",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-ticks-higher-yuan-hits-4yr-high-after-china-q3-gdp-beat-4956302",
-      "published": "2026-10-19 20:51:26",
-      "ts": 1792443086
     }
   ]
 }
