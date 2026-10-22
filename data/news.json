@@ -1,14 +1,196 @@
 {
-  "updated_utc": "2026-10-22T06:51:39.992528+00:00",
+  "updated_utc": "2026-10-22T12:32:34.165546+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
       "source": "MarketWatch",
-      "title": "Top HSBC strategist has a warning for retail investors chasing the AI rally",
+      "title": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
+      "link": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
+      "published": "Thu, 22 Oct 2026 12:22:00 GMT",
+      "ts": 1792671720
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
+      "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
+      "published": "Thu, 22 Oct 2026 12:14:29 +0000",
+      "ts": 1792671269
+    },
+    {
+      "source": "MarketWatch",
+      "title": "IBM’s stock falls as investors struggle to shake off July earnings miss",
+      "link": "https://www.marketwatch.com/story/ibms-stock-falls-as-investors-struggle-to-shake-off-july-earnings-miss-0969b9e3?mod=mw_rss_topstories",
+      "published": "Thu, 22 Oct 2026 12:04:00 GMT",
+      "ts": 1792670640
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "The UK needs a workable route to regulated DeFi access",
+      "link": "https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 12:00:00 +0000",
+      "ts": 1792670400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why this JPMorgan strategist thinks the stock market’s tailspin might have run its course",
+      "link": "https://www.marketwatch.com/story/why-a-jpmorgan-strategist-says-the-stock-markets-tailspin-might-have-run-its-course-71571335?mod=mw_rss_topstories",
+      "published": "Thu, 22 Oct 2026 11:57:00 GMT",
+      "ts": 1792670220
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S. Treasury yields drop to 1-month lows on safe-haven flows",
+      "link": "https://www.investing.com/news/forex-news/french-yields-breach-5-amid-paris-budget-paralysis-and-nationwide-unrest-4964673",
+      "published": "2026-10-22 11:50:49",
+      "ts": 1792669849
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Mideast oil exports are recovering. Fresh attacks in Saudi Arabia show risks remain.",
+      "link": "https://www.marketwatch.com/story/mideast-oil-exports-are-recovering-fresh-attacks-in-saudi-arabia-show-risks-remain-1473391a?mod=mw_rss_topstories",
+      "published": "Thu, 22 Oct 2026 11:35:00 GMT",
+      "ts": 1792668900
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
+      "published": "Thu, 22 Oct 2026 11:20:04 +0000",
+      "ts": 1792668004
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CoinDCX pledges no user losses after $16M transfers draw scrutiny",
+      "link": "https://cointelegraph.com/news/coindcx-suspicious-outflows-wallet-compromised-2025-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 10:53:10 +0000",
+      "ts": 1792666390
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
+      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
+      "published": "Thu, 22 Oct 2026 10:50:04 +0000",
+      "ts": 1792666204
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
+      "link": "https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 10:38:51 +0000",
+      "ts": 1792665531
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bybit KZ and Alatau City Authority sign MoC on tokenization, digital asset payments, cross-border remittances",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bybit-kz-and-alatau-city-authority-sign-moc-on-tokenization-digital-asset-payments-crossborder-remittances-4965324",
+      "published": "2026-10-22 10:30:07",
+      "ts": 1792665007
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
+      "link": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
+      "published": "Thu, 22 Oct 2026 10:18:28 +0000",
+      "ts": 1792664308
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Meta teases an opportunity even bigger than advertising — but its stock is falling",
+      "link": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
+      "published": "Thu, 22 Oct 2026 09:55:00 GMT",
+      "ts": 1792662900
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge",
+      "link": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
+      "published": "Thu, 22 Oct 2026 09:54:26 +0000",
+      "ts": 1792662866
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin retreats below $82k as AI selldown, rising oil batter risk",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-back-to-82k-as-ai-selldown-rising-oil-batter-risk-4964695",
+      "published": "2026-10-22 09:52:35",
+      "ts": 1792662755
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Pound edges higher, outperforming as investor nerves rattle euro zone markets",
+      "link": "https://www.investing.com/news/forex-news/pound-edges-higher-outperforming-as-investor-nerves-rattle-euro-zone-markets-4965186",
+      "published": "2026-10-22 09:48:32",
+      "ts": 1792662512
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Yen surges to 3-week high as dollar wobbles ahead of c.bank meetings",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-dollar-slips-near-3wk-low-as-traders-eye-central-bank-meetings-4964617",
+      "published": "2026-10-22 09:43:40",
+      "ts": 1792662220
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Starknet voters back research into life beyond Ethereum",
+      "link": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 09:37:54 +0000",
+      "ts": 1792661874
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound edges higher on U.S. tech drag",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-on-us-tech-drag-4965127",
+      "published": "2026-10-22 09:20:10",
+      "ts": 1792660810
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A top strategist has a warning for retail investors chasing the AI rally",
       "link": "https://www.marketwatch.com/story/top-hsbc-strategist-has-a-warning-for-retail-investors-chasing-the-ai-rally-e0318ada?mod=mw_rss_topstories",
-      "published": "Thu, 22 Oct 2026 06:46:00 GMT",
-      "ts": 1792651560
+      "published": "Thu, 22 Oct 2026 09:07:00 GMT",
+      "ts": 1792660020
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
+      "link": "https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 09:06:02 +0000",
+      "ts": 1792659962
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Football legend Peyton Manning has invested millions in real estate, including 2 Denver homes",
+      "link": "https://www.marketwatch.com/story/football-legend-peyton-manning-has-invested-millions-in-real-estate-including-2-denver-homes-2c4e355f?mod=mw_rss_topstories",
+      "published": "Thu, 22 Oct 2026 09:03:00 GMT",
+      "ts": 1792659780
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
+      "link": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
+      "published": "Thu, 22 Oct 2026 08:49:08 +0000",
+      "ts": 1792658948
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why a global bank is slashing thousands of jobs — and what the Fed says about AI replacing workers",
+      "link": "https://www.marketwatch.com/story/why-a-global-bank-is-slashing-thousands-of-jobs-and-what-the-fed-says-about-ai-replacing-workers-9529b6ca?mod=mw_rss_topstories",
+      "published": "Thu, 22 Oct 2026 08:47:00 GMT",
+      "ts": 1792658820
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 22 Oct 2026 07:37:32 +0000",
+      "ts": 1792654652
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin consolidates above $81,400 support: Breakout watch live",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
+      "published": "2026-10-22 07:10:49",
+      "ts": 1792653049
     },
     {
       "source": "CoinDesk",
@@ -39,102 +221,11 @@
       "ts": 1792646698
     },
     {
-      "source": "Investing Forex",
-      "title": "Asia FX mixed, dollar slips near 3-wk low as traders eye central bank meetings",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-dollar-slips-near-3wk-low-as-traders-eye-central-bank-meetings-4964617",
-      "published": "2026-10-22 05:11:54",
-      "ts": 1792645914
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
-      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
-      "published": "Thu, 22 Oct 2026 04:41:59 +0000",
-      "ts": 1792644119
-    },
-    {
-      "source": "CoinDesk",
-      "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
-      "link": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
-      "published": "Thu, 22 Oct 2026 04:36:20 +0000",
-      "ts": 1792643780
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
-      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
-      "published": "Thu, 22 Oct 2026 03:51:34 +0000",
-      "ts": 1792641094
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My father-in-law, 81, sold his $75,000 home and paid off his daughter’s $50,000 debt. What happens to him now?",
-      "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-      "published": "Thu, 22 Oct 2026 03:15:00 GMT",
-      "ts": 1792638900
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
-      "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
-      "published": "Thu, 22 Oct 2026 01:50:00 GMT",
-      "ts": 1792633800
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax",
-      "link": "https://www.marketwatch.com/story/this-wonky-maneuver-kept-mark-zuckerberg-from-fleeing-a-california-billionaire-tax-1de34562?mod=mw_rss_topstories",
-      "published": "Thu, 22 Oct 2026 00:48:00 GMT",
-      "ts": 1792630080
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "PHP Foundation admits ‘structural failure’ delayed critical security fix",
-      "link": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 00:44:00 +0000",
-      "ts": 1792629840
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Tesla’s stock falls as Elon Musk leaves investors wanting more",
-      "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories",
-      "published": "Wed, 21 Oct 2026 23:29:00 GMT",
-      "ts": 1792625340
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business",
-      "link": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
-      "published": "Wed, 21 Oct 2026 23:07:00 GMT",
-      "ts": 1792624020
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
-      "link": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 21:53:48 +0000",
-      "ts": 1792619628
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin gains more than 2% to $84.8k as risk sentiment prevails",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-firms-to-82k-but-oil-ai-jitters-limit-upside-4961711",
       "published": "2026-10-21 21:46:19",
       "ts": 1792619179
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why investors should be skeptical of a potential Tesla-SpaceX merger",
-      "link": "https://www.marketwatch.com/story/why-investors-should-be-skeptical-of-a-potential-tesla-spacex-merger-9e119d32?mod=mw_rss_topstories",
-      "published": "Wed, 21 Oct 2026 21:44:00 GMT",
-      "ts": 1792619040
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Trump says data centers should generate their own electricity — but experts say only states can mandate that",
-      "link": "https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad?mod=mw_rss_topstories",
-      "published": "Wed, 21 Oct 2026 21:31:00 GMT",
-      "ts": 1792618260
     },
     {
       "source": "Investing Forex",
@@ -144,67 +235,11 @@
       "ts": 1792617250
     },
     {
-      "source": "Cointelegraph",
-      "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
-      "link": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 20:26:07 +0000",
-      "ts": 1792614367
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Trump didn‘t mention ‘crypto’ once in White House cybercrime roundtable",
-      "link": "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 20:19:39 +0000",
-      "ts": 1792613979
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin tests $84,500 Fibonacci resistance: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
-      "published": "2026-10-21 19:18:24",
-      "ts": 1792610304
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
-      "link": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 17:57:39 +0000",
-      "ts": 1792605459
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
-      "link": "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 21 Oct 2026 17:25:00 +0000",
-      "ts": 1792603500
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
-      "link": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
-      "published": "Wed, 21 Oct 2026 16:23:44 +0000",
-      "ts": 1792599824
-    },
-    {
       "source": "Investing Crypto",
       "title": "EOS Climbs 10% In Bullish Trade",
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-10-in-bullish-trade-4963651",
       "published": "2026-10-21 15:35:00",
       "ts": 1792596900
-    },
-    {
-      "source": "CoinDesk",
-      "title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
-      "link": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
-      "published": "Wed, 21 Oct 2026 15:22:46 +0000",
-      "ts": 1792596166
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
-      "link": "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
-      "published": "Wed, 21 Oct 2026 15:09:22 +0000",
-      "ts": 1792595362
     },
     {
       "source": "Investing Forex",
@@ -235,13 +270,6 @@
       "ts": 1792535252
     },
     {
-      "source": "Investing Forex",
-      "title": "Dollar falls as record Japanese bond auction lifts yen, pound surges on jobs data",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-firm-asdollar-retreats-yuan-hits-fouryear-high-4958775",
-      "published": "2026-10-20 18:36:06",
-      "ts": 1792521366
-    },
-    {
       "source": "Investing Crypto",
       "title": "Outpoll Expands Beyond Prediction Markets With Crypto Futures Trading",
       "link": "https://www.investing.com/news/cryptocurrency-news/outpoll-expands-beyond-prediction-markets-with-crypto-futures-trading-4960831",
@@ -254,34 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/grvt-burns-11-million-tokens-as-countdown-to-grvt-20-begins-4960295",
       "published": "2026-10-20 13:30:11",
       "ts": 1792503011
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Armitage, Wintermute’s onchain curation arm, selects Railnet for vault infrastructure",
-      "link": "https://www.investing.com/news/cryptocurrency-news/armitage-wintermutes-onchain-curation-arm-selects-railnet-for-vault-infrastructure-4960006",
-      "published": "2026-10-20 12:30:17",
-      "ts": 1792499417
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Short-end U.S. yields edge up as investors digest French unrest",
-      "link": "https://www.investing.com/news/forex-news/french-bond-selloff-accelerates-on-unrest-cds-nears-2013-highs-4958841",
-      "published": "2026-10-20 12:13:35",
-      "ts": 1792498415
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitget to buy GMO’s Thai crypto exchange in Southeast Asia push",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitget-to-buy-gmos-thai-crypto-exchange-in-southeast-asia-push-4959340",
-      "published": "2026-10-20 09:55:13",
-      "ts": 1792490113
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound edges up as dollar consolidates",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-up-as-dollar-consolidates-4959210",
-      "published": "2026-10-20 08:54:09",
-      "ts": 1792486449
     }
   ]
 }
