@@ -1,11 +1,81 @@
 {
-  "updated_utc": "2026-10-23T01:57:48.555318+00:00",
+  "updated_utc": "2026-10-23T07:10:02.035179+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
+      "source": "MarketWatch",
+      "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+      "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+      "published": "Fri, 23 Oct 2026 06:15:00 GMT",
+      "ts": 1792736100
+    },
+    {
       "source": "Cointelegraph",
-      "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 05:15:14 +0000",
+      "ts": 1792732514
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+      "link": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 05:09:41 +0000",
+      "ts": 1792732181
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
+      "link": "https://www.coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo",
+      "published": "Fri, 23 Oct 2026 05:01:19 +0000",
+      "ts": 1792731679
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+      "link": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
+      "published": "Fri, 23 Oct 2026 04:59:34 +0000",
+      "ts": 1792731574
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Exclusive: Sygnum rolls out MultiSYG bitcoin loans as BTC hits 80% of collateral",
+      "link": "https://www.investing.com/news/cryptocurrency-news/exclusive-sygnum-rolls-out-multisyg-bitcoin-loans-as-btc-hits-80-of-collateral-4968017",
+      "published": "2026-10-23 04:50:16",
+      "ts": 1792731016
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
+      "link": "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
+      "published": "Fri, 23 Oct 2026 04:36:51 +0000",
+      "ts": 1792730211
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+      "link": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 04:34:14 +0000",
+      "ts": 1792730054
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asia FX steadies as oil surge weighs on risk appetite, yen holds gains",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-steadies-as-oil-surge-weighs-on-risk-appetite-yen-holds-gains-4967999",
+      "published": "2026-10-23 03:59:55",
+      "ts": 1792727995
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+      "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
+      "published": "Fri, 23 Oct 2026 03:13:01 +0000",
+      "ts": 1792725181
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Switzerland’s first retail spot Bitcoin ETF targets November launch",
       "link": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 23 Oct 2026 00:59:35 +0000",
       "ts": 1792717175
@@ -109,13 +179,6 @@
       "ts": 1792702416
     },
     {
-      "source": "MarketWatch",
-      "title": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze",
-      "link": "https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories",
-      "published": "Thu, 22 Oct 2026 20:46:00 GMT",
-      "ts": 1792701960
-    },
-    {
       "source": "Cointelegraph",
       "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
       "link": "https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -123,25 +186,11 @@
       "ts": 1792701360
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 20:09:59 +0000",
-      "ts": 1792699799
-    },
-    {
       "source": "Investing Forex",
       "title": "Canadian dollar strengthens as oil prices, BoC rate hike bets support loonie",
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-strengthens-as-oil-prices-boc-rate-hike-bets-support-loonie-4967236",
       "published": "2026-10-22 19:30:10",
       "ts": 1792697410
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Winklevoss PAC moves into Texas Senate race with $81K ad buy",
-      "link": "https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 19:29:53 +0000",
-      "ts": 1792697393
     },
     {
       "source": "Investing Crypto",
@@ -156,13 +205,6 @@
       "link": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
       "published": "Thu, 22 Oct 2026 18:30:57 +0000",
       "ts": 1792693857
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Underdog taps zerohash to bring crypto deposits to prediction markets",
-      "link": "https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 22 Oct 2026 17:24:49 +0000",
-      "ts": 1792689889
     },
     {
       "source": "CoinDesk",
@@ -186,13 +228,6 @@
       "ts": 1792681111
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
-      "link": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
-      "published": "Thu, 22 Oct 2026 14:37:12 +0000",
-      "ts": 1792679832
-    },
-    {
       "source": "Investing Crypto",
       "title": "Square Tech and GOAT Network Sign MOU to Advance AI Agent-Powered Stablecoin Payments in South Korea",
       "link": "https://www.investing.com/news/cryptocurrency-news/square-tech-and-goat-network-sign-mou-to-advance-ai-agentpowered-stablecoin-payments-in-south-korea-4966409",
@@ -200,32 +235,11 @@
       "ts": 1792675811
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto is making a splash in U.S. elections — but chiefly in jabs about industry influence",
-      "link": "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence",
-      "published": "Thu, 22 Oct 2026 13:00:00 +0000",
-      "ts": 1792674000
-    },
-    {
       "source": "Investing Crypto",
       "title": "Travala Introduces AVA Buyback Multiplier, Scaling Buybacks Up to 4x Member Rewards",
       "link": "https://www.investing.com/news/cryptocurrency-news/travala-introduces-ava-buyback-multiplier-scaling-buybacks-up-to-4x-member-rewards-4966002",
       "published": "2026-10-22 12:30:10",
       "ts": 1792672210
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
-      "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
-      "published": "Thu, 22 Oct 2026 12:14:29 +0000",
-      "ts": 1792671269
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
-      "published": "Thu, 22 Oct 2026 11:20:04 +0000",
-      "ts": 1792668004
     },
     {
       "source": "Investing Crypto",
@@ -263,25 +277,11 @@
       "ts": 1792617250
     },
     {
-      "source": "Investing Crypto",
-      "title": "EOS Climbs 10% In Bullish Trade",
-      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-10-in-bullish-trade-4963651",
-      "published": "2026-10-21 15:35:00",
-      "ts": 1792596900
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. Treasury yields drop on safe-haven flows; French yields hit 5% mark",
       "link": "https://www.investing.com/news/forex-news/french-yields-hover-near-2002-highs-hotter-uk-inflation-sparks-gilt-pressure-4961706",
       "published": "2026-10-21 12:12:00",
       "ts": 1792584720
-    },
-    {
-      "source": "Investing Forex",
-      "title": "India’s 10-year bond yield climbs above 7.45% to multi-year high",
-      "link": "https://www.investing.com/news/forex-news/indias-10year-bond-yield-climbs-above-745-to-multiyear-high-93CH-4962437",
-      "published": "2026-10-21 10:55:00",
-      "ts": 1792580100
     }
   ]
 }
