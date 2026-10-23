@@ -1,21 +1,84 @@
 {
-  "updated_utc": "2026-10-23T17:25:31.164727+00:00",
+  "updated_utc": "2026-10-23T20:34:03.308794+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
       "source": "MarketWatch",
-      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-      "published": "Fri, 23 Oct 2026 17:00:00 GMT",
-      "ts": 1792774800
+      "title": "The U.S. economy is great by this measure, and the good times aren’t over. So why are Americans so sour?",
+      "link": "https://www.marketwatch.com/story/the-u-s-economy-is-great-by-this-measure-and-the-good-times-arent-over-so-why-are-americans-so-sour-4be897db?mod=mw_rss_topstories",
+      "published": "Fri, 23 Oct 2026 20:19:00 GMT",
+      "ts": 1792786740
     },
     {
       "source": "MarketWatch",
-      "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
-      "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
-      "published": "Fri, 23 Oct 2026 16:41:00 GMT",
-      "ts": 1792773660
+      "title": "Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted",
+      "link": "https://www.marketwatch.com/story/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elections-near-and-fresh-u-s-strikes-on-iran-are-predicted-8c27e634?mod=mw_rss_topstories",
+      "published": "Fri, 23 Oct 2026 20:19:00 GMT",
+      "ts": 1792786740
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
+      "link": "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories",
+      "published": "Fri, 23 Oct 2026 20:02:00 GMT",
+      "ts": 1792785720
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+      "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+      "published": "Fri, 23 Oct 2026 20:00:00 GMT",
+      "ts": 1792785600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Even the wealthy increasingly want all-inclusive resorts",
+      "link": "https://www.marketwatch.com/story/even-the-wealthy-increasingly-want-all-inclusive-resorts-118caa9b?mod=mw_rss_topstories",
+      "published": "Fri, 23 Oct 2026 19:49:00 GMT",
+      "ts": 1792784940
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin clings to $81,400 support as bearish pressure mounts: Live",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
+      "published": "2026-10-23 19:17:51",
+      "ts": 1792783071
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+      "published": "Fri, 23 Oct 2026 19:16:00 GMT",
+      "ts": 1792782960
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.",
+      "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
+      "published": "Fri, 23 Oct 2026 18:58:00 GMT",
+      "ts": 1792781880
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Think annuities are a rip-off? Now might be the perfect time to reconsider.",
+      "link": "https://www.marketwatch.com/story/think-annuities-are-a-rip-off-now-might-be-the-perfect-time-to-reconsider-6b3a2f88?mod=mw_rss_topstories",
+      "published": "Fri, 23 Oct 2026 18:43:00 GMT",
+      "ts": 1792780980
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+      "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 18:39:02 +0000",
+      "ts": 1792780742
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
+      "link": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 23 Oct 2026 17:42:12 +0000",
+      "ts": 1792777332
     },
     {
       "source": "Cointelegraph",
@@ -25,53 +88,11 @@
       "ts": 1792771720
     },
     {
-      "source": "MarketWatch",
-      "title": "Retire on 8% a year with little or no risk? How to use annuities the right way.",
-      "link": "https://www.marketwatch.com/story/retire-on-8-a-year-with-little-or-no-risk-how-to-use-annuities-the-right-way-06ababc5?mod=mw_rss_topstories",
-      "published": "Fri, 23 Oct 2026 15:56:00 GMT",
-      "ts": 1792770960
-    },
-    {
       "source": "Cointelegraph",
       "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
       "link": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Fri, 23 Oct 2026 15:39:17 +0000",
       "ts": 1792769957
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-      "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-      "published": "Fri, 23 Oct 2026 15:31:00 GMT",
-      "ts": 1792769460
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Everyone’s talking about Roth conversions, but here’s how few people really do them — and why you shouldn’t have FOMO about it",
-      "link": "https://www.marketwatch.com/story/everyones-talking-about-roth-conversions-but-heres-how-few-people-really-do-them-and-why-you-shouldnt-have-fomo-about-it-1b50db07?mod=mw_rss_topstories",
-      "published": "Fri, 23 Oct 2026 15:00:00 GMT",
-      "ts": 1792767600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
-      "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
-      "published": "Fri, 23 Oct 2026 14:40:00 GMT",
-      "ts": 1792766400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Young Americans are giving up on cars. It’s a path to financial freedom for some.",
-      "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
-      "published": "Fri, 23 Oct 2026 14:29:00 GMT",
-      "ts": 1792765740
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Surging economy gets off to a good start in the fourth quarter — but there’s one big problem",
-      "link": "https://www.marketwatch.com/story/surging-economy-gets-off-to-a-good-start-in-the-fourth-quarter-but-theres-one-big-problem-5657f399?mod=mw_rss_topstories",
-      "published": "Fri, 23 Oct 2026 14:23:00 GMT",
-      "ts": 1792765380
     },
     {
       "source": "Investing Forex",
@@ -137,13 +158,6 @@
       "ts": 1792757033
     },
     {
-      "source": "Cointelegraph",
-      "title": "Was crypto self-custody ever designed for beginners?",
-      "link": "https://cointelegraph.com/news/self-custody-crypto-beginners-mainstream-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 23 Oct 2026 11:47:47 +0000",
-      "ts": 1792756067
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
       "link": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
@@ -179,13 +193,6 @@
       "ts": 1792750976
     },
     {
-      "source": "Cointelegraph",
-      "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
-      "link": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 23 Oct 2026 10:13:06 +0000",
-      "ts": 1792750386
-    },
-    {
       "source": "Investing Forex",
       "title": "India 40-year bond yield hits highest level since 2018",
       "link": "https://www.investing.com/news/forex-news/india-40year-bond-yield-hits-highest-level-since-2018-93CH-4968714",
@@ -219,13 +226,6 @@
       "link": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
       "published": "Fri, 23 Oct 2026 08:57:34 +0000",
       "ts": 1792745854
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin wedged at $81,788 support-resistance squeeze: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
-      "published": "2026-10-23 07:11:21",
-      "ts": 1792739481
     },
     {
       "source": "Investing Crypto",
