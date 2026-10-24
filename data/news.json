@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-24T01:48:41.389608+00:00",
+  "updated_utc": "2026-10-24T06:33:32.341411+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin eyes $84,000 as whale withdrawals surge and institutional activity grows",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-eyes-84000-as-whale-withdrawals-surge-and-institutional-activity-grows-4970613",
+      "published": "2026-10-24 05:25:09",
+      "ts": 1792819509
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+      "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+      "published": "Sat, 24 Oct 2026 04:45:43 +0000",
+      "ts": 1792817143
+    },
     {
       "source": "MarketWatch",
       "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
@@ -221,13 +235,6 @@
       "ts": 1792746684
     },
     {
-      "source": "CoinDesk",
-      "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
-      "link": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
-      "published": "Fri, 23 Oct 2026 08:57:34 +0000",
-      "ts": 1792745854
-    },
-    {
       "source": "Investing Crypto",
       "title": "Exclusive: Sygnum rolls out MultiSYG bitcoin loans as BTC hits 80% of collateral",
       "link": "https://www.investing.com/news/cryptocurrency-news/exclusive-sygnum-rolls-out-multisyg-bitcoin-loans-as-btc-hits-80-of-collateral-4968017",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/travala-introduces-ava-buyback-multiplier-scaling-buybacks-up-to-4x-member-rewards-4966002",
       "published": "2026-10-22 12:30:10",
       "ts": 1792672210
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bybit KZ and Alatau City Authority sign MoC on tokenization, digital asset payments, cross-border remittances",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bybit-kz-and-alatau-city-authority-sign-moc-on-tokenization-digital-asset-payments-crossborder-remittances-4965324",
-      "published": "2026-10-22 10:30:07",
-      "ts": 1792665007
     }
   ]
 }
