@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-10-25T04:35:09.821274+00:00",
+  "updated_utc": "2026-10-25T09:22:23.125817+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin tests $80K support in descending triangle: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
+      "published": "2026-10-25 07:02:00",
+      "ts": 1792911720
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin price today: BTC recovers to $80,800 ahead of Fed meeting",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-btc-recovers-to-80800-ahead-of-fed-meeting-4971035",
+      "published": "2026-10-25 04:54:18",
+      "ts": 1792904058
+    },
     {
       "source": "MarketWatch",
       "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
@@ -114,13 +128,6 @@
       "link": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
       "published": "Sat, 24 Oct 2026 12:00:00 +0000",
       "ts": 1792843200
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin range-bound $80.5K-$85K, bears in control: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-bull-flag-coils-at-81908-live-levels-93CH-4958174",
-      "published": "2026-10-24 07:01:47",
-      "ts": 1792825307
     },
     {
       "source": "Investing Crypto",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/square-tech-and-goat-network-sign-mou-to-advance-ai-agentpowered-stablecoin-payments-in-south-korea-4966409",
       "published": "2026-10-22 13:30:11",
       "ts": 1792675811
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Travala Introduces AVA Buyback Multiplier, Scaling Buybacks Up to 4x Member Rewards",
-      "link": "https://www.investing.com/news/cryptocurrency-news/travala-introduces-ava-buyback-multiplier-scaling-buybacks-up-to-4x-member-rewards-4966002",
-      "published": "2026-10-22 12:30:10",
-      "ts": 1792672210
     }
   ]
 }
