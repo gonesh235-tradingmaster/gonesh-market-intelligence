@@ -1,42 +1,217 @@
 {
-  "updated_utc": "2026-10-26T10:34:53.511557+00:00",
+  "updated_utc": "2026-10-26T16:57:34.010402+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
+      "source": "MarketWatch",
+      "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 16:30:00 GMT",
+      "ts": 1793032200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
+      "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 16:30:00 GMT",
+      "ts": 1793032200
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
+      "link": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 16:18:09 +0000",
+      "ts": 1793031489
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 16:15:00 GMT",
+      "ts": 1793031300
+    },
+    {
       "source": "CoinDesk",
-      "title": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
-      "link": "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off",
-      "published": "Mon, 26 Oct 2026 10:33:00 +0000",
-      "ts": 1793010780
+      "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+      "link": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
+      "published": "Mon, 26 Oct 2026 16:05:12 +0000",
+      "ts": 1793030712
     },
     {
       "source": "MarketWatch",
-      "title": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
-      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-      "published": "Mon, 26 Oct 2026 10:15:00 GMT",
-      "ts": 1793009700
+      "title": "This strategist says it’s a matter of when, not if, the AI bubble pops. Here’s how to prepare for that.",
+      "link": "https://www.marketwatch.com/story/this-strategist-says-its-a-matter-of-when-not-if-the-ai-bubble-pops-heres-how-to-prepare-for-that-86ffbf30?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 16:05:00 GMT",
+      "ts": 1793030700
     },
     {
       "source": "MarketWatch",
-      "title": "Cheesecake Factory was just the subject of unflattering headlines. It’s actually one of the hottest stocks around.",
-      "link": "https://www.marketwatch.com/story/cheesecake-factory-was-just-the-subject-of-unflattering-headlines-its-actually-one-of-the-hottest-stocks-around-8435cc63?mod=mw_rss_topstories",
-      "published": "Mon, 26 Oct 2026 10:04:00 GMT",
-      "ts": 1793009040
+      "title": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.",
+      "link": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 16:01:00 GMT",
+      "ts": 1793030460
+    },
+    {
+      "source": "MarketWatch",
+      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 16:00:00 GMT",
+      "ts": 1793030400
+    },
+    {
+      "source": "CoinDesk",
+      "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
+      "link": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
+      "published": "Mon, 26 Oct 2026 15:59:55 +0000",
+      "ts": 1793030395
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
+      "link": "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 15:54:15 +0000",
+      "ts": 1793030055
+    },
+    {
+      "source": "CoinDesk",
+      "title": "OCC calls on community banks to enter the stablecoin payments market",
+      "link": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
+      "published": "Mon, 26 Oct 2026 15:45:51 +0000",
+      "ts": 1793029551
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+      "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 15:31:00 GMT",
+      "ts": 1793028660
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler.",
+      "link": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 15:15:00 GMT",
+      "ts": 1793027700
     },
     {
       "source": "Investing Crypto",
-      "title": "Bitcoin muted at $80.5k as oil, rate jitters dent crypto appetite",
+      "title": "Bitcoin little-changed at $80.4k as oil, rate jitters dent crypto appetite",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-at-802k-as-oil-rate-jitters-dent-crypto-appetite-4971458",
-      "published": "2026-10-26 09:48:55",
-      "ts": 1793008135
+      "published": "2026-10-26 15:03:11",
+      "ts": 1793026991
     },
     {
       "source": "Investing Forex",
-      "title": "Currencies idle ahead of five-bank gauntlet; euro gains on Moody’s reprieve",
+      "title": "Dollar rebounds as euro slips ahead of key central bank decisions",
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-yuan-at-4yr-high-dollar-drifts-lower-ahead-of-cbankpacked-week-4971383",
-      "published": "2026-10-26 09:45:26",
-      "ts": 1793007926
+      "published": "2026-10-26 15:01:16",
+      "ts": 1793026876
+    },
+    {
+      "source": "CoinDesk",
+      "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
+      "link": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
+      "published": "Mon, 26 Oct 2026 14:51:07 +0000",
+      "ts": 1793026267
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "PHP flaw shows AI ‘vulnerability apocalypse’ is on schedule: Immunefi CEO",
+      "link": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 14:25:22 +0000",
+      "ts": 1793024722
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
+      "link": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
+      "published": "Mon, 26 Oct 2026 14:23:41 +0000",
+      "ts": 1793024621
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Casper Forward Welcomes First Cohort of 28 Builders to Advance Mainnet Development",
+      "link": "https://www.investing.com/news/cryptocurrency-news/casper-forward-welcomes-first-cohort-of-28-builders-to-advance-mainnet-development-4972870",
+      "published": "2026-10-26 13:30:08",
+      "ts": 1793021408
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
+      "link": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 13:27:38 +0000",
+      "ts": 1793021258
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 13:26:47 +0000",
+      "ts": 1793021207
+    },
+    {
+      "source": "CoinDesk",
+      "title": "AI giant Anthropic files for blockbuster IPO",
+      "link": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
+      "published": "Mon, 26 Oct 2026 13:22:09 +0000",
+      "ts": 1793020929
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
+      "link": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 13:12:41 +0000",
+      "ts": 1793020361
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Strategy pauses bitcoin purchases, repurchases $204.9M in STRC stock",
+      "link": "https://www.investing.com/news/cryptocurrency-news/strategy-pauses-bitcoin-purchases-repurchases-2049m-in-strc-stock-432SI-4972704",
+      "published": "2026-10-26 12:53:01",
+      "ts": 1793019181
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Brazil’s real weakens 12% as Lula wins reelection",
+      "link": "https://www.investing.com/news/forex-news/brazils-real-weakens-12-as-lula-wins-reelection-93CH-4972631",
+      "published": "2026-10-26 12:39:30",
+      "ts": 1793018370
+    },
+    {
+      "source": "Investing Forex",
+      "title": "U.S.  yields hover near 3-week lows as ahead of Fed decision",
+      "link": "https://www.investing.com/news/forex-news/french-yields-retreat-from-2002-highs-as-moodys-holds-ecb-in-focus-4971656",
+      "published": "2026-10-26 12:28:25",
+      "ts": 1793017705
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000",
+      "published": "Mon, 26 Oct 2026 11:53:07 +0000",
+      "ts": 1793015587
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
+      "link": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 11:39:27 +0000",
+      "ts": 1793014767
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
+      "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
+      "published": "Mon, 26 Oct 2026 11:24:33 +0000",
+      "ts": 1793013873
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 10:49:55 +0000",
+      "ts": 1793011795
     },
     {
       "source": "Investing Forex",
@@ -46,165 +221,11 @@
       "ts": 1793007488
     },
     {
-      "source": "CoinDesk",
-      "title": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
-      "link": "https://www.coindesk.com/markets/2026/10/26/fed-ecb-and-boj-interest-rate-decisions-coinbase-earnings-crypto-week-ahead",
-      "published": "Mon, 26 Oct 2026 09:14:47 +0000",
-      "ts": 1793006087
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Tennis star Taylor Fritz is selling his condo for $860,000—with sweeping views of Miami",
-      "link": "https://www.marketwatch.com/story/tennis-star-taylor-fritz-is-selling-his-condo-for-860-000with-sweeping-views-of-miami-2db8d086?mod=mw_rss_topstories",
-      "published": "Mon, 26 Oct 2026 09:04:00 GMT",
-      "ts": 1793005440
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Support for semiconductor stocks could be as much as 15% lower than current levels, says Morgan Stanley",
-      "link": "https://www.marketwatch.com/story/support-for-semiconductor-stocks-could-be-as-much-as-15-lower-than-current-levels-says-morgan-stanley-1f387f16?mod=mw_rss_topstories",
-      "published": "Mon, 26 Oct 2026 09:02:00 GMT",
-      "ts": 1793005320
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Tyler Perry cuts price of $36 million Wyoming property on 37 acres, buys $30 million Puerto Rico home",
-      "link": "https://www.marketwatch.com/story/tyler-perry-cuts-price-of-36-million-wyoming-property-on-37-acres-buys-30-million-puerto-rico-home-5eb819be?mod=mw_rss_topstories",
-      "published": "Mon, 26 Oct 2026 09:01:00 GMT",
-      "ts": 1793005260
-    },
-    {
-      "source": "Investing Forex",
-      "title": "French yields retreat from 2002 highs as Moody’s holds; ECB in focus",
-      "link": "https://www.investing.com/news/forex-news/french-yields-retreat-from-2002-highs-as-moodys-holds-ecb-in-focus-4971656",
-      "published": "2026-10-26 08:59:53",
-      "ts": 1793005193
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 08:20:49 +0000",
-      "ts": 1793002849
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Over 11 million bitcoin has no known owner. Here's what it means",
-      "link": "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying",
-      "published": "Mon, 26 Oct 2026 07:18:24 +0000",
-      "ts": 1792999104
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin breaks below key MAs amid distribution: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-breaks-below-key-mas-amid-distribution-live-levels-93CH-4971508",
       "published": "2026-10-26 07:11:17",
       "ts": 1792998677
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 05:44:44 +0000",
-      "ts": 1792993484
-    },
-    {
-      "source": "CoinDesk",
-      "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
-      "link": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
-      "published": "Mon, 26 Oct 2026 05:39:17 +0000",
-      "ts": 1792993157
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
-      "link": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
-      "published": "Mon, 26 Oct 2026 05:15:20 +0000",
-      "ts": 1792991720
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Musk warns over 200 AI neoclouds face ‘guppy-level death’",
-      "link": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 05:13:33 +0000",
-      "ts": 1792991613
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
-      "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
-      "published": "Mon, 26 Oct 2026 04:37:02 +0000",
-      "ts": 1792989422
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
-      "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 03:21:26 +0000",
-      "ts": 1792984886
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
-      "link": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout",
-      "published": "Mon, 26 Oct 2026 03:11:39 +0000",
-      "ts": 1792984299
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Keystone says website breach exposed hardware wallet buyers’ addresses",
-      "link": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 02:24:04 +0000",
-      "ts": 1792981444
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
-      "link": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
-      "published": "Mon, 26 Oct 2026 01:50:00 GMT",
-      "ts": 1792979400
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
-      "link": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 00:13:29 +0000",
-      "ts": 1792973609
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
-      "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 25 Oct 2026 22:48:40 +0000",
-      "ts": 1792968520
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-      "published": "Sun, 25 Oct 2026 20:15:00 GMT",
-      "ts": 1792959300
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-      "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-      "published": "Sun, 25 Oct 2026 20:00:00 GMT",
-      "ts": 1792958400
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "ECB official sees digital euro as key to protecting EU ‘sovereignty’",
-      "link": "https://cointelegraph.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 25 Oct 2026 15:11:00 +0000",
-      "ts": 1792941060
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
-      "link": "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus",
-      "published": "Sun, 25 Oct 2026 15:00:00 +0000",
-      "ts": 1792940400
     },
     {
       "source": "Investing Crypto",
@@ -261,27 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/citi-expects-usdjpy-to-remain-rangebound-amid-bojs-rate-decision-93CH-4968564",
       "published": "2026-10-23 09:30:35",
       "ts": 1792747835
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound slips as risk-off sell-off weighs on currencies",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-riskoff-selloff-weighs-on-currencies-4968555",
-      "published": "2026-10-23 09:27:16",
-      "ts": 1792747636
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Exclusive: Sygnum rolls out MultiSYG bitcoin loans as BTC hits 80% of collateral",
-      "link": "https://www.investing.com/news/cryptocurrency-news/exclusive-sygnum-rolls-out-multisyg-bitcoin-loans-as-btc-hits-80-of-collateral-4968017",
-      "published": "2026-10-23 04:50:16",
-      "ts": 1792731016
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin dives 4%, slides below $82k as AI rout, oil surge slams risk sentiment",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-back-to-82k-as-ai-selldown-rising-oil-batter-risk-4964695",
-      "published": "2026-10-22 21:41:46",
-      "ts": 1792705306
     }
   ]
 }
