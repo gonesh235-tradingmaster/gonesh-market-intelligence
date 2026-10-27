@@ -1,70 +1,168 @@
 {
-  "updated_utc": "2026-10-27T16:14:57.045269+00:00",
+  "updated_utc": "2026-10-27T20:44:38.090841+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
+      "link": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
+      "published": "Tue, 27 Oct 2026 20:41:33 +0000",
+      "ts": 1793133693
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How Broadcom’s stock can surge and overcome ‘the biggest dislocation in the market’",
+      "link": "https://www.marketwatch.com/story/how-broadcoms-stock-can-surge-and-overcome-the-biggest-dislocation-in-the-market-9719e2a8?mod=mw_rss_topstories",
+      "published": "Tue, 27 Oct 2026 20:40:00 GMT",
+      "ts": 1793133600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "JetBlue has been losing money for years. It just charted a path to profitability.",
+      "link": "https://www.marketwatch.com/story/jetblue-has-been-losing-money-for-years-it-just-charted-a-path-to-profitability-03be75c8?mod=mw_rss_topstories",
+      "published": "Tue, 27 Oct 2026 20:38:00 GMT",
+      "ts": 1793133480
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
+      "link": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 20:33:19 +0000",
+      "ts": 1793133199
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
+      "link": "https://www.coindesk.com/markets/2026/10/27/robinhood-s-crypto-revenue-plunges-55-even-as-trading-platform-posts-record-sales",
+      "published": "Tue, 27 Oct 2026 20:32:21 +0000",
+      "ts": 1793133141
+    },
+    {
+      "source": "MarketWatch",
+      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+      "published": "Tue, 27 Oct 2026 20:30:00 GMT",
+      "ts": 1793133000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "What gold and platinum are telling us about the stock market’s direction",
+      "link": "https://www.marketwatch.com/story/what-gold-and-platinum-are-telling-us-about-the-stock-markets-direction-81405633?mod=mw_rss_topstories",
+      "published": "Tue, 27 Oct 2026 20:30:00 GMT",
+      "ts": 1793133000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Is that used EV worth the price? This checklist could save you thousands of dollars.",
+      "link": "https://www.marketwatch.com/story/is-that-used-ev-worth-the-price-this-checklist-could-save-you-thousands-of-dollars-2e1ab876?mod=mw_rss_topstories",
+      "published": "Tue, 27 Oct 2026 20:00:00 GMT",
+      "ts": 1793131200
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
+      "link": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 19:54:05 +0000",
+      "ts": 1793130845
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 19:36:13 +0000",
+      "ts": 1793129773
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A hidden ‘triple top’ in oil price charts suggests the rally has run out of gas",
+      "link": "https://www.marketwatch.com/story/a-hidden-triple-top-in-oil-price-charts-suggests-the-rally-has-run-out-of-gas-3743d5a1?mod=mw_rss_topstories",
+      "published": "Tue, 27 Oct 2026 19:24:00 GMT",
+      "ts": 1793129040
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "CFTC sues Utah to block action against prediction markets",
+      "link": "https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 19:21:59 +0000",
+      "ts": 1793128919
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin trapped under 200 SMA with Bear Flag forming: Live",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-breaks-below-key-mas-amid-distribution-live-levels-93CH-4971508",
+      "published": "2026-10-27 19:19:01",
+      "ts": 1793128741
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there",
+      "link": "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there",
+      "published": "Tue, 27 Oct 2026 19:07:59 +0000",
+      "ts": 1793128079
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+      "published": "Tue, 27 Oct 2026 19:00:00 GMT",
+      "ts": 1793127600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+      "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+      "published": "Tue, 27 Oct 2026 18:45:00 GMT",
+      "ts": 1793126700
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
+      "link": "https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans",
+      "published": "Tue, 27 Oct 2026 18:13:02 +0000",
+      "ts": 1793124782
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Majority of Americans want candidates who support US-based financial technology: Poll",
+      "link": "https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 18:08:00 +0000",
+      "ts": 1793124480
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Ritual Launches AI-Native Layer 1 for Autonomous Agents",
+      "link": "https://www.investing.com/news/cryptocurrency-news/ritual-launches-ainative-layer-1-for-autonomous-agents-4976551",
+      "published": "2026-10-27 17:30:12",
+      "ts": 1793122212
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
+      "link": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
+      "published": "Tue, 27 Oct 2026 16:59:07 +0000",
+      "ts": 1793120347
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
+      "link": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 16:37:15 +0000",
+      "ts": 1793119035
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
+      "link": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
+      "published": "Tue, 27 Oct 2026 16:35:29 +0000",
+      "ts": 1793118929
+    },
     {
       "source": "Cointelegraph",
       "title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
       "link": "https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 27 Oct 2026 15:59:58 +0000",
       "ts": 1793116798
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The U.S. economy is gathering steam. This is the chief reason why.",
-      "link": "https://www.marketwatch.com/story/u-s-economy-is-gathering-steam-this-is-the-chief-reason-why-9772978f?mod=mw_rss_topstories",
-      "published": "Tue, 27 Oct 2026 15:34:00 GMT",
-      "ts": 1793115240
-    },
-    {
-      "source": "MarketWatch",
-      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-      "published": "Tue, 27 Oct 2026 15:30:00 GMT",
-      "ts": 1793115000
-    },
-    {
-      "source": "MarketWatch",
-      "title": "McDonald’s new bet on chicken hits a snag as franchisees say the birds are too big",
-      "link": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
-      "published": "Tue, 27 Oct 2026 15:27:00 GMT",
-      "ts": 1793114820
-    },
-    {
-      "source": "MarketWatch",
-      "title": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
-      "link": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
-      "published": "Tue, 27 Oct 2026 15:25:00 GMT",
-      "ts": 1793114700
-    },
-    {
-      "source": "MarketWatch",
-      "title": "How to use I-bonds to create guaranteed, inflation-proof income in retirement",
-      "link": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
-      "published": "Tue, 27 Oct 2026 15:25:00 GMT",
-      "ts": 1793114700
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-      "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-      "published": "Tue, 27 Oct 2026 15:15:00 GMT",
-      "ts": 1793114100
-    },
-    {
-      "source": "MarketWatch",
-      "title": "With the Anthropic IPO, the devil is in the details",
-      "link": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
-      "published": "Tue, 27 Oct 2026 15:03:00 GMT",
-      "ts": 1793113380
-    },
-    {
-      "source": "MarketWatch",
-      "title": "How Broadcom’s stock can surge and overcome ‘the biggest dislocation in the market’",
-      "link": "https://www.marketwatch.com/story/how-broadcoms-stock-can-surge-and-overcome-the-biggest-dislocation-in-the-market-9719e2a8?mod=mw_rss_topstories",
-      "published": "Tue, 27 Oct 2026 15:02:00 GMT",
-      "ts": 1793113320
     },
     {
       "source": "Investing Crypto",
@@ -109,34 +207,6 @@
       "ts": 1793107397
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 13:17:24 +0000",
-      "ts": 1793107044
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
-      "link": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
-      "published": "Tue, 27 Oct 2026 13:13:50 +0000",
-      "ts": 1793106830
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Hayes details FLOP’s AI compute derivatives vision after selling his altcoins",
-      "link": "https://cointelegraph.com/news/hayes-flop-ai-compute-vision-selling-altcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 13:01:10 +0000",
-      "ts": 1793106070
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
-      "link": "https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 13:01:00 +0000",
-      "ts": 1793106060
-    },
-    {
       "source": "Investing Forex",
       "title": "Canadian dollar slips as investors await Bank of Canada, Fed rate decisions",
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-slips-as-investors-await-bank-of-canada-fed-rate-decisions-4975641",
@@ -158,53 +228,11 @@
       "ts": 1793104190
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin price analysis sees ‘strong rally’ as old coins become dormant",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-analysis-sees-strong-rally-as-old-coins-become-dormant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 12:18:24 +0000",
-      "ts": 1793103504
-    },
-    {
       "source": "Investing Crypto",
       "title": "Ripple and BNY expand digital asset custody and blockchain tie-up",
       "link": "https://www.investing.com/news/cryptocurrency-news/ripple-and-bny-expand-digital-asset-custody-and-blockchain-tieup-432SI-4975326",
       "published": "2026-10-27 12:04:03",
       "ts": 1793102643
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
-      "published": "Tue, 27 Oct 2026 12:00:39 +0000",
-      "ts": 1793102439
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin holds near $80,000 as AI buildout draws investor attention and capital",
-      "link": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
-      "published": "Tue, 27 Oct 2026 11:40:50 +0000",
-      "ts": 1793101250
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
-      "link": "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
-      "published": "Tue, 27 Oct 2026 11:37:52 +0000",
-      "ts": 1793101072
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
-      "link": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
-      "published": "Tue, 27 Oct 2026 11:32:45 +0000",
-      "ts": 1793100765
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
-      "link": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
-      "published": "Tue, 27 Oct 2026 11:13:54 +0000",
-      "ts": 1793099634
     },
     {
       "source": "Investing Crypto",
@@ -221,32 +249,11 @@
       "ts": 1793097386
     },
     {
-      "source": "Cointelegraph",
-      "title": "Zcash co-founder calls to stop funding ‘over $125M’ grants program",
-      "link": "https://cointelegraph.com/news/zcash-co-founder-ending-zcg-funding-125m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 10:00:31 +0000",
-      "ts": 1793095231
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound dips on firm dollar as Fed, budget loom",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-dips-on-firm-dollar-as-fed-budget-loom-4974676",
       "published": "2026-10-27 10:00:11",
       "ts": 1793095211
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bloom bot hackers loot $953K faster than you can microwave popcorn",
-      "link": "https://cointelegraph.com/news/bloom-bot-hackers-953k-faster-popcorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 09:07:37 +0000",
-      "ts": 1793092057
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin nears descending triangle breakdown: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-breaks-below-key-mas-amid-distribution-live-levels-93CH-4971508",
-      "published": "2026-10-27 07:12:10",
-      "ts": 1793085130
     },
     {
       "source": "Investing Forex",
@@ -261,13 +268,6 @@
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-steadies-after-sevenday-rally-ahead-of-rate-decisions-4973829",
       "published": "2026-10-26 21:44:08",
       "ts": 1793051048
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin little-changed at $80.4k as oil, rate jitters dent crypto appetite",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-at-802k-as-oil-rate-jitters-dent-crypto-appetite-4971458",
-      "published": "2026-10-26 21:38:41",
-      "ts": 1793050721
     },
     {
       "source": "Investing Forex",
