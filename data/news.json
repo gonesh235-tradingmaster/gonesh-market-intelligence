@@ -1,8 +1,92 @@
 {
-  "updated_utc": "2026-10-26T21:27:12.568988+00:00",
+  "updated_utc": "2026-10-27T00:41:14.064021+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Ripple wins final US approval for national trust bank",
+      "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 27 Oct 2026 00:06:41 +0000",
+      "ts": 1793059601
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+      "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 22:30:00 GMT",
+      "ts": 1793053800
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Dividend stocks are having an excellent October as tech sector struggles",
+      "link": "https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 22:10:00 GMT",
+      "ts": 1793052600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Options traders are seizing control of the S&P 500",
+      "link": "https://www.marketwatch.com/story/options-traders-are-seizing-control-of-the-s-p-500-1add94ca?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 22:03:00 GMT",
+      "ts": 1793052180
+    },
+    {
+      "source": "MarketWatch",
+      "title": "TikTok parent ByteDance’s chatbot is now giving travel-booking sites a run for their money. And yours.",
+      "link": "https://www.marketwatch.com/story/tiktok-parent-bytedances-chatbot-is-now-giving-travel-booking-sites-a-run-for-their-money-and-yours-028e4aa0?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 22:00:00 GMT",
+      "ts": 1793052000
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
+      "link": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 21:55:00 GMT",
+      "ts": 1793051700
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar rebounds as euro slips ahead of key central bank decisions",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-yuan-at-4yr-high-dollar-drifts-lower-ahead-of-cbankpacked-week-4971383",
+      "published": "2026-10-26 21:46:00",
+      "ts": 1793051160
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say",
+      "link": "https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 21:46:00 GMT",
+      "ts": 1793051160
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Canadian dollar steadies after seven-day rally ahead of rate decisions",
+      "link": "https://www.investing.com/news/forex-news/canadian-dollar-steadies-after-sevenday-rally-ahead-of-rate-decisions-4973829",
+      "published": "2026-10-26 21:44:08",
+      "ts": 1793051048
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
+      "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
+      "published": "Mon, 26 Oct 2026 21:44:00 GMT",
+      "ts": 1793051040
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin little-changed at $80.4k as oil, rate jitters dent crypto appetite",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-at-802k-as-oil-rate-jitters-dent-crypto-appetite-4971458",
+      "published": "2026-10-26 21:38:41",
+      "ts": 1793050721
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "US OCC calls on community banks to become payment stablecoin issuers",
+      "link": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 26 Oct 2026 21:38:30 +0000",
+      "ts": 1793050710
+    },
     {
       "source": "Cointelegraph",
       "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
@@ -12,52 +96,10 @@
     },
     {
       "source": "MarketWatch",
-      "title": "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say",
-      "link": "https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories",
-      "published": "Mon, 26 Oct 2026 21:16:00 GMT",
-      "ts": 1793049360
-    },
-    {
-      "source": "MarketWatch",
       "title": "Why Lumentum’s stock led the S&P 500 higher on Monday",
       "link": "https://www.marketwatch.com/story/why-lumentums-stock-led-the-s-p-500-higher-on-monday-0dff125b?mod=mw_rss_topstories",
       "published": "Mon, 26 Oct 2026 21:04:00 GMT",
       "ts": 1793048640
-    },
-    {
-      "source": "MarketWatch",
-      "title": "With the Anthropic IPO, the devil is in the details",
-      "link": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
-      "published": "Mon, 26 Oct 2026 20:50:00 GMT",
-      "ts": 1793047800
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
-      "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
-      "published": "Mon, 26 Oct 2026 20:38:00 GMT",
-      "ts": 1793047080
-    },
-    {
-      "source": "MarketWatch",
-      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-      "published": "Mon, 26 Oct 2026 20:15:00 GMT",
-      "ts": 1793045700
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Sorry investors, but there’s no such thing as an early ‘Santa Claus rally.’ Here’s when the real gains typically happen.",
-      "link": "https://www.marketwatch.com/story/sorry-investors-but-theres-no-such-thing-as-an-early-santa-claus-rally-heres-when-the-real-gains-typically-happen-7af822cd?mod=mw_rss_topstories",
-      "published": "Mon, 26 Oct 2026 20:09:00 GMT",
-      "ts": 1793045340
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
-      "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-      "published": "Mon, 26 Oct 2026 20:00:00 GMT",
-      "ts": 1793044800
     },
     {
       "source": "Cointelegraph",
@@ -65,13 +107,6 @@
       "link": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 26 Oct 2026 19:47:40 +0000",
       "ts": 1793044060
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The house, the kids’ college and the raise: Where people in their 30s and 40s go wrong",
-      "link": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
-      "published": "Mon, 26 Oct 2026 19:42:00 GMT",
-      "ts": 1793043720
     },
     {
       "source": "Investing Crypto",
@@ -144,32 +179,11 @@
       "ts": 1793029551
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin little-changed at $80.4k as oil, rate jitters dent crypto appetite",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-at-802k-as-oil-rate-jitters-dent-crypto-appetite-4971458",
-      "published": "2026-10-26 15:03:11",
-      "ts": 1793026991
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar rebounds as euro slips ahead of key central bank decisions",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-yuan-at-4yr-high-dollar-drifts-lower-ahead-of-cbankpacked-week-4971383",
-      "published": "2026-10-26 15:01:16",
-      "ts": 1793026876
-    },
-    {
       "source": "CoinDesk",
       "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
       "link": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
       "published": "Mon, 26 Oct 2026 14:51:07 +0000",
       "ts": 1793026267
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "PHP flaw shows AI ‘vulnerability apocalypse’ is on schedule: Immunefi CEO",
-      "link": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 14:25:22 +0000",
-      "ts": 1793024722
     },
     {
       "source": "CoinDesk",
@@ -184,13 +198,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/casper-forward-welcomes-first-cohort-of-28-builders-to-advance-mainnet-development-4972870",
       "published": "2026-10-26 13:30:08",
       "ts": 1793021408
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-      "link": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 26 Oct 2026 13:27:38 +0000",
-      "ts": 1793021258
     },
     {
       "source": "CoinDesk",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/india-40year-bond-yield-hits-highest-level-since-2018-93CH-4968714",
       "published": "2026-10-23 10:11:18",
       "ts": 1792750278
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Citi expects USD/JPY to remain range-bound amid BoJ’s rate decision",
-      "link": "https://www.investing.com/news/forex-news/citi-expects-usdjpy-to-remain-rangebound-amid-bojs-rate-decision-93CH-4968564",
-      "published": "2026-10-23 09:30:35",
-      "ts": 1792747835
     }
   ]
 }
