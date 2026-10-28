@@ -1,56 +1,203 @@
 {
-  "updated_utc": "2026-10-28T11:30:36.884510+00:00",
+  "updated_utc": "2026-10-28T17:18:04.953477+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
-      "source": "MarketWatch",
-      "title": "The AI boom is starting to break time-tested stock-market signals",
-      "link": "https://www.marketwatch.com/story/the-ai-boom-is-starting-to-break-time-tested-stock-market-signals-b172d67e?mod=mw_rss_topstories",
-      "published": "Wed, 28 Oct 2026 11:25:00 GMT",
-      "ts": 1793186700
+      "source": "Cointelegraph",
+      "title": "Crypto PAC spending before midterms possibly obscured after reported FEC hack",
+      "link": "https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 28 Oct 2026 17:05:42 +0000",
+      "ts": 1793207142
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin climbs above $81,000 as majors rally ahead of Fed decision",
-      "link": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
-      "published": "Wed, 28 Oct 2026 11:23:34 +0000",
-      "ts": 1793186614
+      "title": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
+      "link": "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55",
+      "published": "Wed, 28 Oct 2026 17:02:57 +0000",
+      "ts": 1793206977
     },
     {
       "source": "MarketWatch",
-      "title": "SK Hynix delivered on third-quarter results — but the outlook is what really mattered to Wall Street and the AI trade",
-      "link": "https://www.marketwatch.com/story/sk-hynix-delivered-on-third-quarter-results-but-the-outlook-is-what-really-mattered-to-wall-street-and-the-ai-trade-2fde9a57?mod=mw_rss_topstories",
-      "published": "Wed, 28 Oct 2026 11:08:00 GMT",
-      "ts": 1793185680
+      "title": "The U.S. government will no longer penalize American companies for making six popular peptides",
+      "link": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
+      "published": "Wed, 28 Oct 2026 16:57:00 GMT",
+      "ts": 1793206620
     },
     {
       "source": "Cointelegraph",
-      "title": "Mirae Asset Securities issues tokenized notes on Solana",
-      "link": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 11:05:33 +0000",
-      "ts": 1793185533
+      "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
+      "link": "https://cointelegraph.com/markets/market-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 28 Oct 2026 16:53:26 +0000",
+      "ts": 1793206406
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Healthcare stocks are on their biggest hot streak in a generation. Think twice before chasing the rally.",
+      "link": "https://www.marketwatch.com/story/healthcare-stocks-are-on-their-biggest-hot-streak-in-a-generation-think-twice-before-chasing-the-rally-a043adfe?mod=mw_rss_topstories",
+      "published": "Wed, 28 Oct 2026 16:49:00 GMT",
+      "ts": 1793206140
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Phantom launches Kalshi-powered prediction markets for US users",
+      "link": "https://cointelegraph.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 28 Oct 2026 16:40:02 +0000",
+      "ts": 1793205602
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Bullish on Anthropic but don’t want to wait until the IPO? Here’s how you can invest today.",
+      "link": "https://www.marketwatch.com/story/bullish-on-anthropic-but-dont-want-to-wait-until-the-ipo-heres-how-you-can-invest-today-c5cb329e?mod=mw_rss_topstories",
+      "published": "Wed, 28 Oct 2026 16:13:00 GMT",
+      "ts": 1793203980
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Micron’s stock rises after SK Hynix earnings. Here’s its next major test.",
+      "link": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories",
+      "published": "Wed, 28 Oct 2026 16:03:00 GMT",
+      "ts": 1793203380
     },
     {
       "source": "CoinDesk",
-      "title": "Google to preview crypto custody security system as AI threats grow",
-      "link": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
-      "published": "Wed, 28 Oct 2026 11:00:00 +0000",
-      "ts": 1793185200
+      "title": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing",
+      "published": "Wed, 28 Oct 2026 16:01:36 +0000",
+      "ts": 1793203296
     },
     {
-      "source": "CoinDesk",
-      "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
-      "link": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
-      "published": "Wed, 28 Oct 2026 10:41:51 +0000",
-      "ts": 1793184111
+      "source": "MarketWatch",
+      "title": "We’re spending more than $11,000 a year of our own money caring for our aging parents and loved ones",
+      "link": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
+      "published": "Wed, 28 Oct 2026 15:36:00 GMT",
+      "ts": 1793201760
+    },
+    {
+      "source": "MarketWatch",
+      "title": "3 reasons home prices keep going up, even though fewer people are buying",
+      "link": "https://www.marketwatch.com/story/3-reasons-why-home-prices-keep-going-up-even-though-fewer-people-are-buying-9afa6106?mod=mw_rss_topstories",
+      "published": "Wed, 28 Oct 2026 15:33:00 GMT",
+      "ts": 1793201580
+    },
+    {
+      "source": "MarketWatch",
+      "title": "My husband wants to sell our $1.5 million home and downsize. But this is where we raised our kids — and I can’t bear to leave.",
+      "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+      "published": "Wed, 28 Oct 2026 15:15:00 GMT",
+      "ts": 1793200500
+    },
+    {
+      "source": "MarketWatch",
+      "title": "McDonald’s new bet on chicken hits a snag as franchisees say the birds are too big",
+      "link": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
+      "published": "Wed, 28 Oct 2026 15:15:00 GMT",
+      "ts": 1793200500
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin slips back to $80.5k after brief tech-led rebound; Fed meeting awaited",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-up-to-near-81k-as-tech-rally-buoys-risk-appetite-fed-meeting-awaited-4977527",
+      "published": "2026-10-28 15:03:31",
+      "ts": 1793199811
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
+      "link": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 28 Oct 2026 13:47:51 +0000",
+      "ts": 1793195271
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 28 Oct 2026 13:35:44 +0000",
+      "ts": 1793194544
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Cybersecurity’s Black October: How to protect yourself",
+      "link": "https://cointelegraph.com/magazine/cybersecuritys-black-october-how-to-protect-yourself?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 28 Oct 2026 13:30:00 +0000",
+      "ts": 1793194200
     },
     {
       "source": "Investing Forex",
-      "title": "Sterling today: Pound slips as AI fears ebb; UK budget, Fed in focus",
+      "title": "Sterling steadies, gilts tick up following Healey’s UK Budget",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-ai-fears-ebb--uk-budget-fed-in-focus-4978200",
-      "published": "2026-10-28 10:32:09",
-      "ts": 1793183529
+      "published": "2026-10-28 13:22:50",
+      "ts": 1793193770
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "DTCC unit launches tokenization services",
+      "link": "https://cointelegraph.com/news/dtcc-subsidiary-launches-tokenization-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 28 Oct 2026 13:19:00 +0000",
+      "ts": 1793193540
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
+      "link": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
+      "published": "Wed, 28 Oct 2026 13:14:37 +0000",
+      "ts": 1793193277
+    },
+    {
+      "source": "CoinDesk",
+      "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized tock trading plan",
+      "link": "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan",
+      "published": "Wed, 28 Oct 2026 12:59:36 +0000",
+      "ts": 1793192376
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Treasury yields nudge toward one-week highs; Fed decision, Big Tech earnings loom",
+      "link": "https://www.investing.com/news/forex-news/eurozone-yields-push-higher-as-french-spread-relief-fades-fed-ecb-eyed-4977652",
+      "published": "2026-10-28 12:45:27",
+      "ts": 1793191527
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Dissent and more: 3 things to watch for at the Fed meeting",
+      "link": "https://www.coindesk.com/daybook-us/2026/10/28/dissent-and-more-3-things-to-watch-for-at-the-fed-meeting",
+      "published": "Wed, 28 Oct 2026 11:57:26 +0000",
+      "ts": 1793188646
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
+      "link": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
+      "published": "Wed, 28 Oct 2026 11:52:14 +0000",
+      "ts": 1793188334
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Polish zloty falls to weakest level since November 2023",
+      "link": "https://www.investing.com/news/forex-news/polish-zloty-falls-to-weakest-level-since-november-2023-93CH-4978728",
+      "published": "2026-10-28 11:39:01",
+      "ts": 1793187541
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
+      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
+      "published": "Wed, 28 Oct 2026 11:32:31 +0000",
+      "ts": 1793187151
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut",
+      "link": "https://cointelegraph.com/news/euronext-suspends-coinshares-zcash-etp-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 28 Oct 2026 11:24:07 +0000",
+      "ts": 1793186647
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin sheds early gains; Strategy's STRC moves to daily dividends",
+      "link": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
+      "published": "Wed, 28 Oct 2026 11:23:34 +0000",
+      "ts": 1793186614
     },
     {
       "source": "Investing Crypto",
@@ -58,146 +205,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/the-world-trades-here-bybits-wsot-is-coming-back-with-a-prize-pool-of-up-to-10-million-usdt-4978251",
       "published": "2026-10-28 10:30:09",
       "ts": 1793183409
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The real way to tell if Amazon’s AI spending is paying off",
-      "link": "https://www.marketwatch.com/story/the-real-way-to-tell-if-amazons-ai-spending-is-paying-off-42a8a637?mod=mw_rss_topstories",
-      "published": "Wed, 28 Oct 2026 10:30:00 GMT",
-      "ts": 1793183400
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin rebounds to $81.5k as tech rally buoys risk appetite; Fed meeting awaited",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-up-to-near-81k-as-tech-rally-buoys-risk-appetite-fed-meeting-awaited-4977527",
-      "published": "2026-10-28 10:24:09",
-      "ts": 1793183049
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Four reasons to start worrying about inflation — including the end of tariff refunds",
-      "link": "https://www.marketwatch.com/story/four-reasons-to-start-worrying-about-inflation-including-the-end-of-tariff-refunds-978a5cfd?mod=mw_rss_topstories",
-      "published": "Wed, 28 Oct 2026 10:21:00 GMT",
-      "ts": 1793182860
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Bill Ackman owns only a handful of stocks. Here is his rule for picking a winner.",
-      "link": "https://www.marketwatch.com/story/bill-ackman-owns-only-a-handful-of-stocks-here-is-his-rule-for-picking-a-winner-82a0ee98?mod=mw_rss_topstories",
-      "published": "Wed, 28 Oct 2026 10:11:00 GMT",
-      "ts": 1793182260
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
-      "link": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
-      "published": "Wed, 28 Oct 2026 10:07:54 +0000",
-      "ts": 1793182074
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
-      "link": "https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound",
-      "published": "Wed, 28 Oct 2026 09:59:25 +0000",
-      "ts": 1793181565
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 09:56:00 +0000",
-      "ts": 1793181360
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Here's how much bitcoin and the S&P 500 could rally after midterms",
-      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15",
-      "published": "Wed, 28 Oct 2026 09:15:22 +0000",
-      "ts": 1793178922
-    },
-    {
-      "source": "MarketWatch",
-      "title": "We are in our 70s. Should we pay off our 2.5% mortgage or build up our savings?",
-      "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-      "published": "Wed, 28 Oct 2026 09:15:00 GMT",
-      "ts": 1793178900
-    },
-    {
-      "source": "MarketWatch",
-      "title": "TV’s Nick and Vanessa Lachey cut price of Southern California home to $7.6 million",
-      "link": "https://www.marketwatch.com/story/tvs-nick-and-vanessa-lachey-cut-price-of-southern-california-home-to-7-6-million-24dc3d7a?mod=mw_rss_topstories",
-      "published": "Wed, 28 Oct 2026 09:01:00 GMT",
-      "ts": 1793178060
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Securitize adds Stellar blockchain as institutional tokenization gathers steam",
-      "link": "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam",
-      "published": "Wed, 28 Oct 2026 09:00:00 +0000",
-      "ts": 1793178000
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Eurozone yields push higher as French spread relief fades; Fed, ECB eyed",
-      "link": "https://www.investing.com/news/forex-news/eurozone-yields-push-higher-as-french-spread-relief-fades-fed-ecb-eyed-4977652",
-      "published": "2026-10-28 08:57:29",
-      "ts": 1793177849
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 07:57:18 +0000",
-      "ts": 1793174238
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Coinbase denies systems breach, says vendor exposed customer data",
-      "link": "https://cointelegraph.com/news/coinbase-analytics-provider-customer-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 07:42:55 +0000",
-      "ts": 1793173375
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 06:00:00 +0000",
-      "ts": 1793167200
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
-      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
-      "published": "Wed, 28 Oct 2026 05:28:13 +0000",
-      "ts": 1793165293
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’",
-      "link": "https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 03:55:57 +0000",
-      "ts": 1793159757
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bithumb discloses data leak after internal system breach: Report",
-      "link": "https://cointelegraph.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 02:18:47 +0000",
-      "ts": 1793153927
-    },
-    {
-      "source": "MarketWatch",
-      "title": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
-      "link": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
-      "published": "Wed, 28 Oct 2026 02:15:00 GMT",
-      "ts": 1793153700
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Discord is making public chats searchable on Google: How to opt out",
-      "link": "https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 00:47:04 +0000",
-      "ts": 1793148424
     },
     {
       "source": "Investing Crypto",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-yuan-at-4yr-high-dollar-drifts-lower-ahead-of-cbankpacked-week-4971383",
       "published": "2026-10-26 21:46:00",
       "ts": 1793051160
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Canadian dollar steadies after seven-day rally ahead of rate decisions",
-      "link": "https://www.investing.com/news/forex-news/canadian-dollar-steadies-after-sevenday-rally-ahead-of-rate-decisions-4973829",
-      "published": "2026-10-26 21:44:08",
-      "ts": 1793051048
     }
   ]
 }
