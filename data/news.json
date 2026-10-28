@@ -1,8 +1,57 @@
 {
-  "updated_utc": "2026-10-28T00:03:32.093099+00:00",
+  "updated_utc": "2026-10-28T05:28:19.582671+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
+      "link": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
+      "published": "Wed, 28 Oct 2026 05:10:36 +0000",
+      "ts": 1793164236
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
+      "published": "Wed, 28 Oct 2026 04:15:20 +0000",
+      "ts": 1793160920
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’",
+      "link": "https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 28 Oct 2026 03:55:57 +0000",
+      "ts": 1793159757
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
+      "link": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
+      "published": "Wed, 28 Oct 2026 03:11:14 +0000",
+      "ts": 1793157074
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bithumb discloses data leak after internal system breach: Report",
+      "link": "https://cointelegraph.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 28 Oct 2026 02:18:47 +0000",
+      "ts": 1793153927
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble",
+      "link": "https://www.marketwatch.com/story/a-leading-silicon-valley-cheerleader-just-showed-all-the-reasons-to-be-worried-about-the-ai-bubble-e3b32fe1?mod=mw_rss_topstories",
+      "published": "Wed, 28 Oct 2026 02:15:00 GMT",
+      "ts": 1793153700
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Discord is making public chats searchable on Google: How to opt out",
+      "link": "https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 28 Oct 2026 00:47:04 +0000",
+      "ts": 1793148424
+    },
     {
       "source": "MarketWatch",
       "title": "Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market",
@@ -88,13 +137,6 @@
       "ts": 1793133693
     },
     {
-      "source": "MarketWatch",
-      "title": "How Broadcom’s stock can surge and overcome ‘the biggest dislocation in the market’",
-      "link": "https://www.marketwatch.com/story/how-broadcoms-stock-can-surge-and-overcome-the-biggest-dislocation-in-the-market-9719e2a8?mod=mw_rss_topstories",
-      "published": "Tue, 27 Oct 2026 20:40:00 GMT",
-      "ts": 1793133600
-    },
-    {
       "source": "Cointelegraph",
       "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
       "link": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -114,13 +156,6 @@
       "link": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Tue, 27 Oct 2026 19:54:05 +0000",
       "ts": 1793130845
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 19:36:13 +0000",
-      "ts": 1793129773
     },
     {
       "source": "Cointelegraph",
@@ -151,13 +186,6 @@
       "ts": 1793124782
     },
     {
-      "source": "Cointelegraph",
-      "title": "Majority of Americans want candidates who support US-based financial technology: Poll",
-      "link": "https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 18:08:00 +0000",
-      "ts": 1793124480
-    },
-    {
       "source": "Investing Crypto",
       "title": "Ritual Launches AI-Native Layer 1 for Autonomous Agents",
       "link": "https://www.investing.com/news/cryptocurrency-news/ritual-launches-ainative-layer-1-for-autonomous-agents-4976551",
@@ -170,34 +198,6 @@
       "link": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
       "published": "Tue, 27 Oct 2026 16:59:07 +0000",
       "ts": 1793120347
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
-      "link": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 27 Oct 2026 16:37:15 +0000",
-      "ts": 1793119035
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
-      "link": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
-      "published": "Tue, 27 Oct 2026 16:35:29 +0000",
-      "ts": 1793118929
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
-      "link": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
-      "published": "Tue, 27 Oct 2026 14:21:10 +0000",
-      "ts": 1793110870
-    },
-    {
-      "source": "CoinDesk",
-      "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
-      "link": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
-      "published": "Tue, 27 Oct 2026 14:00:00 +0000",
-      "ts": 1793109600
     },
     {
       "source": "Investing Crypto",
