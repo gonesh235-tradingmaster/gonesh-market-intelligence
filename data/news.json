@@ -1,21 +1,98 @@
 {
-  "updated_utc": "2026-10-29T01:16:18.514310+00:00",
+  "updated_utc": "2026-10-29T07:12:19.409294+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as dollar steadies after Fed hold, PCE eyed",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-steadies-after-fed-hold-pce-eyed-4981446",
+      "published": "2026-10-29 06:59:30",
+      "ts": 1793257170
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin weakens to $80k as hawkish Fed, mixed tech earnings weigh",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-weakens-to-80k-as-hawkish-fed-mixed-tech-earnings-weigh-4981572",
+      "published": "2026-10-29 06:37:45",
+      "ts": 1793255865
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 06:00:00 +0000",
+      "ts": 1793253600
+    },
+    {
+      "source": "CoinDesk",
+      "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
+      "link": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
+      "published": "Thu, 29 Oct 2026 05:54:39 +0000",
+      "ts": 1793253279
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
+      "link": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
+      "published": "Thu, 29 Oct 2026 05:30:34 +0000",
+      "ts": 1793251834
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Utah charges predictions platform Kalshi with illegal gambling",
+      "link": "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling",
+      "published": "Thu, 29 Oct 2026 05:02:37 +0000",
+      "ts": 1793250157
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
+      "link": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 04:39:49 +0000",
+      "ts": 1793248789
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+      "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
+      "published": "Thu, 29 Oct 2026 03:32:43 +0000",
+      "ts": 1793244763
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
+      "link": "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks",
+      "published": "Thu, 29 Oct 2026 03:21:24 +0000",
+      "ts": 1793244084
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
+      "link": "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 03:16:32 +0000",
+      "ts": 1793243792
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
+      "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
+      "published": "Thu, 29 Oct 2026 01:58:00 GMT",
+      "ts": 1793239080
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
+      "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 29 Oct 2026 01:12:01 +0000",
+      "ts": 1793236321
+    },
     {
       "source": "MarketWatch",
       "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
       "link": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
       "published": "Thu, 29 Oct 2026 00:20:00 GMT",
       "ts": 1793233200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
-      "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
-      "published": "Thu, 29 Oct 2026 00:17:00 GMT",
-      "ts": 1793233020
     },
     {
       "source": "MarketWatch",
@@ -89,13 +166,6 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 19:46:45 +0000",
-      "ts": 1793216805
-    },
-    {
-      "source": "Cointelegraph",
       "title": "Sam Bankman-Fried wrote to actor portraying him in Netflix series",
       "link": "https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Wed, 28 Oct 2026 19:10:40 +0000",
@@ -130,13 +200,6 @@
       "ts": 1793210454
     },
     {
-      "source": "CoinDesk",
-      "title": "Fed leaves interest rates unchanged, as expected",
-      "link": "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected",
-      "published": "Wed, 28 Oct 2026 18:00:42 +0000",
-      "ts": 1793210442
-    },
-    {
       "source": "Cointelegraph",
       "title": "Crypto PAC spending before midterms possibly obscured after reported FEC hack",
       "link": "https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -144,60 +207,11 @@
       "ts": 1793207142
     },
     {
-      "source": "CoinDesk",
-      "title": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
-      "link": "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55",
-      "published": "Wed, 28 Oct 2026 17:02:57 +0000",
-      "ts": 1793206977
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 16:53:26 +0000",
-      "ts": 1793206406
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Phantom launches Kalshi-powered prediction markets for US users",
-      "link": "https://cointelegraph.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 16:40:02 +0000",
-      "ts": 1793205602
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing",
-      "published": "Wed, 28 Oct 2026 16:01:36 +0000",
-      "ts": 1793203296
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
-      "link": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 28 Oct 2026 13:47:51 +0000",
-      "ts": 1793195271
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling steadies, gilts tick up following Healey’s UK Budget",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-ai-fears-ebb--uk-budget-fed-in-focus-4978200",
       "published": "2026-10-28 13:22:50",
       "ts": 1793193770
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
-      "link": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
-      "published": "Wed, 28 Oct 2026 13:14:37 +0000",
-      "ts": 1793193277
-    },
-    {
-      "source": "CoinDesk",
-      "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized stock trading plan",
-      "link": "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan",
-      "published": "Wed, 28 Oct 2026 12:59:36 +0000",
-      "ts": 1793192376
     },
     {
       "source": "Investing Forex",
@@ -256,13 +270,6 @@
       "ts": 1793107811
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin faces further downside as oil surge, AI fears weigh on risk appetite",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-faces-further-downside-as-oil-surge-ai-fears-weigh-on-risk-appetite-4975802",
-      "published": "2026-10-27 13:23:17",
-      "ts": 1793107397
-    },
-    {
       "source": "Investing Forex",
       "title": "Canadian dollar slips as investors await Bank of Canada, Fed rate decisions",
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-slips-as-investors-await-bank-of-canada-fed-rate-decisions-4975641",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/french-yields-edge-higher-as-moodys-relief-fades-israeli-election-in-focus-4974352",
       "published": "2026-10-27 12:29:50",
       "ts": 1793104190
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound dips on firm dollar as Fed, budget loom",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-dips-on-firm-dollar-as-fed-budget-loom-4974676",
-      "published": "2026-10-27 10:00:11",
-      "ts": 1793095211
     }
   ]
 }
