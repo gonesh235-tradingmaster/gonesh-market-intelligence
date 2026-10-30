@@ -1,11 +1,88 @@
 {
-  "updated_utc": "2026-10-29T23:37:02.030445+00:00",
+  "updated_utc": "2026-10-30T02:55:07.269737+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
+      "source": "Investing Forex",
+      "title": "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
+      "link": "https://www.investing.com/news/forex-news/bitcoin-cryptocurrency-prices-fall-after-binance-reports-security-issue-4985655",
+      "published": "2026-10-30 00:42:22",
+      "ts": 1793320942
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Litecoin Falls 10% In Rout",
+      "link": "https://www.investing.com/news/cryptocurrency-news/litecoin-falls-10-in-rout-4985641",
+      "published": "2026-10-30 00:25:01",
+      "ts": 1793319901
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Cardano Falls 10% In Selloff",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-selloff-4985640",
+      "published": "2026-10-30 00:23:02",
+      "ts": 1793319782
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance hack drained wallets backing customer assets, reserve data shows",
+      "link": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+      "published": "Fri, 30 Oct 2026 00:17:10 +0000",
+      "ts": 1793319430
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Amazon’s stock drops — even in the face of a bold new cloud forecast",
+      "link": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
+      "published": "Fri, 30 Oct 2026 00:15:00 GMT",
+      "ts": 1793319300
+    },
+    {
+      "source": "MarketWatch",
+      "title": "A Starbucks turnaround is brewing — but perhaps not quickly enough for investors",
+      "link": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
+      "published": "Fri, 30 Oct 2026 00:14:00 GMT",
+      "ts": 1793319240
+    },
+    {
       "source": "Cointelegraph",
-      "title": "Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides",
+      "title": "Binance points to engineer’s hacked laptop in $6.3B breach",
+      "link": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Fri, 30 Oct 2026 00:11:26 +0000",
+      "ts": 1793319086
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Sandisk sees revenue nearly quintuple — and a stock split is on the way",
+      "link": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
+      "published": "Fri, 30 Oct 2026 00:06:00 GMT",
+      "ts": 1793318760
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+      "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+      "published": "Fri, 30 Oct 2026 00:05:00 GMT",
+      "ts": 1793318700
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin sinks to $78k after Binance hit with reported $5.3 bln hack",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-sinks-to-78k-after-binance-hit-with-reported-53-bln-hack-4985613",
+      "published": "2026-10-29 23:55:09",
+      "ts": 1793318109
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Binance halts withdrawals after over $5 bln hack",
+      "link": "https://www.investing.com/news/cryptocurrency-news/binance-halts-withdrawals-after-53-bln-hack-4985601",
+      "published": "2026-10-29 23:35:33",
+      "ts": 1793316933
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
       "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 29 Oct 2026 23:24:21 +0000",
       "ts": 1793316261
@@ -47,42 +124,14 @@
     },
     {
       "source": "MarketWatch",
-      "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
-      "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
-      "published": "Thu, 29 Oct 2026 22:00:00 GMT",
-      "ts": 1793311200
-    },
-    {
-      "source": "MarketWatch",
       "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
       "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
       "published": "Thu, 29 Oct 2026 21:52:00 GMT",
       "ts": 1793310720
     },
     {
-      "source": "MarketWatch",
-      "title": "A Starbucks turnaround is brewing — but perhaps not quickly enough",
-      "link": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
-      "published": "Thu, 29 Oct 2026 21:36:00 GMT",
-      "ts": 1793309760
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Sandisk sees revenue nearly quintuple — and a stock split is on the way",
-      "link": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
-      "published": "Thu, 29 Oct 2026 21:35:00 GMT",
-      "ts": 1793309700
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
-      "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-      "published": "Thu, 29 Oct 2026 21:31:00 GMT",
-      "ts": 1793309460
-    },
-    {
       "source": "Cointelegraph",
-      "title": "Live Updates: Binance hit by largest crypto hack in history",
+      "title": "Live updates: Binance says $3B in crypto frozen in connection to hack",
       "link": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 29 Oct 2026 21:24:36 +0000",
       "ts": 1793309076
@@ -144,13 +193,6 @@
       "ts": 1793293923
     },
     {
-      "source": "Cointelegraph",
-      "title": "KuCoin suspends services in Russia and Belarus",
-      "link": "https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 29 Oct 2026 17:08:41 +0000",
-      "ts": 1793293721
-    },
-    {
       "source": "CoinDesk",
       "title": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment",
       "link": "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment",
@@ -200,13 +242,6 @@
       "ts": 1793285747
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure",
-      "published": "Thu, 29 Oct 2026 14:39:01 +0000",
-      "ts": 1793284741
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling hits 17-Month high vs Euro as ECB holds rates",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-lower-as-dollar-firms-ahead-of-us-pce-gdp-data-4982788",
@@ -228,34 +263,6 @@
       "ts": 1793277011
     },
     {
-      "source": "Investing Crypto",
-      "title": "FCA reaches court agreement with HTX crypto exchange",
-      "link": "https://www.investing.com/news/cryptocurrency-news/fca-reaches-court-agreement-with-htx-crypto-exchange-93CH-4982501",
-      "published": "2026-10-29 10:29:08",
-      "ts": 1793269748
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "MetaMask, Trezor, WalletConnect and Other Industry Leaders Join ChangeNOW at TOKEN2049",
-      "link": "https://www.investing.com/news/cryptocurrency-news/metamask-trezor-walletconnect-and-other-industry-leaders-join-changenow-at-token2049-4982142",
-      "published": "2026-10-29 09:30:10",
-      "ts": 1793266210
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Cregis Partners with Remi Technology to Build Infrastructure for Compliant Digital Asset Network",
-      "link": "https://www.investing.com/news/cryptocurrency-news/cregis-partners-with-remi-technology-to-build-infrastructure-for-compliant-digital-asset-network-4982143",
-      "published": "2026-10-29 09:30:10",
-      "ts": 1793266210
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin rises slightly after Fed holds interest rates steady; oil caps gains",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-up-to-near-81k-as-tech-rally-buoys-risk-appetite-fed-meeting-awaited-4977527",
-      "published": "2026-10-28 21:57:17",
-      "ts": 1793224637
-    },
-    {
       "source": "Investing Forex",
       "title": "Canadian dollar holds gains after Bank of Canada delivers rate hike",
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-holds-gains-after-bank-of-canada-delivers-rate-hike-4980887",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/eurozone-yields-push-higher-as-french-spread-relief-fades-fed-ecb-eyed-4977652",
       "published": "2026-10-28 12:45:27",
       "ts": 1793191527
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Polish zloty falls to weakest level since November 2023",
-      "link": "https://www.investing.com/news/forex-news/polish-zloty-falls-to-weakest-level-since-november-2023-93CH-4978728",
-      "published": "2026-10-28 11:39:01",
-      "ts": 1793187541
     }
   ]
 }
