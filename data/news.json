@@ -1,8 +1,15 @@
 {
-  "updated_utc": "2026-10-31T23:01:54.691222+00:00",
+  "updated_utc": "2026-11-01T02:06:04.921077+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+      "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+      "published": "Sun, 01 Nov 2026 01:10:05 +0000",
+      "ts": 1793495405
+    },
     {
       "source": "Investing Crypto",
       "title": "Bitcoin rises as Binance says it has covered 90% of $6.3 billion hack",
@@ -156,13 +163,6 @@
       "link": "https://cointelegraph.com/news/texas-brothers-sentenced-to-15-years-in-prison-for-armed-crypto-robbery-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sat, 31 Oct 2026 13:37:49 +0000",
       "ts": 1793453869
-    },
-    {
-      "source": "CoinDesk",
-      "title": "18 years in, what has Bitcoin truly done?",
-      "link": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
-      "published": "Sat, 31 Oct 2026 13:00:00 +0000",
-      "ts": 1793451600
     },
     {
       "source": "Cointelegraph",
