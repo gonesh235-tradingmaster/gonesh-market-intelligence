@@ -1,11 +1,46 @@
 {
-  "updated_utc": "2026-11-01T23:42:49.498150+00:00",
+  "updated_utc": "2026-11-02T02:45:05.497891+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
       "source": "Cointelegraph",
-      "title": "$3.64B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler’s Digest",
+      "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+      "link": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 01:51:48 +0000",
+      "ts": 1793584308
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist",
+      "link": "https://www.investing.com/news/forex-news/dollar-rangebound-ahead-of-us-midterms-bitcoin-reels-from-crypto-heist-4989794",
+      "published": "2026-11-02 01:00:34",
+      "ts": 1793581234
+    },
+    {
+      "source": "MarketWatch",
+      "title": "This is the biggest threat to the AI-powered bull market",
+      "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
+      "published": "Mon, 02 Nov 2026 00:22:00 GMT",
+      "ts": 1793578920
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Apple’s new earnings era begins at a critical time for Big Tech",
+      "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
+      "published": "Mon, 02 Nov 2026 00:21:00 GMT",
+      "ts": 1793578860
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+      "link": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 01 Nov 2026 23:59:27 +0000",
+      "ts": 1793577567
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Billions flee Binance on reopen, THORChain founder opposes coin freeze: Hodler’s Digest",
       "link": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 01 Nov 2026 23:09:13 +0000",
       "ts": 1793574553
@@ -81,13 +116,6 @@
       "ts": 1793545200
     },
     {
-      "source": "MarketWatch",
-      "title": "Apple’s new earnings era begins at a critical time for Big Tech",
-      "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
-      "published": "Sun, 01 Nov 2026 15:00:00 GMT",
-      "ts": 1793545200
-    },
-    {
       "source": "Cointelegraph",
       "title": "Here’s what happened in crypto today",
       "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -99,13 +127,6 @@
       "title": "Crypto PACs made big Republican push in final weeks before November 3 election",
       "link": "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election",
       "published": "Sun, 01 Nov 2026 14:00:00 +0000",
-      "ts": 1793541600
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This is the biggest threat to the AI-powered bull market",
-      "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
-      "published": "Sun, 01 Nov 2026 14:00:00 GMT",
       "ts": 1793541600
     },
     {
@@ -193,20 +214,6 @@
       "ts": 1793460961
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
-      "link": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 31 Oct 2026 15:26:46 +0000",
-      "ts": 1793460406
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin turns 18: Has the original rebel grown up?",
-      "link": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 31 Oct 2026 14:27:52 +0000",
-      "ts": 1793456872
-    },
-    {
       "source": "Investing Crypto",
       "title": "EOS Falls 11% In Rout",
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-11-in-rout-4989240",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/ubs-sees-bank-of-england-rate-hikes-supporting-pound-vs-franc-93CH-4986322",
       "published": "2026-10-30 09:25:39",
       "ts": 1793352339
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Bitcoin, cryptocurrency prices fall after Binance reports security issue",
-      "link": "https://www.investing.com/news/forex-news/bitcoin-cryptocurrency-prices-fall-after-binance-reports-security-issue-4985655",
-      "published": "2026-10-30 00:42:22",
-      "ts": 1793320942
     }
   ]
 }
