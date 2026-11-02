@@ -1,35 +1,231 @@
 {
-  "updated_utc": "2026-11-02T10:01:43.231539+00:00",
+  "updated_utc": "2026-11-02T20:15:01.880459+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
-      "source": "MarketWatch",
-      "title": "Retired World Series champ Matt Holliday lists $11.6 million Arizona estate he bought months ago",
-      "link": "https://www.marketwatch.com/story/retired-world-series-champ-matt-holliday-lists-11-6-million-arizona-estate-he-bought-months-ago-a48b6a9b?mod=mw_rss_topstories",
-      "published": "Mon, 02 Nov 2026 09:58:00 GMT",
-      "ts": 1793613480
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Tech stocks have made big V-shaped rebounds five times in 30 months — and now Deutsche Bank forecasts another bounce",
-      "link": "https://www.marketwatch.com/story/tech-stocks-have-made-big-v-shaped-rebounds-five-times-in-30-months-and-now-deutsche-bank-forecasts-another-bounce-0a552a62?mod=mw_rss_topstories",
-      "published": "Mon, 02 Nov 2026 09:47:00 GMT",
-      "ts": 1793612820
+      "source": "Investing Crypto",
+      "title": "Coinhub Funded Goes Live: Crypto Prop Firm Offers Funded Trading Accounts Up to $200K & 30-Minute Tournaments",
+      "link": "https://www.investing.com/news/cryptocurrency-news/coinhub-funded-goes-live-crypto-prop-firm-offers-funded-trading-accounts-up-to-200k--30minute-tournaments-4992638",
+      "published": "2026-11-02 20:00:12",
+      "ts": 1793649612
     },
     {
       "source": "Cointelegraph",
-      "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
-      "link": "https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 09:41:36 +0000",
-      "ts": 1793612496
+      "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
+      "link": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 19:27:58 +0000",
+      "ts": 1793647678
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How soon gas prices could go down now that oil is tumbling",
+      "link": "https://www.marketwatch.com/story/how-soon-gas-prices-could-go-down-now-that-oil-is-tumbling-a1140dc2?mod=mw_rss_topstories",
+      "published": "Mon, 02 Nov 2026 19:27:00 GMT",
+      "ts": 1793647620
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
+      "link": "https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 19:05:35 +0000",
+      "ts": 1793646335
+    },
+    {
+      "source": "MarketWatch",
+      "title": "It may take weeks to tally the midterm election results. Here’s why Wall Street isn’t worried.",
+      "link": "https://www.marketwatch.com/story/it-may-take-weeks-to-tally-the-midterm-election-results-heres-why-wall-street-isnt-worried-ed9313fd?mod=mw_rss_topstories",
+      "published": "Mon, 02 Nov 2026 18:16:00 GMT",
+      "ts": 1793643360
     },
     {
       "source": "CoinDesk",
-      "title": "Metals.io issues tokens backed by 25 tonnes of physical copper stored in Germany",
-      "link": "https://www.coindesk.com/markets/2026/11/02/metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored-in-germany",
-      "published": "Mon, 02 Nov 2026 09:33:20 +0000",
-      "ts": 1793612000
+      "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
+      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
+      "published": "Mon, 02 Nov 2026 18:13:57 +0000",
+      "ts": 1793643237
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The bond-market rally is defying the typical investing playbook. Here’s why.",
+      "link": "https://www.marketwatch.com/story/the-bond-market-rally-is-defying-the-typical-investing-playbook-heres-why-17a14342?mod=mw_rss_topstories",
+      "published": "Mon, 02 Nov 2026 18:13:00 GMT",
+      "ts": 1793643180
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
+      "link": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 18:00:16 +0000",
+      "ts": 1793642416
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
+      "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+      "published": "Mon, 02 Nov 2026 18:00:00 GMT",
+      "ts": 1793642400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Marvell’s deal for Lumentum is giving flashbacks to the dot-com bubble",
+      "link": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
+      "published": "Mon, 02 Nov 2026 17:32:00 GMT",
+      "ts": 1793640720
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Oracle wants $20 billion to fund its AI future — and its stock is paying the price",
+      "link": "https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories",
+      "published": "Mon, 02 Nov 2026 17:31:00 GMT",
+      "ts": 1793640660
+    },
+    {
+      "source": "CoinDesk",
+      "title": "EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says",
+      "link": "https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says",
+      "published": "Mon, 02 Nov 2026 17:21:04 +0000",
+      "ts": 1793640064
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+      "published": "Mon, 02 Nov 2026 17:00:00 GMT",
+      "ts": 1793638800
+    },
+    {
+      "source": "MarketWatch",
+      "title": "6 dividend stocks for investors who want to cut their exposure to the S&P 500",
+      "link": "https://www.marketwatch.com/story/6-dividend-stocks-for-investors-who-want-to-cut-their-exposure-to-the-s-p-500-52519928?mod=mw_rss_topstories",
+      "published": "Mon, 02 Nov 2026 16:56:00 GMT",
+      "ts": 1793638560
+    },
+    {
+      "source": "CoinDesk",
+      "title": "NYSE tokenized stock plans take shape as four more transfer agents join",
+      "link": "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails",
+      "published": "Mon, 02 Nov 2026 16:41:46 +0000",
+      "ts": 1793637706
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Canadian dollar slips from six-week high as oil retreat offsets weaker U.S. dollar",
+      "link": "https://www.investing.com/news/forex-news/canadian-dollar-slips-from-sixweek-high-as-oil-retreat-offsets-weaker-us-dollar-4992383",
+      "published": "2026-11-02 16:18:09",
+      "ts": 1793636289
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
+      "link": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
+      "published": "Mon, 02 Nov 2026 15:53:29 +0000",
+      "ts": 1793634809
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans",
+      "link": "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans",
+      "published": "Mon, 02 Nov 2026 15:26:43 +0000",
+      "ts": 1793633203
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Anthropic swings to third quarter operating loss as compute costs surge ahead of IPO",
+      "link": "https://www.coindesk.com/markets/2026/11/02/anthropic-swings-to-third-quarter-operating-loss-as-compute-costs-surge-ahead-of-ipo",
+      "published": "Mon, 02 Nov 2026 15:18:55 +0000",
+      "ts": 1793632735
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Standard Chartered debuts tokenized deposits in Hong Kong for corporate clients",
+      "link": "https://www.coindesk.com/business/2026/11/02/standard-chartered-debuts-tokenized-deposits-in-hong-kong-for-corporate-clients",
+      "published": "Mon, 02 Nov 2026 15:05:24 +0000",
+      "ts": 1793631924
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto's Washington playbook is working. Don't abandon it now.",
+      "link": "https://www.coindesk.com/opinion/2026/11/02/crypto-s-washington-playbook-is-working-don-t-abandon-it-now",
+      "published": "Mon, 02 Nov 2026 15:00:09 +0000",
+      "ts": 1793631609
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin pinned at around $78k after October losses; Binance resumes withdrawals",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-78k-after-october-losses-binance-resumes-withdrawals-4989972",
+      "published": "2026-11-02 14:52:55",
+      "ts": 1793631175
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
+      "link": "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 13:48:28 +0000",
+      "ts": 1793627308
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "AI agent disputes head to ‘Internet Court’ — and a jury of AI agents",
+      "link": "https://cointelegraph.com/magazine/ai-agent-disputes-sent-to-internet-court-and-a-jury-of-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 13:30:00 +0000",
+      "ts": 1793626200
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 13:29:29 +0000",
+      "ts": 1793626169
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
+      "link": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 13:21:47 +0000",
+      "ts": 1793625707
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Treasuries steady as traders weigh midterm vote and AI trade",
+      "link": "https://www.investing.com/news/forex-news/french-yields-steady-as-fitch-spares-credit-downgrade-bunds-edge-up-4990078",
+      "published": "2026-11-02 13:19:21",
+      "ts": 1793625561
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "FATF targets crypto hubs in review of money laundering controls",
+      "link": "https://cointelegraph.com/news/fatf-targeted-crypto-compliance-jurisdiction-reviews?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 02 Nov 2026 12:56:07 +0000",
+      "ts": 1793624167
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Margex Launches $1.3M SPCX Airdrop Campaign Running Through November 20",
+      "link": "https://www.investing.com/news/cryptocurrency-news/margex-launches-13m-spcx-airdrop-campaign-running-through-november-20-4991317",
+      "published": "2026-11-02 12:30:15",
+      "ts": 1793622615
+    },
+    {
+      "source": "Investing Forex",
+      "title": "If gold breaks lower, investors may look at these safe haven currencies: analyst",
+      "link": "https://www.investing.com/news/forex-news/if-gold-breaks-lower-investors-may-look-at-these-safe-haven-currencies-analyst-4991012",
+      "published": "2026-11-02 11:47:54",
+      "ts": 1793620074
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar steadies as U.S. midterms loom; euro digests Fitch outlook downgrade",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yuan-holds-near-fouryear-high-dollar-steadies-4989824",
+      "published": "2026-11-02 10:31:54",
+      "ts": 1793615514
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Still-negative Japanese real rates should continue to support USD/JPY: UBS",
+      "link": "https://www.investing.com/news/forex-news/stillnegative-japanese-real-rates-should-continue-to-support-usdjpy-ubs-93CH-4990645",
+      "published": "2026-11-02 10:17:41",
+      "ts": 1793614661
     },
     {
       "source": "Investing Forex",
@@ -39,123 +235,11 @@
       "ts": 1793611093
     },
     {
-      "source": "MarketWatch",
-      "title": "The election will be good news, regardless of outcome, says Morgan Stanley’s chief stock-market strategist",
-      "link": "https://www.marketwatch.com/story/the-election-will-be-good-news-regardless-of-outcome-says-morgan-stanleys-chief-stock-market-strategist-ffa320ed?mod=mw_rss_topstories",
-      "published": "Mon, 02 Nov 2026 09:15:00 GMT",
-      "ts": 1793610900
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead",
-      "link": "https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead",
-      "published": "Mon, 02 Nov 2026 09:04:49 +0000",
-      "ts": 1793610289
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "OKX draws $445M in net inflows as Binance outflows exceed $7B",
-      "link": "https://cointelegraph.com/news/okx-leads-crypto-exchanges-445m-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 08:56:03 +0000",
-      "ts": 1793609763
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
-      "link": "https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?mod=mw_rss_topstories",
-      "published": "Mon, 02 Nov 2026 08:56:00 GMT",
-      "ts": 1793609760
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Binance records $6 billion outflows after starting withdrawals, less then 4% of total holdings",
-      "link": "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings",
-      "published": "Mon, 02 Nov 2026 08:49:30 +0000",
-      "ts": 1793609370
-    },
-    {
-      "source": "CoinDesk",
-      "title": "China’s Communist Party calls for a crackdown on corruption that uses crypto and blockchain",
-      "link": "https://www.coindesk.com/markets/2026/11/02/china-s-communist-party-calls-for-a-crackdown-on-corruption-that-uses-crypto-and-blockchain",
-      "published": "Mon, 02 Nov 2026 08:41:28 +0000",
-      "ts": 1793608888
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why stealing billions from a crypto exchange can be harder to stop than a bank theft",
-      "link": "https://www.coindesk.com/business/2026/11/02/why-crypto-exchange-hacks-can-be-harder-to-contain-versus-global-banks",
-      "published": "Mon, 02 Nov 2026 08:32:01 +0000",
-      "ts": 1793608321
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 07:50:36 +0000",
-      "ts": 1793605836
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Marine sniper turned macro strategist says this bull market has six to 12 months left. Here’s his playbook.",
-      "link": "https://www.marketwatch.com/story/marine-sniper-turned-macro-strategist-says-this-bull-market-has-six-to-12-months-left-heres-his-playbook-8b48ce6e?mod=mw_rss_topstories",
-      "published": "Mon, 02 Nov 2026 07:25:00 GMT",
-      "ts": 1793604300
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin tests key support in descending channel: Live levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-key-support-in-descending-channel-live-levels-93CH-4990035",
       "published": "2026-11-02 07:12:35",
       "ts": 1793603555
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Asian currencies mixed as yuan holds near four-year high, dollar steadies",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yuan-holds-near-fouryear-high-dollar-steadies-4989824",
-      "published": "2026-11-02 06:54:17",
-      "ts": 1793602457
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
-      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
-      "published": "Mon, 02 Nov 2026 06:46:41 +0000",
-      "ts": 1793602001
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin steadies at $78k after October losses; Binance resumes withdrawals",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-78k-after-october-losses-binance-resumes-withdrawals-4989972",
-      "published": "2026-11-02 06:45:26",
-      "ts": 1793601926
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
-      "link": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 05:34:02 +0000",
-      "ts": 1793597642
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
-      "link": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
-      "published": "Mon, 02 Nov 2026 05:18:12 +0000",
-      "ts": 1793596692
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
-      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
-      "published": "Mon, 02 Nov 2026 04:42:22 +0000",
-      "ts": 1793594542
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
-      "link": "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 03:55:50 +0000",
-      "ts": 1793591750
     },
     {
       "source": "Investing Crypto",
@@ -165,53 +249,11 @@
       "ts": 1793590803
     },
     {
-      "source": "MarketWatch",
-      "title": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
-      "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
-      "published": "Mon, 02 Nov 2026 03:23:00 GMT",
-      "ts": 1793589780
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
-      "link": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 01:51:48 +0000",
-      "ts": 1793584308
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist",
       "link": "https://www.investing.com/news/forex-news/dollar-rangebound-ahead-of-us-midterms-bitcoin-reels-from-crypto-heist-4989794",
       "published": "2026-11-02 01:00:34",
       "ts": 1793581234
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This is the biggest threat to the AI-powered bull market",
-      "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
-      "published": "Mon, 02 Nov 2026 00:22:00 GMT",
-      "ts": 1793578920
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Apple’s new earnings era begins at a critical time for Big Tech",
-      "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
-      "published": "Mon, 02 Nov 2026 00:21:00 GMT",
-      "ts": 1793578860
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
-      "link": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 01 Nov 2026 23:59:27 +0000",
-      "ts": 1793577567
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler’s Digest",
-      "link": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 01 Nov 2026 23:09:13 +0000",
-      "ts": 1793574553
     },
     {
       "source": "Investing Crypto",
@@ -235,53 +277,11 @@
       "ts": 1793514037
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin rises as Binance says it has covered 90% of $6.3 billion hack",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115",
-      "published": "2026-10-31 20:56:59",
-      "ts": 1793480219
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Binance says it has replaced 90% of $6.3 billion stolen in record crypto hack",
-      "link": "https://www.investing.com/news/cryptocurrency-news/binance-says-it-has-replaced-90-of-63-billion-stolen-in-record-crypto-hack-4989304",
-      "published": "2026-10-31 16:56:46",
-      "ts": 1793465806
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar rises for October as rate hike bets remain elevated, euro and yen slip",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-retreats-yen-steadies-ahead-of-boj-decision-4985749",
       "published": "2026-10-30 20:44:36",
       "ts": 1793393076
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Why Deutsche Bank says the AI dollar is here",
-      "link": "https://www.investing.com/news/forex-news/why-deutsche-bank-says-the-ai-dollar-is-here-4988107",
-      "published": "2026-10-30 14:21:47",
-      "ts": 1793370107
-    },
-    {
-      "source": "Investing Forex",
-      "title": "U.S. Treasuries surge to wrap October in biggest rally since 2024",
-      "link": "https://www.investing.com/news/forex-news/german-bunds-set-for-best-month-since-february-as-tech-rout-triggers-safety-bid-4985952",
-      "published": "2026-10-30 12:43:45",
-      "ts": 1793364225
-    },
-    {
-      "source": "Investing Forex",
-      "title": "UBS sees scope for further sterling gains as short positioning creates upside",
-      "link": "https://www.investing.com/news/forex-news/ubs-sees-scope-for-further-sterling-gains-as-short-positioning-creates-upside-4987181",
-      "published": "2026-10-30 11:38:21",
-      "ts": 1793360301
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound firms as dollar slips on midterm, AI jitters",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-firms-as-dollar-slips-on-midterm-ai-jitters-4986986",
-      "published": "2026-10-30 11:10:15",
-      "ts": 1793358615
     }
   ]
 }
