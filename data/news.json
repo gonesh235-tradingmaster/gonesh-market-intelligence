@@ -1,14 +1,133 @@
 {
-  "updated_utc": "2026-11-03T02:23:40.591308+00:00",
+  "updated_utc": "2026-11-03T09:46:58.307007+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
+      "source": "CoinDesk",
+      "title": "North Korea denies role in $6.4 billion Binance hack after FBI points to TraderTraitor",
+      "link": "https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor",
+      "published": "Tue, 03 Nov 2026 09:40:32 +0000",
+      "ts": 1793698832
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin dips to over 1-mth low below $77k as U.S. midterm caution weighs",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-over-1mth-low-of-765k-as-us-midterm-caution-weighs-4993602",
+      "published": "2026-11-03 09:33:15",
+      "ts": 1793698395
+    },
+    {
+      "source": "Investing Forex",
+      "title": "German yields hover near August lows on tech rout",
+      "link": "https://www.investing.com/news/forex-news/german-yields-hover-near-august-lows-on-tech-rout-4993710",
+      "published": "2026-11-03 09:10:46",
+      "ts": 1793697046
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
+      "link": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
+      "published": "Tue, 03 Nov 2026 08:56:48 +0000",
+      "ts": 1793696208
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin’s latest chart signal looks a lot like the ones before its big crashes",
+      "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal",
+      "published": "Tue, 03 Nov 2026 08:50:56 +0000",
+      "ts": 1793695856
+    },
+    {
       "source": "Cointelegraph",
-      "title": "South Korea urges exchanges to boost cold storage after Binance hack",
-      "link": "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 03 Nov 2026 01:32:39 +0000",
-      "ts": 1793669559
+      "title": "ARK buys $17M in Coinbase, Circle shares while trimming Bullish",
+      "link": "https://cointelegraph.com/news/ark-buys-coinbase-circle-trims-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 03 Nov 2026 08:35:13 +0000",
+      "ts": 1793694913
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Suspected EU crypto theft estimate rises to $133M: ZachXBT",
+      "link": "https://cointelegraph.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 03 Nov 2026 08:18:22 +0000",
+      "ts": 1793693902
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June",
+      "link": "https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 03 Nov 2026 07:49:51 +0000",
+      "ts": 1793692191
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian currencies mixed as Aussie falls after RBA hike, yuan weakens",
+      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yuan-slides-after-pboc-move-won-rebounds-4993468",
+      "published": "2026-11-03 07:35:09",
+      "ts": 1793691309
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 03 Nov 2026 06:00:00 +0000",
+      "ts": 1793685600
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
+      "link": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows",
+      "published": "Tue, 03 Nov 2026 05:36:56 +0000",
+      "ts": 1793684216
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin miner Cipher posts $31 million profit as AI pivot begins",
+      "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-miner-cipher-posts-usd31-million-profit-as-ai-pivot-begins",
+      "published": "Tue, 03 Nov 2026 05:29:48 +0000",
+      "ts": 1793683788
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Arbitrum’s council moved $30 million of Binance hack funds without the hacker’s key",
+      "link": "https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key",
+      "published": "Tue, 03 Nov 2026 05:25:12 +0000",
+      "ts": 1793683512
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto.com to withdraw Hong Kong consumer app citing regulatory changes",
+      "link": "https://cointelegraph.com/news/crypto-com-hong-kong-app-shutdown-license-pending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 03 Nov 2026 05:10:19 +0000",
+      "ts": 1793682619
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
+      "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote",
+      "published": "Tue, 03 Nov 2026 04:48:17 +0000",
+      "ts": 1793681297
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation",
+      "link": "https://cointelegraph.com/markets/australia-lifts-rates-as-ai-boom-energy-costs-fuel-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 03 Nov 2026 04:14:32 +0000",
+      "ts": 1793679272
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "UK warns AI ransomware attack on infrastructure ‘highly likely’ by 2028",
+      "link": "https://cointelegraph.com/news/uk-warns-ai-ransomware-attack-on-infrastructure-highly-likely-by-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 03 Nov 2026 03:58:45 +0000",
+      "ts": 1793678325
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance begins second withdrawal phase, exchange outflows slow",
+      "link": "https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 03 Nov 2026 03:03:44 +0000",
+      "ts": 1793675024
     },
     {
       "source": "MarketWatch",
@@ -46,20 +165,6 @@
       "ts": 1793661090
     },
     {
-      "source": "Cointelegraph",
-      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
-      "link": "https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 23:07:07 +0000",
-      "ts": 1793660827
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 22:36:09 +0000",
-      "ts": 1793658969
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar slips slightly ahead of U.S. midterm elections; euro gains while yen eases",
       "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yuan-holds-near-fouryear-high-dollar-steadies-4989824",
@@ -67,25 +172,11 @@
       "ts": 1793658367
     },
     {
-      "source": "Cointelegraph",
-      "title": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
-      "link": "https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 22:22:30 +0000",
-      "ts": 1793658150
-    },
-    {
       "source": "MarketWatch",
       "title": "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned",
       "link": "https://www.marketwatch.com/story/traders-rushing-into-a-leveraged-etf-to-make-a-bullish-bet-on-the-nasdaq-100-just-got-burned-d6775191?mod=mw_rss_topstories",
       "published": "Mon, 02 Nov 2026 22:03:00 GMT",
       "ts": 1793656980
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
-      "link": "https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 21:54:41 +0000",
-      "ts": 1793656481
     },
     {
       "source": "MarketWatch",
@@ -116,20 +207,6 @@
       "ts": 1793655000
     },
     {
-      "source": "Cointelegraph",
-      "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
-      "link": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 21:16:24 +0000",
-      "ts": 1793654184
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Coinbase hit with 50% price target cut as post-earnings rout deepens",
-      "link": "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 20:22:23 +0000",
-      "ts": 1793650943
-    },
-    {
       "source": "Investing Crypto",
       "title": "Coinhub Funded Goes Live: Crypto Prop Firm Offers Funded Trading Accounts Up to $200K & 30-Minute Tournaments",
       "link": "https://www.investing.com/news/cryptocurrency-news/coinhub-funded-goes-live-crypto-prop-firm-offers-funded-trading-accounts-up-to-200k--30minute-tournaments-4992638",
@@ -137,67 +214,11 @@
       "ts": 1793649612
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
-      "link": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 02 Nov 2026 19:27:58 +0000",
-      "ts": 1793647678
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
-      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
-      "published": "Mon, 02 Nov 2026 18:13:57 +0000",
-      "ts": 1793643237
-    },
-    {
-      "source": "CoinDesk",
-      "title": "EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says",
-      "link": "https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says",
-      "published": "Mon, 02 Nov 2026 17:21:04 +0000",
-      "ts": 1793640064
-    },
-    {
-      "source": "CoinDesk",
-      "title": "NYSE tokenized stock plans take shape as four more transfer agents join",
-      "link": "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails",
-      "published": "Mon, 02 Nov 2026 16:41:46 +0000",
-      "ts": 1793637706
-    },
-    {
       "source": "Investing Forex",
       "title": "Canadian dollar slips from six-week high as oil retreat offsets weaker U.S. dollar",
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-slips-from-sixweek-high-as-oil-retreat-offsets-weaker-us-dollar-4992383",
       "published": "2026-11-02 16:18:09",
       "ts": 1793636289
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
-      "link": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
-      "published": "Mon, 02 Nov 2026 15:53:29 +0000",
-      "ts": 1793634809
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans",
-      "link": "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans",
-      "published": "Mon, 02 Nov 2026 15:26:43 +0000",
-      "ts": 1793633203
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Anthropic swings to third quarter operating loss as compute costs surge ahead of IPO",
-      "link": "https://www.coindesk.com/markets/2026/11/02/anthropic-swings-to-third-quarter-operating-loss-as-compute-costs-surge-ahead-of-ipo",
-      "published": "Mon, 02 Nov 2026 15:18:55 +0000",
-      "ts": 1793632735
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Standard Chartered debuts tokenized deposits in Hong Kong for corporate clients",
-      "link": "https://www.coindesk.com/business/2026/11/02/standard-chartered-debuts-tokenized-deposits-in-hong-kong-for-corporate-clients",
-      "published": "Mon, 02 Nov 2026 15:05:24 +0000",
-      "ts": 1793631924
     },
     {
       "source": "Investing Forex",
@@ -249,13 +270,6 @@
       "ts": 1793590803
     },
     {
-      "source": "Investing Forex",
-      "title": "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist",
-      "link": "https://www.investing.com/news/forex-news/dollar-rangebound-ahead-of-us-midterms-bitcoin-reels-from-crypto-heist-4989794",
-      "published": "2026-11-02 01:00:34",
-      "ts": 1793581234
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin faces further downside risks as fear surges, Binance hack rattles markets",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-faces-further-downside-risks-as-fear-surges-binance-hack-rattles-markets-4989389",
@@ -268,20 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-breaks-below-key-mas-amid-distribution-live-levels-93CH-4971508",
       "published": "2026-11-01 07:01:45",
       "ts": 1793516505
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Binance to resume crypto withdrawals in phases after record $6 billion hack",
-      "link": "https://www.investing.com/news/cryptocurrency-news/binance-to-resume-crypto-withdrawals-in-phases-after-record-6-billion-hack-4989397",
-      "published": "2026-11-01 06:20:37",
-      "ts": 1793514037
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar rises for October as rate hike bets remain elevated, euro and yen slip",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-dollar-retreats-yen-steadies-ahead-of-boj-decision-4985749",
-      "published": "2026-10-30 20:44:36",
-      "ts": 1793393076
     }
   ]
 }
