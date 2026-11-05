@@ -1,21 +1,175 @@
 {
-  "updated_utc": "2026-11-05T02:54:18.653040+00:00",
+  "updated_utc": "2026-11-05T10:10:08.745293+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "Richard Simmons’ L.A. estate sells for $3.8 million",
+      "link": "https://www.marketwatch.com/story/richard-simmons-l-a-estate-sells-for-3-8-million-abf43450?mod=mw_rss_topstories",
+      "published": "Thu, 05 Nov 2026 10:02:00 GMT",
+      "ts": 1793872920
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
+      "link": "https://cointelegraph.com/news/south-korea-crypto-tax-fourth-delay-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 05 Nov 2026 09:35:29 +0000",
+      "ts": 1793871329
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Euro set for fourth straight daily rise as energy prices fall",
+      "link": "https://www.investing.com/news/forex-news/dollar-edges-lower-as-us-election-outcome-cheers-global-markets-5001958",
+      "published": "2026-11-05 09:25:08",
+      "ts": 1793870708
+    },
+    {
+      "source": "Investing Forex",
+      "title": "German yields slide to Aug lows as 20% weekly oil crash deflates inflation fears",
+      "link": "https://www.investing.com/news/forex-news/german-yields-slide-to-aug-lows-as-20-weekly-oil-crash-deflates-inflation-fears-5002466",
+      "published": "2026-11-05 09:08:09",
+      "ts": 1793869689
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "France budget rejection sidelines stablecoin tax, wallet reporting",
+      "link": "https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 05 Nov 2026 09:04:42 +0000",
+      "ts": 1793869482
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Hong Kong passes law requiring crypto exchanges to report customer transactions to tax authorities",
+      "link": "https://www.coindesk.com/policy/2026/11/04/hong-kong-passes-law-requiring-crypto-exchanges-to-report-customer-transactions-to-tax-authorities",
+      "published": "Thu, 05 Nov 2026 08:35:37 +0000",
+      "ts": 1793867737
+    },
+    {
+      "source": "CoinDesk",
+      "title": "OpenAI says its AI can break into Linux at scale. Here's what it means for crypto",
+      "link": "https://www.coindesk.com/tech/2026/11/05/openai-says-its-ai-can-break-into-linux-at-scale-here-s-what-it-means-for-crypto",
+      "published": "Thu, 05 Nov 2026 08:26:26 +0000",
+      "ts": 1793867186
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms",
+      "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 05 Nov 2026 08:22:30 +0000",
+      "ts": 1793866950
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Dow scores its best day in 18 months in a broad relief rally after Democrats sweep to power in Congress",
+      "link": "https://www.marketwatch.com/story/dow-scores-its-best-day-in-18-months-in-a-broad-relief-rally-after-democrats-sweep-to-power-in-congress-d7348fc0?mod=mw_rss_topstories",
+      "published": "Thu, 05 Nov 2026 08:13:00 GMT",
+      "ts": 1793866380
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crédit Mutuel Arkéa resumes operations after attack, assesses losses",
+      "link": "https://cointelegraph.com/news/credit-mutuel-arkea-resumes-operations-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 05 Nov 2026 07:23:06 +0000",
+      "ts": 1793863386
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Most investors are blind to the possibility of a market crash. Here is the five-part strategy to survive one.",
+      "link": "https://www.marketwatch.com/story/most-investors-are-blind-to-the-possibility-of-a-market-crash-here-is-the-five-part-strategy-to-survive-one-a1762911?mod=mw_rss_topstories",
+      "published": "Thu, 05 Nov 2026 07:15:00 GMT",
+      "ts": 1793862900
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin tests SMA(200) after V-bottom recovery: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-key-support-in-descending-channel-live-levels-93CH-4990035",
+      "published": "2026-11-05 07:10:57",
+      "ts": 1793862657
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 05 Nov 2026 06:21:12 +0000",
+      "ts": 1793859672
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Asian FX rises as dollar slides on U.S. vote, kiwi leads gains; yuan steadies",
+      "link": "https://www.investing.com/news/forex-news/asian-fx-rises-as-dollar-slips-on-us-vote-kiwi-leads-gains-yuan-steadies-in-asia-5002136",
+      "published": "2026-11-05 06:19:44",
+      "ts": 1793859584
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
+      "link": "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 05 Nov 2026 06:02:29 +0000",
+      "ts": 1793858549
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin firms to $80.5k as U.S. elections buoy risk appetite, but outlook unclear",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-firms-to-805k-as-us-elections-buoy-risk-appetite-but-outlook-unclear-5002271",
+      "published": "2026-11-05 06:00:46",
+      "ts": 1793858446
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Zcash is about to freeze $16 million in its oldest privacy pool",
+      "link": "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool",
+      "published": "Thu, 05 Nov 2026 05:47:01 +0000",
+      "ts": 1793857621
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The pile of lawsuits against Kalshi just grew by one",
+      "link": "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one",
+      "published": "Thu, 05 Nov 2026 05:28:52 +0000",
+      "ts": 1793856532
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
+      "link": "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens",
+      "published": "Thu, 05 Nov 2026 05:25:06 +0000",
+      "ts": 1793856306
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
+      "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
+      "published": "Thu, 05 Nov 2026 05:13:45 +0000",
+      "ts": 1793855625
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "‘Lawyer up’: Democrats target Trump, Big Tech after midterm sweep",
+      "link": "https://cointelegraph.com/news/lawyer-up-democrats-target-trump-big-tech-after-midterm-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 05 Nov 2026 04:52:49 +0000",
+      "ts": 1793854369
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
+      "link": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
+      "published": "Thu, 05 Nov 2026 04:11:33 +0000",
+      "ts": 1793851893
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Coin Theaters Completes Production Rollout of Creator-Owned Entertainment Platform $CRE8-Powered Monetization",
+      "link": "https://www.investing.com/news/cryptocurrency-news/coin-theaters-completes-production-rollout-of-creatorowned-entertainment-platform-cre8powered-monetization-5002140",
+      "published": "2026-11-05 04:00:14",
+      "ts": 1793851214
+    },
     {
       "source": "Cointelegraph",
       "title": "India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’",
       "link": "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Thu, 05 Nov 2026 01:51:21 +0000",
       "ts": 1793843481
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar edges lower as US election outcome cheers global markets",
-      "link": "https://www.investing.com/news/forex-news/dollar-edges-lower-as-us-election-outcome-cheers-global-markets-5001958",
-      "published": "2026-11-05 01:12:23",
-      "ts": 1793841143
     },
     {
       "source": "MarketWatch",
@@ -53,20 +207,6 @@
       "ts": 1793839080
     },
     {
-      "source": "MarketWatch",
-      "title": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
-      "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-      "published": "Wed, 04 Nov 2026 23:45:00 GMT",
-      "ts": 1793835900
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses",
-      "link": "https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 04 Nov 2026 23:20:17 +0000",
-      "ts": 1793834417
-    },
-    {
       "source": "CoinDesk",
       "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
       "link": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
@@ -74,67 +214,11 @@
       "ts": 1793832900
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 04 Nov 2026 22:54:23 +0000",
-      "ts": 1793832863
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
-      "link": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
-      "published": "Wed, 04 Nov 2026 22:51:42 +0000",
-      "ts": 1793832702
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin tops $80k as Democrats sweep midterm elections, boosting risk sentiment",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-near-78k-as-democrats-sweep-midterm-elections-4997542",
       "published": "2026-11-04 22:42:49",
       "ts": 1793832169
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BitMart founder says security team ‘severely understaffed’ after new hack",
-      "link": "https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 04 Nov 2026 22:31:58 +0000",
-      "ts": 1793831518
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Crypto PACs eye 2028 ‘new map’ as Democrats take Congress",
-      "link": "https://cointelegraph.com/news/crypto-superpac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 04 Nov 2026 22:17:33 +0000",
-      "ts": 1793830653
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-      "published": "Wed, 04 Nov 2026 22:15:00 GMT",
-      "ts": 1793830500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "How do Americans feel about the midterm results? It depends on how much money they make.",
-      "link": "https://www.marketwatch.com/story/how-do-americans-feel-about-the-midterm-results-it-depends-on-how-much-money-they-make-e2a43f08?mod=mw_rss_topstories",
-      "published": "Wed, 04 Nov 2026 22:06:00 GMT",
-      "ts": 1793829960
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "How Aussie Bitcoiners can avoid 2027’s shock CGT hike",
-      "link": "https://cointelegraph.com/magazine/how-aussie-bitcoiners-can-avoid-2027s-shock-cgt-increase-part-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 04 Nov 2026 21:30:00 +0000",
-      "ts": 1793827800
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto's powerhouse super PAC suffers costly setback as Democrats sweep Congress",
-      "link": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite",
-      "published": "Wed, 04 Nov 2026 20:29:12 +0000",
-      "ts": 1793824152
     },
     {
       "source": "Investing Forex",
@@ -151,60 +235,11 @@
       "ts": 1793820585
     },
     {
-      "source": "Cointelegraph",
-      "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
-      "link": "https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 04 Nov 2026 19:15:39 +0000",
-      "ts": 1793819739
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss",
-      "link": "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 04 Nov 2026 18:47:56 +0000",
-      "ts": 1793818076
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. Democratic sweep could be the final nail in the ‘Clarity Act’s coffin’",
-      "link": "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin",
-      "published": "Wed, 04 Nov 2026 16:11:29 +0000",
-      "ts": 1793808689
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
-      "link": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom",
-      "published": "Wed, 04 Nov 2026 16:08:14 +0000",
-      "ts": 1793808494
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto Long & Short: ICE is betting on retail’s appetite for quick outcomes",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes",
-      "published": "Wed, 04 Nov 2026 15:27:20 +0000",
-      "ts": 1793806040
-    },
-    {
       "source": "Investing Crypto",
       "title": "TopValue Opens Public Access After 8.1 Million XRP Institutional Phase",
       "link": "https://www.investing.com/news/cryptocurrency-news/topvalue-opens-public-access-after-81-million-xrp-institutional-phase-4999876",
       "published": "2026-11-04 14:30:19",
       "ts": 1793802619
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The election changes Washington. The work on crypto continues",
-      "link": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues",
-      "published": "Wed, 04 Nov 2026 14:25:12 +0000",
-      "ts": 1793802312
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin rises above $80,000 as stocks gain following Blue Wave",
-      "link": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
-      "published": "Wed, 04 Nov 2026 14:00:53 +0000",
-      "ts": 1793800853
     },
     {
       "source": "Investing Forex",
@@ -247,41 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bybit-kazakhstan-launches-a-new-fiat-channel-tenge-deposits-and-withdrawals-with-any-kz-bank-card-4997918",
       "published": "2026-11-04 09:30:11",
       "ts": 1793784611
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin tests SMA(50) resistance inside descending channel: Live levels",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-key-support-in-descending-channel-live-levels-93CH-4990035",
-      "published": "2026-11-04 07:10:33",
-      "ts": 1793776233
-    },
-    {
-      "source": "Investing Forex",
-      "title": "India rupee’s recovery may find fresh legs from equity flows, dollar weakness",
-      "link": "https://www.investing.com/news/forex-news/india-rupees-recovery-may-find-fresh-legs-from-equity-flows-dollar-weakness-4997157",
-      "published": "2026-11-04 02:43:15",
-      "ts": 1793760195
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin rises as risk sentiment prevails on Wall Street; midterm elections eyed",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-over-1mth-low-of-765k-as-us-midterm-caution-weighs-4993602",
-      "published": "2026-11-03 23:10:20",
-      "ts": 1793747420
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar ticks up with eyes on U.S. midterm elections; Aussie slips despite RBA hike",
-      "link": "https://www.investing.com/news/forex-news/asian-currencies-mixed-as-yuan-slides-after-pboc-move-won-rebounds-4993468",
-      "published": "2026-11-03 22:22:39",
-      "ts": 1793744559
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin slips after steep October losses, as Binance hack keeps lid on sentiment",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-78k-after-october-losses-binance-resumes-withdrawals-4989972",
-      "published": "2026-11-02 23:11:30",
-      "ts": 1793661090
     }
   ]
 }
