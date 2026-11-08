@@ -1,8 +1,22 @@
 {
-  "updated_utc": "2026-11-08T02:17:56.798729+00:00",
+  "updated_utc": "2026-11-08T09:10:10.852658+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Binance’s  finance chief Kaiser Ng to leave company, report says",
+      "link": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 08 Nov 2026 08:12:56 +0000",
+      "ts": 1794125576
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin holds below $76K as Binance EU closures add to crypto market pressure",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-below-76k-as-binance-eu-closures-add-to-crypto-market-pressure-5010133",
+      "published": "2026-11-08 06:00:07",
+      "ts": 1794117607
+    },
     {
       "source": "MarketWatch",
       "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
@@ -165,13 +179,6 @@
       "ts": 1793998464
     },
     {
-      "source": "Cointelegraph",
-      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-      "link": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 06 Nov 2026 20:51:23 +0000",
-      "ts": 1793998283
-    },
-    {
       "source": "CoinDesk",
       "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
       "link": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/dollar-edges-lower-as-us-election-outcome-cheers-global-markets-5001958",
       "published": "2026-11-05 20:18:28",
       "ts": 1793909908
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Greece approves 10% capital gains tax on cryptocurrencies",
-      "link": "https://www.investing.com/news/cryptocurrency-news/greece-approves-10-capital-gains-tax-on-cryptocurrencies-93CH-5005122",
-      "published": "2026-11-05 15:51:26",
-      "ts": 1793893886
     }
   ]
 }
