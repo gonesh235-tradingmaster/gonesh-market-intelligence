@@ -1,8 +1,183 @@
 {
-  "updated_utc": "2026-11-09T03:02:10.982212+00:00",
+  "updated_utc": "2026-11-09T11:18:23.123007+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Live news: Nvidia slides on CEO allegations as bitcoin hovers just above its 200-day average",
+      "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
+      "published": "Mon, 09 Nov 2026 10:51:48 +0000",
+      "ts": 1794221508
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The biggest takeaway from Berkshire Hathaway’s latest quarter isn’t the $357 billion cash or its stock buybacks",
+      "link": "https://www.marketwatch.com/story/the-biggest-takeaway-from-berkshire-hathaways-latest-quarter-isnt-the-357-billion-cash-or-its-stock-buybacks-3069f6a9?mod=mw_rss_topstories",
+      "published": "Mon, 09 Nov 2026 10:48:00 GMT",
+      "ts": 1794221280
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin dips to $74k as regulatory uncertainty, ETF outflows weigh",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-74k-as-regulatory-uncertainty-etf-outflows-weigh-5010570",
+      "published": "2026-11-09 10:46:49",
+      "ts": 1794221209
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The market’s correction is entering its final phase — but wait before buying the dip, says Morgan Stanley chief strategist",
+      "link": "https://www.marketwatch.com/story/the-markets-correction-is-entering-its-final-phase-but-wait-before-buying-the-dip-says-morgan-stanley-chief-strategist-2c1be13e?mod=mw_rss_topstories",
+      "published": "Mon, 09 Nov 2026 10:26:00 GMT",
+      "ts": 1794219960
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Until sentiment in the AI trade improves, Citi tells investors it’s better to sit out the global tech trade",
+      "link": "https://www.marketwatch.com/story/until-sentiment-in-the-ai-trade-improves-citi-tells-investors-its-better-to-sit-out-the-global-tech-trade-ed939f30?mod=mw_rss_topstories",
+      "published": "Mon, 09 Nov 2026 10:20:00 GMT",
+      "ts": 1794219600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘We had the worst fight we’ve ever had’: I want my husband to retire at 65. But I don’t want to lose his $280,000 salary.",
+      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "published": "Mon, 09 Nov 2026 10:15:00 GMT",
+      "ts": 1794219300
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar retreats from post-jobs spike as traders brace for U.S. CPI test",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-gains-as-dollar-steadies-after-strong-us-jobs-data-china-cpi-in-focus-5010449",
+      "published": "2026-11-09 10:08:02",
+      "ts": 1794218882
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Ryan Serhant of ‘Owning Manhattan’ on why you shouldn’t wait to buy a house, and the hot spots to watch for",
+      "link": "https://www.marketwatch.com/story/ryan-serhant-of-owning-manhattan-on-why-you-shouldnt-wait-to-buy-a-house-and-the-hot-spots-to-watch-for-9c2731c3?mod=mw_rss_topstories",
+      "published": "Mon, 09 Nov 2026 10:04:00 GMT",
+      "ts": 1794218640
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week",
+      "link": "https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 09 Nov 2026 10:03:40 +0000",
+      "ts": 1794218620
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Brewers star Christian Yelich is selling his hillside Malibu mansion for $30 million",
+      "link": "https://www.marketwatch.com/story/brewers-star-christian-yelich-is-selling-his-hillside-malibu-mansion-for-30-million-92bee567?mod=mw_rss_topstories",
+      "published": "Mon, 09 Nov 2026 10:02:00 GMT",
+      "ts": 1794218520
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase gets full U.S. trust charter from federal banking regulator",
+      "link": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
+      "published": "Mon, 09 Nov 2026 10:00:00 +0000",
+      "ts": 1794218400
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound firms as dollar retreats from Friday rally",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-firms-as-dollar-retreats-from-friday-rally-5010899",
+      "published": "2026-11-09 09:38:08",
+      "ts": 1794217088
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. inflation, corporate earnings: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead",
+      "published": "Mon, 09 Nov 2026 09:33:27 +0000",
+      "ts": 1794216807
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Eurozone yields consolidate after U.S. payrolls shock",
+      "link": "https://www.investing.com/news/forex-news/eurozone-yields-consolidate-after-us-payrolls-shock-5010731",
+      "published": "2026-11-09 09:31:16",
+      "ts": 1794216676
+    },
+    {
+      "source": "MarketWatch",
+      "title": "How Wall Street is reacting to the news of Nvidia’s investigation into Jensen Huang spy claims",
+      "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+      "published": "Mon, 09 Nov 2026 09:12:00 GMT",
+      "ts": 1794215520
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Binance, Tether and Trump crypto firms face Senate records deadline",
+      "link": "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 09 Nov 2026 09:00:17 +0000",
+      "ts": 1794214817
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 09 Nov 2026 08:17:35 +0000",
+      "ts": 1794212255
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
+      "link": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
+      "published": "Mon, 09 Nov 2026 06:54:41 +0000",
+      "ts": 1794207281
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
+      "link": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
+      "published": "Mon, 09 Nov 2026 06:36:45 +0000",
+      "ts": 1794206205
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 09 Nov 2026 05:44:53 +0000",
+      "ts": 1794203093
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Zcash devs propose another block time cut days after NU7 upgrade",
+      "link": "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 09 Nov 2026 05:36:08 +0000",
+      "ts": 1794202568
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+      "link": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+      "published": "Mon, 09 Nov 2026 05:16:54 +0000",
+      "ts": 1794201414
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+      "link": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+      "published": "Mon, 09 Nov 2026 04:54:39 +0000",
+      "ts": 1794200079
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
+      "link": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 09 Nov 2026 04:03:08 +0000",
+      "ts": 1794196988
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+      "link": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+      "published": "Mon, 09 Nov 2026 03:21:49 +0000",
+      "ts": 1794194509
+    },
     {
       "source": "MarketWatch",
       "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
@@ -16,55 +191,6 @@
       "link": "https://www.investing.com/news/forex-news/us-dollar-holds-onto-payrolls-gains-nz-dollar-rises-after-election-5010398",
       "published": "2026-11-09 01:18:23",
       "ts": 1794187103
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
-      "published": "Mon, 09 Nov 2026 00:40:00 GMT",
-      "ts": 1794184800
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m second-guessing my adviser: Is an annuity the right move in this market?",
-      "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
-      "published": "Mon, 09 Nov 2026 00:30:00 GMT",
-      "ts": 1794184200
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-      "published": "Mon, 09 Nov 2026 00:02:00 GMT",
-      "ts": 1794182520
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
-      "link": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
-      "published": "Mon, 09 Nov 2026 00:00:00 GMT",
-      "ts": 1794182400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
-      "link": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
-      "published": "Sun, 08 Nov 2026 23:50:00 GMT",
-      "ts": 1794181800
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
-      "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
-      "published": "Sun, 08 Nov 2026 23:49:00 GMT",
-      "ts": 1794181740
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
-      "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-      "published": "Sun, 08 Nov 2026 23:35:00 GMT",
-      "ts": 1794180900
     },
     {
       "source": "Cointelegraph",
@@ -95,27 +221,6 @@
       "ts": 1794169973
     },
     {
-      "source": "CoinDesk",
-      "title": "What the election results mean for crypto: State of Crypto",
-      "link": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
-      "published": "Sun, 08 Nov 2026 19:30:00 +0000",
-      "ts": 1794166200
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Stablecoin growth has stalled. The payments boom hasn't",
-      "link": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
-      "published": "Sun, 08 Nov 2026 19:16:42 +0000",
-      "ts": 1794165402
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 08 Nov 2026 13:33:00 +0000",
-      "ts": 1794144780
-    },
-    {
       "source": "Cointelegraph",
       "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
       "link": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -123,74 +228,11 @@
       "ts": 1794142671
     },
     {
-      "source": "CoinDesk",
-      "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
-      "link": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
-      "published": "Sun, 08 Nov 2026 12:55:59 +0000",
-      "ts": 1794142559
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
-      "link": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 08 Nov 2026 09:48:48 +0000",
-      "ts": 1794131328
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Binance’s  finance chief Kaiser Ng to leave company, report says",
-      "link": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sun, 08 Nov 2026 08:12:56 +0000",
-      "ts": 1794125576
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
-      "link": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
-      "published": "Sat, 07 Nov 2026 19:13:16 +0000",
-      "ts": 1794078796
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
-      "link": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
-      "published": "Sat, 07 Nov 2026 17:36:46 +0000",
-      "ts": 1794073006
-    },
-    {
       "source": "Investing Crypto",
       "title": "Slop Cash, From elizaOS Creator Shaw Walters, Opens Public Bidding on Umia After Passing Its $400K Minimum",
       "link": "https://www.investing.com/news/cryptocurrency-news/slop-cash-from-elizaos-creator-shaw-walters-opens-public-bidding-on-umia-after-passing-its-400k-minimum-5009964",
       "published": "2026-11-07 17:00:13",
       "ts": 1794070813
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-      "link": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
-      "published": "Sat, 07 Nov 2026 16:51:00 +0000",
-      "ts": 1794070260
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
-      "link": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 07 Nov 2026 14:16:00 +0000",
-      "ts": 1794060960
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin holders have received eCash — What can you do with it?",
-      "link": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 07 Nov 2026 13:30:00 +0000",
-      "ts": 1794058200
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "US sanctions Canadian money-exchange firms over Iran ties",
-      "link": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 07 Nov 2026 11:10:47 +0000",
-      "ts": 1794049847
     },
     {
       "source": "Investing Crypto",
@@ -221,39 +263,11 @@
       "ts": 1793998464
     },
     {
-      "source": "CoinDesk",
-      "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
-      "link": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
-      "published": "Fri, 06 Nov 2026 20:09:18 +0000",
-      "ts": 1793995758
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
-      "link": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
-      "published": "Fri, 06 Nov 2026 17:42:28 +0000",
-      "ts": 1793986948
-    },
-    {
       "source": "Investing Forex",
       "title": "U.S. Treasuries fall as blowout payrolls lift yields across the curve",
       "link": "https://www.investing.com/news/forex-news/jgb-yields-plunge-to-july-lows-as-wall-st-tech-tout-sparks-haven-rush-5006590",
       "published": "2026-11-06 13:49:15",
       "ts": 1793972955
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound slips as dollar holds firm before U.S. payrolls",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-dollar-holds-firm-before-us-payrolls-5007166",
-      "published": "2026-11-06 10:44:08",
-      "ts": 1793961848
-    },
-    {
-      "source": "Investing Forex",
-      "title": "UBS sees euro-Norwegian krone pullback as stretched",
-      "link": "https://www.investing.com/news/forex-news/ubs-sees-euronorwegian-krone-pullback-as-stretched-93CH-5007021",
-      "published": "2026-11-06 09:41:40",
-      "ts": 1793958100
     },
     {
       "source": "Investing Crypto",
@@ -268,20 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/trumps-world-liberty-financial-launches-token-buyback-program-5006409",
       "published": "2026-11-06 04:07:29",
       "ts": 1793938049
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Trump crypto memecoin slumps to record low after historic midterm loss",
-      "link": "https://www.investing.com/news/cryptocurrency-news/trump-crypto-memecoin-slumps-to-record-low-after-historic-midterm-loss-5006367",
-      "published": "2026-11-06 03:21:24",
-      "ts": 1793935284
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Chinese firms’ profit margins trail global peers as domestic demand stays weak",
-      "link": "https://www.investing.com/news/forex-news/chinese-firms-profit-margins-trail-global-peers-as-domestic-demand-stays-weak-5006210",
-      "published": "2026-11-06 02:42:22",
-      "ts": 1793932942
     }
   ]
 }
