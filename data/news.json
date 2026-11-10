@@ -1,42 +1,112 @@
 {
-  "updated_utc": "2026-11-09T21:29:17.388409+00:00",
+  "updated_utc": "2026-11-10T03:44:28.281054+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
       "source": "MarketWatch",
-      "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
-      "link": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
-      "published": "Mon, 09 Nov 2026 21:24:00 GMT",
-      "ts": 1794259440
+      "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+      "published": "Tue, 10 Nov 2026 03:38:00 GMT",
+      "ts": 1794281880
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+      "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+      "published": "Tue, 10 Nov 2026 03:22:26 +0000",
+      "ts": 1794280946
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
+      "link": "https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 03:04:54 +0000",
+      "ts": 1794279894
     },
     {
       "source": "MarketWatch",
-      "title": "A failed trial for a heart drug casts shadow over rivals developing similar therapies",
-      "link": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
-      "published": "Mon, 09 Nov 2026 21:21:00 GMT",
-      "ts": 1794259260
+      "title": "The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips",
+      "link": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
+      "published": "Tue, 10 Nov 2026 00:48:00 GMT",
+      "ts": 1794271680
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
+      "link": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 10 Nov 2026 00:42:39 +0000",
+      "ts": 1794271359
     },
     {
       "source": "MarketWatch",
-      "title": "Why prediction markets and Wall Street pros so often fail to see what’s coming",
-      "link": "https://www.marketwatch.com/story/why-prediction-markets-and-wall-street-pros-so-often-fail-to-see-whats-coming-c516b6e3?mod=mw_rss_topstories",
-      "published": "Mon, 09 Nov 2026 21:14:00 GMT",
-      "ts": 1794258840
+      "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+      "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+      "published": "Mon, 09 Nov 2026 23:52:00 GMT",
+      "ts": 1794268320
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin turns slightly higher amid Wall Street rally, slide in oil prices",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-74k-as-regulatory-uncertainty-etf-outflows-weigh-5010570",
+      "published": "2026-11-09 23:11:41",
+      "ts": 1794265901
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+      "link": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
+      "published": "Mon, 09 Nov 2026 22:56:27 +0000",
+      "ts": 1794264987
     },
     {
       "source": "MarketWatch",
-      "title": "I’m 53 and not sure how to handle merging finances with my long-term partner.",
-      "link": "https://www.marketwatch.com/story/his-mine-or-ours-im-53-and-not-sure-how-to-handle-merging-finances-with-my-long-term-partner-4c34c914?mod=mw_rss_topstories",
-      "published": "Mon, 09 Nov 2026 21:02:00 GMT",
-      "ts": 1794258120
+      "title": "Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark",
+      "link": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
+      "published": "Mon, 09 Nov 2026 22:49:00 GMT",
+      "ts": 1794264540
     },
     {
       "source": "MarketWatch",
-      "title": "Hot U.S. inflation hasn’t cooled off. Rising consumer prices to keep Fed rate hike on track.",
-      "link": "https://www.marketwatch.com/story/hot-u-s-inflation-hasnt-cooled-off-rising-consumer-prices-to-keep-fed-rate-hike-on-track-926c44b0?mod=mw_rss_topstories",
-      "published": "Mon, 09 Nov 2026 21:01:00 GMT",
-      "ts": 1794258060
+      "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+      "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+      "published": "Mon, 09 Nov 2026 22:49:00 GMT",
+      "ts": 1794264540
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar slips, taking a breather after last week’s advance a day ahead of CPI test",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-gains-as-dollar-steadies-after-strong-us-jobs-data-china-cpi-in-focus-5010449",
+      "published": "2026-11-09 22:32:44",
+      "ts": 1794263564
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 09 Nov 2026 22:06:26 +0000",
+      "ts": 1794261986
+    },
+    {
+      "source": "MarketWatch",
+      "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
+      "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+      "published": "Mon, 09 Nov 2026 21:55:00 GMT",
+      "ts": 1794261300
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
+      "link": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
+      "published": "Mon, 09 Nov 2026 21:52:00 GMT",
+      "ts": 1794261120
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
+      "link": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
+      "published": "Mon, 09 Nov 2026 21:43:00 GMT",
+      "ts": 1794260580
     },
     {
       "source": "Cointelegraph",
@@ -46,32 +116,11 @@
       "ts": 1794258000
     },
     {
-      "source": "MarketWatch",
-      "title": "Analysts say these chip stocks are bargains. Is it time to buy?",
-      "link": "https://www.marketwatch.com/story/analysts-say-these-chip-stocks-are-bargains-is-it-time-to-buy-fb5fdde8?mod=mw_rss_topstories",
-      "published": "Mon, 09 Nov 2026 20:48:00 GMT",
-      "ts": 1794257280
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-      "published": "Mon, 09 Nov 2026 20:30:00 GMT",
-      "ts": 1794256200
-    },
-    {
       "source": "Cointelegraph",
       "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
       "link": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 09 Nov 2026 20:26:34 +0000",
       "ts": 1794255994
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-      "published": "Mon, 09 Nov 2026 20:15:00 GMT",
-      "ts": 1794255300
     },
     {
       "source": "Cointelegraph",
@@ -102,20 +151,6 @@
       "ts": 1794246515
     },
     {
-      "source": "Cointelegraph",
-      "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
-      "link": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 09 Nov 2026 17:41:02 +0000",
-      "ts": 1794246062
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target",
-      "link": "https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 09 Nov 2026 17:13:25 +0000",
-      "ts": 1794244405
-    },
-    {
       "source": "CoinDesk",
       "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
       "link": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
@@ -135,13 +170,6 @@
       "link": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
       "published": "Mon, 09 Nov 2026 15:00:44 +0000",
       "ts": 1794236444
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Analysts see no broader ‘contagion’ from $6.3B Binance hack",
-      "link": "https://cointelegraph.com/markets/analysts-no-contagion-effect-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 09 Nov 2026 13:52:46 +0000",
-      "ts": 1794232366
     },
     {
       "source": "CoinDesk",
@@ -172,39 +200,11 @@
       "ts": 1794228095
     },
     {
-      "source": "CoinDesk",
-      "title": "Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
-      "link": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings",
-      "published": "Mon, 09 Nov 2026 12:37:13 +0000",
-      "ts": 1794227833
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitrue AI Research Shows XRP Traded Higher 90 Days After 12 of 17 Oversold Readings",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitrue-ai-research-shows-xrp-traded-higher-90-days-after-12-of-17-oversold-readings-5011722",
       "published": "2026-11-09 12:30:30",
       "ts": 1794227430
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin bulls can't rely on ETF flows",
-      "link": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows",
-      "published": "Mon, 09 Nov 2026 12:30:00 +0000",
-      "ts": 1794227400
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin dips to $74k as regulatory uncertainty, ETF outflows weigh",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-74k-as-regulatory-uncertainty-etf-outflows-weigh-5010570",
-      "published": "2026-11-09 10:46:49",
-      "ts": 1794221209
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar retreats from post-jobs spike as traders brace for U.S. CPI test",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-gains-as-dollar-steadies-after-strong-us-jobs-data-china-cpi-in-focus-5010449",
-      "published": "2026-11-09 10:08:02",
-      "ts": 1794218882
     },
     {
       "source": "Investing Forex",
