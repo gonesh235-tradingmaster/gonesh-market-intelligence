@@ -1,14 +1,140 @@
 {
-  "updated_utc": "2026-11-11T03:12:02.387073+00:00",
+  "updated_utc": "2026-11-11T10:58:07.271159+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
+      "source": "CoinDesk",
+      "title": "Bitcoin holds steady as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
+      "link": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
+      "published": "Wed, 11 Nov 2026 10:45:49 +0000",
+      "ts": 1794393949
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why Goldman Sachs is now changing its Federal Reserve interest-rate forecast",
+      "link": "https://www.marketwatch.com/story/why-goldman-sachs-is-now-changing-its-federal-reserve-interest-rate-forecast-3753f968?mod=mw_rss_topstories",
+      "published": "Wed, 11 Nov 2026 10:37:00 GMT",
+      "ts": 1794393420
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m 63 and want to spend $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
+      "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+      "published": "Wed, 11 Nov 2026 10:30:00 GMT",
+      "ts": 1794393000
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar holds gains as Fed hike bets rise after hot U.S. CPI; yen near 6-wk low",
+      "link": "https://www.investing.com/news/forex-news/asian-fx-steadies-after-falling-on-hot-us-cpi-yen-near-6wk-low-5017608",
+      "published": "2026-11-11 10:21:12",
+      "ts": 1794392472
+    },
+    {
       "source": "MarketWatch",
       "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
       "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "published": "Wed, 11 Nov 2026 02:15:00 GMT",
-      "ts": 1794363300
+      "published": "Wed, 11 Nov 2026 10:15:00 GMT",
+      "ts": 1794392100
+    },
+    {
+      "source": "MarketWatch",
+      "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
+      "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
+      "published": "Wed, 11 Nov 2026 10:05:00 GMT",
+      "ts": 1794391500
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Tiger Woods has another private, 18-hole golf destination in the works — this one for Long Island’s Gold Coast",
+      "link": "https://www.marketwatch.com/story/tiger-woods-has-another-private-18-hole-golf-destination-in-the-works-this-one-for-long-islands-gold-coast-7e8e669c?mod=mw_rss_topstories",
+      "published": "Wed, 11 Nov 2026 10:03:00 GMT",
+      "ts": 1794391380
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitget Wallet reports sevenfold jump in crypto phishing risk alerts",
+      "link": "https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 11 Nov 2026 10:00:00 +0000",
+      "ts": 1794391200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Among full-size SUVs, the 2027 Ford Expedition is worth a look for its spacious seating and mighty engine",
+      "link": "https://www.marketwatch.com/story/among-full-size-suvs-the-2027-ford-expedition-is-worth-a-look-for-its-spacious-seating-and-mighty-engine-2c169852?mod=mw_rss_topstories",
+      "published": "Wed, 11 Nov 2026 09:59:00 GMT",
+      "ts": 1794391140
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide",
+      "link": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 11 Nov 2026 09:58:15 +0000",
+      "ts": 1794391095
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin slips below $74k as hot CPI data spurs rate hike bets",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-74k-as-hot-cpi-data-spurs-rate-hike-bets-5017791",
+      "published": "2026-11-11 09:53:50",
+      "ts": 1794390830
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound edges lower as Fed hike bets, hot CPI buoy dollar",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-lower-as-fed-hike-bets-hot-cpi-buoy-dollar-5018102",
+      "published": "2026-11-11 09:22:09",
+      "ts": 1794388929
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Global bonds fall as hot U.S. CPI and Fed rhetoric stoke fears of 50-bps hike",
+      "link": "https://www.investing.com/news/forex-news/global-bonds-fall-as-hot-us-cpi-and-fed-rhetoric-stoke-fears-of-50bps-hike-5018037",
+      "published": "2026-11-11 09:10:22",
+      "ts": 1794388222
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "ECB warns legislative delays could postpone digital euro launch",
+      "link": "https://cointelegraph.com/news/ecb-warns-legislative-delays-digital-euro-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 11 Nov 2026 09:03:49 +0000",
+      "ts": 1794387829
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Stock ETF buyers pounce on dip as Bitcoin funds bleed $1.6 billion",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-persist-while-equity-investors-buy-the-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 11 Nov 2026 08:55:31 +0000",
+      "ts": 1794387331
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "SEC enforcement actions fall 24%, crypto cases in spotlight",
+      "link": "https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 11 Nov 2026 08:43:30 +0000",
+      "ts": 1794386610
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 11 Nov 2026 06:00:00 +0000",
+      "ts": 1794376800
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
+      "link": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 11 Nov 2026 05:52:14 +0000",
+      "ts": 1794376334
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Across Protocol restores website after hackers hijack domain",
+      "link": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Wed, 11 Nov 2026 04:42:30 +0000",
+      "ts": 1794372150
     },
     {
       "source": "MarketWatch",
@@ -18,60 +144,11 @@
       "ts": 1794362040
     },
     {
-      "source": "Cointelegraph",
-      "title": "LNbits rushes emergency patch after reported Bitcoin wallet thefts",
-      "link": "https://cointelegraph.com/news/lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 01:16:58 +0000",
-      "ts": 1794359818
-    },
-    {
-      "source": "MarketWatch",
-      "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
-      "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
-      "published": "Wed, 11 Nov 2026 01:12:00 GMT",
-      "ts": 1794359520
-    },
-    {
       "source": "MarketWatch",
       "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
       "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
       "published": "Wed, 11 Nov 2026 00:30:00 GMT",
       "ts": 1794357000
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-      "published": "Wed, 11 Nov 2026 00:00:00 GMT",
-      "ts": 1794355200
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico",
-      "link": "https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 10 Nov 2026 23:49:51 +0000",
-      "ts": 1794354591
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-      "published": "Tue, 10 Nov 2026 23:25:00 GMT",
-      "ts": 1794353100
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
-      "link": "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 10 Nov 2026 23:08:28 +0000",
-      "ts": 1794352108
-    },
-    {
-      "source": "MarketWatch",
-      "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
-      "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
-      "published": "Tue, 10 Nov 2026 22:37:00 GMT",
-      "ts": 1794350220
     },
     {
       "source": "Investing Crypto",
@@ -81,53 +158,11 @@
       "ts": 1794350077
     },
     {
-      "source": "MarketWatch",
-      "title": "Looking to buy the dip in chip stocks? Here’s how to avoid buying too soon.",
-      "link": "https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories",
-      "published": "Tue, 10 Nov 2026 22:30:00 GMT",
-      "ts": 1794349800
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 10 Nov 2026 22:04:47 +0000",
-      "ts": 1794348287
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Can crypto trust firms compete with banks in US derivatives settlements?",
-      "link": "https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 10 Nov 2026 21:34:40 +0000",
-      "ts": 1794346480
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Across Protocol warns users to avoid app amid reports of drained wallets",
-      "link": "https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 10 Nov 2026 21:24:36 +0000",
-      "ts": 1794345876
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ava Labs exec says NYSE deal marks end of blockchain’s ‘general purpose era’",
-      "link": "https://cointelegraph.com/interview/ava-labs-nyse-general-purpose-chains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 10 Nov 2026 21:07:44 +0000",
-      "ts": 1794344864
-    },
-    {
       "source": "CoinDesk",
       "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
       "link": "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets",
       "published": "Tue, 10 Nov 2026 20:36:33 +0000",
       "ts": 1794342993
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
-      "link": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Tue, 10 Nov 2026 20:26:02 +0000",
-      "ts": 1794342362
     },
     {
       "source": "Investing Forex",
@@ -200,13 +235,6 @@
       "ts": 1794317529
     },
     {
-      "source": "CoinDesk",
-      "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
-      "link": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
-      "published": "Tue, 10 Nov 2026 12:38:20 +0000",
-      "ts": 1794314300
-    },
-    {
       "source": "Investing Forex",
       "title": "Sterling today: Pound slips as dollar steadies on Fed tightening bets",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-dollar-steadies-on-fed-tightening-bets-5014423",
@@ -254,34 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitrue-ai-research-shows-xrp-traded-higher-90-days-after-12-of-17-oversold-readings-5011722",
       "published": "2026-11-09 12:30:30",
       "ts": 1794227430
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Sterling today: Pound firms as dollar retreats from Friday rally",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-firms-as-dollar-retreats-from-friday-rally-5010899",
-      "published": "2026-11-09 09:38:08",
-      "ts": 1794217088
-    },
-    {
-      "source": "Investing Forex",
-      "title": "US dollar holds onto payrolls gains, NZ dollar rises after election",
-      "link": "https://www.investing.com/news/forex-news/us-dollar-holds-onto-payrolls-gains-nz-dollar-rises-after-election-5010398",
-      "published": "2026-11-09 01:18:23",
-      "ts": 1794187103
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Cryptocurrencies slide to two-month lows after US midterms",
-      "link": "https://www.investing.com/news/forex-news/cryptocurrencies-slide-to-twomonth-lows-after-us-midterms-5010335",
-      "published": "2026-11-08 22:18:22",
-      "ts": 1794176302
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "EOS Falls 12% In Selloff",
-      "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-12-in-selloff-5010329",
-      "published": "2026-11-08 21:57:00",
-      "ts": 1794175020
     }
   ]
 }
