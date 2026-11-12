@@ -1,35 +1,224 @@
 {
-  "updated_utc": "2026-11-12T07:57:46.425400+00:00",
+  "updated_utc": "2026-11-12T16:39:16.510127+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
-      "source": "CoinDesk",
-      "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
-      "link": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
-      "published": "Thu, 12 Nov 2026 07:41:18 +0000",
-      "ts": 1794469278
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar hits 19-mth high on Fed hike bets; yen nears 160",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-holds-losses-as-dollar-hits-19mth-high-yen-nears-160-5020289",
-      "published": "2026-11-12 07:31:00",
-      "ts": 1794468660
+      "source": "MarketWatch",
+      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+      "published": "Thu, 12 Nov 2026 16:15:00 GMT",
+      "ts": 1794500100
     },
     {
       "source": "MarketWatch",
-      "title": "Jensen Huang built Nvidia into a behemoth. His scandal puts the entire AI boom in jeopardy.",
-      "link": "https://www.marketwatch.com/story/jensen-huang-built-nvidia-into-a-behemoth-his-scandal-puts-the-entire-ai-boom-in-jeopardy-c374b079?mod=mw_rss_topstories",
-      "published": "Thu, 12 Nov 2026 07:30:00 GMT",
-      "ts": 1794468600
+      "title": "Medicare at age 50? What ‘Medicare for more’ could mean for American workers.",
+      "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
+      "published": "Thu, 12 Nov 2026 16:00:00 GMT",
+      "ts": 1794499200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia is spending more than ever on Washington lobbying. It may not stop Congress from limiting China chip sales now.",
+      "link": "https://www.marketwatch.com/story/nvidia-is-spending-more-than-ever-on-washington-lobbying-it-still-may-not-be-able-to-stop-congress-from-limiting-its-china-chip-sales-now-d4c34c66?mod=mw_rss_topstories",
+      "published": "Thu, 12 Nov 2026 15:55:00 GMT",
+      "ts": 1794498900
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Home sales plummet to lowest level since ‘Great Recession’ as prices hit all-time high",
+      "link": "https://www.marketwatch.com/story/home-sales-plummet-to-lowest-level-since-the-great-recession-as-buyers-flee-the-market-624e6270?mod=mw_rss_topstories",
+      "published": "Thu, 12 Nov 2026 15:52:00 GMT",
+      "ts": 1794498720
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 15:46:06 +0000",
+      "ts": 1794498366
     },
     {
       "source": "CoinDesk",
-      "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
-      "link": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine",
-      "published": "Thu, 12 Nov 2026 07:00:37 +0000",
-      "ts": 1794466837
+      "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
+      "link": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
+      "published": "Thu, 12 Nov 2026 15:45:48 +0000",
+      "ts": 1794498348
+    },
+    {
+      "source": "MarketWatch",
+      "title": "What really happens during Medicare counseling",
+      "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
+      "published": "Thu, 12 Nov 2026 15:40:00 GMT",
+      "ts": 1794498000
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: The blockchain built to run financial markets",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
+      "published": "Thu, 12 Nov 2026 15:34:29 +0000",
+      "ts": 1794497669
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "published": "Thu, 12 Nov 2026 15:30:00 GMT",
+      "ts": 1794497400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford our $200,000-a-year dream retirement. I think he’s cheap.",
+      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+      "published": "Thu, 12 Nov 2026 15:26:00 GMT",
+      "ts": 1794497160
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Here’s what Megaspeed, the company at the forefront of the Nvidia scandal, is now saying",
+      "link": "https://www.marketwatch.com/story/heres-what-megaspeed-the-company-at-the-forefront-of-the-nvidia-scandal-is-now-saying-b73f8d0b?mod=mw_rss_topstories",
+      "published": "Thu, 12 Nov 2026 15:23:00 GMT",
+      "ts": 1794496980
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin drops to $71.6k; Strategy tumbles on MSCI index removal",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-736k-strategy-drops-on-msci-index-removal-5020451",
+      "published": "2026-11-12 15:01:34",
+      "ts": 1794495694
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
+      "link": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
+      "published": "Thu, 12 Nov 2026 14:45:00 +0000",
+      "ts": 1794494700
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The next Congress will write rules for AI and emerging tech. They should use the stuff first.",
+      "link": "https://www.coindesk.com/opinion/2026/11/12/the-next-congress-will-write-rules-for-ai-and-emerging-tech-they-should-use-the-stuff-first",
+      "published": "Thu, 12 Nov 2026 14:24:51 +0000",
+      "ts": 1794493491
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Is dollar finally ready to break out? BCA weighs in",
+      "link": "https://www.investing.com/news/forex-news/is-dollar-finally-ready-to-break-out-bca-weighs-in-5022178",
+      "published": "2026-11-12 14:21:37",
+      "ts": 1794493297
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Jensen Huang resigns as Nvidia CEO, exits board; shares plunge",
+      "link": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 13:59:02 +0000",
+      "ts": 1794491942
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Nvidia CEO Huang quits company he co-founded, led for 3 decades. Shares slump",
+      "link": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
+      "published": "Thu, 12 Nov 2026 13:57:53 +0000",
+      "ts": 1794491873
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bit Digital stock falls 5% in pre-market after Q3 revenue miss",
+      "link": "https://cointelegraph.com/news/bit-digital-stock-falls-q3-revenue-miss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 13:52:39 +0000",
+      "ts": 1794491559
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
+      "link": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 13:44:03 +0000",
+      "ts": 1794491043
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente",
+      "link": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 13:31:59 +0000",
+      "ts": 1794490319
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
+      "link": "https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 13:30:00 +0000",
+      "ts": 1794490200
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Uber’s UK banking partner Griffin raises $20M for stablecoin services",
+      "link": "https://cointelegraph.com/news/digital-bank-griffin-100m-valuation-card-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 13:21:56 +0000",
+      "ts": 1794489716
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Treasury yields hold near 2-week highs as traders await next signal",
+      "link": "https://www.investing.com/news/forex-news/eurozone-yields-hold-near-1week-highs-investors-weigh-hawkish-fed-bets-5020470",
+      "published": "2026-11-12 13:01:31",
+      "ts": 1794488491
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "AVA Foundation and Travala Unveil AVA 3.0: A Travala-First Roadmap",
+      "link": "https://www.investing.com/news/cryptocurrency-news/ava-foundation-and-travala-unveil-ava-30-a-travalafirst-roadmap-5021415",
+      "published": "2026-11-12 12:30:19",
+      "ts": 1794486619
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Falls 19% In Bearish Trade",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-19-in-bearish-trade-5021397",
+      "published": "2026-11-12 12:24:00",
+      "ts": 1794486240
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "EU DeFi proposals could push users to riskier platforms, says Coinbase exec",
+      "link": "https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 12 Nov 2026 12:21:43 +0000",
+      "ts": 1794486103
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin weakness erases September's bullish signal",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal",
+      "published": "Thu, 12 Nov 2026 12:15:00 +0000",
+      "ts": 1794485700
+    },
+    {
+      "source": "CoinDesk",
+      "title": "UK bank Griffin raises $20 million to expand into stablecoin payments",
+      "link": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
+      "published": "Thu, 12 Nov 2026 12:04:42 +0000",
+      "ts": 1794485082
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
+      "link": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
+      "published": "Thu, 12 Nov 2026 11:43:41 +0000",
+      "ts": 1794483821
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar scales 2025 peak on hawkish Fed bets; yen nears 160-level",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-holds-losses-as-dollar-hits-19mth-high-yen-nears-160-5020289",
+      "published": "2026-11-12 10:37:12",
+      "ts": 1794479832
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound dips on hawkish Fed despite 0.7% GDP growth",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-dips-on-hawkish-fed-despite-07-gdp-growth-5020808",
+      "published": "2026-11-12 10:14:10",
+      "ts": 1794478450
     },
     {
       "source": "Investing Forex",
@@ -40,66 +229,10 @@
     },
     {
       "source": "Investing Crypto",
-      "title": "Bitcoin slips to $73.6k; Strategy drops on MSCI index removal",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-736k-strategy-drops-on-msci-index-removal-5020451",
-      "published": "2026-11-12 06:41:22",
-      "ts": 1794465682
-    },
-    {
-      "source": "Investing Crypto",
       "title": "MidChains and Standard Chartered establish strategic banking partnership",
       "link": "https://www.investing.com/news/cryptocurrency-news/midchains-and-standard-chartered-establish-strategic-banking-partnership-5020443",
       "published": "2026-11-12 06:30:12",
       "ts": 1794465012
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 12 Nov 2026 06:00:00 +0000",
-      "ts": 1794463200
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
-      "link": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 12 Nov 2026 05:54:48 +0000",
-      "ts": 1794462888
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
-      "link": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
-      "published": "Thu, 12 Nov 2026 05:49:44 +0000",
-      "ts": 1794462584
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
-      "link": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
-      "published": "Thu, 12 Nov 2026 05:22:31 +0000",
-      "ts": 1794460951
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
-      "link": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
-      "published": "Thu, 12 Nov 2026 05:18:43 +0000",
-      "ts": 1794460723
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
-      "link": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 12 Nov 2026 05:07:11 +0000",
-      "ts": 1794460031
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
-      "link": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
-      "published": "Thu, 12 Nov 2026 04:41:00 GMT",
-      "ts": 1794458460
     },
     {
       "source": "Investing Forex",
@@ -109,81 +242,11 @@
       "ts": 1794457870
     },
     {
-      "source": "CoinDesk",
-      "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
-      "link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
-      "published": "Thu, 12 Nov 2026 04:03:47 +0000",
-      "ts": 1794456227
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "published": "Thu, 12 Nov 2026 03:15:00 GMT",
-      "ts": 1794453300
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-      "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-      "published": "Thu, 12 Nov 2026 03:10:00 GMT",
-      "ts": 1794453000
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
-      "published": "Thu, 12 Nov 2026 02:52:00 GMT",
-      "ts": 1794451920
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-      "published": "Thu, 12 Nov 2026 02:45:00 GMT",
-      "ts": 1794451500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
-      "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-      "published": "Thu, 12 Nov 2026 02:31:00 GMT",
-      "ts": 1794450660
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "MSCI confirms Strategy’s removal from indexes at end of November",
-      "link": "https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 12 Nov 2026 00:09:13 +0000",
-      "ts": 1794442153
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
-      "link": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
-      "published": "Wed, 11 Nov 2026 23:30:00 GMT",
-      "ts": 1794439800
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitcoin subdued, hovers under $74k as rise in Fed rate hike expectations weigh",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-below-74k-as-hot-cpi-data-spurs-rate-hike-bets-5017791",
       "published": "2026-11-11 23:24:28",
       "ts": 1794439468
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Suiet wallet to shut down in latest exit from Sui ecosystem",
-      "link": "https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 23:18:44 +0000",
-      "ts": 1794439124
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ",
-      "link": "https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 22:44:47 +0000",
-      "ts": 1794437087
     },
     {
       "source": "Investing Forex",
@@ -193,27 +256,6 @@
       "ts": 1794435774
     },
     {
-      "source": "Cointelegraph",
-      "title": "Uncalled US House races could send more crypto allies to Congress",
-      "link": "https://cointelegraph.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 22:05:17 +0000",
-      "ts": 1794434717
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Nomura explores sale of crypto unit Laser Digital: Bloomberg",
-      "link": "https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Wed, 11 Nov 2026 21:36:01 +0000",
-      "ts": 1794432961
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Fungibullx Bets Digital Art Belongs In The Auction House, Starting With Patrick Hughes",
-      "link": "https://www.investing.com/news/cryptocurrency-news/fungibullx-bets-digital-art-belongs-in-the-auction-house-starting-with-patrick-hughes-5019598",
-      "published": "2026-11-11 17:00:16",
-      "ts": 1794416416
-    },
-    {
       "source": "Investing Forex",
       "title": "A contrarian ECB rate bet targets 2.5% deposit rate through mid-March",
       "link": "https://www.investing.com/news/forex-news/a-contrarian-ecb-rate-bet-targets-25-deposit-rate-through-midmarch-93CH-5019580",
@@ -221,46 +263,11 @@
       "ts": 1794415382
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending",
-      "published": "Wed, 11 Nov 2026 16:00:45 +0000",
-      "ts": 1794412845
-    },
-    {
       "source": "Investing Crypto",
       "title": "ChangeNOW Becomes the Exclusive Bitcoin Swap Provider in CoolWallet",
       "link": "https://www.investing.com/news/cryptocurrency-news/changenow-becomes-the-exclusive-bitcoin-swap-provider-in-coolwallet-5019082",
       "published": "2026-11-11 14:00:11",
       "ts": 1794405611
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Global bonds reel as hot U.S. CPI and hawkish Fed revive 50-bp hike fears",
-      "link": "https://www.investing.com/news/forex-news/global-bonds-fall-as-hot-us-cpi-and-fed-rhetoric-stoke-fears-of-50bps-hike-5018037",
-      "published": "2026-11-11 13:34:47",
-      "ts": 1794404087
-    },
-    {
-      "source": "Investing Forex",
-      "title": "BofA: Retail yen selling rises but offset by foreign inflows",
-      "link": "https://www.investing.com/news/forex-news/bofa-retail-yen-selling-rises-but-offset-by-foreign-inflows-93CH-5018832",
-      "published": "2026-11-11 13:16:25",
-      "ts": 1794402985
-    },
-    {
-      "source": "CoinDesk",
-      "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
-      "link": "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month",
-      "published": "Wed, 11 Nov 2026 13:00:00 +0000",
-      "ts": 1794402000
-    },
-    {
-      "source": "Investing Forex",
-      "title": "INR/USD hits 6-month high on strong inflows",
-      "link": "https://www.investing.com/news/forex-news/inrusd-hits-6month-high-on-strong-inflows-93CH-5018390",
-      "published": "2026-11-11 11:25:47",
-      "ts": 1794396347
     },
     {
       "source": "Investing Crypto",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/jusd-finance-becomes-drakewell-and-introduces-spydw-a-hedged-spy-portfolio-5016289",
       "published": "2026-11-10 16:30:15",
       "ts": 1794328215
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Backed by $80 Million, Alta is Building the Infrastructure to Bring Global Banking Onchain",
-      "link": "https://www.investing.com/news/cryptocurrency-news/backed-by-80-million-alta-is-building-the-infrastructure-to-bring-global-banking-onchain-5015944",
-      "published": "2026-11-10 14:30:15",
-      "ts": 1794321015
     }
   ]
 }
