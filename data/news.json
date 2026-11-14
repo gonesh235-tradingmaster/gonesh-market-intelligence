@@ -1,21 +1,42 @@
 {
-  "updated_utc": "2026-11-14T16:00:12.472050+00:00",
+  "updated_utc": "2026-11-14T20:35:28.822502+00:00",
   "source": "RSS feeds",
   "count": 32,
   "items": [
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin falls below $68,000 as ETF outflows extend to seventh straight day",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-68000-as-anthropic-ipo-frenzy-drains-market-liquidity-5027106",
+      "published": "2026-11-14 18:52:05",
+      "ts": 1794682325
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Cardano Falls 10% In Selloff",
+      "link": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-selloff-5027456",
+      "published": "2026-11-14 18:19:55",
+      "ts": 1794680395
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+      "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+      "published": "Sat, 14 Nov 2026 16:33:29 +0000",
+      "ts": 1794674009
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+      "link": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
+      "published": "Sat, 14 Nov 2026 16:33:23 +0000",
+      "ts": 1794674003
+    },
     {
       "source": "CoinDesk",
       "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
       "link": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
       "published": "Sat, 14 Nov 2026 15:38:27 +0000",
       "ts": 1794670707
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin falls below $68,000 as ETF outflows extend to seventh straight day",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-68000-as-anthropic-ipo-frenzy-drains-market-liquidity-5027106",
-      "published": "2026-11-14 15:32:23",
-      "ts": 1794670343
     },
     {
       "source": "CoinDesk",
@@ -144,20 +165,6 @@
       "ts": 1794598207
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
-      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
-      "published": "Fri, 13 Nov 2026 18:39:58 +0000",
-      "ts": 1794595198
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
-      "link": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
-      "published": "Fri, 13 Nov 2026 17:05:43 +0000",
-      "ts": 1794589543
-    },
-    {
       "source": "Investing Forex",
       "title": "Canadian dollar holds near one-month low as U.S. producer inflation keeps Fed bets",
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-holds-near-onemonth-low-as-us-producer-inflation-keeps-fed-bets-5025909",
@@ -219,13 +226,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/binance-restores-all-63-billion-stolen-in-october-hack-5022924",
       "published": "2026-11-12 18:04:25",
       "ts": 1794506665
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "AVA Foundation and Travala Unveil AVA 3.0: A Travala-First Roadmap",
-      "link": "https://www.investing.com/news/cryptocurrency-news/ava-foundation-and-travala-unveil-ava-30-a-travalafirst-roadmap-5021415",
-      "published": "2026-11-12 12:30:19",
-      "ts": 1794486619
     }
   ]
 }
