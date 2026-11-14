@@ -1,21 +1,56 @@
 {
-  "updated_utc": "2026-11-13T22:52:37.437164+00:00",
+  "updated_utc": "2026-11-14T02:47:19.174541+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
+      "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+      "published": "Sat, 14 Nov 2026 02:42:00 GMT",
+      "ts": 1794624120
+    },
+    {
+      "source": "MarketWatch",
+      "title": "14 dividend stocks selected for long-term growth",
+      "link": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
+      "published": "Sat, 14 Nov 2026 01:58:00 GMT",
+      "ts": 1794621480
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Brazil’s Bolsonaro shrugs off fugitive label, eyes future Brazil presidential bid",
+      "link": "https://www.investing.com/news/forex-news/brazils-bolsonaro-shrugs-off-fugitive-label-eyes-future-brazil-presidential-bid-5026806",
+      "published": "2026-11-14 00:06:59",
+      "ts": 1794614819
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+      "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+      "published": "Fri, 13 Nov 2026 23:30:00 +0000",
+      "ts": 1794612600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "published": "Fri, 13 Nov 2026 23:12:00 GMT",
+      "ts": 1794611520
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin set for worst week since early June after more than 10% slide",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-below-70k-as-crypto-appetite-sours-5024070",
+      "published": "2026-11-13 23:10:07",
+      "ts": 1794611407
+    },
     {
       "source": "MarketWatch",
       "title": "4 expert tips for signing up for Medicare",
       "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
       "published": "Fri, 13 Nov 2026 22:45:00 GMT",
       "ts": 1794609900
-    },
-    {
-      "source": "MarketWatch",
-      "title": "FAA declares rare nationwide ground stop on flights, with nearly 10,000 canceled so far",
-      "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-      "published": "Fri, 13 Nov 2026 22:44:00 GMT",
-      "ts": 1794609840
     },
     {
       "source": "MarketWatch",
@@ -65,20 +100,6 @@
       "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
       "published": "Fri, 13 Nov 2026 21:32:00 GMT",
       "ts": 1794605520
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
-      "link": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
-      "published": "Fri, 13 Nov 2026 21:26:00 GMT",
-      "ts": 1794605160
-    },
-    {
-      "source": "MarketWatch",
-      "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
-      "link": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
-      "published": "Fri, 13 Nov 2026 21:10:00 GMT",
-      "ts": 1794604200
     },
     {
       "source": "Cointelegraph",
@@ -151,13 +172,6 @@
       "ts": 1794585687
     },
     {
-      "source": "Investing Crypto",
-      "title": "Bitcoin slumps to $69k, set for deep weekly loss as crypto appetite sours",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-below-70k-as-crypto-appetite-sours-5024070",
-      "published": "2026-11-13 14:59:30",
-      "ts": 1794581970
-    },
-    {
       "source": "Investing Forex",
       "title": "Canadian dollar holds near one-month low as U.S. producer inflation keeps Fed bets",
       "link": "https://www.investing.com/news/forex-news/canadian-dollar-holds-near-onemonth-low-as-us-producer-inflation-keeps-fed-bets-5025909",
@@ -221,13 +235,6 @@
       "ts": 1794560889
     },
     {
-      "source": "CoinDesk",
-      "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
-      "link": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
-      "published": "Fri, 13 Nov 2026 07:05:29 +0000",
-      "ts": 1794553529
-    },
-    {
       "source": "Investing Forex",
       "title": "Japanese yen tests 160 again, drawing intervention threats",
       "link": "https://www.investing.com/news/forex-news/japanese-yen-tests-160-again-drawing-intervention-threats-5023989",
@@ -261,13 +268,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/binance-restores-all-63-billion-stolen-in-october-hack-5022924",
       "published": "2026-11-12 18:04:25",
       "ts": 1794506665
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Is dollar finally ready to break out? BCA weighs in",
-      "link": "https://www.investing.com/news/forex-news/is-dollar-finally-ready-to-break-out-bca-weighs-in-5022178",
-      "published": "2026-11-12 14:21:37",
-      "ts": 1794493297
     },
     {
       "source": "Investing Crypto",
