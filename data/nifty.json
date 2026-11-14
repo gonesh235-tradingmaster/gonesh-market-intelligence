@@ -1,17 +1,5 @@
 {
-  "updated_utc": "2026-11-14T02:47:16.741374+00:00",
-  "source": "Yahoo Finance",
-  "source_url": "https://finance.yahoo.com/quote/%5ENSEI",
-  "data": {
-    "value": 25144.3,
-    "previous_close": 25030.35,
-    "change": 113.95,
-    "change_percent": 0.46,
-    "day_high": 25246.35,
-    "day_low": 25054.6,
-    "currency": "INR",
-    "market_state": "",
-    "mood_score": -10,
-    "mood_reason": "US markets up 2.39% • US 10Y yield rising sharply • Crude oil rising sharply"
-  }
+  "status": "DATA UNAVAILABLE",
+  "reason": "Yahoo Finance did not return NIFTY data",
+  "updated_utc": "2026-11-14T09:30:35.770470+00:00"
 }

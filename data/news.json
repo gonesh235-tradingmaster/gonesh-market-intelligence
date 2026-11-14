@@ -1,8 +1,36 @@
 {
-  "updated_utc": "2026-11-14T02:47:19.174541+00:00",
+  "updated_utc": "2026-11-14T09:30:36.694826+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+      "link": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 14 Nov 2026 08:12:30 +0000",
+      "ts": 1794643950
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
+      "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sat, 14 Nov 2026 06:33:13 +0000",
+      "ts": 1794637993
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin slides below $68,000 as Anthropic IPO frenzy drains market liquidity",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-68000-as-anthropic-ipo-frenzy-drains-market-liquidity-5027106",
+      "published": "2026-11-14 05:49:56",
+      "ts": 1794635396
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+      "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+      "published": "Sat, 14 Nov 2026 04:30:00 +0000",
+      "ts": 1794630600
+    },
     {
       "source": "MarketWatch",
       "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
@@ -158,13 +186,6 @@
       "ts": 1794589543
     },
     {
-      "source": "Cointelegraph",
-      "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
-      "link": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 16:39:11 +0000",
-      "ts": 1794587951
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
       "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
@@ -184,13 +205,6 @@
       "link": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
       "published": "Fri, 13 Nov 2026 14:02:00 +0000",
       "ts": 1794578520
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Arthur Hayes ‘flattered’ as Coinbase backs US stock perps",
-      "link": "https://cointelegraph.com/news/arthur-hayes-coinbase-us-stock-perps-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Fri, 13 Nov 2026 13:41:26 +0000",
-      "ts": 1794577286
     },
     {
       "source": "Investing Forex",
@@ -219,13 +233,6 @@
       "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
       "published": "Fri, 13 Nov 2026 11:52:25 +0000",
       "ts": 1794570745
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
-      "link": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
-      "published": "Fri, 13 Nov 2026 09:16:58 +0000",
-      "ts": 1794561418
     },
     {
       "source": "Investing Forex",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/ava-foundation-and-travala-unveil-ava-30-a-travalafirst-roadmap-5021415",
       "published": "2026-11-12 12:30:19",
       "ts": 1794486619
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "EOS Falls 19% In Bearish Trade",
-      "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-19-in-bearish-trade-5021397",
-      "published": "2026-11-12 12:24:00",
-      "ts": 1794486240
     }
   ]
 }
