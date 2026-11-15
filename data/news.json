@@ -1,14 +1,77 @@
 {
-  "updated_utc": "2026-11-14T20:35:28.822502+00:00",
+  "updated_utc": "2026-11-15T00:12:58.540083+00:00",
   "source": "RSS feeds",
-  "count": 32,
+  "count": 40,
   "items": [
     {
+      "source": "MarketWatch",
+      "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
+      "link": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
+      "published": "Sat, 14 Nov 2026 23:34:00 GMT",
+      "ts": 1794699240
+    },
+    {
       "source": "Investing Crypto",
-      "title": "Bitcoin falls below $68,000 as ETF outflows extend to seventh straight day",
+      "title": "Bitcoin falls below $64,000 as ETF outflows extend to seventh straight day",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-below-68000-as-anthropic-ipo-frenzy-drains-market-liquidity-5027106",
-      "published": "2026-11-14 18:52:05",
-      "ts": 1794682325
+      "published": "2026-11-14 22:19:32",
+      "ts": 1794694772
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "XRP Falls 10% In Rout",
+      "link": "https://www.investing.com/news/cryptocurrency-news/xrp-falls-10-in-rout-5027520",
+      "published": "2026-11-14 21:34:02",
+      "ts": 1794692042
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
+      "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+      "published": "Sat, 14 Nov 2026 21:31:00 GMT",
+      "ts": 1794691860
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+      "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+      "published": "Sat, 14 Nov 2026 21:00:00 GMT",
+      "ts": 1794690000
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Litecoin Falls 11% In Rout",
+      "link": "https://www.investing.com/news/cryptocurrency-news/litecoin-falls-11-in-rout-5027513",
+      "published": "2026-11-14 20:55:58",
+      "ts": 1794689758
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "EOS Falls 13% In Rout",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-13-in-rout-5027512",
+      "published": "2026-11-14 20:52:59",
+      "ts": 1794689579
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+      "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+      "published": "Sat, 14 Nov 2026 20:00:00 GMT",
+      "ts": 1794686400
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+      "published": "Sat, 14 Nov 2026 19:30:00 GMT",
+      "ts": 1794684600
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+      "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+      "published": "Sat, 14 Nov 2026 18:30:00 GMT",
+      "ts": 1794681000
     },
     {
       "source": "Investing Crypto",
@@ -18,8 +81,22 @@
       "ts": 1794680395
     },
     {
+      "source": "MarketWatch",
+      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+      "published": "Sat, 14 Nov 2026 18:00:00 GMT",
+      "ts": 1794679200
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+      "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+      "published": "Sat, 14 Nov 2026 17:50:00 GMT",
+      "ts": 1794678600
+    },
+    {
       "source": "CoinDesk",
-      "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+      "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
       "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
       "published": "Sat, 14 Nov 2026 16:33:29 +0000",
       "ts": 1794674009
@@ -200,32 +277,11 @@
       "ts": 1794538528
     },
     {
-      "source": "Investing Crypto",
-      "title": "BTSE Enterprise Solutions Wins Best White-Label Digital Asset Exchange Platform at Digital Banker Awards 2026",
-      "link": "https://www.investing.com/news/cryptocurrency-news/btse-enterprise-solutions-wins-best-whitelabel-digital-asset-exchange-platform-at-digital-banker-awards-2026-5023881",
-      "published": "2026-11-13 01:30:14",
-      "ts": 1794533414
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin hits over 12-week low; Strategy sinks on MSCI index removal",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-736k-strategy-drops-on-msci-index-removal-5020451",
-      "published": "2026-11-12 22:36:36",
-      "ts": 1794522996
-    },
-    {
       "source": "Investing Forex",
       "title": "Dollar scales fresh 19-month peak, yen hits 160 for first time since September",
       "link": "https://www.investing.com/news/forex-news/asia-fx-holds-losses-as-dollar-hits-19mth-high-yen-nears-160-5020289",
       "published": "2026-11-12 20:53:38",
       "ts": 1794516818
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Binance restores all $6.3 billion stolen in October hack",
-      "link": "https://www.investing.com/news/cryptocurrency-news/binance-restores-all-63-billion-stolen-in-october-hack-5022924",
-      "published": "2026-11-12 18:04:25",
-      "ts": 1794506665
     }
   ]
 }
