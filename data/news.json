@@ -1,8 +1,29 @@
 {
-  "updated_utc": "2026-11-15T23:34:17.660015+00:00",
+  "updated_utc": "2026-11-16T03:02:00.193333+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "Cointelegraph",
+      "title": "Luxor CEO warns of AI ‘dark forest’ after Bitcoin miner hijack",
+      "link": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 02:33:07 +0000",
+      "ts": 1794796387
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Yen steady against euro and dollar after soft Japanese GDP data",
+      "link": "https://www.investing.com/news/forex-news/yen-steady-against-euro-and-dollar-after-soft-japanese-gdp-data-5028268",
+      "published": "2026-11-16 01:12:19",
+      "ts": 1794791539
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
+      "link": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Sun, 15 Nov 2026 23:47:45 +0000",
+      "ts": 1794786465
+    },
     {
       "source": "MarketWatch",
       "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
@@ -19,7 +40,7 @@
     },
     {
       "source": "Cointelegraph",
-      "title": "US sellers drive Bitcoin crash, Jensen plots comeback: Hodler’s Digest",
+      "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
       "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Sun, 15 Nov 2026 22:50:59 +0000",
       "ts": 1794783059
@@ -207,20 +228,6 @@
       "ts": 1794661200
     },
     {
-      "source": "Cointelegraph",
-      "title": "Microsoft confirms global outage resolved, rules out cyberattack",
-      "link": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 14 Nov 2026 10:34:06 +0000",
-      "ts": 1794652446
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
-      "link": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Sat, 14 Nov 2026 08:12:30 +0000",
-      "ts": 1794643950
-    },
-    {
       "source": "Investing Forex",
       "title": "Brazil’s Bolsonaro shrugs off fugitive label, eyes future Brazil presidential bid",
       "link": "https://www.investing.com/news/forex-news/brazils-bolsonaro-shrugs-off-fugitive-label-eyes-future-brazil-presidential-bid-5026806",
@@ -275,13 +282,6 @@
       "link": "https://www.investing.com/news/forex-news/japanese-yen-tests-160-again-drawing-intervention-threats-5023989",
       "published": "2026-11-13 02:55:28",
       "ts": 1794538528
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar scales fresh 19-month peak, yen hits 160 for first time since September",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-holds-losses-as-dollar-hits-19mth-high-yen-nears-160-5020289",
-      "published": "2026-11-12 20:53:38",
-      "ts": 1794516818
     }
   ]
 }
