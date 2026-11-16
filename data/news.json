@@ -1,49 +1,210 @@
 {
-  "updated_utc": "2026-11-16T10:58:23.651109+00:00",
+  "updated_utc": "2026-11-16T20:51:27.672336+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
-      "source": "Cointelegraph",
-      "title": "Singapore, Germany test cross-border FX settlement with CBDCs",
-      "link": "https://cointelegraph.com/news/singapore-german-central-banks-settlement-cbdcs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 16 Nov 2026 10:49:12 +0000",
-      "ts": 1794826152
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar at 19-month peaks as Japan GDP contraction pins yen in intervention zone",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-as-dollar-holds-near-19mth-high-yen-steady-after-weak-gdp-5028358",
-      "published": "2026-11-16 10:41:15",
-      "ts": 1794825675
+      "source": "MarketWatch",
+      "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
+      "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
+      "published": "Mon, 16 Nov 2026 20:46:00 GMT",
+      "ts": 1794861960
     },
     {
       "source": "Cointelegraph",
-      "title": "BTC price tags 18-week low into Nvidia earnings: Three things to know in Bitcoin this week",
-      "link": "https://cointelegraph.com/markets/btc-price-18-week-low-nvidia-three-things-know-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 16 Nov 2026 10:39:05 +0000",
-      "ts": 1794825545
+      "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
+      "link": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 20:45:47 +0000",
+      "ts": 1794861947
     },
     {
       "source": "MarketWatch",
-      "title": "Here’s how much the stock market could crumble if AI is a bubble that bursts, according to former White House economist",
-      "link": "https://www.marketwatch.com/story/heres-how-much-the-stock-market-could-crumble-if-ai-is-a-bubble-that-bursts-according-to-former-white-house-economist-3a4c15e1?mod=mw_rss_topstories",
-      "published": "Mon, 16 Nov 2026 10:32:00 GMT",
-      "ts": 1794825120
+      "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.",
+      "link": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
+      "published": "Mon, 16 Nov 2026 20:41:00 GMT",
+      "ts": 1794861660
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
+      "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
+      "published": "Mon, 16 Nov 2026 20:35:21 +0000",
+      "ts": 1794861321
     },
     {
       "source": "MarketWatch",
-      "title": "Why Morgan Stanley says it’s time to go ‘max’ overweight on stocks",
-      "link": "https://www.marketwatch.com/story/why-morgan-stanley-says-its-time-to-go-max-overweight-on-stocks-bd33b103?mod=mw_rss_topstories",
-      "published": "Mon, 16 Nov 2026 10:20:00 GMT",
-      "ts": 1794824400
+      "title": "SpaceX is about to attempt the ‘holy grail’ of rocketry",
+      "link": "https://www.marketwatch.com/story/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-44e79dcc?mod=mw_rss_topstories",
+      "published": "Mon, 16 Nov 2026 20:24:00 GMT",
+      "ts": 1794860640
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Boris Johnson says UK must lead blockchain development despite crypto doubts",
+      "link": "https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 20:18:02 +0000",
+      "ts": 1794860282
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Jensen Huang’s fans want him back as Nvidia CEO. This is why that’s unlikely.",
+      "link": "https://www.marketwatch.com/story/jensen-huangs-fans-want-him-back-as-nvidia-ceo-this-is-why-thats-unlikely-2be28ac2?mod=mw_rss_topstories",
+      "published": "Mon, 16 Nov 2026 20:17:00 GMT",
+      "ts": 1794860220
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Rare-earth stocks sinks deeper into the red. Here’s the latest catalyst.",
+      "link": "https://www.marketwatch.com/story/rare-earth-stocks-sinks-deeper-into-the-red-heres-the-latest-catalyst-3033c8d0?mod=mw_rss_topstories",
+      "published": "Mon, 16 Nov 2026 20:07:00 GMT",
+      "ts": 1794859620
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Coinbase and Broadridge propose standard for tokenized stock disclosures",
+      "link": "https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 19:56:18 +0000",
+      "ts": 1794858978
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Bond-market volatility is exploding higher. It could be the new normal for investors.",
+      "link": "https://www.marketwatch.com/story/bond-market-volatility-is-exploding-higher-it-could-be-the-new-normal-for-investors-7c24a763?mod=mw_rss_topstories",
+      "published": "Mon, 16 Nov 2026 19:34:00 GMT",
+      "ts": 1794857640
     },
     {
       "source": "MarketWatch",
       "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
       "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-      "published": "Mon, 16 Nov 2026 10:15:00 GMT",
-      "ts": 1794824100
+      "published": "Mon, 16 Nov 2026 19:31:00 GMT",
+      "ts": 1794857460
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+      "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+      "published": "Mon, 16 Nov 2026 19:00:00 GMT",
+      "ts": 1794855600
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans",
+      "link": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
+      "published": "Mon, 16 Nov 2026 18:54:19 +0000",
+      "ts": 1794855259
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
+      "link": "https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 18:07:49 +0000",
+      "ts": 1794852469
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise",
+      "link": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 17:49:13 +0000",
+      "ts": 1794851353
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
+      "link": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
+      "published": "Mon, 16 Nov 2026 16:41:42 +0000",
+      "ts": 1794847302
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
+      "link": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 16:26:52 +0000",
+      "ts": 1794846412
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar rally gathers pace as Japan’s economic slump puts yen under pressure",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-as-dollar-holds-near-19mth-high-yen-steady-after-weak-gdp-5028358",
+      "published": "2026-11-16 16:26:24",
+      "ts": 1794846384
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "001k.bot Launches Earn for USDT, BTC, and ETH",
+      "link": "https://www.investing.com/news/cryptocurrency-news/001kbot-launches-earn-for-usdt-btc-and-eth-5030510",
+      "published": "2026-11-16 16:09:10",
+      "ts": 1794845350
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
+      "link": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
+      "published": "Mon, 16 Nov 2026 15:54:11 +0000",
+      "ts": 1794844451
+    },
+    {
+      "source": "CoinDesk",
+      "title": "German parliament proposes crypto seizures without criminal charges",
+      "link": "https://www.coindesk.com/policy/2026/11/16/german-parliament-proposes-crypto-seizures-without-criminal-charges",
+      "published": "Mon, 16 Nov 2026 15:44:59 +0000",
+      "ts": 1794843899
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
+      "link": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 14:55:46 +0000",
+      "ts": 1794840946
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin muted at $64.4k as crypto sentiment dithers, ETF outflows persist",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-65k-as-crypto-sentiment-dithers-etf-outflows-persist-5028381",
+      "published": "2026-11-16 14:30:11",
+      "ts": 1794839411
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Lighter pauses withdrawals after reported $10M account theft",
+      "link": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Mon, 16 Nov 2026 14:19:50 +0000",
+      "ts": 1794838790
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Treasury yields pause near 1-month highs as traders brace for Fed signals",
+      "link": "https://www.investing.com/news/forex-news/eurozone-yields-stall-after-volatile-week-as-traders-brace-for-ai-megatests-5028425",
+      "published": "2026-11-16 13:45:54",
+      "ts": 1794836754
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Strategy buys 485 bitcoin, sells MSTR shares for $244.7M in ATM offering",
+      "link": "https://www.investing.com/news/cryptocurrency-news/strategy-buys-485-bitcoin-sells-mstr-shares-for-2447m-in-atm-offering-432SI-5029704",
+      "published": "2026-11-16 13:07:02",
+      "ts": 1794834422
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana drops ‘beta’ label after more than six years",
+      "link": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
+      "published": "Mon, 16 Nov 2026 13:03:16 +0000",
+      "ts": 1794834196
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes",
+      "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-slide-reopens-an-old-feud-between-crypto-s-most-powerful-founders",
+      "published": "Mon, 16 Nov 2026 12:55:46 +0000",
+      "ts": 1794833746
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why.",
+      "link": "https://www.coindesk.com/daybook-us/2026/11/16/bitcoin-was-supposed-to-gain-as-ai-faltered-but-it-crashed-here-s-why",
+      "published": "Mon, 16 Nov 2026 12:09:00 +0000",
+      "ts": 1794830940
     },
     {
       "source": "Investing Forex",
@@ -51,153 +212,6 @@
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-extends-slide-as-dollar-firms-on-hawkish-fed-bets-5028808",
       "published": "2026-11-16 10:14:08",
       "ts": 1794824048
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin slides to $64.3k as crypto sentiment dithers, ETF outflows persist",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-65k-as-crypto-sentiment-dithers-etf-outflows-persist-5028381",
-      "published": "2026-11-16 10:07:35",
-      "ts": 1794823655
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Angelina Jolie reportedly buys a Connecticut mansion after selling L.A. estate",
-      "link": "https://www.marketwatch.com/story/angelina-jolie-reportedly-buys-a-connecticut-mansion-after-selling-l-a-estate-049f914b?mod=mw_rss_topstories",
-      "published": "Mon, 16 Nov 2026 10:02:00 GMT",
-      "ts": 1794823320
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Former NFL star Chris Simms sells his 300-year-old Greenwich, Conn., home for $5.5 million",
-      "link": "https://www.marketwatch.com/story/former-nfl-star-chris-simms-sells-his-300-year-old-greenwich-conn-home-for-5-5-million-0ae1fdc2?mod=mw_rss_topstories",
-      "published": "Mon, 16 Nov 2026 09:58:00 GMT",
-      "ts": 1794823080
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live news: Bitcoin posts sixth weekly loss as tech stocks and metals slide",
-      "link": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide",
-      "published": "Mon, 16 Nov 2026 09:34:18 +0000",
-      "ts": 1794821658
-    },
-    {
-      "source": "CoinDesk",
-      "title": "FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead",
-      "link": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead",
-      "published": "Mon, 16 Nov 2026 09:23:07 +0000",
-      "ts": 1794820987
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Eurozone yields stall after volatile week as traders brace for AI mega-tests",
-      "link": "https://www.investing.com/news/forex-news/eurozone-yields-stall-after-volatile-week-as-traders-brace-for-ai-megatests-5028425",
-      "published": "2026-11-16 09:02:17",
-      "ts": 1794819737
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "DBS, JPMorgan’s Kinexys launch 24/7 transfers of tokenized deposits",
-      "link": "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 16 Nov 2026 08:50:50 +0000",
-      "ts": 1794819050
-    },
-    {
-      "source": "CoinDesk",
-      "title": "JPMorgan and DBS let clients move dollars across borders on weekends",
-      "link": "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends",
-      "published": "Mon, 16 Nov 2026 08:46:00 +0000",
-      "ts": 1794818760
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
-      "link": "https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 16 Nov 2026 08:27:39 +0000",
-      "ts": 1794817659
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
-      "link": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
-      "published": "Mon, 16 Nov 2026 08:18:03 +0000",
-      "ts": 1794817083
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Why this 40-year market veteran is making a lonely bet on a 40% stock-market crash — and $500 oil",
-      "link": "https://www.marketwatch.com/story/why-this-40-year-market-veteran-is-making-a-lonely-bet-on-a-40-stock-market-crash-and-500-oil-c62aefdb?mod=mw_rss_topstories",
-      "published": "Mon, 16 Nov 2026 08:06:00 GMT",
-      "ts": 1794816360
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
-      "link": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker",
-      "published": "Mon, 16 Nov 2026 07:51:15 +0000",
-      "ts": 1794815475
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Cardano holders vote down $5 million bid to buy warehouse copper",
-      "link": "https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper",
-      "published": "Mon, 16 Nov 2026 06:27:42 +0000",
-      "ts": 1794810462
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
-      "link": "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions",
-      "published": "Mon, 16 Nov 2026 06:01:41 +0000",
-      "ts": 1794808901
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 16 Nov 2026 06:00:00 +0000",
-      "ts": 1794808800
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
-      "link": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 16 Nov 2026 05:28:40 +0000",
-      "ts": 1794806920
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
-      "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
-      "published": "Mon, 16 Nov 2026 05:01:17 +0000",
-      "ts": 1794805277
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Asian chip stocks tumble ahead of Nvidia Q3 earnings",
-      "link": "https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 16 Nov 2026 04:42:07 +0000",
-      "ts": 1794804127
-    },
-    {
-      "source": "MarketWatch",
-      "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
-      "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-      "published": "Mon, 16 Nov 2026 04:15:00 GMT",
-      "ts": 1794802500
-    },
-    {
-      "source": "MarketWatch",
-      "title": "A big chunk of your 401(k) is likely invested in Nvidia",
-      "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
-      "published": "Mon, 16 Nov 2026 03:11:00 GMT",
-      "ts": 1794798660
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack",
-      "link": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 16 Nov 2026 02:33:07 +0000",
-      "ts": 1794796387
     },
     {
       "source": "Investing Forex",
@@ -240,20 +254,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/litecoin-falls-11-in-rout-5027513",
       "published": "2026-11-14 20:55:58",
       "ts": 1794689758
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "EOS Falls 13% In Rout",
-      "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-13-in-rout-5027512",
-      "published": "2026-11-14 20:52:59",
-      "ts": 1794689579
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Cardano Falls 10% In Selloff",
-      "link": "https://www.investing.com/news/cryptocurrency-news/cardano-falls-10-in-selloff-5027456",
-      "published": "2026-11-14 18:19:55",
-      "ts": 1794680395
     },
     {
       "source": "Investing Forex",
