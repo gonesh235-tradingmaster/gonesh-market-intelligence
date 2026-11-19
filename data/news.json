@@ -1,35 +1,168 @@
 {
-  "updated_utc": "2026-11-19T17:40:58.726515+00:00",
+  "updated_utc": "2026-11-19T23:50:44.173441+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
     {
+      "source": "Cointelegraph",
+      "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
+      "link": "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 23:44:02 +0000",
+      "ts": 1795131842
+    },
+    {
       "source": "MarketWatch",
-      "title": "UnitedHealth’s stock keeps plunging after government signals crackdown on Medicare Advantage fraud",
-      "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
-      "published": "Thu, 19 Nov 2026 17:26:00 GMT",
-      "ts": 1795109160
+      "title": "These were the only stocks that rose amid the stock market’s wipeout Thursday",
+      "link": "https://www.marketwatch.com/story/these-were-the-only-stocks-that-rose-amid-the-stock-markets-wipeout-thursday-1eaf32ba?mod=mw_rss_topstories",
+      "published": "Thu, 19 Nov 2026 23:11:00 GMT",
+      "ts": 1795129860
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin dips, hovers at over four-month low amid rate hike bets, stocks rout",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-down-to-635k-amid-little-relief-from-rate-hike-jitters-5037873",
+      "published": "2026-11-19 23:08:28",
+      "ts": 1795129708
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
+      "link": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
+      "published": "Thu, 19 Nov 2026 22:53:00 GMT",
+      "ts": 1795128780
     },
     {
       "source": "MarketWatch",
       "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
       "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
-      "published": "Thu, 19 Nov 2026 17:21:00 GMT",
-      "ts": 1795108860
+      "published": "Thu, 19 Nov 2026 22:41:00 GMT",
+      "ts": 1795128060
     },
     {
-      "source": "CoinDesk",
-      "title": "Anthropic opens for trade at $111.50, up 34% from IPO price",
-      "link": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
-      "published": "Thu, 19 Nov 2026 17:01:47 +0000",
-      "ts": 1795107707
+      "source": "Cointelegraph",
+      "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
+      "link": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 22:25:18 +0000",
+      "ts": 1795127118
     },
     {
       "source": "MarketWatch",
-      "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-      "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-      "published": "Thu, 19 Nov 2026 17:00:00 GMT",
-      "ts": 1795107600
+      "title": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
+      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "published": "Thu, 19 Nov 2026 22:15:00 GMT",
+      "ts": 1795126500
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Anthropic’s stock surges in its debut — and the rest of the market dives anyway",
+      "link": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories",
+      "published": "Thu, 19 Nov 2026 22:12:00 GMT",
+      "ts": 1795126320
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Markets are sending troubling signals about the state of the economy",
+      "link": "https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories",
+      "published": "Thu, 19 Nov 2026 21:57:00 GMT",
+      "ts": 1795125420
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Nvidia’s stock falls further. It has lost $669 billion in six trading days.",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
+      "published": "Thu, 19 Nov 2026 21:45:00 GMT",
+      "ts": 1795124700
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 21:42:20 +0000",
+      "ts": 1795124540
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
+      "link": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
+      "published": "Thu, 19 Nov 2026 21:27:00 GMT",
+      "ts": 1795123620
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "MoonPay seeks US bank charter for stablecoin, custody services",
+      "link": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 21:01:42 +0000",
+      "ts": 1795122102
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar sits at over 19-month high on surge in Fed rate hike expectations",
+      "link": "https://www.investing.com/news/forex-news/dollar-hits-fresh-19mth-peak-on-hawkish-fed-aussie-slides-after-weak-jobs-data-5037703",
+      "published": "2026-11-19 20:49:01",
+      "ts": 1795121341
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
+      "link": "https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 20:33:24 +0000",
+      "ts": 1795120404
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
+      "link": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 20:06:34 +0000",
+      "ts": 1795118794
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Dinari Launches Tokenized Anthropic Shares on First Day of Nasdaq Trading",
+      "link": "https://www.investing.com/news/cryptocurrency-news/dinari-launches-tokenized-anthropic-shares-on-first-day-of-nasdaq-trading-5039835",
+      "published": "2026-11-19 19:56:08",
+      "ts": 1795118168
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+      "link": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
+      "published": "Thu, 19 Nov 2026 19:53:42 +0000",
+      "ts": 1795118022
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Offshore yuan dip looks like a liquidity blip, not a trend shift",
+      "link": "https://www.investing.com/news/forex-news/offshore-yuan-dip-looks-like-a-liquidity-blip-not-a-trend-shift-93CH-5039801",
+      "published": "2026-11-19 19:24:25",
+      "ts": 1795116265
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
+      "link": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 18:20:49 +0000",
+      "ts": 1795112449
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
+      "link": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
+      "published": "Thu, 19 Nov 2026 18:15:56 +0000",
+      "ts": 1795112156
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Why higher rates could slow Bitcoin buying at treasury firms",
+      "link": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Thu, 19 Nov 2026 18:09:32 +0000",
+      "ts": 1795111772
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Anthropic gains after IPO, but pulls off highest levels",
+      "link": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
+      "published": "Thu, 19 Nov 2026 17:01:47 +0000",
+      "ts": 1795107707
     },
     {
       "source": "Investing Crypto",
@@ -39,39 +172,11 @@
       "ts": 1795107226
     },
     {
-      "source": "MarketWatch",
-      "title": "Anthropic is coming to your 401(k). Love it or hate it, AI is becoming a bigger part of your financial plan.",
-      "link": "https://www.marketwatch.com/story/anthropic-is-coming-to-your-401-k-love-it-or-hate-it-ai-is-becoming-a-bigger-part-of-your-financial-plan-2e9ae533?mod=mw_rss_topstories",
-      "published": "Thu, 19 Nov 2026 16:53:00 GMT",
-      "ts": 1795107180
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Alibaba’s cloud business is thriving. But those profits are completely offset by losses from its AI labs.",
-      "link": "https://www.marketwatch.com/story/alibabas-cloud-business-is-thriving-but-those-profits-are-completely-offset-by-losses-from-its-ai-labs-74bf4b3c?mod=mw_rss_topstories",
-      "published": "Thu, 19 Nov 2026 16:52:00 GMT",
-      "ts": 1795107120
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Anthropic’s IPO poses this big risk to an already shaky stock market",
-      "link": "https://www.marketwatch.com/story/anthropics-ipo-poses-this-big-risk-to-an-already-shaky-stock-market-83ce7794?mod=mw_rss_topstories",
-      "published": "Thu, 19 Nov 2026 16:49:00 GMT",
-      "ts": 1795106940
-    },
-    {
       "source": "Investing Crypto",
       "title": "Bitrue Among the First CEXs to Support ANTx as Anthropic Debuts on Nasdaq",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitrue-among-the-first-cexs-to-support-antx-as-anthropic-debuts-on-nasdaq-5039570",
       "published": "2026-11-19 16:23:20",
       "ts": 1795105400
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Want to create more competition in grocery delivery? Let DoorDash and Instacart merge.",
-      "link": "https://www.marketwatch.com/story/want-to-create-more-competition-in-grocery-delivery-let-doordash-and-instacart-merge-10505ad0?mod=mw_rss_topstories",
-      "published": "Thu, 19 Nov 2026 16:21:00 GMT",
-      "ts": 1795105260
     },
     {
       "source": "Investing Forex",
@@ -81,25 +186,11 @@
       "ts": 1795105062
     },
     {
-      "source": "MarketWatch",
-      "title": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
-      "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-      "published": "Thu, 19 Nov 2026 16:15:00 GMT",
-      "ts": 1795104900
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure",
       "link": "https://www.coindesk.com/coindesk-indices/2026/11/19/crypto-for-advisors-falling-prices-drove-october-s-10-drop-in-institutional-crypto-exposure",
       "published": "Thu, 19 Nov 2026 16:09:28 +0000",
       "ts": 1795104568
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Anthropic shares open at $111.50, 34.3% above $83 IPO price",
-      "link": "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 16:07:51 +0000",
-      "ts": 1795104471
     },
     {
       "source": "Investing Forex",
@@ -124,13 +215,6 @@
     },
     {
       "source": "Investing Crypto",
-      "title": "Bitcoin pinned at $63.6k amid little relief from rate hike jitters",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-down-to-635k-amid-little-relief-from-rate-hike-jitters-5037873",
-      "published": "2026-11-19 14:58:43",
-      "ts": 1795100323
-    },
-    {
-      "source": "Investing Crypto",
       "title": "Hashi Mainnet is Live With 20-Plus Partners, Bringing Bitcoin Finance to Sui at Scale",
       "link": "https://www.investing.com/news/cryptocurrency-news/hashi-mainnet-is-live-with-20plus-partners-bringing-bitcoin-finance-to-sui-at-scale-5039228",
       "published": "2026-11-19 14:21:36",
@@ -144,32 +228,11 @@
       "ts": 1795098096
     },
     {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 13:48:14 +0000",
-      "ts": 1795096094
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Ethereum’s new DeFi security tool raises questions over censorship",
-      "link": "https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 13:30:00 +0000",
-      "ts": 1795095000
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test",
       "link": "https://www.coindesk.com/markets/2026/11/19/crypto-traders-vs-wall-street-okx-s-anthropic-markets-put-ipo-pricing-to-the-test",
       "published": "Thu, 19 Nov 2026 13:11:31 +0000",
       "ts": 1795093891
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms",
-      "link": "https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 12:44:06 +0000",
-      "ts": 1795092246
     },
     {
       "source": "CoinDesk",
@@ -179,13 +242,6 @@
       "ts": 1795092012
     },
     {
-      "source": "Cointelegraph",
-      "title": "GTA VI publisher racks up nearly 3x Nvidia’s tokenized stock volume",
-      "link": "https://cointelegraph.com/news/gta-vi-launch-tokenized-ttwo-trade-triple-nvidia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 12:33:46 +0000",
-      "ts": 1795091626
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
       "link": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
@@ -193,46 +249,11 @@
       "ts": 1795090839
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
-      "link": "https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large",
-      "published": "Thu, 19 Nov 2026 12:08:06 +0000",
-      "ts": 1795090086
-    },
-    {
       "source": "Investing Forex",
       "title": "The AI boom is keeping the dollar strong: What comes next in 2027?",
       "link": "https://www.investing.com/news/forex-news/the-ai-boom-is-keeping-the-dollar-strong-what-comes-next-in-2027-5038464",
       "published": "2026-11-19 11:33:25",
       "ts": 1795088005
-    },
-    {
-      "source": "CoinDesk",
-      "title": "North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
-      "link": "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk",
-      "published": "Thu, 19 Nov 2026 11:30:00 +0000",
-      "ts": 1795087800
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks",
-      "link": "https://cointelegraph.com/news/swedens-h100-13m-q3-loss-share-buyback-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 11:19:58 +0000",
-      "ts": 1795087198
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar idles near 19-month peak on hawkish Fed minutes",
-      "link": "https://www.investing.com/news/forex-news/dollar-hits-fresh-19mth-peak-on-hawkish-fed-aussie-slides-after-weak-jobs-data-5037703",
-      "published": "2026-11-19 10:50:36",
-      "ts": 1795085436
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
-      "link": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 10:32:05 +0000",
-      "ts": 1795084325
     },
     {
       "source": "Investing Forex",
@@ -249,13 +270,6 @@
       "ts": 1795079351
     },
     {
-      "source": "Cointelegraph",
-      "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
-      "link": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Thu, 19 Nov 2026 08:54:58 +0000",
-      "ts": 1795078498
-    },
-    {
       "source": "Investing Crypto",
       "title": "My Wallet Introduces 1:1 Cross-Chain Stablecoin Swaps After Being Listed First on WalletConnect",
       "link": "https://www.investing.com/news/cryptocurrency-news/my-wallet-introduces-11-crosschain-stablecoin-swaps-after-being-listed-first-on-walletconnect-5038054",
@@ -268,20 +282,6 @@
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-muted-below-65k-as-rate-tech-jitters-persist-fed-minutes-awaited-5034879",
       "published": "2026-11-18 22:46:53",
       "ts": 1795042013
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar pinned at 19-month high amid hawkish signals from Fed’s Waller, minutes",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-holds-near-19mth-high-on-fed-hike-bets-5034711",
-      "published": "2026-11-18 21:43:53",
-      "ts": 1795038233
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "More Than a Swap: PancakeSwap Rebrands as Pancake Ahead of Mobile App Launch",
-      "link": "https://www.investing.com/news/cryptocurrency-news/more-than-a-swap-pancakeswap-rebrands-as-pancake-ahead-of-mobile-app-launch-5035291",
-      "published": "2026-11-18 09:58:17",
-      "ts": 1794995897
     }
   ]
 }
