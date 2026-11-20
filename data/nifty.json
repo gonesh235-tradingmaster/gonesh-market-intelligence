@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-11-20T13:24:44.233546+00:00",
+  "updated_utc": "2026-11-20T21:23:56.581544+00:00",
   "source": "Yahoo Finance",
   "source_url": "https://finance.yahoo.com/quote/%5ENSEI",
   "data": {
@@ -11,7 +11,7 @@
     "day_low": 25345.2,
     "currency": "INR",
     "market_state": "",
-    "mood_score": 0,
-    "mood_reason": "NIFTY up 2.01% • US markets down 5.68% • VIX elevated (31.0)"
+    "mood_score": 1,
+    "mood_reason": "NIFTY up 2.01% • US markets down 9.31% • VIX elevated (37.0)"
   }
 }
