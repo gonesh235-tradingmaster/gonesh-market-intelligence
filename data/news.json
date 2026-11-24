@@ -1,8 +1,169 @@
 {
-  "updated_utc": "2026-11-24T00:28:12.698168+00:00",
+  "updated_utc": "2026-11-24T10:17:24.044174+00:00",
   "source": "RSS feeds",
   "count": 40,
   "items": [
+    {
+      "source": "MarketWatch",
+      "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+      "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+      "published": "Tue, 24 Nov 2026 10:15:00 GMT",
+      "ts": 1795515300
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin falls below $60,000 as rally on Jensen Huang’s Nvidia return fades",
+      "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades",
+      "published": "Tue, 24 Nov 2026 10:08:38 +0000",
+      "ts": 1795514918
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Zendaya and Tom Holland buy a home on 1 acre in London for $10 million",
+      "link": "https://www.marketwatch.com/story/zendaya-and-tom-holland-buy-a-home-on-1-acre-in-london-for-10-million-a433e7cd?mod=mw_rss_topstories",
+      "published": "Tue, 24 Nov 2026 10:01:00 GMT",
+      "ts": 1795514460
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Citi sees euro undervalued, eyes 1.11+ for renewed dollar bets",
+      "link": "https://www.investing.com/news/forex-news/citi-sees-euro-undervalued-eyes-111-for-renewed-dollar-bets-93CH-5047471",
+      "published": "2026-11-24 10:00:32",
+      "ts": 1795514432
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Here’s your chance to bid on Alex Trebek’s former $6.45 million California ranch and winery",
+      "link": "https://www.marketwatch.com/story/heres-your-chance-to-bid-on-alex-trebeks-former-6-45-million-california-ranch-and-winery-0f0cd4f5?mod=mw_rss_topstories",
+      "published": "Tue, 24 Nov 2026 09:58:00 GMT",
+      "ts": 1795514280
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The bull and bear surprises that could ambush investors next year, according to Bank of America",
+      "link": "https://www.marketwatch.com/story/the-bull-and-bear-surprises-that-could-ambush-investors-next-year-according-to-bank-of-america-1cf7dc26?mod=mw_rss_topstories",
+      "published": "Tue, 24 Nov 2026 09:58:00 GMT",
+      "ts": 1795514280
+    },
+    {
+      "source": "Investing Forex",
+      "title": "European gas bucks energy sell-off as lingering cold snap offsets crude slump",
+      "link": "https://www.investing.com/news/forex-news/european-gas-bucks-energy-selloff-as-lingering-cold-snap-offsets-crude-slump-5047347",
+      "published": "2026-11-24 09:48:07",
+      "ts": 1795513687
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Prolonged AI rout threatens USD safe-haven status, strategist warns",
+      "link": "https://www.investing.com/news/forex-news/prolonged-ai-rout-threatens-usd-safehaven-status-strategist-warns-93CH-5047441",
+      "published": "2026-11-24 09:45:36",
+      "ts": 1795513536
+    },
+    {
+      "source": "Investing Forex",
+      "title": "UBS sees USD/JPY at 158 through 2027 on rate differentials",
+      "link": "https://www.investing.com/news/forex-news/ubs-sees-usdjpy-at-158-through-2027-on-rate-differentials-93CH-5047434",
+      "published": "2026-11-24 09:44:12",
+      "ts": 1795513452
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar gains as renewed AI euphoria fuels Fed hike bets",
+      "link": "https://www.investing.com/news/forex-news/dollar-climbs-as-renewed-ai-euphoria-fuels-fed-hike-bets-5046813",
+      "published": "2026-11-24 09:36:20",
+      "ts": 1795512980
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Sterling today: Pound edges higher after dollar-led slide as rally risks overshoot",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-after-dollarled-slide-as-rally-risks-overshoot-5047426",
+      "published": "2026-11-24 09:32:14",
+      "ts": 1795512734
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s",
+      "link": "https://cointelegraph.com/markets/bitcoin-dips-60k-gold-worst-60-day-loss-1980s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 24 Nov 2026 09:25:45 +0000",
+      "ts": 1795512345
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The biggest biotech deal in nearly three years carries a hefty $41 billion price tag",
+      "link": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
+      "published": "Tue, 24 Nov 2026 09:14:00 GMT",
+      "ts": 1795511640
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Global yields fall as safe-haven bid meets looming U.S. PCE test",
+      "link": "https://www.investing.com/news/forex-news/global-yields-fall-as-safehaven-bid-meets-looming-us-pce-test-5047210",
+      "published": "2026-11-24 09:02:25",
+      "ts": 1795510945
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5%",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 24 Nov 2026 07:41:50 +0000",
+      "ts": 1795506110
+    },
+    {
+      "source": "Investing Forex",
+      "title": "Dollar holds near 20-mth high amid AI rally, Fed tightening bets",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-holds-near-20mth-high-on-ai-rally-5046950",
+      "published": "2026-11-24 06:20:11",
+      "ts": 1795501211
+    },
+    {
+      "source": "Investing Crypto",
+      "title": "Bitcoin hovers around $60k amid little relief from rate, regulatory jitters",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-hovers-around-60k-amid-little-relief-from-rate-regulatory-jitters-5047126",
+      "published": "2026-11-24 06:14:23",
+      "ts": 1795500863
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Here’s what happened in crypto today",
+      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 24 Nov 2026 06:00:00 +0000",
+      "ts": 1795500000
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Why 42 Macro says it’s waiting to buy the Bitcoin dip",
+      "link": "https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 24 Nov 2026 05:07:30 +0000",
+      "ts": 1795496850
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Google wants to make you the star of your own AI slop movies",
+      "link": "https://cointelegraph.com/news/google-wants-make-you-star-your-own-ai-slop-movies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 24 Nov 2026 03:13:22 +0000",
+      "ts": 1795490002
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+      "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+      "published": "Tue, 24 Nov 2026 01:01:00 GMT",
+      "ts": 1795482060
+    },
+    {
+      "source": "MarketWatch",
+      "title": "HPE just posted its strongest growth ever — but its stock is sinking",
+      "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+      "published": "Tue, 24 Nov 2026 01:01:00 GMT",
+      "ts": 1795482060
+    },
+    {
+      "source": "Cointelegraph",
+      "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+      "link": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "published": "Tue, 24 Nov 2026 00:36:26 +0000",
+      "ts": 1795480586
+    },
     {
       "source": "CoinDesk",
       "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
@@ -32,109 +193,11 @@
       "ts": 1795475546
     },
     {
-      "source": "Investing Forex",
-      "title": "Dollar at nearly 20-month high as AI trade reignites, boosting growth prospects",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-dollar-retreats-from-19month-high-yen-won-weaken-5044324",
-      "published": "2026-11-23 22:32:38",
-      "ts": 1795473158
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
-      "published": "Mon, 23 Nov 2026 22:04:00 GMT",
-      "ts": 1795471440
-    },
-    {
-      "source": "MarketWatch",
-      "title": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
-      "link": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
-      "published": "Mon, 23 Nov 2026 21:51:00 GMT",
-      "ts": 1795470660
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday",
-      "link": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
-      "published": "Mon, 23 Nov 2026 21:45:00 GMT",
-      "ts": 1795470300
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Here’s what happened in crypto today",
-      "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 23 Nov 2026 21:40:44 +0000",
-      "ts": 1795470044
-    },
-    {
-      "source": "MarketWatch",
-      "title": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia",
-      "link": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
-      "published": "Mon, 23 Nov 2026 21:36:00 GMT",
-      "ts": 1795469760
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Amazon may have just found a ‘cheap’ way to get a lot more out of its chips",
-      "link": "https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories",
-      "published": "Mon, 23 Nov 2026 21:33:00 GMT",
-      "ts": 1795469580
-    },
-    {
-      "source": "MarketWatch",
-      "title": "HPE just posted its strongest growth ever — but its stock is wavering",
-      "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-      "published": "Mon, 23 Nov 2026 21:28:00 GMT",
-      "ts": 1795469280
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
-      "link": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
-      "published": "Mon, 23 Nov 2026 21:24:00 GMT",
-      "ts": 1795469040
-    },
-    {
       "source": "Cointelegraph",
       "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
       "link": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "published": "Mon, 23 Nov 2026 21:04:03 +0000",
       "ts": 1795467843
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Kalshi secures temporary win in New York gambling law dispute",
-      "link": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 23 Nov 2026 20:38:43 +0000",
-      "ts": 1795466323
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
-      "link": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 23 Nov 2026 19:35:06 +0000",
-      "ts": 1795462506
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Dollar index technical outlook: rally extended but overbought signals flash caution",
-      "link": "https://www.investing.com/news/forex-news/dollar-index-technical-outlook-rally-extended-but-overbought-signals-flash-caution-93CH-5046271",
-      "published": "2026-11-23 19:26:13",
-      "ts": 1795461973
-    },
-    {
-      "source": "Investing Forex",
-      "title": "India’s rupee carry trade: RBI support holds but risks are building",
-      "link": "https://www.investing.com/news/forex-news/indias-rupee-carry-trade-rbi-support-holds-but-risks-are-building-93CH-5046267",
-      "published": "2026-11-23 19:21:57",
-      "ts": 1795461717
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Base makes quantum security a 2027 priority as regulators warn of risks",
-      "link": "https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 23 Nov 2026 19:16:46 +0000",
-      "ts": 1795461406
     },
     {
       "source": "CoinDesk",
@@ -151,39 +214,11 @@
       "ts": 1795457525
     },
     {
-      "source": "Cointelegraph",
-      "title": "Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks",
-      "link": "https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 23 Nov 2026 17:42:18 +0000",
-      "ts": 1795455738
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Barclays’ USD/SEK tactical long: still attractive after a 10-day run?",
-      "link": "https://www.investing.com/news/forex-news/barclays-usdsek-tactical-long-still-attractive-after-a-10day-run-93CH-5046175",
-      "published": "2026-11-23 17:32:13",
-      "ts": 1795455133
-    },
-    {
       "source": "CoinDesk",
       "title": "Bitcoin rebound already losing steam as AI trade returns with a bang",
       "link": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebound-already-losing-steam-as-ai-trade-returns-with-a-bank",
       "published": "Mon, 23 Nov 2026 17:31:27 +0000",
       "ts": 1795455087
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Brazilian real stays weak despite global risk rebound, fiscal worries weigh",
-      "link": "https://www.investing.com/news/forex-news/brazilian-real-stays-weak-despite-global-risk-rebound-fiscal-worries-weigh-93CH-5046167",
-      "published": "2026-11-23 17:27:02",
-      "ts": 1795454822
-    },
-    {
-      "source": "Cointelegraph",
-      "title": "Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations",
-      "link": "https://cointelegraph.com/markets/bitcoin-rebounds-lows-nvidia-rally-sparks-500m-crypto-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "published": "Mon, 23 Nov 2026 16:51:17 +0000",
-      "ts": 1795452677
     },
     {
       "source": "CoinDesk",
@@ -205,13 +240,6 @@
       "link": "https://www.coindesk.com/business/2026/11/23/eric-trump-backed-american-bitcoin-secures-usd150-million-loan-against-its-bitcoin",
       "published": "Mon, 23 Nov 2026 15:02:32 +0000",
       "ts": 1795446152
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed",
-      "link": "https://www.coindesk.com/opinion/2026/11/23/bitcoin-s-5-year-return-is-nearly-zero-great-narratives-are-fading-and-what-s-left-is-the-fed",
-      "published": "Mon, 23 Nov 2026 14:43:18 +0000",
-      "ts": 1795444998
     },
     {
       "source": "Investing Crypto",
@@ -242,20 +270,6 @@
       "ts": 1795440739
     },
     {
-      "source": "Investing Forex",
-      "title": "USD/JPY to return to the 140s in 2027: Deutsche Bank",
-      "link": "https://www.investing.com/news/forex-news/usdjpy-to-return-to-the-140s-in-2027-deutsche-bank-93CH-5045587",
-      "published": "2026-11-23 13:19:52",
-      "ts": 1795439992
-    },
-    {
-      "source": "Investing Forex",
-      "title": "Deutsche Bank raises dollar forecasts on AI boom strength",
-      "link": "https://www.investing.com/news/forex-news/deutsche-bank-raises-dollar-forecasts-on-ai-boom-strength-93CH-5045584",
-      "published": "2026-11-23 13:18:46",
-      "ts": 1795439926
-    },
-    {
       "source": "Investing Crypto",
       "title": "Strategy buys bitcoin, expands repurchase program",
       "link": "https://www.investing.com/news/cryptocurrency-news/strategy-buys-bitcoin-expands-repurchase-program-432SI-5045501",
@@ -263,25 +277,11 @@
       "ts": 1795439109
     },
     {
-      "source": "Investing Forex",
-      "title": "U.S. yields extend rally as tech wipeout collides with holiday-thinned week",
-      "link": "https://www.investing.com/news/forex-news/global-bond-yields-grip-multiweek-lows-amid-pandemicscale-tech-rout-5044403",
-      "published": "2026-11-23 13:02:08",
-      "ts": 1795438928
-    },
-    {
       "source": "Investing Crypto",
       "title": "HAN CHAIN Schedules Launch of Its First Flagship Project, ARGO, for December 18, 2026",
       "link": "https://www.investing.com/news/cryptocurrency-news/han-chain-schedules-launch-of-its-first-flagship-project-argo-for-december-18-2026-5044584",
       "published": "2026-11-23 07:59:04",
       "ts": 1795420744
-    },
-    {
-      "source": "Investing Crypto",
-      "title": "Bitcoin makes tentative rebound, rising over 1% to reclaim $60,000",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-struggles-below-60000-as-mining-profits-plunge-security-risks-grow-5043790",
-      "published": "2026-11-22 07:29:58",
-      "ts": 1795332598
     }
   ]
 }
